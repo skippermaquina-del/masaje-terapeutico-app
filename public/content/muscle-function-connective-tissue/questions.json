@@ -1,0 +1,122 @@
+[
+  {
+    "q": "The attachment point of a muscle that remains relatively fixed during contraction is the:",
+    "options": ["Insertion", "Origin", "Synergist", "Fixator"],
+    "answer": 1,
+    "explanation": "The origin is the stationary attachment point of a muscle."
+  },
+  {
+    "q": "Which muscle role produces the primary movement being performed?",
+    "options": ["Antagonist", "Synergist", "Agonist", "Fixator"],
+    "answer": 2,
+    "explanation": "The agonist (prime mover) is the main muscle producing a given movement."
+  },
+  {
+    "q": "During elbow flexion, the triceps brachii (which extends the elbow) is acting as the:",
+    "options": ["Agonist", "Antagonist", "Fixator", "Synergist"],
+    "answer": 1,
+    "explanation": "The triceps opposes elbow flexion, making it the antagonist during that movement."
+  },
+  {
+    "q": "A muscle that stabilizes a joint so another muscle can effectively pull is called a:",
+    "options": ["Synergist", "Fixator (stabilizer)", "Antagonist", "Agonist"],
+    "answer": 1,
+    "explanation": "A fixator/stabilizer prevents unwanted motion so the prime mover has a firm base."
+  },
+  {
+    "q": "Pressing your palms together without any joint movement is an example of:",
+    "options": ["Concentric contraction", "Eccentric contraction", "Isometric contraction", "Isotonic contraction"],
+    "answer": 2,
+    "explanation": "Isometric contractions generate tension without joint movement."
+  },
+  {
+    "q": "The 'lowering' phase of a bicep curl, where the muscle lengthens while still under tension, is:",
+    "options": ["Concentric contraction", "Eccentric contraction", "Isometric contraction", "Isokinetic contraction"],
+    "answer": 1,
+    "explanation": "Eccentric contraction involves the muscle lengthening while still generating tension."
+  },
+  {
+    "q": "Which receptor detects excessive or rapid stretch and triggers a protective contraction?",
+    "options": ["Golgi tendon organ", "Muscle spindle", "Pacinian corpuscle", "Meissner's corpuscle"],
+    "answer": 1,
+    "explanation": "Muscle spindles detect stretch and trigger the stretch reflex to prevent overstretching."
+  },
+  {
+    "q": "Which receptor is located near the muscle-tendon junction and responds to excessive tension by causing the muscle to relax?",
+    "options": ["Muscle spindle", "Golgi tendon organ", "Free nerve ending", "Baroreceptor"],
+    "answer": 1,
+    "explanation": "Golgi tendon organs detect high tension and trigger relaxation to protect the muscle/tendon."
+  },
+  {
+    "q": "The ability to sense your body's position in space without looking is called:",
+    "options": ["Nociception", "Proprioception", "Thermoreception", "Mechanoreception"],
+    "answer": 1,
+    "explanation": "Proprioception is the sense of body position in space."
+  },
+  {
+    "q": "Which connective tissue connects muscle to bone?",
+    "options": ["Ligament", "Tendon", "Cartilage", "Fascia"],
+    "answer": 1,
+    "explanation": "Tendons connect muscle to bone."
+  },
+  {
+    "q": "Which connective tissue connects bone to bone?",
+    "options": ["Tendon", "Ligament", "Bursa", "Fascia"],
+    "answer": 1,
+    "explanation": "Ligaments connect bone to bone, stabilizing joints."
+  },
+  {
+    "q": "Why do ligament injuries typically heal more slowly than muscle injuries?",
+    "options": ["Ligaments have excellent blood supply", "Ligaments have relatively poor blood supply", "Ligaments regenerate faster than muscle", "There is no difference in healing speed"],
+    "answer": 1,
+    "explanation": "Ligaments have a relatively poor blood supply, which slows healing."
+  },
+  {
+    "q": "Which connective tissue wraps around and connects muscles, providing support and acting as a shock absorber?",
+    "options": ["Cartilage", "Bursa", "Fascia", "Tendon"],
+    "answer": 2,
+    "explanation": "Fascia is the web-like connective tissue that wraps and supports muscles and other structures."
+  },
+  {
+    "q": "A small fluid-filled sac that reduces friction between bone and tendon near a joint is called a:",
+    "options": ["Ligament", "Bursa", "Meniscus", "Fascicle"],
+    "answer": 1,
+    "explanation": "A bursa is a fluid-filled sac cushioning friction points near joints."
+  },
+  {
+    "q": "Bending at the waist to lift a heavy object (instead of using the legs) often causes injury because:",
+    "options": ["The agonist becomes the antagonist", "A stabilizer is forced to act as a prime mover", "The synergist takes over completely", "Muscle spindles are disabled"],
+    "answer": 1,
+    "explanation": "Improper lifting mechanics force stabilizer muscles (like those in the low back) to act as prime movers, increasing injury risk."
+  },
+  {
+    "q": "Which term describes the flexible connective tissue that cushions between bones, such as at the knee?",
+    "options": ["Tendon", "Ligament", "Cartilage", "Bursa"],
+    "answer": 2,
+    "explanation": "Cartilage cushions between bones."
+  },
+  {
+    "q": "During a squat's upward phase, the quadriceps shortening while contracting is an example of:",
+    "options": ["Eccentric contraction", "Concentric contraction", "Isometric contraction", "Passive contraction"],
+    "answer": 1,
+    "explanation": "Concentric contraction is when the muscle shortens while generating force, as in the lifting phase."
+  },
+  {
+    "q": "Deep fascia is best described as:",
+    "options": ["Located just under the skin", "Surrounding individual muscles and muscle groups", "The same as a ligament", "Only present in the face"],
+    "answer": 1,
+    "explanation": "Deep fascia surrounds individual muscles and muscle groups, distinct from superficial fascia under the skin."
+  },
+  {
+    "q": "A synergist muscle typically:",
+    "options": ["Opposes the agonist's movement", "Assists the agonist by moving in the same direction", "Only stabilizes joints without moving", "Has no functional role in movement"],
+    "answer": 1,
+    "explanation": "A synergist assists the prime mover by contracting in the same direction/manner."
+  },
+  {
+    "q": "Which best explains why massage techniques like rhythmic petrissage can promote relaxation?",
+    "options": ["They eliminate all proprioceptive input", "They can influence stretch and tension receptors, contributing to a relaxation response", "They have no neurological effect", "They only affect bone tissue"],
+    "answer": 1,
+    "explanation": "Massage can interact with proprioceptive receptors like muscle spindles and Golgi tendon organs, contributing to relaxation."
+  }
+]

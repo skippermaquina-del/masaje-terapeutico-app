@@ -1,0 +1,122 @@
+[
+  {
+    "q": "Decreasing the angle of a joint is called:",
+    "options": ["Extension", "Flexion", "Abduction", "Rotation"],
+    "answer": 1,
+    "explanation": "Flexion decreases the angle of a joint."
+  },
+  {
+    "q": "Pointing the toes downward at the ankle is:",
+    "options": ["Dorsiflexion", "Plantarflexion", "Eversion", "Inversion"],
+    "answer": 1,
+    "explanation": "Plantarflexion points the foot/toes downward."
+  },
+  {
+    "q": "Moving a limb away from the midline of the body is:",
+    "options": ["Adduction", "Abduction", "Flexion", "Rotation"],
+    "answer": 1,
+    "explanation": "Abduction is movement away from the midline."
+  },
+  {
+    "q": "Which movement turns the sole of the foot outward, away from the midline?",
+    "options": ["Inversion", "Eversion", "Dorsiflexion", "Plantarflexion"],
+    "answer": 1,
+    "explanation": "Eversion turns the sole outward, away from the midline."
+  },
+  {
+    "q": "When the forearm rotates so the palm faces upward, this is:",
+    "options": ["Pronation", "Supination", "Abduction", "Circumduction"],
+    "answer": 1,
+    "explanation": "Supination turns the palm upward/forward."
+  },
+  {
+    "q": "A combined, cone-shaped motion of flexion, abduction, extension, and adduction in sequence is called:",
+    "options": ["Rotation", "Circumduction", "Protraction", "Retraction"],
+    "answer": 1,
+    "explanation": "Circumduction combines flexion, abduction, extension, and adduction into one circular motion."
+  },
+  {
+    "q": "Squeezing the shoulder blades together toward the spine is an example of scapular:",
+    "options": ["Protraction", "Retraction", "Elevation", "Depression"],
+    "answer": 1,
+    "explanation": "Retraction moves the scapula toward the spine."
+  },
+  {
+    "q": "Which joint movement allows only flexion and extension due to its hinge structure?",
+    "options": ["Shoulder", "Hip", "Elbow", "Wrist"],
+    "answer": 2,
+    "explanation": "The elbow is a hinge joint, permitting only flexion and extension."
+  },
+  {
+    "q": "Rotating the shoulder so the arm turns toward the midline of the body is:",
+    "options": ["Lateral rotation", "Medial rotation", "Abduction", "Circumduction"],
+    "answer": 1,
+    "explanation": "Medial (internal) rotation turns a limb toward the midline."
+  },
+  {
+    "q": "Raising the shoulders upward (like a shrug) is an example of:",
+    "options": ["Depression", "Elevation", "Protraction", "Retraction"],
+    "answer": 1,
+    "explanation": "Elevation raises a structure, like the shoulders or scapula."
+  },
+  {
+    "q": "Bending the neck sideways, away from the midline, is:",
+    "options": ["Rotation", "Lateral flexion", "Flexion", "Extension"],
+    "answer": 1,
+    "explanation": "Lateral flexion bends the spine or neck sideways."
+  },
+  {
+    "q": "Which plane is associated with pronation and supination?",
+    "options": ["Sagittal", "Frontal", "Transverse", "Coronal"],
+    "answer": 2,
+    "explanation": "Pronation and supination are rotational movements in the transverse plane."
+  },
+  {
+    "q": "Extension carried beyond the normal anatomical range of motion is called:",
+    "options": ["Hyperflexion", "Hyperextension", "Overextension only in sports contexts", "Circumduction"],
+    "answer": 1,
+    "explanation": "Hyperextension is extension beyond the normal range."
+  },
+  {
+    "q": "Which movement describes the scapula rotating so the glenoid cavity faces downward?",
+    "options": ["Upward rotation", "Downward rotation", "Elevation", "Retraction"],
+    "answer": 1,
+    "explanation": "Downward rotation of the scapula points the glenoid cavity downward."
+  },
+  {
+    "q": "The jaw jutting forward is best described as mandibular:",
+    "options": ["Elevation", "Depression", "Protraction", "Retraction"],
+    "answer": 2,
+    "explanation": "Protraction moves a structure like the mandible forward."
+  },
+  {
+    "q": "Which movements are available at the ankle joint?",
+    "options": ["Flexion and extension only", "Dorsiflexion, plantarflexion, inversion, and eversion", "Only rotation", "Only abduction and adduction"],
+    "answer": 1,
+    "explanation": "The ankle allows dorsiflexion, plantarflexion, inversion, and eversion."
+  },
+  {
+    "q": "Which term describes movement toward the midline at a joint like the hip or shoulder?",
+    "options": ["Abduction", "Adduction", "Rotation", "Circumduction"],
+    "answer": 1,
+    "explanation": "Adduction moves a limb toward the midline."
+  },
+  {
+    "q": "A muscle table entry says a muscle 'laterally rotates the hip.' This means the muscle:",
+    "options": ["Rotates the thigh toward the midline", "Rotates the thigh away from the midline", "Flexes the hip joint", "Abducts the hip joint"],
+    "answer": 1,
+    "explanation": "Lateral (external) rotation turns a limb away from the midline."
+  },
+  {
+    "q": "Which of these is NOT a frontal-plane movement?",
+    "options": ["Abduction", "Adduction", "Rotation", "Elevation"],
+    "answer": 2,
+    "explanation": "Rotation occurs in the transverse plane, not the frontal plane."
+  },
+  {
+    "q": "Circumduction is best associated with which type of joints?",
+    "options": ["Hinge joints only", "Ball-and-socket and condyloid joints", "Fibrous joints only", "Gliding joints only"],
+    "answer": 1,
+    "explanation": "Circumduction occurs at joints allowing multi-directional movement, like ball-and-socket and condyloid joints."
+  }
+]

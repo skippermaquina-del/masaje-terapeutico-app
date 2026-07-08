@@ -1,5 +1,25 @@
 [
   {
+    "slug": "body-movements-joint-actions",
+    "title": "Body Movements & Joint Actions",
+    "titleEs": "Movimientos Corporales y Acciones Articulares",
+    "status": "draft",
+    "date": null,
+    "questionCount": 20,
+    "hasAudio": true,
+    "hasImages": false
+  },
+  {
+    "slug": "muscle-function-connective-tissue",
+    "title": "Muscle Function & Connective Tissue",
+    "titleEs": "Función Muscular y Tejido Conectivo",
+    "status": "draft",
+    "date": null,
+    "questionCount": 20,
+    "hasAudio": true,
+    "hasImages": false
+  },
+  {
     "slug": "anatomical-position-directional-terms",
     "title": "Anatomical Position & Directional Terms",
     "titleEs": "Posición Anatómica y Términos Direccionales",
