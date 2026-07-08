@@ -1,0 +1,122 @@
+[
+  {
+    "q": "In the anatomical position, which way do the palms face?",
+    "options": ["Backward", "Forward", "Toward the body", "Downward"],
+    "answer": 1,
+    "explanation": "In the anatomical position, the palms, face, and eyes all face forward."
+  },
+  {
+    "q": "A client's forearm is positioned so the radius and ulna are crossed and the palm faces down. This forearm is:",
+    "options": ["Supinated", "Pronated", "Abducted", "Everted"],
+    "answer": 1,
+    "explanation": "Pronation crosses the radius and ulna and turns the palm downward/backward."
+  },
+  {
+    "q": "Which plane divides the body into left and right portions?",
+    "options": ["Frontal (coronal)", "Transverse", "Sagittal", "Oblique"],
+    "answer": 2,
+    "explanation": "The sagittal plane splits the body into left and right."
+  },
+  {
+    "q": "Flexion and extension occur primarily in which plane?",
+    "options": ["Frontal (coronal)", "Sagittal", "Transverse", "None of the planes"],
+    "answer": 1,
+    "explanation": "Flexion and extension are sagittal-plane movements."
+  },
+  {
+    "q": "Abduction and adduction occur primarily in which plane?",
+    "options": ["Sagittal", "Transverse", "Frontal (coronal)", "Midsagittal"],
+    "answer": 2,
+    "explanation": "Abduction and adduction occur in the frontal (coronal) plane."
+  },
+  {
+    "q": "Which plane is associated with rotational movements like trunk rotation?",
+    "options": ["Sagittal", "Frontal", "Transverse", "Coronal"],
+    "answer": 2,
+    "explanation": "Rotation occurs in the transverse (horizontal) plane."
+  },
+  {
+    "q": "The thoracic and abdominopelvic cavities are both part of the:",
+    "options": ["Dorsal cavity", "Ventral cavity", "Cranial cavity", "Spinal canal"],
+    "answer": 1,
+    "explanation": "The ventral cavity contains the thoracic and abdominopelvic cavities, separated by the diaphragm."
+  },
+  {
+    "q": "The brain and spinal cord are contained within the:",
+    "options": ["Ventral cavity", "Abdominopelvic cavity", "Dorsal cavity", "Thoracic cavity"],
+    "answer": 2,
+    "explanation": "The dorsal cavity includes the cranial cavity (brain) and spinal canal (spinal cord)."
+  },
+  {
+    "q": "The elbow is _____ to the wrist.",
+    "options": ["Distal", "Proximal", "Lateral", "Superficial"],
+    "answer": 1,
+    "explanation": "Proximal means closer to the trunk/root of the limb; the elbow is closer to the trunk than the wrist."
+  },
+  {
+    "q": "Which term describes a structure farther from the skin surface?",
+    "options": ["Superficial", "Deep", "Superior", "Distal"],
+    "answer": 1,
+    "explanation": "Deep refers to structures farther from the skin surface, closer to the core."
+  },
+  {
+    "q": "The right hand and right foot, relative to each other, are described as:",
+    "options": ["Contralateral", "Bilateral", "Ipsilateral", "Distal"],
+    "answer": 2,
+    "explanation": "Ipsilateral means on the same side of the body."
+  },
+  {
+    "q": "Which term refers to the sole of the foot?",
+    "options": ["Palmar", "Plantar", "Dorsal", "Volar"],
+    "answer": 1,
+    "explanation": "Plantar refers to the sole of the foot."
+  },
+  {
+    "q": "The sternum is _____ to the shoulder.",
+    "options": ["Lateral", "Medial", "Distal", "Superior"],
+    "answer": 1,
+    "explanation": "Medial means toward the midline; the sternum is closer to the midline than the shoulder."
+  },
+  {
+    "q": "Which structure is superior to the pelvis?",
+    "options": ["The knee", "The ankle", "The heart", "The foot"],
+    "answer": 2,
+    "explanation": "Superior means toward the head; the heart is above (superior to) the pelvis."
+  },
+  {
+    "q": "The midsagittal (median) plane specifically:",
+    "options": ["Divides the body into unequal left and right parts", "Divides the body into exactly equal left and right halves", "Divides the body into front and back", "Divides the body into top and bottom"],
+    "answer": 1,
+    "explanation": "The midsagittal plane is the specific sagittal plane that splits the body into equal left and right halves."
+  },
+  {
+    "q": "Which of the following best describes the 'flexor surface' of the arm?",
+    "options": ["The side where extension occurs", "The side where flexion occurs", "The palm only", "The lateral side of the forearm"],
+    "answer": 1,
+    "explanation": "The flexor surface is the side of a limb where flexion takes place."
+  },
+  {
+    "q": "Why do professionals always describe location using the anatomical position, even for a client lying prone?",
+    "options": ["It's tradition with no practical use", "It keeps terminology consistent regardless of the client's actual position", "It's only used in surgery", "It only applies to standing exams"],
+    "answer": 1,
+    "explanation": "Using the anatomical position as the universal reference keeps directional terms unambiguous no matter how the client is actually positioned."
+  },
+  {
+    "q": "Which cavity separation is created by the diaphragm?",
+    "options": ["Cranial vs spinal", "Thoracic vs abdominopelvic", "Sagittal vs frontal", "Proximal vs distal"],
+    "answer": 1,
+    "explanation": "The diaphragm separates the thoracic cavity above from the abdominopelvic cavity below."
+  },
+  {
+    "q": "A structure located between two other structures is described as:",
+    "options": ["Intermediate", "Contralateral", "Distal", "Superior"],
+    "answer": 0,
+    "explanation": "Intermediate describes a position between two other structures."
+  },
+  {
+    "q": "Which pair correctly matches a plane with its alternate name?",
+    "options": ["Sagittal = horizontal", "Frontal = coronal", "Transverse = sagittal", "Coronal = transverse"],
+    "answer": 1,
+    "explanation": "The frontal plane is also called the coronal plane."
+  }
+]

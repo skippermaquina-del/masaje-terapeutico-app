@@ -1,0 +1,42 @@
+[
+  {
+    "front": "Describe the anatomical position.",
+    "back": "Standing upright, feet flat and facing forward, arms at the sides, palms/face/eyes facing forward (forearms supinated)."
+  },
+  {
+    "front": "What's the difference between supinated and pronated forearms?",
+    "back": "Supinated: palm faces up, radius and ulna parallel. Pronated: palm faces down, radius and ulna crossed."
+  },
+  {
+    "front": "Which plane divides the body into left and right, and what movements occur in it?",
+    "back": "The sagittal plane; flexion, extension, dorsiflexion, and plantarflexion occur in this plane."
+  },
+  {
+    "front": "Which plane divides the body into anterior and posterior, and what movements occur in it?",
+    "back": "The frontal (coronal) plane; abduction, adduction, elevation, and depression occur in this plane."
+  },
+  {
+    "front": "Which plane divides the body into superior and inferior, and what movement occurs in it?",
+    "back": "The transverse (horizontal) plane; rotation occurs in this plane."
+  },
+  {
+    "front": "What organs are in the ventral cavity?",
+    "back": "The thoracic cavity (heart, lungs) and the abdominopelvic cavity, separated by the diaphragm."
+  },
+  {
+    "front": "What's the difference between proximal and distal?",
+    "back": "Proximal = closer to the trunk/root of a limb. Distal = farther from the trunk/root of a limb."
+  },
+  {
+    "front": "What's the difference between ipsilateral and contralateral?",
+    "back": "Ipsilateral = same side of the body. Contralateral = opposite side of the body."
+  },
+  {
+    "front": "What does 'palmar' vs. 'plantar' refer to?",
+    "back": "Palmar = palm of the hand. Plantar = sole of the foot."
+  },
+  {
+    "front": "Why do directional terms always assume the anatomical position, even if the client is lying down?",
+    "back": "So that terms stay consistent and unambiguous no matter how the client is actually positioned on the table."
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "q": "Which technique involves lifting, squeezing, and rolling soft tissue like kneading dough?",
+    "options": ["Effleurage", "Petrissage", "Tapotement", "Vibration"],
+    "answer": 1,
+    "explanation": "Petrissage is the kneading technique involving lifting, squeezing, and rolling tissue."
+  },
+  {
+    "q": "Which technique is most likely to be used at the END of an invigorating sports massage routine?",
+    "options": ["Vibration", "Tapotement", "Myofascial spreading", "Joint mobilization"],
+    "answer": 1,
+    "explanation": "Tapotement's stimulating, energizing effect makes it well suited to finish an invigorating routine."
+  },
+  {
+    "q": "A therapist applies fine, rapid shaking movements to help sedate an anxious client's nervous system. This is:",
+    "options": ["Tapotement", "Vibration", "Compression", "Skin rolling"],
+    "answer": 1,
+    "explanation": "Vibration produces a sedating, calming effect on the nervous system."
+  },
+  {
+    "q": "Friction technique is best applied:",
+    "options": ["On cold, unwarmed tissue at the very start of a session", "On tissue that has already been warmed up, mid-to-late session", "Only during the cool-down", "Exclusively over bony prominences"],
+    "answer": 1,
+    "explanation": "Friction works best on tissue that's already warmed, typically mid-to-late in the session."
+  },
+  {
+    "q": "Which technique presses rhythmically into tissue without gliding, often using a flat hand or forearm?",
+    "options": ["Compression", "Skin rolling", "Effleurage", "Stretching"],
+    "answer": 0,
+    "explanation": "Compression is rhythmic pressing into tissue without a gliding motion."
+  },
+  {
+    "q": "A client with severe osteoporosis is scheduled for a session. Which technique should be used with the most caution or avoided?",
+    "options": ["Light effleurage", "Rocking/rhythmic mobilization at standard intensity", "Gentle vibration", "Superficial stroking"],
+    "answer": 1,
+    "explanation": "Rocking is contraindicated or requires caution with severe osteoporosis due to fracture risk."
+  },
+  {
+    "q": "Skin rolling should generally be avoided on a scar that is:",
+    "options": ["Over 6 months old", "Under about 6 weeks old", "On the forearm", "Fully healed with no sensitivity"],
+    "answer": 1,
+    "explanation": "Recent scars (under roughly 6 weeks old) are a contraindication for skin rolling due to fragile healing tissue."
+  },
+  {
+    "q": "Myofascial spreading typically uses:",
+    "options": ["Heavy oil for maximum glide", "Little or no lubricant so the hands can grip the tissue", "Ice to numb the area first", "Only percussive movements"],
+    "answer": 1,
+    "explanation": "Myofascial techniques rely on tissue grip, so little or no lubricant is used."
+  },
+  {
+    "q": "Deep tissue stripping is best described as:",
+    "options": ["A rapid tapping motion", "A slow, deep glide along the length of a muscle", "A quick vibration technique", "A light superficial stroke"],
+    "answer": 1,
+    "explanation": "Deep tissue stripping is a slow, deep glide along a muscle's length."
+  },
+  {
+    "q": "Static pressure (ischemic compression) on a trigger point is typically followed by:",
+    "options": ["Tapotement", "A stretch of the muscle", "Cold application only", "Immediate termination of the session"],
+    "answer": 1,
+    "explanation": "Static/ischemic pressure on a trigger point is usually followed by stretching the muscle."
+  },
+  {
+    "q": "Which technique is contraindicated over the kidneys and bony prominences?",
+    "options": ["Tapotement", "Vibration", "Skin rolling", "Joint mobilization"],
+    "answer": 0,
+    "explanation": "Tapotement (percussion) should avoid the kidneys and bony prominences due to the force involved."
+  },
+  {
+    "q": "A client has vertigo. Which technique is most likely contraindicated?",
+    "options": ["Effleurage", "Rocking/rhythmic mobilization", "Static pressure on the forearm", "Gentle stretching of the calf"],
+    "answer": 1,
+    "explanation": "Rocking can worsen symptoms in clients with vertigo and is generally contraindicated."
+  },
+  {
+    "q": "Which of the following best describes the general purpose of joint mobilization/passive range of motion?",
+    "options": ["To energize the nervous system", "To lubricate the joint and reduce stiffness", "To break up scar tissue only", "To stimulate lymphatic drainage exclusively"],
+    "answer": 1,
+    "explanation": "Passive ROM/joint mobilization lubricates the joint, increases range of motion, and reduces stiffness."
+  },
+  {
+    "q": "A client recently had surgery. Which of the following techniques carries the most caution due to this?",
+    "options": ["Light effleurage away from the surgical site", "Joint mobilization near the surgical area", "Superficial stroking on an unrelated limb", "Gentle vibration on the scalp"],
+    "answer": 1,
+    "explanation": "Recent surgery is a contraindication for joint mobilization near the surgical area due to healing tissue."
+  },
+  {
+    "q": "Which technique is most associated with breaking up adhesions and realigning collagen fibers during tissue healing?",
+    "options": ["Tapotement", "Friction", "Vibration", "Rocking"],
+    "answer": 1,
+    "explanation": "Friction (circular/cross-fiber) is specifically used to break adhesions and help realign collagen during healing."
+  },
+  {
+    "q": "Compression is contraindicated in a client with which condition?",
+    "options": ["Mild muscle soreness", "Deep vein thrombosis (clot risk)", "Tight hamstrings", "General fatigue"],
+    "answer": 1,
+    "explanation": "Compression is contraindicated with clot risk (DVT) because pressure could dislodge a clot."
+  },
+  {
+    "q": "Which four contraindication categories repeat across nearly all massage techniques?",
+    "options": ["Age, gender, height, weight", "Acute inflammation/injury, clot risk, fragile bone/skin, uncontrolled cardiovascular conditions", "Time of day, room temperature, oil type, session length", "Client mood, income, occupation, hobbies"],
+    "answer": 1,
+    "explanation": "These four categories are the recurring red flags across almost every massage technique's contraindications."
+  },
+  {
+    "q": "Active-assisted stretching differs from passive stretching in that:",
+    "options": ["The therapist does all the work in active-assisted stretching", "The client participates actively in active-assisted stretching", "Passive stretching requires more client effort", "There is no real difference"],
+    "answer": 1,
+    "explanation": "In active-assisted stretching, the client actively participates, unlike passive stretching where the therapist does the work."
+  },
+  {
+    "q": "A client has severe edema in the lower leg. Which technique should generally be avoided there?",
+    "options": ["Compression", "Light superficial effleurage", "Gentle vibration elsewhere on the body", "Conversation during the session"],
+    "answer": 0,
+    "explanation": "Compression is contraindicated with severe edema, as it can be uncomfortable or problematic for already swollen tissue."
+  },
+  {
+    "q": "Which technique best fits early in a session, before deeper work, especially in sports or Thai massage styles?",
+    "options": ["Deep tissue stripping", "Compression", "Static pressure on trigger points", "Skin rolling on fragile skin"],
+    "answer": 1,
+    "explanation": "Compression is commonly used early-to-mid session, and is characteristic of sports and Thai massage styles."
+  }
+]

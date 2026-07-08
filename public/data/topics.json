@@ -1,5 +1,25 @@
 [
   {
+    "slug": "anatomical-position-directional-terms",
+    "title": "Anatomical Position & Directional Terms",
+    "titleEs": "Posición Anatómica y Términos Direccionales",
+    "status": "draft",
+    "date": null,
+    "questionCount": 20,
+    "hasAudio": true,
+    "hasImages": false
+  },
+  {
+    "slug": "massage-techniques-overview",
+    "title": "Massage Techniques (Beyond Effleurage)",
+    "titleEs": "Técnicas de Masaje (más allá del Effleurage)",
+    "status": "draft",
+    "date": null,
+    "questionCount": 20,
+    "hasAudio": true,
+    "hasImages": false
+  },
+  {
     "slug": "ethics-boundaries-consent",
     "title": "Professional Ethics, Boundaries & Consent",
     "titleEs": "Ética Profesional, Límites y Consentimiento",
