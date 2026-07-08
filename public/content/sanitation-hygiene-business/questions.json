@@ -1,0 +1,122 @@
+[
+  {
+    "q": "Which is considered the single most effective infection-control measure?",
+    "options": ["Wearing gloves at all times", "Handwashing before and after every session", "Using scented lotion", "Opening windows for ventilation"],
+    "answer": 1,
+    "explanation": "Handwashing is the single most effective measure for infection control."
+  },
+  {
+    "q": "Universal precautions mean treating all bodily fluids as:",
+    "options": ["Safe unless the client discloses an infection", "Potentially infectious, regardless of known health status", "Only a concern for visibly ill clients", "Irrelevant to massage practice"],
+    "answer": 1,
+    "explanation": "Universal precautions assume all bodily fluids could be infectious, protecting against undisclosed or unknown conditions."
+  },
+  {
+    "q": "How should linens be handled between clients?",
+    "options": ["Reused if they appear clean", "Laundered fresh for every single client/session", "Only changed once per day", "Only changed if visibly soiled"],
+    "answer": 1,
+    "explanation": "Linens must be freshly laundered for every client, with no exceptions."
+  },
+  {
+    "q": "Heat application generally causes which vascular effect?",
+    "options": ["Vasoconstriction", "Vasodilation", "No vascular effect", "Immediate clotting"],
+    "answer": 1,
+    "explanation": "Heat causes vasodilation, widening blood vessels and increasing local blood flow."
+  },
+  {
+    "q": "Cold application is most appropriate for:",
+    "options": ["Chronic, non-inflamed tissue", "Acute, inflamed injury", "General relaxation only", "Muscle building"],
+    "answer": 1,
+    "explanation": "Cold causes vasoconstriction, useful for reducing acute inflammation and swelling."
+  },
+  {
+    "q": "A client has an acute ankle sprain with visible swelling. Which is appropriate?",
+    "options": ["Apply heat to increase blood flow", "Apply cold and avoid aggravating the area", "Use deep tissue stripping directly on the swelling", "No modification needed"],
+    "answer": 1,
+    "explanation": "Acute inflammation calls for cold, not heat, per standard hydrotherapy guidance."
+  },
+  {
+    "q": "Which of the following is NOT a typical effect of heat application?",
+    "options": ["Increased blood flow", "Increased pulse rate", "Decreased metabolic rate", "Dilation of peripheral blood vessels"],
+    "answer": 2,
+    "explanation": "Heat typically increases metabolic activity locally, not decreases it — this is the exception among the listed effects."
+  },
+  {
+    "q": "Gloves should be used by a massage therapist primarily when:",
+    "options": ["The client requests it for comfort", "There's risk of contact with broken skin, lesions, or bodily fluids", "Performing any session, without exception", "Only during hydrotherapy"],
+    "answer": 1,
+    "explanation": "Gloves are indicated when there's a risk of contact with broken skin, lesions, or bodily fluids."
+  },
+  {
+    "q": "Failing to disinfect the table and face cradle between clients is best described as:",
+    "options": ["A minor cosmetic issue", "A sanitation violation with infection risk, regardless of appearance", "Acceptable if the linens were changed", "Only a concern in group settings"],
+    "answer": 1,
+    "explanation": "Equipment must be disinfected between every client, regardless of how clean it appears."
+  },
+  {
+    "q": "Which best describes ethical advertising for a massage practice?",
+    "options": ["Claiming massage can cure chronic diseases", "Making honest claims that don't promise outcomes massage can't reliably deliver", "Exaggerating results to attract clients", "Advertising is not regulated at all"],
+    "answer": 1,
+    "explanation": "Ethical advertising avoids false or exaggerated claims, especially medical 'cure' claims."
+  },
+  {
+    "q": "Client record retention should follow:",
+    "options": ["The therapist's personal preference only", "Applicable local/state regulation, with secure and confidential storage", "No specific rules, records can be discarded anytime", "Client requests only"],
+    "answer": 1,
+    "explanation": "Record retention is governed by regulation and must be handled securely and confidentially."
+  },
+  {
+    "q": "Which of these is part of good risk management in a massage business?",
+    "options": ["Skipping documentation to save time", "Maintaining liability insurance and clear consent processes", "Avoiding intake forms", "Ignoring state regulations"],
+    "answer": 1,
+    "explanation": "Liability insurance, documentation, and consent processes all reduce professional risk."
+  },
+  {
+    "q": "Why does therapist self-care and body mechanics matter for licensing exams?",
+    "options": ["It's irrelevant to professional practice", "Poor self-care leads to therapist injury and shortens career longevity", "It only matters for clients, not therapists", "Self-care is only a personal, not professional, concern"],
+    "answer": 1,
+    "explanation": "Proper body mechanics and self-care protect a therapist's ability to work safely over a full career."
+  },
+  {
+    "q": "Cross-contamination prevention primarily involves:",
+    "options": ["Ignoring hygiene between different clients", "Avoiding the spread of pathogens between clients through proper sanitation practices", "Only relevant in hospital settings", "Reusing tools if wiped with a dry cloth"],
+    "answer": 1,
+    "explanation": "Cross-contamination prevention focuses on stopping pathogen spread between clients."
+  },
+  {
+    "q": "A therapist notices they've run out of clean face cradle covers mid-day. The correct action is to:",
+    "options": ["Reuse the previous one since it looks clean", "Obtain a clean cover before continuing, even if it delays the session", "Skip the face cradle for that session", "Use a paper towel as a substitute without disinfecting"],
+    "answer": 1,
+    "explanation": "Proper sanitation requires a clean cover for every client — appearance alone doesn't confirm cleanliness."
+  },
+  {
+    "q": "Disinfection primarily refers to:",
+    "options": ["Washing hands only", "Using chemical agents to kill pathogens on surfaces/equipment", "A type of massage technique", "A category of massage oil"],
+    "answer": 1,
+    "explanation": "Disinfection uses chemical agents to eliminate pathogens from surfaces and equipment."
+  },
+  {
+    "q": "Which scenario best reflects proper universal precautions?",
+    "options": ["Assuming a regular client poses no infection risk since they seem healthy", "Treating all clients' bodily fluids as potentially infectious, regardless of appearance or history", "Only using precautions with new clients", "Skipping precautions if time is limited"],
+    "answer": 1,
+    "explanation": "Universal precautions apply consistently to all clients, not selectively based on appearance or familiarity."
+  },
+  {
+    "q": "Why might heat be inappropriate for a fresh, acutely inflamed injury?",
+    "options": ["Heat has no effect on inflammation", "Heat could worsen swelling by increasing blood flow to the area", "Heat is always safe regardless of injury stage", "Heat only affects bone tissue"],
+    "answer": 1,
+    "explanation": "Applying heat to acute inflammation can increase blood flow and worsen swelling."
+  },
+  {
+    "q": "Accurate documentation supports business practice primarily by:",
+    "options": ["Having no practical value beyond record-keeping", "Serving as both a clinical tool and a legal safeguard", "Being required only for tax purposes", "Replacing the need for client communication"],
+    "answer": 1,
+    "explanation": "Documentation serves dual purposes: clinical continuity of care and legal protection."
+  },
+  {
+    "q": "A massage business advertises that its treatments 'cure chronic back disease.' This is a violation of:",
+    "options": ["No rule — advertising is unregulated", "Ethical advertising standards, since it's an unsupported medical claim", "Only a minor issue with no real concern", "Scope of practice, but not advertising ethics"],
+    "answer": 1,
+    "explanation": "Making false or exaggerated medical claims violates ethical advertising standards and can also cross into scope-of-practice issues."
+  }
+]

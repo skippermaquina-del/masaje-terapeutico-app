@@ -1,5 +1,15 @@
 [
   {
+    "slug": "sanitation-hygiene-business",
+    "title": "Sanitation, Hygiene, Hydrotherapy & Business Practice",
+    "titleEs": "Saneamiento, Higiene, Hidroterapia y Práctica Profesional",
+    "status": "draft",
+    "date": null,
+    "questionCount": 20,
+    "hasAudio": true,
+    "hasImages": false
+  },
+  {
     "slug": "nutrition-basics",
     "title": "Nutrition Basics",
     "titleEs": "Nutrición Básica",
