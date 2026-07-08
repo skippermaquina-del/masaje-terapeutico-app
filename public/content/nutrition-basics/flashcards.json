@@ -1,0 +1,42 @@
+[
+  {
+    "front": "What are the six basic nutrients?",
+    "back": "Water, protein, carbohydrates, fats, vitamins, and minerals."
+  },
+  {
+    "front": "Does protein build muscle by itself?",
+    "back": "No — protein repairs and rebuilds tissue, but exercise (mechanical stress) is what actually builds muscle."
+  },
+  {
+    "front": "What's the difference between high-glycemic and low/mid-glycemic foods, and when is each best?",
+    "back": "High-glycemic raises blood sugar quickly (best after exercise, to replenish fuel). Low/mid-glycemic raises it slowly (best before a long bout of exercise)."
+  },
+  {
+    "front": "What's the difference between saturated and unsaturated fats?",
+    "back": "Saturated: solid at room temperature, less healthy, keep to ~10% of diet. Unsaturated: liquid (oils), healthier, up to ~20% of diet."
+  },
+  {
+    "front": "What's the difference between HDL and LDL cholesterol?",
+    "back": "HDL = 'good'/'happy' cholesterol. LDL = 'bad'/'lousy' cholesterol."
+  },
+  {
+    "front": "What's the difference between water-soluble and fat-soluble vitamins in terms of overdose risk?",
+    "back": "Water-soluble (B, C): excess is excreted in urine, harder to overdose. Fat-soluble (A, D, E, K): excess is stored in fat and can build to toxic levels."
+  },
+  {
+    "front": "Which two minerals are highlighted as especially relevant to women's health at different life stages?",
+    "back": "Iron (menstrual years) and calcium (bone-growing years and postmenopause)."
+  },
+  {
+    "front": "How many calories does one gram of protein/carbohydrate provide vs. one gram of fat?",
+    "back": "Protein/carbohydrate: about 4 calories/gram. Fat: about 9 calories/gram."
+  },
+  {
+    "front": "What's the correct professional response if a client asks how much of an herbal supplement to take?",
+    "back": "This is outside scope of practice — refer them to a physician or qualified provider rather than recommending a dosage."
+  },
+  {
+    "front": "Roughly what percentage of the diet should come from carbohydrates?",
+    "back": "About 55–60% (some modern guidelines widen this to roughly 45–65%)."
+  }
+]

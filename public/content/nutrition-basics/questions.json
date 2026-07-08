@@ -1,0 +1,122 @@
+[
+  {
+    "q": "Which of the following is NOT one of the six basic nutrients?",
+    "options": ["Water", "Protein", "Fiber", "Minerals"],
+    "answer": 2,
+    "explanation": "The six basic nutrients are water, protein, carbohydrates, fats, vitamins, and minerals — fiber isn't counted as a separate basic nutrient category."
+  },
+  {
+    "q": "What actually builds muscle, according to standard nutrition guidance?",
+    "options": ["Protein alone", "Exercise (mechanical stress), with protein supplying repair material", "Carbohydrates alone", "Water intake"],
+    "answer": 1,
+    "explanation": "Protein repairs and rebuilds tissue, but exercise is what actually builds muscle."
+  },
+  {
+    "q": "Roughly what percentage of total diet should come from carbohydrates?",
+    "options": ["10-20%", "30-40%", "55-60%", "80-90%"],
+    "answer": 2,
+    "explanation": "Carbohydrates should make up roughly 55-60% of total diet in traditional guidance."
+  },
+  {
+    "q": "High-glycemic foods are best consumed:",
+    "options": ["Right before a long bout of exercise", "After exercise, to replenish fuel", "Only at bedtime", "They should always be avoided"],
+    "answer": 1,
+    "explanation": "High-glycemic foods raise blood sugar quickly, making them useful after exercise to replace burned fuel."
+  },
+  {
+    "q": "Which fat category is generally considered less healthy and solid at room temperature?",
+    "options": ["Unsaturated fats", "Saturated fats", "Omega-3 fats", "HDL"],
+    "answer": 1,
+    "explanation": "Saturated fats are solid at room temperature and considered the less healthy fat category."
+  },
+  {
+    "q": "Which type of cholesterol is often called the 'good' cholesterol?",
+    "options": ["LDL", "HDL", "VLDL", "Triglycerides"],
+    "answer": 1,
+    "explanation": "HDL (high-density lipoprotein) is considered the 'good' cholesterol."
+  },
+  {
+    "q": "Which vitamins are water-soluble, meaning excess is excreted in urine?",
+    "options": ["A and D", "E and K", "B and C", "All vitamins are water-soluble"],
+    "answer": 2,
+    "explanation": "Vitamins B and C are water-soluble and excreted when taken in excess."
+  },
+  {
+    "q": "Which vitamins are fat-soluble and can build up to toxic levels if overconsumed?",
+    "options": ["B and C", "A, D, E, and K", "Only vitamin C", "None — no vitamins are toxic"],
+    "answer": 1,
+    "explanation": "Fat-soluble vitamins A, D, E, and K are stored in body fat and can accumulate to toxic levels."
+  },
+  {
+    "q": "Which mineral is especially relevant during a woman's menstrual years?",
+    "options": ["Calcium", "Iron", "Zinc", "Potassium"],
+    "answer": 1,
+    "explanation": "Iron is particularly important during the menstrual years due to blood loss."
+  },
+  {
+    "q": "Which mineral is especially important during peak bone-growing years and after menopause?",
+    "options": ["Iron", "Calcium", "Sodium", "Magnesium"],
+    "answer": 1,
+    "explanation": "Calcium is important for bone health, especially during growth years and postmenopause."
+  },
+  {
+    "q": "One gram of fat provides approximately how many calories, compared to one gram of protein?",
+    "options": ["The same amount", "About half as many", "About twice as many (9 vs 4)", "About four times as many"],
+    "answer": 2,
+    "explanation": "Fat provides about 9 calories per gram, versus about 4 for protein or carbohydrate — roughly double."
+  },
+  {
+    "q": "A client asks the therapist how much of a specific herbal supplement they should take. The appropriate response is to:",
+    "options": ["Suggest a dosage based on general knowledge", "Explain this is outside scope of practice and refer to a qualified provider", "Tell them to ask a friend who takes it", "Recommend doubling the dose if it isn't working"],
+    "answer": 1,
+    "explanation": "Specific supplement dosing advice is outside a massage therapist's scope of practice."
+  },
+  {
+    "q": "Complex carbohydrates, like whole grains and pasta, are generally considered:",
+    "options": ["Harmful and to be avoided entirely", "Beneficial, providing more sustained energy than simple sugars", "Equivalent to fats nutritionally", "Only relevant to athletes"],
+    "answer": 1,
+    "explanation": "Complex carbohydrates provide more sustained, beneficial energy compared to simple refined sugars."
+  },
+  {
+    "q": "Water is important because it's involved in:",
+    "options": ["No significant chemical processes", "Essentially all chemical processes in the body, including energy production", "Only digestion", "Only temperature regulation"],
+    "answer": 1,
+    "explanation": "Water plays a role in nearly all of the body's chemical processes, and dehydration causes fatigue."
+  },
+  {
+    "q": "For a client with congestive heart failure, water intake guidance should come from:",
+    "options": ["The massage therapist's general recommendation", "The client's physician", "A generic online calculator only", "No guidance is needed for this condition"],
+    "answer": 1,
+    "explanation": "Certain medical conditions like heart failure require physician-guided fluid intake, overriding general guidelines."
+  },
+  {
+    "q": "Which best describes the massage therapist's appropriate role regarding nutrition?",
+    "options": ["Creating personalized meal plans for clients", "Providing basic nutrition information and referring specific needs to qualified professionals", "Prescribing supplements based on symptoms", "Diagnosing nutritional deficiencies"],
+    "answer": 1,
+    "explanation": "Massage therapists provide only general nutrition information and refer specific dietary needs elsewhere."
+  },
+  {
+    "q": "Simple carbohydrates (refined sugars) should generally be:",
+    "options": ["The majority of dietary intake", "Limited in the diet", "Completely eliminated with no exceptions", "Increased for better energy"],
+    "answer": 1,
+    "explanation": "Simple carbohydrates should be limited, in favor of complex carbohydrates for sustained energy."
+  },
+  {
+    "q": "Fats should generally make up no more than about what percentage of total diet?",
+    "options": ["10%", "30%", "50%", "70%"],
+    "answer": 1,
+    "explanation": "Fats should make up no more than roughly 30% of total diet."
+  },
+  {
+    "q": "Minerals are needed in what general quantity compared to other nutrients?",
+    "options": ["Large amounts, similar to carbohydrates", "Trace (small) amounts", "No minerals are actually required", "Only during illness"],
+    "answer": 1,
+    "explanation": "Minerals are generally needed only in small, trace amounts."
+  },
+  {
+    "q": "Which statement best reflects appropriate guidance when a supplement 'isn't working quickly' for a client?",
+    "options": ["Advise them to increase the dose immediately", "Advise them to consult a physician rather than self-adjusting the dose", "Tell them to stop and try a different unregulated product", "Ignore the concern entirely"],
+    "answer": 1,
+    "explanation": "Adjusting supplement dosages is a decision for a qualified provider, not something to self-manage or for a massage therapist to direct."
+  }
+]

@@ -1,5 +1,25 @@
 [
   {
+    "slug": "nutrition-basics",
+    "title": "Nutrition Basics",
+    "titleEs": "Nutrición Básica",
+    "status": "draft",
+    "date": null,
+    "questionCount": 20,
+    "hasAudio": true,
+    "hasImages": false
+  },
+  {
+    "slug": "assessment-documentation",
+    "title": "Client Assessment & Documentation",
+    "titleEs": "Evaluación del Cliente y Documentación",
+    "status": "draft",
+    "date": null,
+    "questionCount": 20,
+    "hasAudio": true,
+    "hasImages": false
+  },
+  {
     "slug": "circulation-lymphatic-system",
     "title": "Circulation & the Lymphatic System",
     "titleEs": "Circulación y Sistema Linfático",

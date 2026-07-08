@@ -1,0 +1,122 @@
+[
+  {
+    "q": "Client assessment should be understood as:",
+    "options": ["A one-time event during intake only", "An ongoing process throughout the session", "Something only physicians perform", "Optional if the client seems fine"],
+    "answer": 1,
+    "explanation": "Assessment continues throughout the session, not just at intake."
+  },
+  {
+    "q": "A client says their shoulder pain is a 6 out of 10 and worse in the morning. This is an example of:",
+    "options": ["Objective data", "Subjective data", "A red flag", "A treatment plan"],
+    "answer": 1,
+    "explanation": "This is the client's own report — subjective data."
+  },
+  {
+    "q": "The therapist observes visible swelling and reduced range of motion in a client's shoulder. This is an example of:",
+    "options": ["Subjective data", "Objective data", "A treatment plan", "A SOAP assessment only"],
+    "answer": 1,
+    "explanation": "Directly observed/measured findings are objective data."
+  },
+  {
+    "q": "The primary purpose of intake is to determine:",
+    "options": ["A medical diagnosis for the client", "Whether massage is appropriate and how it should be modified", "The exact cause of all symptoms", "Insurance billing codes"],
+    "answer": 1,
+    "explanation": "Intake determines appropriateness and modification of massage, not diagnosis."
+  },
+  {
+    "q": "Involuntary muscle tensing in response to pain or perceived threat is called:",
+    "options": ["Hypertonicity", "Guarding", "Edema", "Asymmetry"],
+    "answer": 1,
+    "explanation": "Guarding is the involuntary protective tensing response."
+  },
+  {
+    "q": "Palpation findings are best used to:",
+    "options": ["Confirm a medical diagnosis", "Guide pressure, technique, and pacing decisions", "Replace the need for client communication", "Determine billing codes only"],
+    "answer": 1,
+    "explanation": "Palpation informs clinical decisions about technique but never justifies diagnosis."
+  },
+  {
+    "q": "If a client reports sharp pain during a technique, the therapist should:",
+    "options": ["Continue at the same pressure to work through it", "Reduce pressure and reassess", "End the session immediately with no explanation", "Ignore it if it seems minor"],
+    "answer": 1,
+    "explanation": "Reported discomfort requires adjusting pressure/technique and reassessing, not pushing through."
+  },
+  {
+    "q": "In SOAP notes, which section contains what the client reports in their own words?",
+    "options": ["Objective", "Assessment", "Subjective", "Plan"],
+    "answer": 2,
+    "explanation": "The Subjective section captures the client's own reported experience."
+  },
+  {
+    "q": "In SOAP notes, which section outlines what will be done in this or future sessions?",
+    "options": ["Subjective", "Objective", "Assessment", "Plan"],
+    "answer": 3,
+    "explanation": "The Plan section describes the intended course of treatment."
+  },
+  {
+    "q": "Which of the following is an appropriate entry in the 'Assessment' section of SOAP notes?",
+    "options": ["'Client has a herniated disc'", "'Tissue appears hypertonic in the upper trapezius'", "'Client is probably exaggerating symptoms'", "'Client should stop taking their medication'"],
+    "answer": 1,
+    "explanation": "Assessment entries should stay within scope, describing clinical findings without diagnosing."
+  },
+  {
+    "q": "Documentation should generally be:",
+    "options": ["Filled with the therapist's personal opinions", "Factual and objective", "Written only if something goes wrong", "Optional for routine sessions"],
+    "answer": 1,
+    "explanation": "Good documentation is factual and free of personal opinions."
+  },
+  {
+    "q": "What is the practical risk of not documenting a session finding?",
+    "options": ["There is no risk — verbal notice is enough", "Legally and clinically, undocumented findings are effectively unaddressed", "Documentation is only required for insurance purposes", "Only serious findings need documentation"],
+    "answer": 1,
+    "explanation": "'If it wasn't documented, it didn't happen' — thorough documentation protects both client and therapist."
+  },
+  {
+    "q": "A client reports new numbness in their arm that wasn't present before. The best response is to:",
+    "options": ["Continue the session as planned", "Pause the session and recommend medical referral", "Apply deeper pressure to the area", "Note it but take no further action"],
+    "answer": 1,
+    "explanation": "New neurological symptoms are a red flag requiring pause and referral."
+  },
+  {
+    "q": "A client asks the therapist for advice on adjusting their medication dosage. The therapist should:",
+    "options": ["Give a general opinion based on experience", "Stay within scope and refer to a licensed medical provider", "Recommend they stop the medication", "Avoid answering and change the topic entirely"],
+    "answer": 1,
+    "explanation": "Medication advice is outside scope; refer to an appropriate licensed provider."
+  },
+  {
+    "q": "A therapist notices visible, undiagnosed skin lesions on a client's back. The appropriate response is to:",
+    "options": ["Massage directly over the lesions", "Avoid the area and follow hygiene/infection control protocols", "Diagnose the lesion type for the client", "Ignore it since it's probably nothing"],
+    "answer": 1,
+    "explanation": "Undiagnosed lesions should be avoided locally, following hygiene and infection control practices."
+  },
+  {
+    "q": "Which best describes 'hypertonicity'?",
+    "options": ["Reduced muscle tone", "Excessive muscle tone/tension", "Fluid swelling in tissue", "A type of red flag symptom only"],
+    "answer": 1,
+    "explanation": "Hypertonicity refers to excessive muscle tone or tension."
+  },
+  {
+    "q": "Comparing the left and right sides of the body for differences during assessment relates to:",
+    "options": ["Symmetry/asymmetry", "Subjective data only", "SOAP documentation format", "Chief complaint"],
+    "answer": 0,
+    "explanation": "Symmetry/asymmetry assessment compares sides of the body for meaningful differences."
+  },
+  {
+    "q": "Which best reflects 'client-centered' treatment planning?",
+    "options": ["The therapist works only on areas they find interesting", "The plan reflects what the client wants addressed", "The plan is fixed and never adjusted", "The therapist ignores client feedback during the session"],
+    "answer": 1,
+    "explanation": "Client-centered planning means the plan reflects the client's own goals and needs."
+  },
+  {
+    "q": "A 'red flag' finding during intake most likely indicates:",
+    "options": ["A routine, expected finding requiring no action", "A possible issue beyond simple musculoskeletal concerns, warranting caution or referral", "That the client should be discharged permanently", "That massage should always proceed as planned"],
+    "answer": 1,
+    "explanation": "Red flags suggest something may be outside routine musculoskeletal issues, warranting extra caution or referral."
+  },
+  {
+    "q": "Reassessment during a session (e.g., asking 'how does that pressure feel?') is important because:",
+    "options": ["It has no real clinical value, just conversation", "It allows the treatment to adapt based on real-time feedback", "It replaces the need for intake entirely", "It's only necessary for new clients"],
+    "answer": 1,
+    "explanation": "Ongoing reassessment allows the therapist to adapt technique and pressure based on the client's real-time response."
+  }
+]
