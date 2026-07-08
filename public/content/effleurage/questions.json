@@ -1,0 +1,62 @@
+[
+  {
+    "q": "Effleurage is best described as:",
+    "options": ["A deep kneading stroke", "A light, gliding stroke", "A rapid percussive tapping", "A joint mobilization technique"],
+    "answer": 1,
+    "explanation": "Effleurage is a light, gliding stroke used to open/close sessions and link other strokes."
+  },
+  {
+    "q": "When performing effleurage to assist venous return, the stroke direction should be:",
+    "options": ["Away from the heart", "Toward the heart (centripetal)", "Side to side", "It doesn't matter"],
+    "answer": 1,
+    "explanation": "Centripetal strokes (toward the heart) assist venous return."
+  },
+  {
+    "q": "Which of the following is a contraindication for effleurage at a specific site?",
+    "options": ["Cold hands", "Suspected deep vein thrombosis (DVT)", "Dry skin", "Client is relaxed"],
+    "answer": 1,
+    "explanation": "A suspected clot/DVT means that limb should not be massaged, due to embolism risk."
+  },
+  {
+    "q": "Deep effleurage primarily affects:",
+    "options": ["Bone", "Muscle layers", "Only the epidermis", "Nerve roots exclusively"],
+    "answer": 1,
+    "explanation": "Deep effleurage uses firmer pressure that reaches muscle layers, unlike superficial effleurage."
+  },
+  {
+    "q": "Which body parts can be used to perform effleurage?",
+    "options": ["Only fingertips", "Palm, fingers, or forearm", "Only elbows", "Only knuckles"],
+    "answer": 1,
+    "explanation": "Effleurage can be performed with the palm, fingers, or forearm."
+  },
+  {
+    "q": "What sensation/response does effleurage's stimulation of sensory nerve endings typically produce?",
+    "options": ["Pain response", "Relaxation response", "Muscle spasm", "Numbness"],
+    "answer": 1,
+    "explanation": "Stimulating sensory nerve endings with effleurage produces a relaxation response."
+  },
+  {
+    "q": "Superficial effleurage mainly affects which tissue layers?",
+    "options": ["Skin and superficial fascia", "Deep muscle and tendon", "Bone and periosteum", "Visceral organs"],
+    "answer": 0,
+    "explanation": "Superficial effleurage is light and mainly affects skin and superficial fascia."
+  },
+  {
+    "q": "Effleurage over an open wound or active skin infection is:",
+    "options": ["Recommended to speed healing", "Contraindicated at that site", "Only safe with oil", "Required before every session"],
+    "answer": 1,
+    "explanation": "Open wounds, burns, and skin infections at the site are contraindications."
+  },
+  {
+    "q": "In addition to its effects on the client, effleurage also allows the therapist to:",
+    "options": ["Skip the intake form", "Assess tissue tone, temperature, and texture", "Avoid client communication", "Diagnose fractures"],
+    "answer": 1,
+    "explanation": "The gliding contact of effleurage lets the therapist assess tone, temperature, and texture."
+  },
+  {
+    "q": "Effleurage is typically used:",
+    "options": ["Only in the middle of a session", "At the beginning and end of a session, and to link strokes", "Only on the face", "Only in sports massage"],
+    "answer": 1,
+    "explanation": "Effleurage opens and closes a session and links other strokes together."
+  }
+]
