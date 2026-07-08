@@ -1,0 +1,122 @@
+[
+  {
+    "q": "Most facial muscles insert into:",
+    "options": ["Bone", "Skin", "Cartilage", "Tendon sheaths only"],
+    "answer": 1,
+    "explanation": "Facial muscles typically insert into skin, allowing them to produce facial expressions."
+  },
+  {
+    "q": "Which muscle closes the eyelid?",
+    "options": ["Orbicularis oris", "Orbicularis oculi", "Zygomaticus", "Buccinator"],
+    "answer": 1,
+    "explanation": "Orbicularis oculi closes the eyelid."
+  },
+  {
+    "q": "Which muscle compresses the cheek, as when blowing air?",
+    "options": ["Masseter", "Buccinator", "Temporalis", "Platysma"],
+    "answer": 1,
+    "explanation": "The buccinator compresses the cheek."
+  },
+  {
+    "q": "Which two muscles are the primary elevators of the mandible (jaw closers)?",
+    "options": ["Orbicularis oris and buccinator", "Masseter and temporalis", "Platysma and zygomaticus", "SCM and scalenes"],
+    "answer": 1,
+    "explanation": "Masseter and temporalis both elevate the mandible to close the jaw."
+  },
+  {
+    "q": "The masseter originates on the zygomatic arch and inserts on the:",
+    "options": ["Coronoid process of the mandible", "Angle and ramus of the mandible", "Mastoid process", "Temporal bone"],
+    "answer": 1,
+    "explanation": "The masseter inserts on the angle and ramus of the mandible."
+  },
+  {
+    "q": "Contracting the SCM on one side only will:",
+    "options": ["Rotate the head to the same side", "Rotate the head to the opposite side", "Only flex the neck bilaterally", "Extend the head"],
+    "answer": 1,
+    "explanation": "Unilateral SCM contraction rotates the head to the opposite side while laterally flexing the neck."
+  },
+  {
+    "q": "Bilateral contraction of the SCM produces:",
+    "options": ["Neck extension only", "Neck flexion and assistance with forced inhalation", "Lateral flexion only", "No functional effect"],
+    "answer": 1,
+    "explanation": "Bilaterally, SCM flexes the neck and assists forced inhalation."
+  },
+  {
+    "q": "The SCM originates from the sternum and:",
+    "options": ["The scapula", "The medial clavicle", "The mandible", "The occipital bone"],
+    "answer": 1,
+    "explanation": "SCM originates from the sternum (manubrium) and the medial third of the clavicle."
+  },
+  {
+    "q": "Bilateral contraction of splenius capitis produces:",
+    "options": ["Head flexion", "Head extension", "Lateral rotation only", "Jaw closure"],
+    "answer": 1,
+    "explanation": "Bilaterally, splenius capitis extends the head."
+  },
+  {
+    "q": "Which muscle raises the eyebrow?",
+    "options": ["Epicranius", "Orbicularis oculi", "Zygomaticus", "Temporalis"],
+    "answer": 0,
+    "explanation": "The epicranius (frontal/occipital bellies) raises the eyebrow."
+  },
+  {
+    "q": "Which muscle raises the corner of the mouth, as in smiling?",
+    "options": ["Orbicularis oris", "Buccinator", "Zygomaticus", "Platysma"],
+    "answer": 2,
+    "explanation": "Zygomaticus (major/minor) raises the corner of the mouth."
+  },
+  {
+    "q": "Scalene muscles, when contracting bilaterally during forced inhalation, primarily:",
+    "options": ["Depress the ribs", "Elevate the first or second rib", "Rotate the head only", "Flex the elbow"],
+    "answer": 1,
+    "explanation": "Bilaterally, scalenes elevate the upper ribs to assist forced inhalation."
+  },
+  {
+    "q": "Which muscle depresses the mandible against resistance and tenses neck skin?",
+    "options": ["Masseter", "Temporalis", "Platysma", "Orbicularis oculi"],
+    "answer": 2,
+    "explanation": "Platysma depresses the mandible against resistance and tenses the skin of the neck."
+  },
+  {
+    "q": "'Mastication' refers to the action of:",
+    "options": ["Blinking", "Chewing", "Smiling", "Swallowing"],
+    "answer": 1,
+    "explanation": "Mastication means chewing."
+  },
+  {
+    "q": "Splenius cervicis originates from spinous processes T3–T6 and inserts on:",
+    "options": ["The mastoid process", "Transverse processes of C1–C3", "The mandible", "The clavicle"],
+    "answer": 1,
+    "explanation": "Splenius cervicis inserts on the transverse processes of C1–C3."
+  },
+  {
+    "q": "Which of the following muscles inserts on the orbicularis oris rather than directly on bone?",
+    "options": ["Masseter", "Buccinator", "SCM", "Splenius capitis"],
+    "answer": 1,
+    "explanation": "The buccinator inserts into the orbicularis oris, a soft-tissue insertion typical of facial muscles."
+  },
+  {
+    "q": "Temporalis originates from the temporal bone and inserts on the:",
+    "options": ["Mastoid process", "Coronoid process of the mandible", "Zygomatic arch", "Orbicularis oris"],
+    "answer": 1,
+    "explanation": "Temporalis inserts on the coronoid process of the mandible."
+  },
+  {
+    "q": "Unilateral contraction of splenius capitis produces:",
+    "options": ["Only bilateral head extension", "Rotation and lateral flexion of the head toward the same side", "Jaw elevation", "Eyebrow raising"],
+    "answer": 1,
+    "explanation": "Unilaterally, splenius capitis rotates and laterally flexes the head toward the same side."
+  },
+  {
+    "q": "Which muscle pair are synergists for closing the jaw, often both tense with jaw-clenching habits?",
+    "options": ["SCM and platysma", "Masseter and temporalis", "Orbicularis oculi and orbicularis oris", "Scalenes and splenius capitis"],
+    "answer": 1,
+    "explanation": "Masseter and temporalis work together to close the jaw and are commonly both tense with clenching."
+  },
+  {
+    "q": "The scalene muscles originate primarily from:",
+    "options": ["The mandible", "Transverse processes of cervical vertebrae", "The occipital bone", "The zygomatic bone"],
+    "answer": 1,
+    "explanation": "Scalenes originate from the transverse processes of the cervical vertebrae and insert on the first or second rib."
+  }
+]

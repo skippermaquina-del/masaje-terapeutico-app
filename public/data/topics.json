@@ -1,5 +1,15 @@
 [
   {
+    "slug": "muscles-head-neck",
+    "title": "Muscles of the Head & Neck",
+    "titleEs": "Músculos de la Cabeza y el Cuello",
+    "status": "draft",
+    "date": null,
+    "questionCount": 20,
+    "hasAudio": true,
+    "hasImages": false
+  },
+  {
     "slug": "sanitation-hygiene-business",
     "title": "Sanitation, Hygiene, Hydrotherapy & Business Practice",
     "titleEs": "Saneamiento, Higiene, Hidroterapia y Práctica Profesional",
