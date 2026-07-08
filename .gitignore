@@ -12,6 +12,11 @@ dist
 dist-ssr
 *.local
 
+# Source study material (copyrighted textbooks/instructor handouts) —
+# never publish verbatim to the public repo/site. Only derived,
+# rewritten content under public/content/ gets committed.
+/raw-material/
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json

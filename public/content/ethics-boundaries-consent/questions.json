@@ -1,0 +1,122 @@
+[
+  {
+    "q": "A client tells you mid-session that a new area (the feet) makes them uncomfortable to have touched, even though they agreed to full-body work at intake. What should you do?",
+    "options": ["Continue since it was already agreed to at intake", "Stop working that area and honor the client's current wishes", "Explain why it's beneficial and continue", "Finish the session quickly and skip future bookings"],
+    "answer": 1,
+    "explanation": "Consent is ongoing and can be withdrawn or modified at any time, even if something different was agreed to earlier."
+  },
+  {
+    "q": "Which of these best describes 'nonmaleficence'?",
+    "options": ["Doing good for the client", "Treating all clients fairly", "Avoiding actions that could harm the client", "Being honest with the client"],
+    "answer": 2,
+    "explanation": "Nonmaleficence is the principle of 'do no harm.'"
+  },
+  {
+    "q": "A regular client starts confiding romantic feelings toward the therapist during sessions. What is the most appropriate response?",
+    "options": ["Gently redirect and reinforce professional boundaries", "Ignore it and hope it stops", "Reciprocate to keep the client comfortable", "End the therapeutic relationship immediately without discussion"],
+    "answer": 0,
+    "explanation": "The therapist is responsible for maintaining boundaries; redirecting the conversation professionally is the appropriate response."
+  },
+  {
+    "q": "A client asks the therapist to recommend whether they should stop taking a prescribed medication. What should the therapist do?",
+    "options": ["Give an opinion based on general knowledge", "Say scope of practice doesn't allow that and refer them to their physician", "Ask the client to research it themselves", "Suggest an herbal alternative instead"],
+    "answer": 1,
+    "explanation": "Advising on medication is outside a massage therapist's scope of practice; the correct response is to refer to a licensed provider."
+  },
+  {
+    "q": "Which scenario best illustrates a 'dual relationship' risk?",
+    "options": ["A therapist takes a detailed health history at intake", "A therapist also employs the client at their side business", "A therapist documents the session using SOAP notes", "A therapist asks a client to sign an intake form"],
+    "answer": 1,
+    "explanation": "Having more than one role with the same person (therapist and employer) is a dual relationship that can create conflicts of interest."
+  },
+  {
+    "q": "A client discloses that a minor in their household may be experiencing neglect. What governs the therapist's response?",
+    "options": ["Client confidentiality, which cannot be broken", "Mandatory reporting laws, which override confidentiality here", "The therapist's personal judgment only", "Nothing — this is outside the therapist's concern"],
+    "answer": 1,
+    "explanation": "Mandatory reporting requirements for suspected abuse/neglect of a vulnerable person override standard confidentiality."
+  },
+  {
+    "q": "What is the best description of 'veracity' as an ethical principle?",
+    "options": ["Loyalty to commitments", "Fair treatment of all clients", "Truthfulness with clients", "Avoiding harm"],
+    "answer": 2,
+    "explanation": "Veracity means being truthful and honest with clients."
+  },
+  {
+    "q": "During a session, a therapist notices their own strong personal feelings toward a client are affecting how they interact professionally. This is an example of:",
+    "options": ["Transference", "Countertransference", "Boundary crossing", "Informed consent"],
+    "answer": 1,
+    "explanation": "Countertransference is when the therapist's own feelings toward the client influence their professional judgment."
+  },
+  {
+    "q": "Which action is an example of appropriate documentation?",
+    "options": ["Writing 'client seems anxious and probably has a panic disorder'", "Writing 'client reported tightness in the upper trapezius bilaterally'", "Leaving the chart blank when nothing unusual happened", "Documenting only if the client asks for a copy"],
+    "answer": 1,
+    "explanation": "Good documentation is factual and objective, avoiding diagnostic language or personal opinions."
+  },
+  {
+    "q": "A new client offers the therapist an expensive gift after their first session. What is the most professionally sound response?",
+    "options": ["Accept it immediately to build rapport", "Politely decline or set a clear, consistent gift policy", "Accept only if no one else is around", "Ask for something of equal value in return"],
+    "answer": 1,
+    "explanation": "Accepting gifts, especially significant ones, can blur professional boundaries; a clear and consistent policy protects both parties."
+  },
+  {
+    "q": "Which best describes the concept of 'autonomy' in client care?",
+    "options": ["The therapist's authority to make treatment decisions", "The client's right to make their own decisions about their body and care", "The clinic's right to set policies", "The insurance company's role in approving treatment"],
+    "answer": 1,
+    "explanation": "Autonomy refers to the client's right to self-determination regarding their own body and care."
+  },
+  {
+    "q": "A client asks the therapist to diagnose the cause of persistent lower back pain. The best response is to:",
+    "options": ["Offer a likely diagnosis based on symptoms described", "Explain that diagnosis is outside scope of practice and suggest medical evaluation", "Avoid answering and change the subject", "Recommend a specific over-the-counter medication"],
+    "answer": 1,
+    "explanation": "Diagnosing is outside a massage therapist's legal scope of practice, regardless of clinical intuition."
+  },
+  {
+    "q": "Which of the following is considered a minor 'boundary crossing' rather than a serious violation?",
+    "options": ["Extending a session by a few minutes with client agreement", "Initiating a romantic relationship with a client", "Sharing confidential client information publicly", "Accepting money to give a false referral"],
+    "answer": 0,
+    "explanation": "A small, mutually agreed adjustment like a slightly extended session is a minor crossing, not a serious ethical violation."
+  },
+  {
+    "q": "In SOAP documentation, which section records what the therapist physically observes or measures?",
+    "options": ["Subjective", "Objective", "Assessment", "Plan"],
+    "answer": 1,
+    "explanation": "The Objective section records the therapist's own observations and measurements, as opposed to what the client reports (Subjective)."
+  },
+  {
+    "q": "A client says they no longer want deep pressure on their shoulders, though they consented to it earlier in the session. The therapist should:",
+    "options": ["Continue since consent was already given", "Reduce pressure immediately and honor the new request", "Ask the client to explain their reasoning before adjusting", "Finish the current stroke before changing anything"],
+    "answer": 1,
+    "explanation": "Consent can be withdrawn or modified at any time during a session, and the therapist must respond immediately."
+  },
+  {
+    "q": "Which best summarizes how scope of practice should be determined?",
+    "options": ["By what the therapist feels confident doing", "By what the client requests", "By applicable state/jurisdictional law", "By what was taught in any training program, regardless of licensure"],
+    "answer": 2,
+    "explanation": "Scope of practice is a legal boundary defined by law, not by personal training or client requests."
+  },
+  {
+    "q": "When facing an ethically ambiguous situation, which factor should a therapist weigh FIRST?",
+    "options": ["Whether the client will be happy with the outcome", "Whether the client is safe right now", "Whether it will affect future bookings", "Whether a colleague would approve"],
+    "answer": 1,
+    "explanation": "Client safety is evaluated first in the ethical decision-making order, before scope, consent, and boundaries."
+  },
+  {
+    "q": "A therapist starts giving a long-term client free sessions because they've become close friends outside of work. This is best understood as:",
+    "options": ["Good customer service", "A dual relationship that risks compromising objectivity", "A normal part of building loyalty", "Required under fidelity"],
+    "answer": 1,
+    "explanation": "Blending a friendship with the professional relationship is a dual relationship, which can compromise objective, professional care."
+  },
+  {
+    "q": "Which of the following is an example of 'fidelity' in professional ethics?",
+    "options": ["Charging the same rate to all clients", "Keeping an appointment commitment made to a client", "Avoiding painful pressure during massage", "Explaining a technique before performing it"],
+    "answer": 1,
+    "explanation": "Fidelity means being reliable and keeping one's professional commitments."
+  },
+  {
+    "q": "A client's chart shows no notes were taken after a session where the client reported new numbness in their arm. What is the risk?",
+    "options": ["None — verbal notice to the client is sufficient", "Legally and clinically, if it isn't documented, there's no record it happened", "Documentation is optional for minor complaints", "Only physicians need to document symptoms"],
+    "answer": 1,
+    "explanation": "Thorough documentation is both a clinical and legal safeguard; undocumented findings are effectively unaddressed."
+  }
+]

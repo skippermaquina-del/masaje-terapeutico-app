@@ -1,5 +1,25 @@
 [
   {
+    "slug": "ethics-boundaries-consent",
+    "title": "Professional Ethics, Boundaries & Consent",
+    "titleEs": "Ética Profesional, Límites y Consentimiento",
+    "status": "draft",
+    "date": null,
+    "questionCount": 20,
+    "hasAudio": true,
+    "hasImages": false
+  },
+  {
+    "slug": "pathology-contraindications",
+    "title": "Pathology & Contraindications",
+    "titleEs": "Patología y Contraindicaciones",
+    "status": "draft",
+    "date": null,
+    "questionCount": 20,
+    "hasAudio": true,
+    "hasImages": false
+  },
+  {
     "slug": "effleurage",
     "title": "Effleurage",
     "titleEs": "Effleurage (Deslizamiento)",

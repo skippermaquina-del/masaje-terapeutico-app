@@ -1,0 +1,122 @@
+[
+  {
+    "q": "A client mentions their doctor recently diagnosed a blood clot in their calf. What should the therapist do?",
+    "options": ["Massage lightly around the clot", "Avoid massaging that limb entirely and refer to a physician", "Use deep pressure to help break it up", "Proceed normally since it's just one leg"],
+    "answer": 1,
+    "explanation": "DVT is an absolute contraindication for massage on that limb due to embolism risk."
+  },
+  {
+    "q": "Which best distinguishes a 'sign' from a 'symptom'?",
+    "options": ["Signs are subjective, symptoms are objective", "Signs are objective/observable, symptoms are subjective/reported", "There is no difference", "Signs only apply to skin conditions"],
+    "answer": 1,
+    "explanation": "A sign can be observed or measured by the therapist; a symptom is something only the client can report."
+  },
+  {
+    "q": "A client has a small bruise on their forearm but is otherwise healthy. This is an example of:",
+    "options": ["A systemic contraindication", "A local contraindication", "No contraindication at all", "An absolute contraindication"],
+    "answer": 1,
+    "explanation": "A localized issue like a bruise means avoiding that specific area while proceeding with the rest of the session."
+  },
+  {
+    "q": "Which client should NOT receive massage until medically cleared?",
+    "options": ["A client with well-controlled hypertension", "A client with a current fever", "A client with mild osteoarthritis", "A client with controlled diabetes"],
+    "answer": 1,
+    "explanation": "Fever is a systemic sign of illness and an absolute contraindication until resolved."
+  },
+  {
+    "q": "Why is active cellulitis considered a contraindication?",
+    "options": ["It causes cosmetic concerns only", "It's a contagious bacterial skin infection that massage could spread", "It only affects bone tissue", "It has no relation to circulation"],
+    "answer": 1,
+    "explanation": "Cellulitis is an active bacterial infection; massage risks spreading it further in the body or to the therapist."
+  },
+  {
+    "q": "A client with osteoporosis wants a massage. What's the appropriate approach?",
+    "options": ["Refuse the session entirely", "Use only gentle pressure, avoiding strong compression", "Use maximum pressure since bones need stimulation", "Treat it exactly like a healthy client"],
+    "answer": 1,
+    "explanation": "Osteoporosis requires pressure modification (gentle, light), not full avoidance."
+  },
+  {
+    "q": "Which condition is generally indicated for massage, often benefiting from gentle work?",
+    "options": ["Active tuberculosis", "Sepsis", "Fibromyalgia", "Deep vein thrombosis"],
+    "answer": 2,
+    "explanation": "Fibromyalgia is a chronic pain condition generally indicated for gentle massage, unlike the other options which are absolute contraindications."
+  },
+  {
+    "q": "A client reports being recently diagnosed with active hepatitis. The appropriate action is to:",
+    "options": ["Proceed with massage using gloves", "Decline the session and refer for medical clearance", "Only avoid the abdomen area", "Proceed as normal since hepatitis doesn't affect muscles"],
+    "answer": 1,
+    "explanation": "Active hepatitis is a systemic contraindication requiring medical clearance before any massage."
+  },
+  {
+    "q": "What is the primary reasoning behind avoiding massage during an active systemic infection?",
+    "options": ["It may be uncomfortable for the client", "Massage could help spread the pathogen through the body", "It has no real risk, it's just a precaution", "It only matters for skin infections"],
+    "answer": 1,
+    "explanation": "Systemic infections carry a risk of the pathogen spreading further via increased circulation from massage."
+  },
+  {
+    "q": "A client with multiple sclerosis wants regular massage sessions. What's the best approach?",
+    "options": ["Refuse due to neurological risk", "Proceed with caution, considering fatigue and altered sensation", "Treat exactly like any client with no adjustments", "Only work superficially on the scalp"],
+    "answer": 1,
+    "explanation": "MS is generally indicated for massage but requires caution due to possible fatigue and sensory changes."
+  },
+  {
+    "q": "Which of the following is an example of a systemic (not local) contraindication?",
+    "options": ["Recent tattoo on the arm", "Sepsis", "A healing scar", "Mild sunburn on one shoulder"],
+    "answer": 1,
+    "explanation": "Sepsis is a body-wide infection affecting the whole session, unlike the other localized examples."
+  },
+  {
+    "q": "A client has controlled type 2 diabetes. What consideration is most relevant during massage?",
+    "options": ["Complete avoidance of massage", "Monitoring skin condition and sensation", "Using ice on all extremities", "Avoiding any pressure below the knee"],
+    "answer": 1,
+    "explanation": "Diabetes can affect skin integrity and sensation, so monitoring these is important, though massage is generally indicated when controlled."
+  },
+  {
+    "q": "Lymphedema in a limb generally requires:",
+    "options": ["Standard Swedish massage with firm pressure", "Specialized lymphatic technique, not general massage", "Complete avoidance of any therapist contact", "Deep tissue stripping to reduce swelling"],
+    "answer": 1,
+    "explanation": "Lymphedema requires specialized manual lymphatic drainage technique rather than general massage."
+  },
+  {
+    "q": "Which best describes 'etiology'?",
+    "options": ["The study of disease in general", "The cause or origin of a disease", "A sudden onset condition", "A chronic, long-lasting condition"],
+    "answer": 1,
+    "explanation": "Etiology refers specifically to the cause or origin of a disease."
+  },
+  {
+    "q": "A client recently had a heart attack two weeks ago and wants a full-body massage. What's appropriate?",
+    "options": ["Proceed normally, it's been two weeks", "Decline until receiving physician clearance", "Only avoid the chest area", "Use only light effleurage on the legs"],
+    "answer": 1,
+    "explanation": "Recent myocardial infarction is an absolute contraindication requiring physician clearance before massage."
+  },
+  {
+    "q": "Edema is best defined as:",
+    "options": ["A bacterial skin infection", "Excess fluid accumulation in tissue", "A type of autoimmune disease", "A sudden, short-duration condition"],
+    "answer": 1,
+    "explanation": "Edema refers to abnormal fluid buildup in body tissue."
+  },
+  {
+    "q": "A client with active, untreated tuberculosis requests a massage session. The correct response is:",
+    "options": ["Proceed with a mask for the therapist", "Decline the session entirely due to contagion risk", "Only work on unaffected limbs", "Proceed if the client feels well enough"],
+    "answer": 1,
+    "explanation": "Active TB is a highly contagious systemic condition and an absolute contraindication."
+  },
+  {
+    "q": "Rheumatoid arthritis differs from osteoarthritis mainly in that RA is:",
+    "options": ["A degenerative wear-and-tear condition", "An autoimmune inflammatory joint disease", "Caused by bacterial infection", "Never associated with joint pain"],
+    "answer": 1,
+    "explanation": "RA is an autoimmune condition causing inflammation, while OA is primarily a degenerative joint disease."
+  },
+  {
+    "q": "Which is the best reason chronic conditions like fibromyalgia and osteoarthritis are usually still indicated for massage?",
+    "options": ["They involve no inflammation at all", "They are not infectious and not clot-related, so gentle work is generally safe and can help symptoms", "They always resolve completely with massage", "They require no adaptation of technique"],
+    "answer": 1,
+    "explanation": "Since these conditions don't involve infection or clot risk, massage (often adapted in pressure) is typically indicated and can be beneficial."
+  },
+  {
+    "q": "A client has psoriasis with several active, open lesions. The best approach is:",
+    "options": ["Avoid the open lesions but proceed with the rest of the session as normal", "Cancel the session entirely", "Massage directly over the lesions to promote healing", "Ignore the lesions since psoriasis isn't contagious"],
+    "answer": 0,
+    "explanation": "Psoriasis is generally indicated except over active/open lesions, which should be avoided locally."
+  }
+]
