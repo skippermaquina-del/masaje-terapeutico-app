@@ -1,0 +1,122 @@
+[
+  {
+    "q": "Which vessel type carries blood away from the heart?",
+    "options": ["Vein", "Artery", "Capillary", "Lymphatic vessel"],
+    "answer": 1,
+    "explanation": "Arteries carry blood away from the heart."
+  },
+  {
+    "q": "Which vessel type has valves to prevent backflow?",
+    "options": ["Arteries", "Capillaries", "Veins", "Lymph nodes"],
+    "answer": 2,
+    "explanation": "Veins have valves that prevent blood from flowing backward as it returns to the heart."
+  },
+  {
+    "q": "Where does exchange of oxygen, nutrients, and waste with tissue actually occur?",
+    "options": ["In the heart", "In arteries", "In capillaries", "In veins"],
+    "answer": 2,
+    "explanation": "Capillaries are the site of exchange with surrounding tissue."
+  },
+  {
+    "q": "Pulmonary circulation refers to the loop between the heart and the:",
+    "options": ["Kidneys", "Lungs", "Liver", "Legs"],
+    "answer": 1,
+    "explanation": "Pulmonary circulation is the loop between the heart and lungs."
+  },
+  {
+    "q": "Systemic circulation refers to the loop between the heart and:",
+    "options": ["The lungs only", "The rest of the body", "The lymphatic system only", "The brain only"],
+    "answer": 1,
+    "explanation": "Systemic circulation delivers blood between the heart and the rest of the body."
+  },
+  {
+    "q": "Lymph fluid originates from:",
+    "options": ["Bone marrow directly", "Blood plasma leaking into tissue spaces", "The digestive system exclusively", "Cerebrospinal fluid"],
+    "answer": 1,
+    "explanation": "Lymph originates from blood plasma that leaks into surrounding tissue spaces."
+  },
+  {
+    "q": "What moves lymph fluid through the body, since it lacks a central pump?",
+    "options": ["Gravity alone", "Muscle contraction, breathing, and manual techniques", "The heart directly pumps lymph", "Lymph doesn't need to move"],
+    "answer": 1,
+    "explanation": "Without a central pump, lymph relies on muscle contraction, breathing, and manual techniques for movement."
+  },
+  {
+    "q": "What is the primary function of lymph nodes?",
+    "options": ["Pumping lymph fluid", "Filtering lymph and housing immune cells", "Producing red blood cells", "Storing fat"],
+    "answer": 1,
+    "explanation": "Lymph nodes filter lymph fluid and contain immune cells that help fight infection."
+  },
+  {
+    "q": "Lymphedema differs from general edema in that it:",
+    "options": ["Is always temporary", "Is a chronic condition caused by lymphatic system dysfunction/blockage", "Only occurs in the face", "Requires no special treatment"],
+    "answer": 1,
+    "explanation": "Lymphedema is a more serious, chronic swelling condition caused specifically by lymphatic dysfunction."
+  },
+  {
+    "q": "Why are massage strokes for assisting venous return typically directed toward the heart?",
+    "options": ["It's purely traditional with no physiological basis", "It works with the direction of venous blood flow, assisting return to the heart", "It has no real effect either way", "Strokes should always go away from the heart instead"],
+    "answer": 1,
+    "explanation": "Centripetal (toward the heart) strokes assist the natural direction of venous return."
+  },
+  {
+    "q": "Why is very light pressure used for lymphatic drainage techniques?",
+    "options": ["Lymphatic vessels are deep and need firm pressure", "Lymphatic vessels are superficial and collapse under too much pressure", "Light pressure has no clinical basis", "It's only a client comfort preference"],
+    "answer": 1,
+    "explanation": "Lymphatic vessels sit just under the skin and can collapse with too much pressure, reducing effectiveness."
+  },
+  {
+    "q": "Why is DVT considered an absolute contraindication for massage on the affected limb?",
+    "options": ["It's simply uncomfortable for the client", "Pressure could dislodge the clot, risking a pulmonary embolism", "It only affects the skin", "There is no real risk involved"],
+    "answer": 1,
+    "explanation": "A dislodged clot from DVT can travel to the lungs, causing a life-threatening pulmonary embolism."
+  },
+  {
+    "q": "Which of the following is a concern when working near varicose veins?",
+    "options": ["No concern — proceed normally", "Deep/vigorous work should be avoided or modified due to fragile, weakened veins", "Varicose veins strengthen with massage", "They only occur in the arms"],
+    "answer": 1,
+    "explanation": "Varicose veins have weakened valves and walls, making them fragile and requiring caution."
+  },
+  {
+    "q": "Uncontrolled hypertension is a caution for which type of massage technique?",
+    "options": ["Gentle effleurage only", "Vigorous techniques that significantly stress the cardiovascular system", "Any massage whatsoever, with no exceptions", "Techniques applied only to the face"],
+    "answer": 1,
+    "explanation": "Vigorous techniques that significantly increase circulation or cardiovascular demand require caution with uncontrolled hypertension."
+  },
+  {
+    "q": "Which best describes deoxygenated blood?",
+    "options": ["Blood rich in oxygen, found mainly in arteries", "Blood low in oxygen, generally darker red", "Blood found only in the lymphatic system", "Blood that has no clinical significance"],
+    "answer": 1,
+    "explanation": "Deoxygenated blood has lower oxygen content and appears darker red."
+  },
+  {
+    "q": "Which statement about the pulmonary artery and vein is correct?",
+    "options": ["The pulmonary artery carries oxygenated blood, unlike other arteries", "The pulmonary artery carries deoxygenated blood, an exception among arteries", "Pulmonary vessels don't carry blood", "The pulmonary vein carries deoxygenated blood"],
+    "answer": 1,
+    "explanation": "The pulmonary artery is an exception — it carries deoxygenated blood from the heart to the lungs."
+  },
+  {
+    "q": "A client has swelling in one leg that has persisted for months and doesn't respond to elevation. This is most consistent with:",
+    "options": ["Simple, temporary edema", "Possible lymphedema, requiring specialized technique/referral", "A normal finding requiring no attention", "Dehydration"],
+    "answer": 1,
+    "explanation": "Chronic, persistent localized swelling suggests possible lymphedema, which needs specialized care."
+  },
+  {
+    "q": "Which statement best summarizes the relationship between massage and the cardiovascular/lymphatic systems?",
+    "options": ["Massage has no effect on either system", "Massage mechanically assists blood and lymph flow, especially with centripetal strokes", "Massage only affects the lymphatic system, never blood flow", "Massage always works against normal circulation"],
+    "answer": 1,
+    "explanation": "Massage, particularly with centripetal strokes, mechanically assists both venous and lymphatic flow."
+  },
+  {
+    "q": "Which vessels transport lymph fluid through the body?",
+    "options": ["Arteries", "Veins", "Lymphatic vessels", "Capillaries only"],
+    "answer": 2,
+    "explanation": "Lymphatic vessels are dedicated to transporting lymph fluid, distinct from blood vessels."
+  },
+  {
+    "q": "A therapist notices a client has a hard, tender, swollen area in the calf with warmth and discoloration. What's the safest response?",
+    "options": ["Massage the area with light pressure only", "Avoid the area/limb and refer for medical evaluation given possible DVT", "Use deep tissue stripping to reduce swelling", "Apply heat directly to the area"],
+    "answer": 1,
+    "explanation": "These signs are consistent with possible DVT, an absolute contraindication requiring medical evaluation before any massage."
+  }
+]

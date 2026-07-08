@@ -1,0 +1,122 @@
+[
+  {
+    "q": "The brain and spinal cord together make up the:",
+    "options": ["Peripheral nervous system", "Central nervous system", "Autonomic nervous system", "Somatic nervous system"],
+    "answer": 1,
+    "explanation": "The CNS consists of the brain and spinal cord."
+  },
+  {
+    "q": "Which nervous system division controls voluntary skeletal muscle movement?",
+    "options": ["Autonomic", "Somatic", "Sympathetic only", "Parasympathetic only"],
+    "answer": 1,
+    "explanation": "The somatic nervous system controls voluntary movement."
+  },
+  {
+    "q": "Which branch of the autonomic nervous system is associated with 'fight or flight'?",
+    "options": ["Parasympathetic", "Somatic", "Sympathetic", "Sensory"],
+    "answer": 2,
+    "explanation": "The sympathetic branch activates the fight-or-flight response."
+  },
+  {
+    "q": "Which branch of the autonomic nervous system promotes relaxation and digestion?",
+    "options": ["Sympathetic", "Parasympathetic", "Somatic", "Motor"],
+    "answer": 1,
+    "explanation": "The parasympathetic branch handles 'rest and digest' functions."
+  },
+  {
+    "q": "A therapist uses slow, rhythmic effleurage throughout a session. This is most likely to promote:",
+    "options": ["Sympathetic activation", "Parasympathetic activation", "No nervous system effect", "Only muscular effects, no nervous system involvement"],
+    "answer": 1,
+    "explanation": "Slow, rhythmic techniques tend to shift clients toward parasympathetic (relaxation) dominance."
+  },
+  {
+    "q": "A vigorous tapotement routine at the end of a sports massage is more likely to promote:",
+    "options": ["Sympathetic activation", "Parasympathetic activation", "Complete sedation", "No physiological response"],
+    "answer": 0,
+    "explanation": "Fast, stimulating tapotement tends to activate the sympathetic ('fight or flight') system."
+  },
+  {
+    "q": "A neuron that carries information FROM the body TOWARD the CNS is called a:",
+    "options": ["Motor neuron", "Sensory neuron", "Interneuron only", "Autonomic neuron"],
+    "answer": 1,
+    "explanation": "Sensory (afferent) neurons carry input from the body to the CNS."
+  },
+  {
+    "q": "A neuron that carries commands FROM the CNS TO the body is called a:",
+    "options": ["Sensory neuron", "Motor neuron", "Afferent neuron", "Dermatome neuron"],
+    "answer": 1,
+    "explanation": "Motor (efferent) neurons carry output from the CNS to the body."
+  },
+  {
+    "q": "Pulling your hand away from a hot stove without conscious thought is an example of a:",
+    "options": ["Voluntary action", "Reflex", "Sympathetic override", "Dermatome response"],
+    "answer": 1,
+    "explanation": "This automatic, involuntary response is a reflex."
+  },
+  {
+    "q": "Which receptor type primarily responds to pressure and skin displacement — the main receptor category massage stimulates?",
+    "options": ["Nociceptors", "Mechanoreceptors", "Chemoreceptors", "Photoreceptors"],
+    "answer": 1,
+    "explanation": "Mechanoreceptors respond to pressure, vibration, and displacement — key to how massage is sensed."
+  },
+  {
+    "q": "Which receptor type specifically detects pain?",
+    "options": ["Mechanoreceptors", "Proprioceptors", "Nociceptors", "Baroreceptors"],
+    "answer": 2,
+    "explanation": "Nociceptors are the receptors responsible for detecting pain."
+  },
+  {
+    "q": "A dermatome is best defined as:",
+    "options": ["A muscle group supplied by one nerve", "A band of skin supplied by sensory fibers from a single spinal nerve root", "A type of connective tissue", "A joint classification"],
+    "answer": 1,
+    "explanation": "A dermatome is a skin area supplied by one spinal nerve root."
+  },
+  {
+    "q": "A client reports tingling that follows a specific band pattern down the arm. This pattern is most useful for identifying:",
+    "options": ["A local muscle strain only", "A possible spinal nerve root issue", "Random unrelated symptoms", "A digestive problem"],
+    "answer": 1,
+    "explanation": "Symptoms following a dermatome pattern suggest a possible nerve root issue rather than a purely muscular one."
+  },
+  {
+    "q": "Why might a therapist refer a client whose pain follows a clear dermatome pattern?",
+    "options": ["Because dermatome patterns are never clinically relevant", "Because it may indicate a neurological issue outside massage scope of practice", "Because it always means the client is exaggerating", "Because dermatomes only relate to digestion"],
+    "answer": 1,
+    "explanation": "A dermatome pattern suggests a possible nerve-root problem, which may need medical evaluation beyond massage scope."
+  },
+  {
+    "q": "Proprioceptors are best described as receptors that:",
+    "options": ["Detect pain exclusively", "Sense body position and movement", "Detect light and color", "Only respond to temperature"],
+    "answer": 1,
+    "explanation": "Proprioceptors provide the sense of body position and movement."
+  },
+  {
+    "q": "Which of the following is an example of the parasympathetic nervous system's effect?",
+    "options": ["Increased heart rate", "Redirected blood flow to muscles for exertion", "Decreased heart rate and promotion of digestion", "Heightened alertness during danger"],
+    "answer": 2,
+    "explanation": "Decreased heart rate and enhanced digestion are parasympathetic ('rest and digest') effects."
+  },
+  {
+    "q": "The peripheral nervous system (PNS) is best described as:",
+    "options": ["Only the brain", "Only the spinal cord", "All nerves outside the brain and spinal cord", "Only sensory nerves"],
+    "answer": 2,
+    "explanation": "The PNS includes all nerves outside the central nervous system (brain and spinal cord)."
+  },
+  {
+    "q": "Which nervous system division would be most active during a calming, slow-paced relaxation massage session?",
+    "options": ["Sympathetic", "Parasympathetic", "Somatic only", "Neither division is affected"],
+    "answer": 1,
+    "explanation": "A slow, calming massage tends to promote parasympathetic (relaxation) dominance."
+  },
+  {
+    "q": "Which statement correctly distinguishes CNS from PNS?",
+    "options": ["CNS includes all body nerves; PNS is only the brain", "CNS is the brain and spinal cord; PNS is the nerves connecting CNS to the rest of the body", "CNS and PNS are the same system with different names", "PNS controls only involuntary functions"],
+    "answer": 1,
+    "explanation": "CNS = brain + spinal cord; PNS = nerves outside the CNS connecting it to the body."
+  },
+  {
+    "q": "Dermatome maps are clinically useful mainly because they help:",
+    "options": ["Diagnose skin cancer", "Localize a possible spinal nerve root problem based on symptom location", "Determine muscle strength only", "Identify circulatory problems exclusively"],
+    "answer": 1,
+    "explanation": "Since each dermatome corresponds to a specific spinal nerve level, symptom patterns can help localize nerve root issues."
+  }
+]
