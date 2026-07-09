@@ -1,0 +1,122 @@
+[
+  {
+    "q": "Which muscle group specifically moves the scapula and/or clavicle, rather than the humerus?",
+    "options": ["Rotator cuff muscles", "Shoulder girdle muscles", "Deltoid fibers only", "Hamstrings"],
+    "answer": 1,
+    "explanation": "Shoulder girdle muscles attach to or move the scapula/clavicle rather than the humerus directly."
+  },
+  {
+    "q": "Which trapezius fibers are responsible for retracting the scapula?",
+    "options": ["Upper fibers", "Middle fibers", "Lower fibers", "All fibers equally"],
+    "answer": 1,
+    "explanation": "The middle trapezius fibers retract the scapula."
+  },
+  {
+    "q": "Weakness in which muscle classically causes a 'winged scapula'?",
+    "options": ["Rhomboid major", "Serratus anterior", "Pectoralis minor", "Levator scapulae"],
+    "answer": 1,
+    "explanation": "Serratus anterior holds the scapula flat against the rib cage; weakness causes winging."
+  },
+  {
+    "q": "Which muscle both elevates and downwardly rotates the scapula, and also laterally flexes the neck?",
+    "options": ["Serratus anterior", "Levator scapulae", "Pectoralis minor", "Trapezius (lower fibers)"],
+    "answer": 1,
+    "explanation": "Levator scapulae elevates and downwardly rotates the scapula, and laterally flexes the neck."
+  },
+  {
+    "q": "The rhomboids (major and minor) primarily:",
+    "options": ["Protract and upwardly rotate the scapula", "Retract and downwardly rotate the scapula", "Depress the scapula only", "Abduct the shoulder"],
+    "answer": 1,
+    "explanation": "Rhomboids retract and downwardly rotate the scapula."
+  },
+  {
+    "q": "Which muscle is nicknamed the 'six-pack' muscle?",
+    "options": ["External oblique", "Transverse abdominis", "Rectus abdominis", "Erector spinae"],
+    "answer": 2,
+    "explanation": "Rectus abdominis gives the visible 'six-pack' appearance when well-developed and lean."
+  },
+  {
+    "q": "Bilateral contraction of the erector spinae group produces:",
+    "options": ["Spine flexion", "Spine extension", "Only lateral flexion", "Rotation only"],
+    "answer": 1,
+    "explanation": "Bilaterally, erector spinae extends the spine and head."
+  },
+  {
+    "q": "Quadratus lumborum is nicknamed the 'hip hiker' because unilateral contraction:",
+    "options": ["Extends the lumbar spine", "Elevates that side of the pelvis", "Flexes the hip joint", "Rotates the shoulder"],
+    "answer": 1,
+    "explanation": "Unilateral quadratus lumborum contraction hikes (elevates) that side of the pelvis."
+  },
+  {
+    "q": "Which muscle primarily compresses the abdominal contents and acts as a core stabilizer with minimal direct movement?",
+    "options": ["Rectus abdominis", "External oblique", "Transverse abdominis", "Erector spinae"],
+    "answer": 2,
+    "explanation": "Transverse abdominis compresses the abdomen and serves mainly as a stabilizer."
+  },
+  {
+    "q": "Which shoulder-joint muscle adducts, medially rotates, and flexes the shoulder, originating from the clavicle, sternum, and upper ribs?",
+    "options": ["Latissimus dorsi", "Pectoralis major", "Teres major", "Coracobrachialis"],
+    "answer": 1,
+    "explanation": "Pectoralis major performs adduction, medial rotation, and flexion of the shoulder."
+  },
+  {
+    "q": "Which muscle extends, adducts, and medially rotates the shoulder, originating broadly from the lower spine, ribs, and iliac crest?",
+    "options": ["Deltoid", "Latissimus dorsi", "Supraspinatus", "Pectoralis minor"],
+    "answer": 1,
+    "explanation": "Latissimus dorsi extends, adducts, and medially rotates the shoulder."
+  },
+  {
+    "q": "Which fibers of the deltoid are responsible for shoulder abduction?",
+    "options": ["Anterior fibers", "Middle fibers", "Posterior fibers", "All fibers equally initiate abduction"],
+    "answer": 1,
+    "explanation": "The middle deltoid fibers abduct the shoulder."
+  },
+  {
+    "q": "What does the acronym SITS stand for in the rotator cuff?",
+    "options": ["Supraspinatus, Infraspinatus, Teres minor, Subscapularis", "Supraspinatus, Iliacus, Teres major, Subscapularis", "Sternocleidomastoid, Infraspinatus, Trapezius, Subscapularis", "Supinator, Infraspinatus, Teres minor, Serratus"],
+    "answer": 0,
+    "explanation": "SITS = Supraspinatus, Infraspinatus, Teres minor, Subscapularis."
+  },
+  {
+    "q": "Which rotator cuff muscle is the only one that medially rotates the shoulder?",
+    "options": ["Supraspinatus", "Infraspinatus", "Teres minor", "Subscapularis"],
+    "answer": 3,
+    "explanation": "Subscapularis is the only rotator cuff muscle producing medial rotation; the others contribute to lateral rotation or abduction."
+  },
+  {
+    "q": "Which rotator cuff muscle is the only one that inserts on the lesser tubercle of the humerus?",
+    "options": ["Supraspinatus", "Infraspinatus", "Teres minor", "Subscapularis"],
+    "answer": 3,
+    "explanation": "Subscapularis inserts on the lesser tubercle; the other three rotator cuff muscles insert on the greater tubercle."
+  },
+  {
+    "q": "Which muscle abducts the shoulder and helps stabilize the humeral head in the glenoid cavity?",
+    "options": ["Infraspinatus", "Supraspinatus", "Teres minor", "Subscapularis"],
+    "answer": 1,
+    "explanation": "Supraspinatus abducts the shoulder and stabilizes the humeral head."
+  },
+  {
+    "q": "Infraspinatus and teres minor share which primary action?",
+    "options": ["Medial rotation", "Lateral rotation", "Abduction only", "Depression of the scapula"],
+    "answer": 1,
+    "explanation": "Both infraspinatus and teres minor laterally rotate the shoulder."
+  },
+  {
+    "q": "Which muscle originates from ribs 1-8 and helps keep the scapula flat against the rib cage by protracting and upwardly rotating it?",
+    "options": ["Rhomboid major", "Serratus anterior", "Levator scapulae", "Pectoralis minor"],
+    "answer": 1,
+    "explanation": "Serratus anterior protracts and upwardly rotates the scapula, keeping it against the ribs."
+  },
+  {
+    "q": "Which muscle flexes and adducts the shoulder, originating from the coracoid process of the scapula?",
+    "options": ["Deltoid", "Teres major", "Coracobrachialis", "Latissimus dorsi"],
+    "answer": 2,
+    "explanation": "Coracobrachialis flexes and adducts the shoulder, originating at the coracoid process."
+  },
+  {
+    "q": "Pectoralis minor's actions include:",
+    "options": ["Elevating and retracting the scapula", "Depressing and protracting the scapula, downwardly rotating it", "Abducting the shoulder joint", "Extending the elbow"],
+    "answer": 1,
+    "explanation": "Pectoralis minor depresses and protracts the scapula, and downwardly rotates it."
+  }
+]
