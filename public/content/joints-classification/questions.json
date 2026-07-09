@@ -1,0 +1,122 @@
+[
+  {
+    "q": "Joints can be classified by structure and by:",
+    "options": ["Color", "Function (amount of movement)", "Size only", "Age of the client"],
+    "answer": 1,
+    "explanation": "Joints are classified both structurally (connecting material) and functionally (amount of movement)."
+  },
+  {
+    "q": "Sutures between the bones of the skull are an example of which structural joint type?",
+    "options": ["Cartilaginous", "Synovial", "Fibrous", "Diarthrotic"],
+    "answer": 2,
+    "explanation": "Skull sutures are fibrous joints, connected by dense connective tissue."
+  },
+  {
+    "q": "Most fibrous joints are functionally classified as:",
+    "options": ["Diarthrosis", "Amphiarthrosis", "Synarthrosis", "Synovial"],
+    "answer": 2,
+    "explanation": "Most fibrous joints are immovable (synarthrosis)."
+  },
+  {
+    "q": "The radioulnar and tibiofibular joints are structurally fibrous but functionally classified as:",
+    "options": ["Synarthrosis", "Amphiarthrosis", "Diarthrosis", "Synovial"],
+    "answer": 1,
+    "explanation": "These are a notable exception — fibrous structure but slightly movable (amphiarthrosis) function."
+  },
+  {
+    "q": "Intervertebral discs and the pubic symphysis are examples of which structural joint type?",
+    "options": ["Fibrous", "Cartilaginous", "Synovial", "Gliding"],
+    "answer": 1,
+    "explanation": "These joints are connected by cartilage, making them cartilaginous joints."
+  },
+  {
+    "q": "Cartilaginous joints are typically functionally classified as:",
+    "options": ["Synarthrosis", "Amphiarthrosis", "Diarthrosis", "Fibrous"],
+    "answer": 1,
+    "explanation": "Cartilaginous joints generally allow slight movement (amphiarthrosis)."
+  },
+  {
+    "q": "All synovial joints are functionally classified as:",
+    "options": ["Synarthrosis", "Amphiarthrosis", "Diarthrosis", "None of the above"],
+    "answer": 2,
+    "explanation": "Synovial joints are freely movable, making them diarthrosis."
+  },
+  {
+    "q": "Which synovial joint type is exemplified by the shoulder and hip?",
+    "options": ["Hinge", "Pivot", "Ball-and-socket", "Gliding"],
+    "answer": 2,
+    "explanation": "Ball-and-socket joints, like the shoulder and hip, allow movement in all planes."
+  },
+  {
+    "q": "Which synovial joint type allows only flexion and extension?",
+    "options": ["Ball-and-socket", "Saddle", "Hinge", "Condyloid"],
+    "answer": 2,
+    "explanation": "Hinge joints, like the elbow and knee, allow only flexion/extension."
+  },
+  {
+    "q": "The wrist (radiocarpal joint) is an example of which synovial joint type?",
+    "options": ["Ball-and-socket", "Condyloid (ellipsoidal)", "Pivot", "Saddle"],
+    "answer": 1,
+    "explanation": "The radiocarpal joint is condyloid, allowing flexion/extension and abduction/adduction but not rotation."
+  },
+  {
+    "q": "The base of the thumb (carpometacarpal joint) is a classic example of which joint type?",
+    "options": ["Hinge", "Pivot", "Saddle", "Gliding"],
+    "answer": 2,
+    "explanation": "The thumb's CMC joint is a saddle joint, allowing multiple planes of movement."
+  },
+  {
+    "q": "The joint between the atlas (C1) and axis (C2), allowing head rotation, is an example of a:",
+    "options": ["Hinge joint", "Pivot joint", "Ball-and-socket joint", "Condyloid joint"],
+    "answer": 1,
+    "explanation": "The atlantoaxial joint is a pivot joint, allowing rotation around a single axis."
+  },
+  {
+    "q": "Which synovial joint type allows short sliding or twisting movements, as seen between carpal bones?",
+    "options": ["Hinge", "Saddle", "Gliding (plane)", "Ball-and-socket"],
+    "answer": 2,
+    "explanation": "Gliding (plane) joints allow small sliding/twisting movements, as seen between carpal bones."
+  },
+  {
+    "q": "Which joint in the body has the greatest range of motion?",
+    "options": ["The knee", "The elbow", "The shoulder", "The wrist"],
+    "answer": 2,
+    "explanation": "The shoulder, a ball-and-socket joint, has the greatest range of motion of any joint."
+  },
+  {
+    "q": "Why is the shoulder also the most frequently dislocated major joint?",
+    "options": ["It has the least range of motion", "Its high mobility comes with reduced inherent stability", "It's a hinge joint with limited movement", "It's not a synovial joint"],
+    "answer": 1,
+    "explanation": "The shoulder's extensive range of motion trades off against joint stability, increasing dislocation risk."
+  },
+  {
+    "q": "When assessing range of motion at a hinge joint like the elbow, what should be evaluated?",
+    "options": ["Full rotation and all planes", "Only flexion and extension", "Only abduction/adduction", "Circumduction primarily"],
+    "answer": 1,
+    "explanation": "Since hinge joints only allow flexion/extension, that's the appropriate scope of ROM assessment there."
+  },
+  {
+    "q": "A synovial joint is structurally defined by having:",
+    "options": ["Direct bone-to-bone fibrous connection", "A fluid-filled joint cavity with capsule and synovial membrane", "Only cartilage connecting the bones", "No cartilage anywhere in the joint"],
+    "answer": 1,
+    "explanation": "Synovial joints have a fluid-filled cavity surrounded by a joint capsule and synovial membrane."
+  },
+  {
+    "q": "Metacarpophalangeal (knuckle) joints are best classified as:",
+    "options": ["Hinge joints", "Condyloid joints", "Pivot joints", "Saddle joints"],
+    "answer": 1,
+    "explanation": "MCP joints are condyloid, allowing flexion/extension and abduction/adduction but not rotation."
+  },
+  {
+    "q": "The proximal radioulnar joint, allowing forearm rotation, is classified as a:",
+    "options": ["Hinge joint", "Ball-and-socket joint", "Pivot joint", "Gliding joint"],
+    "answer": 2,
+    "explanation": "The proximal radioulnar joint is a pivot joint, allowing rotational movement (pronation/supination)."
+  },
+  {
+    "q": "Which best summarizes the relationship between structural and functional joint classification?",
+    "options": ["They are unrelated and never overlap", "They generally correlate, but there are notable exceptions like the radioulnar joint", "Functional classification only applies to synovial joints", "Structural classification is the only one used clinically"],
+    "answer": 1,
+    "explanation": "Structure generally predicts function, but exceptions (like the fibrous-yet-amphiarthrotic radioulnar joint) exist and are commonly tested."
+  }
+]

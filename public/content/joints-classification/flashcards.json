@@ -1,0 +1,42 @@
+[
+  {
+    "front": "What are the two ways joints are classified?",
+    "back": "Structurally (what connects the bones) and functionally (how much they move)."
+  },
+  {
+    "front": "What are the three structural joint categories?",
+    "back": "Fibrous, cartilaginous, and synovial."
+  },
+  {
+    "front": "What are the three functional joint categories, from least to most movement?",
+    "back": "Synarthrosis (immovable), amphiarthrosis (slightly movable), diarthrosis (freely movable)."
+  },
+  {
+    "front": "Are all fibrous joints immovable? Name the exception.",
+    "back": "No — most are synarthrosis, but the radioulnar and tibiofibular joints are fibrous yet functionally amphiarthrosis (slightly movable)."
+  },
+  {
+    "front": "What functional classification applies to all synovial joints?",
+    "back": "Diarthrosis — freely movable."
+  },
+  {
+    "front": "Which synovial joint type allows movement in all planes plus rotation, and is the most mobile?",
+    "back": "Ball-and-socket (e.g., shoulder, hip)."
+  },
+  {
+    "front": "Which synovial joint type allows only flexion and extension, in one plane?",
+    "back": "Hinge joint (e.g., elbow, knee)."
+  },
+  {
+    "front": "Which synovial joint type allows flexion/extension and abduction/adduction, but NOT rotation?",
+    "back": "Condyloid (ellipsoidal) joint (e.g., wrist, MCP joints)."
+  },
+  {
+    "front": "Which synovial joint type allows rotation around a single axis, like between C1 and C2?",
+    "back": "Pivot joint."
+  },
+  {
+    "front": "Which joint in the body has the greatest range of motion, and what joint type is it?",
+    "back": "The shoulder — a ball-and-socket joint."
+  }
+]

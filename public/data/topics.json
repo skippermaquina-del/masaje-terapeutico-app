@@ -1,5 +1,15 @@
 [
   {
+    "slug": "joints-classification",
+    "title": "Joint Classification",
+    "titleEs": "Clasificación de las Articulaciones",
+    "status": "draft",
+    "date": null,
+    "questionCount": 20,
+    "hasAudio": true,
+    "hasImages": false
+  },
+  {
     "slug": "muscles-leg-foot-ankle",
     "title": "Muscles of the Leg, Ankle & Foot",
     "titleEs": "Músculos de la Pierna, el Tobillo y el Pie",
