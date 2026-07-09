@@ -1,0 +1,122 @@
+[
+  {
+    "q": "The iliopsoas (psoas major + iliacus) primarily:",
+    "options": ["Extends the hip", "Flexes the hip", "Abducts the hip", "Laterally rotates the knee"],
+    "answer": 1,
+    "explanation": "The iliopsoas is the primary hip flexor group, inserting at the lesser trochanter."
+  },
+  {
+    "q": "Which muscle is the primary hip extensor, especially forceful in movements like climbing stairs?",
+    "options": ["Gluteus medius", "Gluteus maximus", "Tensor fasciae latae", "Piriformis"],
+    "answer": 1,
+    "explanation": "Gluteus maximus is the primary, most powerful hip extensor."
+  },
+  {
+    "q": "Which muscles are essential stabilizers of the pelvis while standing on one leg during walking?",
+    "options": ["Gluteus maximus and piriformis", "Gluteus medius and minimus", "Sartorius and gracilis", "Rectus femoris and vastus lateralis"],
+    "answer": 1,
+    "explanation": "Gluteus medius and minimus stabilize the pelvis during single-leg stance."
+  },
+  {
+    "q": "Weakness of gluteus medius/minimus during walking classically causes:",
+    "options": ["Increased hip flexion strength", "A hip 'drop' or compensatory limp", "Knee hyperextension only", "No noticeable effect"],
+    "answer": 1,
+    "explanation": "Weak hip abductors lead to pelvic instability and a drop/limp pattern."
+  },
+  {
+    "q": "Which shared action do all six deep hip rotators (piriformis, quadratus femoris, obturators, gemelli) have?",
+    "options": ["Hip flexion", "Medial rotation of the hip", "Lateral rotation of the hip", "Knee extension"],
+    "answer": 2,
+    "explanation": "All six deep hip rotators laterally rotate the hip."
+  },
+  {
+    "q": "Piriformis syndrome occurs because piriformis can compress the:",
+    "options": ["Femoral nerve", "Sciatic nerve", "Obturator nerve", "Tibial artery"],
+    "answer": 1,
+    "explanation": "The sciatic nerve runs through or under piriformis in most people, and compression mimics sciatica."
+  },
+  {
+    "q": "Which muscle is the only member of the quadriceps group that also crosses the hip joint?",
+    "options": ["Vastus lateralis", "Vastus medialis", "Rectus femoris", "Vastus intermedius"],
+    "answer": 2,
+    "explanation": "Rectus femoris crosses both hip and knee, flexing the hip and extending the knee."
+  },
+  {
+    "q": "Vastus lateralis, medialis, and intermedius all share which single action?",
+    "options": ["Hip flexion", "Knee extension only", "Hip extension", "Knee flexion"],
+    "answer": 1,
+    "explanation": "Unlike rectus femoris, the three vastus muscles only extend the knee — they don't cross the hip."
+  },
+  {
+    "q": "Which three muscles form the pes anserine tendon group?",
+    "options": ["Sartorius, gracilis, semitendinosus", "Rectus femoris, gracilis, biceps femoris", "Sartorius, vastus medialis, semimembranosus", "Gracilis, adductor longus, piriformis"],
+    "answer": 0,
+    "explanation": "Sartorius, gracilis, and semitendinosus insert together at the pes anserine."
+  },
+  {
+    "q": "Sartorius is notable for being:",
+    "options": ["The strongest muscle in the body", "The longest muscle in the body, crossing both hip and knee", "A muscle that only extends the hip", "Part of the quadriceps group"],
+    "answer": 1,
+    "explanation": "Sartorius is the longest muscle in the body and crosses both the hip and knee joints."
+  },
+  {
+    "q": "Which muscle group shares a common origin at the ischial tuberosity and flexes the knee while extending the hip?",
+    "options": ["Quadriceps", "Adductors", "Hamstrings", "Deep hip rotators"],
+    "answer": 2,
+    "explanation": "The hamstrings (biceps femoris, semitendinosus, semimembranosus) originate at the ischial tuberosity."
+  },
+  {
+    "q": "Which hamstring muscle has a short head that originates from the femur rather than the ischial tuberosity?",
+    "options": ["Semitendinosus", "Semimembranosus", "Biceps femoris", "Gracilis"],
+    "answer": 2,
+    "explanation": "Biceps femoris has a long head (ischial tuberosity) and a short head (femur)."
+  },
+  {
+    "q": "Which muscle adducts and flexes the hip, and also flexes and medially rotates the knee (crossing two joints)?",
+    "options": ["Adductor magnus", "Gracilis", "Pectineus", "Adductor brevis"],
+    "answer": 1,
+    "explanation": "Gracilis crosses both the hip and knee, contributing to hip adduction/flexion and knee flexion/medial rotation."
+  },
+  {
+    "q": "Which adductor is described as the largest, with both anterior and posterior fibers producing different hip actions?",
+    "options": ["Adductor longus", "Adductor brevis", "Adductor magnus", "Pectineus"],
+    "answer": 2,
+    "explanation": "Adductor magnus is the largest adductor, capable of both flexing and extending the hip due to its dual fiber orientation."
+  },
+  {
+    "q": "Tensor fasciae latae (TFL) inserts into the:",
+    "options": ["Greater trochanter directly", "Iliotibial (IT) band", "Tibial tuberosity", "Ischial tuberosity"],
+    "answer": 1,
+    "explanation": "TFL inserts into the iliotibial band, which runs down the lateral thigh."
+  },
+  {
+    "q": "An anterior pelvic tilt is typically associated with which muscle imbalance?",
+    "options": ["Tight hip extensors, weak hip flexors", "Tight hip flexors, weak hip extensors", "Tight knee flexors only", "No muscular involvement"],
+    "answer": 1,
+    "explanation": "Anterior pelvic tilt typically involves tight hip flexors (iliopsoas, rectus femoris) and weak hip extensors (glutes, hamstrings)."
+  },
+  {
+    "q": "Which muscle's unilateral action includes hip flexion and lateral rotation, originating from the lumbar spine?",
+    "options": ["Iliacus", "Psoas major", "Gluteus maximus", "Adductor longus"],
+    "answer": 1,
+    "explanation": "Psoas major flexes and laterally rotates the hip, originating from T12-L5."
+  },
+  {
+    "q": "Semitendinosus and semimembranosus share which rotation action when the knee is flexed?",
+    "options": ["Lateral rotation of the knee", "Medial rotation of the knee", "No rotational action", "Lateral rotation of the hip"],
+    "answer": 1,
+    "explanation": "Both semitendinosus and semimembranosus medially rotate the flexed knee, unlike biceps femoris which laterally rotates it."
+  },
+  {
+    "q": "Which muscle laterally rotates the flexed knee, distinguishing it from the other two hamstrings?",
+    "options": ["Semitendinosus", "Semimembranosus", "Biceps femoris", "Gracilis"],
+    "answer": 2,
+    "explanation": "Biceps femoris laterally rotates the flexed knee, while the other two hamstrings medially rotate it."
+  },
+  {
+    "q": "Rectus femoris originates from the anterior inferior iliac spine and inserts on the:",
+    "options": ["Ischial tuberosity", "Tibial tuberosity", "Greater trochanter", "Pes anserine"],
+    "answer": 1,
+    "explanation": "Like the other quadriceps muscles, rectus femoris inserts on the tibial tuberosity."
+  }
+]
