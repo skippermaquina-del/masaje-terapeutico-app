@@ -1,0 +1,122 @@
+[
+  {
+    "q": "Which muscle flexes the elbow, supinates the forearm, and assists shoulder flexion?",
+    "options": ["Brachialis", "Biceps brachii", "Triceps brachii", "Pronator teres"],
+    "answer": 1,
+    "explanation": "Biceps brachii performs all three of these actions since it crosses both the shoulder and elbow."
+  },
+  {
+    "q": "Which muscle is a 'pure' elbow flexor with no shoulder or forearm rotation action?",
+    "options": ["Biceps brachii", "Brachialis", "Brachioradialis", "Supinator"],
+    "answer": 1,
+    "explanation": "Brachialis crosses only the elbow joint, making it a pure elbow flexor."
+  },
+  {
+    "q": "Which muscle extends the elbow, with its long head also extending the shoulder?",
+    "options": ["Biceps brachii", "Brachialis", "Triceps brachii", "Brachioradialis"],
+    "answer": 2,
+    "explanation": "Triceps brachii extends the elbow; its long head crosses the shoulder and assists shoulder extension."
+  },
+  {
+    "q": "Which muscle inserts on the styloid process of the radius and flexes the elbow especially in the neutral (thumb-up) position?",
+    "options": ["Brachialis", "Brachioradialis", "Supinator", "Pronator teres"],
+    "answer": 1,
+    "explanation": "Brachioradialis inserts on the radial styloid process and flexes the elbow in neutral position."
+  },
+  {
+    "q": "Which muscle is actually the strongest forearm supinator, more powerful than the muscle literally named 'supinator'?",
+    "options": ["Pronator teres", "Biceps brachii", "Brachioradialis", "Pronator quadratus"],
+    "answer": 1,
+    "explanation": "Biceps brachii is the strongest supinator of the forearm in most positions."
+  },
+  {
+    "q": "Which muscle is described as the 'fine-tuning' pronator, used for small/fast pronation movements?",
+    "options": ["Pronator teres", "Pronator quadratus", "Supinator", "Biceps brachii"],
+    "answer": 1,
+    "explanation": "Pronator quadratus handles fine, fast pronation movements."
+  },
+  {
+    "q": "Most wrist and finger flexor muscles share a common origin at the:",
+    "options": ["Lateral epicondyle", "Medial epicondyle", "Olecranon process", "Radial styloid"],
+    "answer": 1,
+    "explanation": "Most flexors originate from the medial epicondyle of the humerus."
+  },
+  {
+    "q": "Most wrist and finger extensor muscles share a common origin at the:",
+    "options": ["Medial epicondyle", "Lateral epicondyle", "Coronoid process", "Ulnar styloid"],
+    "answer": 1,
+    "explanation": "Most extensors originate from the lateral epicondyle of the humerus."
+  },
+  {
+    "q": "Golfer's elbow (medial epicondylitis) primarily irritates the origin of which muscle group?",
+    "options": ["Wrist extensors", "Wrist flexors", "Elbow flexors only", "Shoulder rotators"],
+    "answer": 1,
+    "explanation": "Golfer's elbow affects the medial epicondyle, the origin of the wrist flexor group."
+  },
+  {
+    "q": "Tennis elbow (lateral epicondylitis) primarily irritates the origin of which muscle group?",
+    "options": ["Wrist flexors", "Wrist extensors", "Forearm pronators", "Shoulder abductors"],
+    "answer": 1,
+    "explanation": "Tennis elbow affects the lateral epicondyle, the origin of the wrist extensor group."
+  },
+  {
+    "q": "Flexor carpi radialis flexes and _____ the wrist.",
+    "options": ["Adducts", "Abducts", "Extends", "Rotates"],
+    "answer": 1,
+    "explanation": "Flexor carpi radialis flexes and abducts the wrist."
+  },
+  {
+    "q": "Flexor carpi ulnaris flexes and _____ the wrist.",
+    "options": ["Abducts", "Adducts", "Extends", "Circumducts"],
+    "answer": 1,
+    "explanation": "Flexor carpi ulnaris flexes and adducts the wrist."
+  },
+  {
+    "q": "Which muscle flexes the wrist and tenses the palmar fascia?",
+    "options": ["Flexor carpi ulnaris", "Palmaris longus", "Extensor carpi radialis", "Flexor digitorum profundus"],
+    "answer": 1,
+    "explanation": "Palmaris longus flexes the wrist and tenses the palm."
+  },
+  {
+    "q": "Which muscle flexes fingers 2-5 at the distal phalanges?",
+    "options": ["Extensor digitorum", "Flexor digitorum profundus", "Palmaris longus", "Opponens pollicis"],
+    "answer": 1,
+    "explanation": "Flexor digitorum profundus flexes the fingers, inserting on the distal phalanges of fingers 2-5."
+  },
+  {
+    "q": "What is the primary action of opponens pollicis?",
+    "options": ["Extends the thumb", "Opposes the thumb across the palm", "Flexes the wrist", "Abducts the fingers"],
+    "answer": 1,
+    "explanation": "Opponens pollicis brings the thumb across the palm to oppose the other fingers."
+  },
+  {
+    "q": "Pronator teres originates near the medial epicondyle and, besides pronating the forearm, also assists:",
+    "options": ["Elbow extension", "Elbow flexion", "Wrist extension", "Shoulder abduction"],
+    "answer": 1,
+    "explanation": "Pronator teres pronates the forearm and assists elbow flexion."
+  },
+  {
+    "q": "Which forearm muscle's action is simply 'supinates the forearm,' with no other joint action?",
+    "options": ["Biceps brachii", "Supinator", "Pronator teres", "Brachioradialis"],
+    "answer": 1,
+    "explanation": "The supinator muscle's sole action is supinating the forearm."
+  },
+  {
+    "q": "Extensor digitorum extends the fingers and also assists in extending the:",
+    "options": ["Elbow", "Wrist", "Shoulder", "Thumb only"],
+    "answer": 1,
+    "explanation": "Extensor digitorum extends both the fingers and the wrist."
+  },
+  {
+    "q": "Which muscle group would be most involved in a repetitive gripping task like using hand tools all day?",
+    "options": ["Only shoulder rotator cuff muscles", "Wrist/finger flexors and extensors", "Only the biceps brachii", "Hip rotator muscles"],
+    "answer": 1,
+    "explanation": "Repetitive gripping and manual tasks primarily stress the wrist/finger flexor and extensor groups."
+  },
+  {
+    "q": "Which muscle's insertion is the radial tuberosity?",
+    "options": ["Brachialis", "Biceps brachii", "Triceps brachii", "Brachioradialis"],
+    "answer": 1,
+    "explanation": "Biceps brachii inserts on the radial tuberosity."
+  }
+]
