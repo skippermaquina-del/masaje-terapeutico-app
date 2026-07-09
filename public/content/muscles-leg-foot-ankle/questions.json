@@ -1,0 +1,122 @@
+[
+  {
+    "q": "Which muscle plantarflexes the ankle AND flexes the knee, since it crosses both joints?",
+    "options": ["Soleus", "Gastrocnemius", "Tibialis posterior", "Peroneus longus"],
+    "answer": 1,
+    "explanation": "Gastrocnemius originates above the knee, so it crosses and acts on both the knee and ankle."
+  },
+  {
+    "q": "Which muscle plantarflexes the ankle but does NOT cross the knee?",
+    "options": ["Gastrocnemius", "Soleus", "Flexor hallucis longus", "Extensor digitorum longus"],
+    "answer": 1,
+    "explanation": "Soleus originates below the knee and only acts on the ankle."
+  },
+  {
+    "q": "Gastrocnemius and soleus share which tendon insertion?",
+    "options": ["Patellar tendon", "Achilles tendon", "Plantar fascia", "Iliotibial band"],
+    "answer": 1,
+    "explanation": "Both muscles insert into the calcaneus via the shared Achilles tendon."
+  },
+  {
+    "q": "A bent-knee calf stretch targets which muscle more specifically?",
+    "options": ["Gastrocnemius", "Soleus", "Tibialis anterior", "Peroneus brevis"],
+    "answer": 1,
+    "explanation": "Bending the knee slackens gastrocnemius, shifting stretch emphasis to soleus."
+  },
+  {
+    "q": "Which muscle is the primary dorsiflexor of the ankle?",
+    "options": ["Gastrocnemius", "Soleus", "Tibialis anterior", "Peroneus longus"],
+    "answer": 2,
+    "explanation": "Tibialis anterior is the primary ankle dorsiflexor."
+  },
+  {
+    "q": "Which muscles are the primary evertors of the foot?",
+    "options": ["Tibialis anterior and posterior", "Peroneus longus and brevis", "Gastrocnemius and soleus", "Extensor and flexor hallucis longus"],
+    "answer": 1,
+    "explanation": "Peroneus (fibularis) longus and brevis are the primary evertors."
+  },
+  {
+    "q": "Which muscles are the primary invertors of the foot?",
+    "options": ["Peroneus longus and brevis", "Tibialis anterior and tibialis posterior", "Gastrocnemius and flexor hallucis longus", "Extensor digitorum longus and soleus"],
+    "answer": 1,
+    "explanation": "Tibialis anterior and tibialis posterior both invert the foot."
+  },
+  {
+    "q": "Tibialis anterior and peroneus longus share a near-identical insertion point at the:",
+    "options": ["Calcaneus", "Base of the 1st metatarsal/medial cuneiform", "Fibular head", "Navicular bone only"],
+    "answer": 1,
+    "explanation": "Both insert near the base of the 1st metatarsal and medial cuneiform, forming a functional 'stirrup.'"
+  },
+  {
+    "q": "'Drop foot,' the inability to dorsiflex the foot, is most associated with a problem in:",
+    "options": ["Gastrocnemius", "Tibialis anterior or its nerve supply", "Peroneus brevis", "Flexor digitorum longus"],
+    "answer": 1,
+    "explanation": "Drop foot results from weakness/damage affecting tibialis anterior or its innervation."
+  },
+  {
+    "q": "After an inversion ankle sprain, strengthening which muscle group is typically part of rehab?",
+    "options": ["Invertors (tibialis anterior/posterior)", "Evertors (peroneals)", "Hip flexors", "Knee extensors"],
+    "answer": 1,
+    "explanation": "Peroneals (evertors) resist the inward-rolling motion responsible for inversion sprains."
+  },
+  {
+    "q": "Which muscle flexes the big toe and also supports the arch of the foot?",
+    "options": ["Extensor hallucis longus", "Flexor hallucis longus", "Tibialis anterior", "Peroneus brevis"],
+    "answer": 1,
+    "explanation": "Flexor hallucis longus flexes the big toe and supports the longitudinal arch."
+  },
+  {
+    "q": "Tibialis posterior's actions include:",
+    "options": ["Dorsiflexion and eversion", "Inversion and plantarflexion", "Extension of toes", "Knee flexion"],
+    "answer": 1,
+    "explanation": "Tibialis posterior inverts the foot and plantarflexes the ankle."
+  },
+  {
+    "q": "Which muscle extends toes 2-5 and assists dorsiflexion?",
+    "options": ["Flexor digitorum longus", "Extensor digitorum longus", "Flexor hallucis longus", "Peroneus longus"],
+    "answer": 1,
+    "explanation": "Extensor digitorum longus extends toes 2-5 and assists dorsiflexion."
+  },
+  {
+    "q": "Which muscle inserts on the base of the 5th metatarsal and everts the foot?",
+    "options": ["Peroneus longus", "Peroneus brevis", "Tibialis posterior", "Flexor digitorum longus"],
+    "answer": 1,
+    "explanation": "Peroneus brevis inserts at the base of the 5th metatarsal and everts the foot."
+  },
+  {
+    "q": "Both gastrocnemius and soleus are sometimes collectively referred to as the:",
+    "options": ["Quadriceps group", "Triceps surae", "Hamstrings", "Deep six rotators"],
+    "answer": 1,
+    "explanation": "Gastrocnemius and soleus together are called the triceps surae."
+  },
+  {
+    "q": "Which muscle's origin is the posterior tibial shaft, inserting on the distal phalanges of toes 2-5?",
+    "options": ["Extensor digitorum longus", "Flexor digitorum longus", "Tibialis anterior", "Peroneus brevis"],
+    "answer": 1,
+    "explanation": "Flexor digitorum longus flexes toes 2-5, originating from the posterior tibia."
+  },
+  {
+    "q": "Assessing knee position (bent vs. straight) during a calf stretch/test helps differentiate involvement of which two muscles?",
+    "options": ["Tibialis anterior and posterior", "Gastrocnemius and soleus", "Peroneus longus and brevis", "Flexor and extensor hallucis longus"],
+    "answer": 1,
+    "explanation": "Since gastrocnemius crosses the knee and soleus doesn't, knee position changes which muscle is more stretched/tested."
+  },
+  {
+    "q": "Extensor hallucis longus's primary actions are:",
+    "options": ["Flexing the big toe and inverting the foot", "Extending the big toe and assisting dorsiflexion", "Everting the foot only", "Plantarflexing the ankle"],
+    "answer": 1,
+    "explanation": "Extensor hallucis longus extends the big toe and assists ankle dorsiflexion."
+  },
+  {
+    "q": "Which muscle group would be most directly involved in someone who habitually walks on their toes (plantarflexed)?",
+    "options": ["Tibialis anterior and extensor digitorum longus", "Gastrocnemius and soleus", "Peroneus longus and brevis only", "Hamstrings"],
+    "answer": 1,
+    "explanation": "Gastrocnemius and soleus are the primary plantarflexors involved in toe-walking."
+  },
+  {
+    "q": "Which of the following muscles assists plantarflexion in addition to its primary eversion action?",
+    "options": ["Tibialis anterior", "Peroneus longus", "Extensor digitorum longus", "Flexor hallucis longus is unrelated to plantarflexion"],
+    "answer": 1,
+    "explanation": "Peroneus longus everts the foot and also assists plantarflexion."
+  }
+]
