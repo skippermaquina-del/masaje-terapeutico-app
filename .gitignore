@@ -12,6 +12,9 @@ dist
 dist-ssr
 *.local
 
+# Supabase env vars — never commit real credentials
+.env
+
 # Source study material (copyrighted textbooks/instructor handouts) —
 # never publish verbatim to the public repo/site. Only derived,
 # rewritten content under public/content/ gets committed.

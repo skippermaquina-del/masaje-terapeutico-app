@@ -17,6 +17,14 @@ import { renderQuiz } from "./quiz";
 
 const app = document.querySelector<HTMLDivElement>("#app")!;
 
+const USER_NAME_KEY = "mt-user-name";
+if (!localStorage.getItem(USER_NAME_KEY)) {
+  const name = prompt("¿Cómo te llamás?");
+  if (name?.trim()) {
+    localStorage.setItem(USER_NAME_KEY, name.trim());
+  }
+}
+
 type Tab = "notes" | "flashcards" | "quiz" | "mindmap" | "audio";
 const TABS: { id: Tab; label: string }[] = [
   { id: "notes", label: "Notes" },
@@ -55,7 +63,7 @@ async function renderDashboard(): Promise<void> {
   `;
 
   const topics = await getTopics();
-  const completed = getCompletedTopics();
+  const completed = await getCompletedTopics();
   const listEl = app.querySelector<HTMLElement>("#topic-list")!;
 
   if (topics.length === 0) {
