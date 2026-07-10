@@ -1,6 +1,7 @@
 import "./style.css";
 import { renderAudio } from "./audio";
 import { renderFlashcards } from "./flashcards";
+import { renderImages } from "./images";
 import {
   getCompletedTopics,
   getTopicFlashcards,
@@ -25,12 +26,13 @@ if (!localStorage.getItem(USER_NAME_KEY)) {
   }
 }
 
-type Tab = "notes" | "flashcards" | "quiz" | "mindmap" | "audio";
+type Tab = "notes" | "flashcards" | "quiz" | "mindmap" | "images" | "audio";
 const TABS: { id: Tab; label: string }[] = [
   { id: "notes", label: "Notes" },
   { id: "flashcards", label: "Flashcards" },
   { id: "quiz", label: "Quiz" },
   { id: "mindmap", label: "Mind Map" },
+  { id: "images", label: "Images" },
   { id: "audio", label: "Audio" },
 ];
 
@@ -159,6 +161,8 @@ async function renderTopicView(slug: string, tab: Tab): Promise<void> {
     } else if (tab === "mindmap") {
       const md = await getTopicMindmap(slug);
       renderMindmap(contentEl, md);
+    } else if (tab === "images") {
+      await renderImages(contentEl, slug, topic.hasImages);
     } else if (tab === "audio") {
       renderAudio(contentEl, slug, topic.hasAudio);
     }

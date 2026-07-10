@@ -7,7 +7,7 @@
     "date": null,
     "questionCount": 20,
     "hasAudio": true,
-    "hasImages": false
+    "hasImages": true
   },
   {
     "slug": "muscles-leg-foot-ankle",
@@ -57,7 +57,7 @@
     "date": null,
     "questionCount": 20,
     "hasAudio": true,
-    "hasImages": false
+    "hasImages": true
   },
   {
     "slug": "sanitation-hygiene-business",
@@ -177,6 +177,6 @@
     "date": null,
     "questionCount": 10,
     "hasAudio": true,
-    "hasImages": false
+    "hasImages": true
   }
 ]
