@@ -1,5 +1,6 @@
 import "./style.css";
 import { renderAudio } from "./audio";
+import { renderChat } from "./chat";
 import { renderFlashcards } from "./flashcards";
 import { renderImages } from "./images";
 import {
@@ -26,7 +27,7 @@ if (!localStorage.getItem(USER_NAME_KEY)) {
   }
 }
 
-type Tab = "notes" | "flashcards" | "quiz" | "mindmap" | "images" | "audio";
+type Tab = "notes" | "flashcards" | "quiz" | "mindmap" | "images" | "audio" | "chat";
 const TABS: { id: Tab; label: string }[] = [
   { id: "notes", label: "Notes" },
   { id: "flashcards", label: "Flashcards" },
@@ -34,6 +35,7 @@ const TABS: { id: Tab; label: string }[] = [
   { id: "mindmap", label: "Mind Map" },
   { id: "images", label: "Images" },
   { id: "audio", label: "Audio" },
+  { id: "chat", label: "Ask AI" },
 ];
 
 function parseHash(): { slug: string | null; tab: Tab } {
@@ -165,6 +167,8 @@ async function renderTopicView(slug: string, tab: Tab): Promise<void> {
       await renderImages(contentEl, slug, topic.hasImages);
     } else if (tab === "audio") {
       renderAudio(contentEl, slug, topic.hasAudio);
+    } else if (tab === "chat") {
+      renderChat(contentEl, slug, topic.title);
     }
   }
 }

@@ -263,3 +263,65 @@ audio {
   margin-top: 0.5rem;
   font-size: 0.85rem;
 }
+
+.chat-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+}
+
+.chat-log {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  max-height: 60vh;
+  overflow-y: auto;
+  padding-right: 0.25rem;
+}
+
+.chat-bubble {
+  padding: 0.6rem 0.8rem;
+  border-radius: var(--radius);
+  white-space: pre-wrap;
+  max-width: 90%;
+  line-height: 1.45;
+}
+
+.chat-bubble-user {
+  align-self: flex-end;
+  background: var(--accent);
+  color: #0b1520;
+}
+
+.chat-bubble-assistant {
+  align-self: flex-start;
+  background: var(--surface-hi);
+  border: 1px solid var(--border);
+}
+
+.chat-bubble-error {
+  align-self: flex-start;
+  background: rgba(255, 107, 107, 0.15);
+  border: 1px solid var(--danger);
+  color: var(--danger);
+}
+
+.chat-form {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.chat-form input {
+  flex: 1;
+  background: var(--surface-hi);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 0.6rem 0.8rem;
+  color: var(--text);
+  font-size: 1rem;
+}
+
+.chat-form input:focus {
+  outline: 2px solid var(--accent);
+  outline-offset: -1px;
+}
