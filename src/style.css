@@ -254,6 +254,9 @@ audio {
   height: auto;
   border-radius: calc(var(--radius) - 4px);
   display: block;
+  /* many Commons diagrams are line art on a transparent background —
+     without this they'd be invisible against the dark card */
+  background: #fff;
 }
 
 .image-card figcaption {

@@ -17,7 +17,7 @@
     "date": null,
     "questionCount": 20,
     "hasAudio": true,
-    "hasImages": false
+    "hasImages": true
   },
   {
     "slug": "muscles-hip-thigh",
@@ -27,7 +27,7 @@
     "date": null,
     "questionCount": 20,
     "hasAudio": true,
-    "hasImages": false
+    "hasImages": true
   },
   {
     "slug": "muscles-arm-forearm-hand",
@@ -37,7 +37,7 @@
     "date": null,
     "questionCount": 20,
     "hasAudio": true,
-    "hasImages": false
+    "hasImages": true
   },
   {
     "slug": "muscles-shoulder-trunk",
@@ -47,7 +47,7 @@
     "date": null,
     "questionCount": 20,
     "hasAudio": true,
-    "hasImages": false
+    "hasImages": true
   },
   {
     "slug": "muscles-head-neck",
@@ -67,7 +67,7 @@
     "date": null,
     "questionCount": 20,
     "hasAudio": true,
-    "hasImages": false
+    "hasImages": true
   },
   {
     "slug": "nutrition-basics",
@@ -77,7 +77,7 @@
     "date": null,
     "questionCount": 20,
     "hasAudio": true,
-    "hasImages": false
+    "hasImages": true
   },
   {
     "slug": "assessment-documentation",
@@ -87,7 +87,7 @@
     "date": null,
     "questionCount": 20,
     "hasAudio": true,
-    "hasImages": false
+    "hasImages": true
   },
   {
     "slug": "circulation-lymphatic-system",
@@ -97,7 +97,7 @@
     "date": null,
     "questionCount": 20,
     "hasAudio": true,
-    "hasImages": false
+    "hasImages": true
   },
   {
     "slug": "nervous-system-dermatomes",
@@ -107,7 +107,7 @@
     "date": null,
     "questionCount": 20,
     "hasAudio": true,
-    "hasImages": false
+    "hasImages": true
   },
   {
     "slug": "body-movements-joint-actions",
@@ -117,7 +117,7 @@
     "date": null,
     "questionCount": 20,
     "hasAudio": true,
-    "hasImages": false
+    "hasImages": true
   },
   {
     "slug": "muscle-function-connective-tissue",
@@ -127,7 +127,7 @@
     "date": null,
     "questionCount": 20,
     "hasAudio": true,
-    "hasImages": false
+    "hasImages": true
   },
   {
     "slug": "anatomical-position-directional-terms",
@@ -137,7 +137,7 @@
     "date": null,
     "questionCount": 20,
     "hasAudio": true,
-    "hasImages": false
+    "hasImages": true
   },
   {
     "slug": "massage-techniques-overview",
@@ -147,7 +147,7 @@
     "date": null,
     "questionCount": 20,
     "hasAudio": true,
-    "hasImages": false
+    "hasImages": true
   },
   {
     "slug": "ethics-boundaries-consent",
@@ -157,7 +157,7 @@
     "date": null,
     "questionCount": 20,
     "hasAudio": true,
-    "hasImages": false
+    "hasImages": true
   },
   {
     "slug": "pathology-contraindications",
@@ -167,7 +167,7 @@
     "date": null,
     "questionCount": 20,
     "hasAudio": true,
-    "hasImages": false
+    "hasImages": true
   },
   {
     "slug": "effleurage",
