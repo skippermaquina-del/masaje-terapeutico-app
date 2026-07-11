@@ -330,15 +330,15 @@
     "explanation": "Traditional guidance places carbohydrates at roughly 55-60% of total diet, with newer guidance sometimes using a 45-65% range."
   },
   {
-    "q": "Complex carbohydrates, such as whole grains and pasta, are generally valued because they:",
+    "q": "Compared to whole foods, highly processed foods generally:",
     "options": [
-      "Cause rapid blood sugar spikes",
-      "Provide more sustained energy than simple sugars",
+      "Contain more added sugar and sodium, with fewer overall nutrients",
+      "Are always more nutritious",
       "Contain no calories",
-      "Are a source of fat-soluble vitamins"
+      "Have identical nutritional value"
     ],
-    "answer": 1,
-    "explanation": "Complex carbohydrates break down more slowly, providing more sustained energy than simple sugars."
+    "answer": 0,
+    "explanation": "Highly processed foods often have added sugar, sodium, and reduced fiber/micronutrients compared to whole foods."
   },
   {
     "q": "High-glycemic foods, which raise blood sugar quickly, are generally most useful:",
@@ -451,26 +451,26 @@
     "explanation": "Vitamins have no caloric value but are essential for many body processes."
   },
   {
-    "q": "Which vitamins are water-soluble, meaning excess amounts are excreted in urine rather than stored?",
+    "q": "Dietary fiber is best described as a type of carbohydrate that:",
     "options": [
-      "A and D",
-      "E and K",
-      "B and C",
-      "All vitamins are water-soluble"
-    ],
-    "answer": 2,
-    "explanation": "B and C vitamins are water-soluble; excess is excreted rather than stored, making them harder to overdose on."
-  },
-  {
-    "q": "Which vitamins are fat-soluble and can build up to toxic levels if consumed in excess over time?",
-    "options": [
-      "B and C",
-      "A, D, E, and K",
-      "Only vitamin C",
-      "None — no vitamins can build up to toxic levels"
+      "Is fully digested and absorbed as sugar",
+      "Is not digested and supports healthy digestion",
+      "Contains no nutritional value whatsoever",
+      "Is classified as a fat-soluble vitamin"
     ],
     "answer": 1,
-    "explanation": "Fat-soluble vitamins (A, D, E, K) are stored in body fat and can accumulate to potentially toxic levels with chronic excess intake."
+    "explanation": "Fiber passes through the digestive system largely undigested, supporting bowel regularity and digestive health."
+  },
+  {
+    "q": "Calcium is a mineral primarily important for:",
+    "options": [
+      "Bone health and muscle contraction",
+      "Vision only",
+      "Blood clotting exclusively",
+      "Producing red blood cells"
+    ],
+    "answer": 0,
+    "explanation": "Calcium supports bone density and is essential for normal muscle contraction and nerve signaling."
   },
   {
     "q": "Minerals are generally needed by the body in what quantity?",
@@ -484,15 +484,15 @@
     "explanation": "Minerals are needed only in small, trace amounts, despite being essential to many body functions."
   },
   {
-    "q": "Which mineral is especially relevant during a client's menstrual years, due to regular blood loss?",
+    "q": "Adequate hydration is particularly relevant to massage therapy clients because water:",
     "options": [
-      "Calcium",
-      "Iron",
-      "Sodium",
-      "Potassium"
+      "Has no effect on muscle or connective tissue",
+      "Supports healthy muscle and connective tissue function",
+      "Should be avoided before a massage session",
+      "Only matters for athletes"
     ],
     "answer": 1,
-    "explanation": "Iron is particularly important during the menstrual years due to regular blood loss."
+    "explanation": "Proper hydration supports tissue pliability and function, which is relevant to how tissue responds to massage."
   },
   {
     "q": "Supplemental iron or calcium beyond what's obtained from food should generally be taken:",
@@ -517,15 +517,15 @@
     "explanation": "Massage therapists provide general nutrition information only, referring specific dietary or medical needs to qualified professionals like a registered dietitian or physician."
   },
   {
-    "q": "If a client asks a massage therapist for a specific herbal supplement dosage, the appropriate response is to:",
+    "q": "A client asks the massage therapist to recommend a specific weight-loss diet plan. The appropriate response is to:",
     "options": [
-      "Recommend a dose based on common practice",
-      "Explain this is outside scope of practice and refer to a qualified provider",
-      "Suggest a friend's dosage as a starting point",
-      "Recommend increasing the dose if unsure"
+      "Design a personalized diet plan for the client",
+      "Explain this is outside scope of practice and refer to a registered dietitian or physician",
+      "Tell the client to stop eating carbohydrates",
+      "Ignore the question entirely"
     ],
     "answer": 1,
-    "explanation": "Specific supplement dosing advice is outside a massage therapist's scope of practice."
+    "explanation": "Prescribing specific diet plans is outside a massage therapist scope of practice — referral to a qualified provider is appropriate."
   },
   {
     "q": "If a client reports that a supplement \"isn't working quickly enough,\" the appropriate response is to:",

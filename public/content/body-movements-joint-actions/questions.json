@@ -836,15 +836,15 @@
     "explanation": "The 'soup/supination' mnemonic reminds students that supination turns the palm upward, as if holding a bowl of soup."
   },
   {
-    "q": "Turning the sole of the foot to face medially (inward) is called:",
+    "q": "Turning the palm to face upward or forward is called:",
     "options": [
-      "Eversion",
+      "Pronation",
+      "Supination",
       "Inversion",
-      "Dorsiflexion",
-      "Plantarflexion"
+      "Eversion"
     ],
     "answer": 1,
-    "explanation": "Inversion turns the sole of the foot to face medially."
+    "explanation": "Supination turns the palm upward (or forward in anatomical position); pronation turns it downward."
   },
   {
     "q": "Turning the sole of the foot to face laterally (outward) is called:",
@@ -891,15 +891,15 @@
     "explanation": "This combined circular motion at the hip is circumduction."
   },
   {
-    "q": "Reaching an arm forward, causing the scapula to slide forward around the rib cage, illustrates scapular:",
+    "q": "Circumduction is best described as:",
     "options": [
-      "Retraction",
-      "Protraction",
-      "Elevation",
-      "Downward rotation"
+      "A single straight-line movement along one plane",
+      "A circular movement combining flexion, extension, abduction, and adduction in sequence",
+      "A movement that only rotates a bone around its own axis",
+      "A movement exclusive to the wrist joint"
     ],
     "answer": 1,
-    "explanation": "This forward sliding of the scapula is protraction, also called scapular abduction."
+    "explanation": "Circumduction is a cone-shaped circular movement that combines flexion, extension, abduction, and adduction in continuous sequence."
   },
   {
     "q": "Pulling the shoulder blades back and together, as in standing at attention, illustrates scapular:",

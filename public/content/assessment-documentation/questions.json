@@ -891,15 +891,15 @@
     "explanation": "Guarding is a cue to adjust approach or ask more questions — it's a signal for clinical judgment, not a diagnostic confirmation."
   },
   {
-    "q": "Comparing range of motion and tissue quality between the left and right sides of the body during assessment is an example of evaluating:",
+    "q": "Observing a client's stride length and weight-bearing pattern while they walk is part of which type of assessment?",
     "options": [
-      "Symmetry/asymmetry",
-      "The chief complaint",
-      "The health history form",
-      "The billing summary"
+      "Palpation assessment",
+      "Gait assessment",
+      "Range of motion assessment",
+      "Health history intake"
     ],
-    "answer": 0,
-    "explanation": "Comparing sides for meaningful differences is a core symmetry/asymmetry assessment technique."
+    "answer": 1,
+    "explanation": "Gait assessment involves visually observing how a client walks, including stride length and weight distribution."
   },
   {
     "q": "Which best reflects an appropriate use of postural assessment findings?",

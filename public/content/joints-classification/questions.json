@@ -451,15 +451,15 @@
     "explanation": "Ball-and-socket joints (shoulder, hip) allow flexion/extension, abduction/adduction, and rotation."
   },
   {
-    "q": "Which synovial joint type allows movement primarily in one plane only?",
+    "q": "The position of a synovial joint where the articulating surfaces fit together most tightly, providing maximum stability and minimal movement, is called the:",
     "options": [
-      "Ball-and-socket",
-      "Hinge",
-      "Saddle",
-      "Condyloid"
+      "Close-packed position",
+      "Open-packed position",
+      "Neutral position",
+      "Resting position (always identical to close-packed)"
     ],
-    "answer": 1,
-    "explanation": "Hinge joints move in a single plane — flexion and extension only."
+    "answer": 0,
+    "explanation": "The close-packed position is where joint surfaces are maximally congruent and stable — e.g., the knee in full extension."
   },
   {
     "q": "Which of the following is an example of a hinge joint?",
@@ -550,7 +550,7 @@
     "explanation": "Saddle joints have reciprocally curved surfaces, like a rider sitting in a saddle."
   },
   {
-    "q": "The carpometacarpal joint of the thumb is what type of synovial joint?",
+    "q": "The sternoclavicular joint, despite functioning somewhat like a ball-and-socket joint, is structurally classified as which synovial joint type?",
     "options": [
       "Hinge",
       "Pivot",
@@ -558,18 +558,18 @@
       "Condyloid"
     ],
     "answer": 2,
-    "explanation": "This saddle joint gives the thumb its wide range of motion, including opposition."
+    "explanation": "The sternoclavicular joint is structurally a saddle joint, even though its functional range of motion resembles a more mobile joint type."
   },
   {
-    "q": "Which synovial joint type allows only short gliding or twisting movements between relatively flat bone surfaces?",
+    "q": "The costovertebral joints, where the ribs articulate with the vertebrae, are classified as which synovial joint type?",
     "options": [
       "Ball-and-socket",
-      "Gliding (plane)",
       "Hinge",
-      "Pivot"
+      "Gliding (plane)",
+      "Saddle"
     ],
-    "answer": 1,
-    "explanation": "Gliding (plane) joints have nearly flat surfaces that slide slightly against each other."
+    "answer": 2,
+    "explanation": "Costovertebral joints are synovial gliding (plane) joints, allowing the small movements needed during breathing."
   },
   {
     "q": "Which of the following is an example of a gliding (plane) joint?",

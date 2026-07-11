@@ -781,15 +781,15 @@
     "explanation": "Gracilis inserts at the pes anserine on the tibia, so besides adducting/flexing the hip it also flexes and medially rotates the knee."
   },
   {
-    "q": "Which three muscles/tendons converge to form the pes anserine on the medial proximal tibia?",
+    "q": "Tensor fasciae latae assists which larger gluteal muscle in abducting and medially rotating the hip?",
     "options": [
-      "Sartorius, gracilis, semitendinosus",
-      "Sartorius, vastus medialis, semimembranosus",
-      "Gracilis, adductor longus, biceps femoris",
-      "Rectus femoris, gracilis, piriformis"
+      "Gluteus maximus",
+      "Gluteus medius",
+      "Gluteus minimus (only)",
+      "Piriformis"
     ],
-    "answer": 0,
-    "explanation": "The mnemonic 'Say Grace before Tea' recalls Sartorius, Gracilis, and semiTendinosus forming the pes anserine."
+    "answer": 1,
+    "explanation": "Tensor fasciae latae works together with gluteus medius (and minimus) as a synergist in hip abduction and medial rotation."
   },
   {
     "q": "Sartorius originates from the:",
