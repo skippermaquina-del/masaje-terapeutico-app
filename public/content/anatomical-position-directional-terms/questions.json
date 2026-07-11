@@ -1,122 +1,1102 @@
 [
   {
     "q": "In the anatomical position, which way do the palms face?",
-    "options": ["Backward", "Forward", "Toward the body", "Downward"],
+    "options": [
+      "Backward",
+      "Forward",
+      "Toward the body",
+      "Downward"
+    ],
     "answer": 1,
     "explanation": "In the anatomical position, the palms, face, and eyes all face forward."
   },
   {
     "q": "A client's forearm is positioned so the radius and ulna are crossed and the palm faces down. This forearm is:",
-    "options": ["Supinated", "Pronated", "Abducted", "Everted"],
+    "options": [
+      "Supinated",
+      "Pronated",
+      "Abducted",
+      "Everted"
+    ],
     "answer": 1,
     "explanation": "Pronation crosses the radius and ulna and turns the palm downward/backward."
   },
   {
     "q": "Which plane divides the body into left and right portions?",
-    "options": ["Frontal (coronal)", "Transverse", "Sagittal", "Oblique"],
+    "options": [
+      "Frontal (coronal)",
+      "Transverse",
+      "Sagittal",
+      "Oblique"
+    ],
     "answer": 2,
     "explanation": "The sagittal plane splits the body into left and right."
   },
   {
     "q": "Flexion and extension occur primarily in which plane?",
-    "options": ["Frontal (coronal)", "Sagittal", "Transverse", "None of the planes"],
+    "options": [
+      "Frontal (coronal)",
+      "Sagittal",
+      "Transverse",
+      "None of the planes"
+    ],
     "answer": 1,
     "explanation": "Flexion and extension are sagittal-plane movements."
   },
   {
     "q": "Abduction and adduction occur primarily in which plane?",
-    "options": ["Sagittal", "Transverse", "Frontal (coronal)", "Midsagittal"],
+    "options": [
+      "Sagittal",
+      "Transverse",
+      "Frontal (coronal)",
+      "Midsagittal"
+    ],
     "answer": 2,
     "explanation": "Abduction and adduction occur in the frontal (coronal) plane."
   },
   {
     "q": "Which plane is associated with rotational movements like trunk rotation?",
-    "options": ["Sagittal", "Frontal", "Transverse", "Coronal"],
+    "options": [
+      "Sagittal",
+      "Frontal",
+      "Transverse",
+      "Coronal"
+    ],
     "answer": 2,
     "explanation": "Rotation occurs in the transverse (horizontal) plane."
   },
   {
     "q": "The thoracic and abdominopelvic cavities are both part of the:",
-    "options": ["Dorsal cavity", "Ventral cavity", "Cranial cavity", "Spinal canal"],
+    "options": [
+      "Dorsal cavity",
+      "Ventral cavity",
+      "Cranial cavity",
+      "Spinal canal"
+    ],
     "answer": 1,
     "explanation": "The ventral cavity contains the thoracic and abdominopelvic cavities, separated by the diaphragm."
   },
   {
     "q": "The brain and spinal cord are contained within the:",
-    "options": ["Ventral cavity", "Abdominopelvic cavity", "Dorsal cavity", "Thoracic cavity"],
+    "options": [
+      "Ventral cavity",
+      "Abdominopelvic cavity",
+      "Dorsal cavity",
+      "Thoracic cavity"
+    ],
     "answer": 2,
     "explanation": "The dorsal cavity includes the cranial cavity (brain) and spinal canal (spinal cord)."
   },
   {
     "q": "The elbow is _____ to the wrist.",
-    "options": ["Distal", "Proximal", "Lateral", "Superficial"],
+    "options": [
+      "Distal",
+      "Proximal",
+      "Lateral",
+      "Superficial"
+    ],
     "answer": 1,
     "explanation": "Proximal means closer to the trunk/root of the limb; the elbow is closer to the trunk than the wrist."
   },
   {
     "q": "Which term describes a structure farther from the skin surface?",
-    "options": ["Superficial", "Deep", "Superior", "Distal"],
+    "options": [
+      "Superficial",
+      "Deep",
+      "Superior",
+      "Distal"
+    ],
     "answer": 1,
     "explanation": "Deep refers to structures farther from the skin surface, closer to the core."
   },
   {
     "q": "The right hand and right foot, relative to each other, are described as:",
-    "options": ["Contralateral", "Bilateral", "Ipsilateral", "Distal"],
+    "options": [
+      "Contralateral",
+      "Bilateral",
+      "Ipsilateral",
+      "Distal"
+    ],
     "answer": 2,
     "explanation": "Ipsilateral means on the same side of the body."
   },
   {
     "q": "Which term refers to the sole of the foot?",
-    "options": ["Palmar", "Plantar", "Dorsal", "Volar"],
+    "options": [
+      "Palmar",
+      "Plantar",
+      "Dorsal",
+      "Volar"
+    ],
     "answer": 1,
     "explanation": "Plantar refers to the sole of the foot."
   },
   {
     "q": "The sternum is _____ to the shoulder.",
-    "options": ["Lateral", "Medial", "Distal", "Superior"],
+    "options": [
+      "Lateral",
+      "Medial",
+      "Distal",
+      "Superior"
+    ],
     "answer": 1,
     "explanation": "Medial means toward the midline; the sternum is closer to the midline than the shoulder."
   },
   {
     "q": "Which structure is superior to the pelvis?",
-    "options": ["The knee", "The ankle", "The heart", "The foot"],
+    "options": [
+      "The knee",
+      "The ankle",
+      "The heart",
+      "The foot"
+    ],
     "answer": 2,
     "explanation": "Superior means toward the head; the heart is above (superior to) the pelvis."
   },
   {
     "q": "The midsagittal (median) plane specifically:",
-    "options": ["Divides the body into unequal left and right parts", "Divides the body into exactly equal left and right halves", "Divides the body into front and back", "Divides the body into top and bottom"],
+    "options": [
+      "Divides the body into unequal left and right parts",
+      "Divides the body into exactly equal left and right halves",
+      "Divides the body into front and back",
+      "Divides the body into top and bottom"
+    ],
     "answer": 1,
     "explanation": "The midsagittal plane is the specific sagittal plane that splits the body into equal left and right halves."
   },
   {
     "q": "Which of the following best describes the 'flexor surface' of the arm?",
-    "options": ["The side where extension occurs", "The side where flexion occurs", "The palm only", "The lateral side of the forearm"],
+    "options": [
+      "The side where extension occurs",
+      "The side where flexion occurs",
+      "The palm only",
+      "The lateral side of the forearm"
+    ],
     "answer": 1,
     "explanation": "The flexor surface is the side of a limb where flexion takes place."
   },
   {
     "q": "Why do professionals always describe location using the anatomical position, even for a client lying prone?",
-    "options": ["It's tradition with no practical use", "It keeps terminology consistent regardless of the client's actual position", "It's only used in surgery", "It only applies to standing exams"],
+    "options": [
+      "It's tradition with no practical use",
+      "It keeps terminology consistent regardless of the client's actual position",
+      "It's only used in surgery",
+      "It only applies to standing exams"
+    ],
     "answer": 1,
     "explanation": "Using the anatomical position as the universal reference keeps directional terms unambiguous no matter how the client is actually positioned."
   },
   {
     "q": "Which cavity separation is created by the diaphragm?",
-    "options": ["Cranial vs spinal", "Thoracic vs abdominopelvic", "Sagittal vs frontal", "Proximal vs distal"],
+    "options": [
+      "Cranial vs spinal",
+      "Thoracic vs abdominopelvic",
+      "Sagittal vs frontal",
+      "Proximal vs distal"
+    ],
     "answer": 1,
     "explanation": "The diaphragm separates the thoracic cavity above from the abdominopelvic cavity below."
   },
   {
     "q": "A structure located between two other structures is described as:",
-    "options": ["Intermediate", "Contralateral", "Distal", "Superior"],
+    "options": [
+      "Intermediate",
+      "Contralateral",
+      "Distal",
+      "Superior"
+    ],
     "answer": 0,
     "explanation": "Intermediate describes a position between two other structures."
   },
   {
     "q": "Which pair correctly matches a plane with its alternate name?",
-    "options": ["Sagittal = horizontal", "Frontal = coronal", "Transverse = sagittal", "Coronal = transverse"],
+    "options": [
+      "Sagittal = horizontal",
+      "Frontal = coronal",
+      "Transverse = sagittal",
+      "Coronal = transverse"
+    ],
     "answer": 1,
     "explanation": "The frontal plane is also called the coronal plane."
+  },
+  {
+    "q": "In the anatomical position, how are the feet positioned?",
+    "options": [
+      "Turned outward at 45 degrees",
+      "Together, standing on toes",
+      "Flat on the floor, facing forward",
+      "Crossed at the ankles"
+    ],
+    "answer": 2,
+    "explanation": "In the anatomical position, the feet are flat on the floor and facing forward."
+  },
+  {
+    "q": "In the anatomical position, where do the eyes and face point?",
+    "options": [
+      "Downward",
+      "To the side",
+      "Forward",
+      "Backward"
+    ],
+    "answer": 2,
+    "explanation": "In the anatomical position, the eyes and face point forward, along with the palms."
+  },
+  {
+    "q": "In the anatomical position, where are the arms positioned?",
+    "options": [
+      "Raised overhead",
+      "Crossed over the chest",
+      "At the sides of the body",
+      "Behind the back"
+    ],
+    "answer": 2,
+    "explanation": "In the anatomical position, the arms hang at the sides of the body."
+  },
+  {
+    "q": "Why is the forearm supinated (not pronated) in the standard anatomical position?",
+    "options": [
+      "It is more comfortable to hold long-term",
+      "It positions the palms forward, the defined reference position",
+      "Pronation is impossible to sustain",
+      "It has no defined reason"
+    ],
+    "answer": 1,
+    "explanation": "Supination turns the palms forward, which is part of the definition of the anatomical position."
+  },
+  {
+    "q": "Anterior is best defined as:",
+    "options": [
+      "Toward the back",
+      "Toward the front",
+      "Toward the midline",
+      "Away from the midline"
+    ],
+    "answer": 1,
+    "explanation": "Anterior means toward the front of the body."
+  },
+  {
+    "q": "Posterior is best defined as:",
+    "options": [
+      "Toward the front",
+      "Toward the back",
+      "Toward the head",
+      "Toward the feet"
+    ],
+    "answer": 1,
+    "explanation": "Posterior means toward the back of the body."
+  },
+  {
+    "q": "Which of the following correctly uses 'anterior'?",
+    "options": [
+      "The spine is anterior to the sternum",
+      "The sternum is anterior to the spine",
+      "The scapula is anterior to the ribs",
+      "The heel is anterior to the toes"
+    ],
+    "answer": 1,
+    "explanation": "The sternum lies toward the front of the body relative to the spine, making it anterior to the spine."
+  },
+  {
+    "q": "Which of the following correctly uses 'posterior'?",
+    "options": [
+      "The scapula is posterior to the ribs",
+      "The sternum is posterior to the spine",
+      "The nose is posterior to the ears",
+      "The palm is posterior to the back of the hand"
+    ],
+    "answer": 0,
+    "explanation": "The scapula lies toward the back of the ribcage, making it posterior to the ribs."
+  },
+  {
+    "q": "Superior means:",
+    "options": [
+      "Toward the feet",
+      "Toward the head",
+      "Toward the midline",
+      "Away from the skin surface"
+    ],
+    "answer": 1,
+    "explanation": "Superior means toward the head or upper part of the body."
+  },
+  {
+    "q": "Inferior means:",
+    "options": [
+      "Toward the head",
+      "Toward the feet",
+      "Away from the midline",
+      "Closer to the trunk"
+    ],
+    "answer": 1,
+    "explanation": "Inferior means toward the feet or lower part of the body."
+  },
+  {
+    "q": "Which statement correctly uses 'superior'?",
+    "options": [
+      "The shoulder is superior to the elbow",
+      "The elbow is superior to the shoulder",
+      "The foot is superior to the knee",
+      "The hip is superior to the shoulder"
+    ],
+    "answer": 0,
+    "explanation": "The shoulder is positioned above (superior to) the elbow."
+  },
+  {
+    "q": "Which statement correctly uses 'inferior'?",
+    "options": [
+      "The hip is inferior to the knee",
+      "The knee is inferior to the hip",
+      "The shoulder is inferior to the elbow",
+      "The head is inferior to the neck"
+    ],
+    "answer": 1,
+    "explanation": "The knee is positioned below (inferior to) the hip."
+  },
+  {
+    "q": "Lateral means:",
+    "options": [
+      "Toward the midline",
+      "Away from the midline",
+      "Toward the trunk",
+      "Away from the trunk"
+    ],
+    "answer": 1,
+    "explanation": "Lateral means away from the midline of the body."
+  },
+  {
+    "q": "Which statement correctly uses 'lateral'?",
+    "options": [
+      "The nose is lateral to the ear",
+      "The ear is lateral to the nose",
+      "The sternum is lateral to the shoulder",
+      "The spine is lateral to the ribs"
+    ],
+    "answer": 1,
+    "explanation": "The ear sits farther from the midline than the nose, making it lateral to the nose."
+  },
+  {
+    "q": "Distal means:",
+    "options": [
+      "Closer to the trunk or root of a limb",
+      "Farther from the trunk or root of a limb",
+      "Closer to the skin",
+      "Farther from the skin"
+    ],
+    "answer": 1,
+    "explanation": "Distal means farther from the trunk or point of attachment of a limb."
+  },
+  {
+    "q": "Which statement correctly uses 'distal'?",
+    "options": [
+      "The wrist is distal to the fingers",
+      "The fingers are distal to the wrist",
+      "The shoulder is distal to the elbow",
+      "The hip is distal to the knee"
+    ],
+    "answer": 1,
+    "explanation": "The fingers are farther from the trunk than the wrist, making them distal to the wrist."
+  },
+  {
+    "q": "Superficial means:",
+    "options": [
+      "Farther from the skin surface",
+      "Closer to the skin surface",
+      "Toward the midline",
+      "Away from the midline"
+    ],
+    "answer": 1,
+    "explanation": "Superficial means closer to the surface of the skin."
+  },
+  {
+    "q": "Which statement correctly uses 'superficial'?",
+    "options": [
+      "Bone is superficial to skin",
+      "Skin is superficial to muscle",
+      "Muscle is superficial to skin",
+      "Deep fascia is superficial to skin"
+    ],
+    "answer": 1,
+    "explanation": "Skin lies closer to the surface than the underlying muscle, making it superficial to muscle."
+  },
+  {
+    "q": "Contralateral means:",
+    "options": [
+      "Same side of the body",
+      "Opposite side of the body",
+      "Closer to the trunk",
+      "Farther from the trunk"
+    ],
+    "answer": 1,
+    "explanation": "Contralateral means located on the opposite side of the body."
+  },
+  {
+    "q": "Which pair of structures is correctly described as contralateral?",
+    "options": [
+      "The right hand and right foot",
+      "The right hand and left foot",
+      "The right eye and right ear",
+      "The left knee and left ankle"
+    ],
+    "answer": 1,
+    "explanation": "The right hand and left foot are on opposite sides of the body, making them contralateral."
+  },
+  {
+    "q": "Which term is a synonym for 'superior' (toward the head)?",
+    "options": [
+      "Caudal",
+      "Cranial (cephalad)",
+      "Ventral",
+      "Dorsal"
+    ],
+    "answer": 1,
+    "explanation": "Cranial (or cephalad) is a synonym for superior, meaning toward the head."
+  },
+  {
+    "q": "Which term is a synonym for 'inferior' (toward the feet)?",
+    "options": [
+      "Cranial",
+      "Cephalad",
+      "Caudal",
+      "Dorsal"
+    ],
+    "answer": 2,
+    "explanation": "Caudal is a synonym for inferior, meaning toward the tail/feet end of the body."
+  },
+  {
+    "q": "Which term is a synonym for 'anterior'?",
+    "options": [
+      "Dorsal",
+      "Ventral",
+      "Caudal",
+      "Cranial"
+    ],
+    "answer": 1,
+    "explanation": "Ventral is a synonym for anterior, meaning toward the front of the body."
+  },
+  {
+    "q": "Which term is a synonym for 'posterior'?",
+    "options": [
+      "Ventral",
+      "Dorsal",
+      "Cephalad",
+      "Distal"
+    ],
+    "answer": 1,
+    "explanation": "Dorsal is a synonym for posterior, meaning toward the back of the body."
+  },
+  {
+    "q": "The term 'volar', sometimes used interchangeably with palmar, refers to:",
+    "options": [
+      "The sole of the foot",
+      "The palm side of the hand",
+      "The back of the hand",
+      "The top of the foot"
+    ],
+    "answer": 1,
+    "explanation": "Volar is an alternate term for the palmar (palm) surface of the hand."
+  },
+  {
+    "q": "In older or alternate terminology, 'cephalad' means movement toward the:",
+    "options": [
+      "Feet",
+      "Head",
+      "Midline",
+      "Skin surface"
+    ],
+    "answer": 1,
+    "explanation": "Cephalad means directed toward the head, synonymous with superior/cranial."
+  },
+  {
+    "q": "Besides flexion and extension, which other sagittal-plane movements occur at the ankle?",
+    "options": [
+      "Abduction and adduction",
+      "Dorsiflexion and plantarflexion",
+      "Elevation and depression",
+      "Medial and lateral rotation"
+    ],
+    "answer": 1,
+    "explanation": "Dorsiflexion and plantarflexion at the ankle are additional sagittal-plane movements."
+  },
+  {
+    "q": "Which movements occur in the frontal (coronal) plane besides abduction and adduction?",
+    "options": [
+      "Flexion and extension",
+      "Elevation and depression",
+      "Dorsiflexion and plantarflexion",
+      "Pronation and supination"
+    ],
+    "answer": 1,
+    "explanation": "Elevation and depression (e.g., of the scapula) also occur in the frontal plane."
+  },
+  {
+    "q": "Medial and lateral rotation of the trunk or limbs occur primarily in which plane?",
+    "options": [
+      "Sagittal",
+      "Frontal",
+      "Transverse",
+      "Oblique only"
+    ],
+    "answer": 2,
+    "explanation": "Rotational movements occur in the transverse (horizontal) plane."
+  },
+  {
+    "q": "A plane that divides the body into unequal left and right portions (parallel to, but offset from, the midline) is called a:",
+    "options": [
+      "Midsagittal plane",
+      "Parasagittal plane",
+      "Frontal plane",
+      "Transverse plane"
+    ],
+    "answer": 1,
+    "explanation": "A parasagittal plane runs parallel to the midsagittal plane but produces unequal left and right portions."
+  },
+  {
+    "q": "Which plane would you use to divide the body into a front half and a back half?",
+    "options": [
+      "Sagittal",
+      "Frontal (coronal)",
+      "Transverse",
+      "Midsagittal"
+    ],
+    "answer": 1,
+    "explanation": "The frontal (coronal) plane divides the body into anterior and posterior portions."
+  },
+  {
+    "q": "Which plane would divide the body into upper (superior) and lower (inferior) portions?",
+    "options": [
+      "Sagittal",
+      "Frontal",
+      "Transverse (horizontal)",
+      "Coronal"
+    ],
+    "answer": 2,
+    "explanation": "The transverse (horizontal) plane divides the body into superior and inferior portions."
+  },
+  {
+    "q": "A plane that does not run purely along a single anatomical axis (a diagonal cut) is called:",
+    "options": [
+      "Sagittal",
+      "Frontal",
+      "Transverse",
+      "Oblique"
+    ],
+    "answer": 3,
+    "explanation": "An oblique plane is a diagonal section that does not align with the standard sagittal, frontal, or transverse planes."
+  },
+  {
+    "q": "Movements that combine multiple planes (e.g., a full circular motion of the arm) are described as:",
+    "options": [
+      "Circumduction",
+      "Flexion",
+      "Rotation only",
+      "Adduction only"
+    ],
+    "answer": 0,
+    "explanation": "Circumduction combines flexion, extension, abduction, and adduction into a circular movement across multiple planes."
+  },
+  {
+    "q": "The two main body cavities are the:",
+    "options": [
+      "Cranial and spinal cavities",
+      "Ventral and dorsal cavities",
+      "Thoracic and pelvic cavities",
+      "Abdominal and pelvic cavities"
+    ],
+    "answer": 1,
+    "explanation": "The body is broadly divided into the ventral (anterior) and dorsal (posterior) cavities."
+  },
+  {
+    "q": "The dorsal cavity is subdivided into the:",
+    "options": [
+      "Thoracic and abdominal cavities",
+      "Cranial cavity and spinal (vertebral) canal",
+      "Pelvic and abdominal cavities",
+      "Pleural and pericardial cavities"
+    ],
+    "answer": 1,
+    "explanation": "The dorsal cavity contains the cranial cavity (housing the brain) and the spinal canal (housing the spinal cord)."
+  },
+  {
+    "q": "The ventral cavity is subdivided into the:",
+    "options": [
+      "Cranial and spinal cavities",
+      "Thoracic cavity and abdominopelvic cavity",
+      "Pericardial and peritoneal cavities only",
+      "Dorsal and lateral cavities"
+    ],
+    "answer": 1,
+    "explanation": "The ventral cavity contains the thoracic cavity and abdominopelvic cavity, separated by the diaphragm."
+  },
+  {
+    "q": "Within the thoracic cavity, the space containing the heart is more specifically called the:",
+    "options": [
+      "Pleural cavity",
+      "Peritoneal cavity",
+      "Pericardial cavity",
+      "Cranial cavity"
+    ],
+    "answer": 2,
+    "explanation": "The pericardial cavity is the space directly surrounding the heart."
+  },
+  {
+    "q": "Within the thoracic cavity, the space surrounding each lung is called the:",
+    "options": [
+      "Pericardial cavity",
+      "Pleural cavity",
+      "Peritoneal cavity",
+      "Abdominal cavity"
+    ],
+    "answer": 1,
+    "explanation": "Each lung is surrounded by its own pleural cavity within the thoracic cavity."
+  },
+  {
+    "q": "The central region of the thoracic cavity, located between the lungs and containing the heart, great vessels, and esophagus, is called the:",
+    "options": [
+      "Mediastinum",
+      "Peritoneum",
+      "Retroperitoneum",
+      "Diaphragm"
+    ],
+    "answer": 0,
+    "explanation": "The mediastinum is the central compartment of the thoracic cavity, between the two lungs."
+  },
+  {
+    "q": "The abdominopelvic cavity's membrane-lined space containing the digestive organs is called the:",
+    "options": [
+      "Pleural cavity",
+      "Peritoneal cavity",
+      "Pericardial cavity",
+      "Cranial cavity"
+    ],
+    "answer": 1,
+    "explanation": "The peritoneal cavity is the membrane-lined space of the abdomen containing most digestive organs."
+  },
+  {
+    "q": "The cranial cavity houses the:",
+    "options": [
+      "Spinal cord",
+      "Brain",
+      "Heart",
+      "Lungs"
+    ],
+    "answer": 1,
+    "explanation": "The cranial cavity, formed by the skull, houses and protects the brain."
+  },
+  {
+    "q": "The spinal (vertebral) canal houses the:",
+    "options": [
+      "Brain",
+      "Spinal cord",
+      "Heart",
+      "Kidneys"
+    ],
+    "answer": 1,
+    "explanation": "The spinal (vertebral) canal, formed by the vertebral column, houses and protects the spinal cord."
+  },
+  {
+    "q": "Which structure separates the thoracic cavity from the abdominopelvic cavity?",
+    "options": [
+      "The mediastinum",
+      "The diaphragm",
+      "The pericardium",
+      "The peritoneum"
+    ],
+    "answer": 1,
+    "explanation": "The diaphragm is the muscular structure separating the thoracic cavity above from the abdominopelvic cavity below."
+  },
+  {
+    "q": "For a quick clinical description, the abdomen can be divided into four regions called:",
+    "options": [
+      "Quadrants",
+      "Sectors",
+      "Zones",
+      "Segments"
+    ],
+    "answer": 0,
+    "explanation": "The abdomen is commonly divided into four quadrants for quick clinical reference."
+  },
+  {
+    "q": "The four abdominal quadrants are named using which two directional term pairs?",
+    "options": [
+      "Superior/inferior and medial/lateral",
+      "Right/left and upper/lower",
+      "Anterior/posterior and proximal/distal",
+      "Superficial/deep and ipsilateral/contralateral"
+    ],
+    "answer": 1,
+    "explanation": "The abdominal quadrants are named by combining right/left with upper/lower (e.g., right upper quadrant)."
+  },
+  {
+    "q": "The appendix is typically located in which abdominal quadrant?",
+    "options": [
+      "Right upper quadrant (RUQ)",
+      "Left upper quadrant (LUQ)",
+      "Right lower quadrant (RLQ)",
+      "Left lower quadrant (LLQ)"
+    ],
+    "answer": 2,
+    "explanation": "The appendix is typically found in the right lower quadrant of the abdomen."
+  },
+  {
+    "q": "Most of the liver is located in which abdominal quadrant?",
+    "options": [
+      "Right upper quadrant (RUQ)",
+      "Left upper quadrant (LUQ)",
+      "Right lower quadrant (RLQ)",
+      "Left lower quadrant (LLQ)"
+    ],
+    "answer": 0,
+    "explanation": "The bulk of the liver sits in the right upper quadrant of the abdomen."
+  },
+  {
+    "q": "A more detailed nine-region division of the abdomen includes the central region around the navel, called the:",
+    "options": [
+      "Epigastric region",
+      "Umbilical region",
+      "Hypogastric region",
+      "Lumbar region"
+    ],
+    "answer": 1,
+    "explanation": "The umbilical region is the central abdominal region surrounding the navel."
+  },
+  {
+    "q": "The abdominal region directly above the umbilical region, between the two lower ribs, is called the:",
+    "options": [
+      "Hypogastric region",
+      "Epigastric region",
+      "Iliac region",
+      "Hypochondriac region"
+    ],
+    "answer": 1,
+    "explanation": "The epigastric region sits above the umbilical region, below the ribs."
+  },
+  {
+    "q": "The abdominal region directly below the umbilical region is called the:",
+    "options": [
+      "Epigastric region",
+      "Hypogastric (pubic) region",
+      "Hypochondriac region",
+      "Lumbar region"
+    ],
+    "answer": 1,
+    "explanation": "The hypogastric (pubic) region sits directly below the umbilical region."
+  },
+  {
+    "q": "The paired abdominal regions on either side of the epigastric region, under the ribs, are called the:",
+    "options": [
+      "Lumbar regions",
+      "Iliac (inguinal) regions",
+      "Hypochondriac regions",
+      "Hypogastric regions"
+    ],
+    "answer": 2,
+    "explanation": "The right and left hypochondriac regions flank the epigastric region, beneath the ribs."
+  },
+  {
+    "q": "The term 'axillary' refers to the region of the:",
+    "options": [
+      "Elbow",
+      "Armpit",
+      "Groin",
+      "Wrist"
+    ],
+    "answer": 1,
+    "explanation": "Axillary refers to the armpit region."
+  },
+  {
+    "q": "The term 'antecubital' refers to the region:",
+    "options": [
+      "Behind the knee",
+      "In front of the elbow",
+      "Behind the elbow",
+      "At the wrist"
+    ],
+    "answer": 1,
+    "explanation": "Antecubital refers to the anterior surface of the elbow."
+  },
+  {
+    "q": "The term 'brachial' refers to the region of the:",
+    "options": [
+      "Forearm",
+      "Upper arm",
+      "Hand",
+      "Shoulder blade"
+    ],
+    "answer": 1,
+    "explanation": "Brachial refers to the upper arm, between the shoulder and elbow."
+  },
+  {
+    "q": "The term 'antebrachial' refers to the region of the:",
+    "options": [
+      "Upper arm",
+      "Forearm",
+      "Hand",
+      "Upper leg"
+    ],
+    "answer": 1,
+    "explanation": "Antebrachial refers to the forearm, between the elbow and wrist."
+  },
+  {
+    "q": "The term 'carpal' refers to the region of the:",
+    "options": [
+      "Wrist",
+      "Ankle",
+      "Fingers",
+      "Palm only"
+    ],
+    "answer": 0,
+    "explanation": "Carpal refers to the wrist region."
+  },
+  {
+    "q": "The term 'palmar' refers to the:",
+    "options": [
+      "Sole of the foot",
+      "Palm of the hand",
+      "Back of the hand",
+      "Back of the foot"
+    ],
+    "answer": 1,
+    "explanation": "Palmar refers to the palm side of the hand."
+  },
+  {
+    "q": "The term 'sternal' refers to the region of the:",
+    "options": [
+      "Upper back",
+      "Breastbone/chest midline",
+      "Shoulder blade",
+      "Collarbone"
+    ],
+    "answer": 1,
+    "explanation": "Sternal refers to the region of the sternum (breastbone), at the anterior chest midline."
+  },
+  {
+    "q": "The term 'cervical' refers to the region of the:",
+    "options": [
+      "Neck",
+      "Lower back",
+      "Chest",
+      "Head"
+    ],
+    "answer": 0,
+    "explanation": "Cervical refers to the neck region."
+  },
+  {
+    "q": "The term 'scapular' refers to the region of the:",
+    "options": [
+      "Collarbone",
+      "Shoulder blade",
+      "Breastbone",
+      "Upper arm"
+    ],
+    "answer": 1,
+    "explanation": "Scapular refers to the region of the shoulder blade (scapula)."
+  },
+  {
+    "q": "The term 'lumbar' refers to the region of the:",
+    "options": [
+      "Neck",
+      "Mid-back (thoracic spine)",
+      "Lower back",
+      "Sacrum"
+    ],
+    "answer": 2,
+    "explanation": "Lumbar refers to the lower back region."
+  },
+  {
+    "q": "The term 'popliteal' refers to the region:",
+    "options": [
+      "In front of the knee",
+      "Behind the knee",
+      "At the ankle",
+      "At the hip"
+    ],
+    "answer": 1,
+    "explanation": "Popliteal refers to the posterior surface of the knee."
+  },
+  {
+    "q": "The term 'inguinal' refers to the region of the:",
+    "options": [
+      "Armpit",
+      "Groin",
+      "Knee",
+      "Elbow"
+    ],
+    "answer": 1,
+    "explanation": "Inguinal refers to the groin region."
+  },
+  {
+    "q": "The term 'femoral' refers to the region of the:",
+    "options": [
+      "Lower leg",
+      "Thigh",
+      "Foot",
+      "Hip bone"
+    ],
+    "answer": 1,
+    "explanation": "Femoral refers to the thigh region."
+  },
+  {
+    "q": "The term 'crural' refers to the region of the:",
+    "options": [
+      "Thigh",
+      "Lower leg (between knee and ankle)",
+      "Foot",
+      "Hip"
+    ],
+    "answer": 1,
+    "explanation": "Crural refers to the lower leg, between the knee and ankle."
+  },
+  {
+    "q": "The term 'tarsal' refers to the region of the:",
+    "options": [
+      "Wrist",
+      "Ankle",
+      "Fingers",
+      "Toes"
+    ],
+    "answer": 1,
+    "explanation": "Tarsal refers to the ankle region."
+  },
+  {
+    "q": "The term 'plantar' refers to the:",
+    "options": [
+      "Palm of the hand",
+      "Sole of the foot",
+      "Top of the foot",
+      "Back of the hand"
+    ],
+    "answer": 1,
+    "explanation": "Plantar refers to the sole (bottom) of the foot."
+  },
+  {
+    "q": "The term 'gluteal' refers to the region of the:",
+    "options": [
+      "Lower back",
+      "Buttocks",
+      "Hip joint only",
+      "Thigh"
+    ],
+    "answer": 1,
+    "explanation": "Gluteal refers to the buttocks region."
+  },
+  {
+    "q": "The term 'coxal' refers to the region of the:",
+    "options": [
+      "Hip",
+      "Knee",
+      "Ankle",
+      "Shoulder"
+    ],
+    "answer": 0,
+    "explanation": "Coxal refers to the hip region."
+  },
+  {
+    "q": "The term 'patellar' refers to the region of the:",
+    "options": [
+      "Ankle",
+      "Kneecap",
+      "Heel",
+      "Hip"
+    ],
+    "answer": 1,
+    "explanation": "Patellar refers to the kneecap (patella) region."
+  },
+  {
+    "q": "The term 'pedal' refers to the:",
+    "options": [
+      "Hand",
+      "Foot",
+      "Wrist",
+      "Elbow"
+    ],
+    "answer": 1,
+    "explanation": "Pedal refers to the foot."
+  },
+  {
+    "q": "A client lying face-up on the table is in which position?",
+    "options": [
+      "Prone",
+      "Supine",
+      "Side-lying",
+      "Trendelenburg"
+    ],
+    "answer": 1,
+    "explanation": "Supine describes a client lying face-up."
+  },
+  {
+    "q": "A client lying face-down on the table is in which position?",
+    "options": [
+      "Supine",
+      "Prone",
+      "Lateral recumbent",
+      "Fowler's"
+    ],
+    "answer": 1,
+    "explanation": "Prone describes a client lying face-down."
+  },
+  {
+    "q": "A client lying on their side, often used for pregnancy or certain conditions, is in which position?",
+    "options": [
+      "Supine",
+      "Prone",
+      "Side-lying (lateral recumbent)",
+      "Semi-Fowler's"
+    ],
+    "answer": 2,
+    "explanation": "Side-lying (lateral recumbent) describes a client positioned on one side."
+  },
+  {
+    "q": "Directional terms like 'anterior' and 'posterior' still refer to the standard anatomical position even when a client is:",
+    "options": [
+      "Only when standing",
+      "Lying supine, prone, or side-lying on the table",
+      "Never — they only apply when standing",
+      "Only during a physical exam"
+    ],
+    "answer": 1,
+    "explanation": "Directional terms are always referenced to the anatomical position, regardless of how the client is actually positioned on the table."
+  },
+  {
+    "q": "A condition or structure affecting only one side of the body is described as:",
+    "options": [
+      "Bilateral",
+      "Unilateral",
+      "Ipsilateral only",
+      "Contralateral only"
+    ],
+    "answer": 1,
+    "explanation": "Unilateral means affecting or occurring on only one side of the body."
+  },
+  {
+    "q": "A condition or structure affecting both sides of the body is described as:",
+    "options": [
+      "Unilateral",
+      "Bilateral",
+      "Proximal",
+      "Distal"
+    ],
+    "answer": 1,
+    "explanation": "Bilateral means affecting or occurring on both sides of the body."
+  },
+  {
+    "q": "Bone lying deep to a superficial layer of skeletal muscle demonstrates which relationship?",
+    "options": [
+      "The bone is superficial to the muscle",
+      "The muscle is deep to the bone",
+      "The bone is deep to the muscle",
+      "The bone and muscle are at the same depth by definition"
+    ],
+    "answer": 2,
+    "explanation": "If muscle is superficial, the underlying bone is, by definition, deep to that muscle."
+  },
+  {
+    "q": "Why do massage therapists and other healthcare professionals rely on standardized directional terminology instead of casual descriptions like 'up' or 'down'?",
+    "options": [
+      "Casual terms are equally precise",
+      "Standardized terms eliminate ambiguity and communicate clearly regardless of body position or observer orientation",
+      "There is no professional reason, it is just tradition",
+      "Only surgeons need this precision"
+    ],
+    "answer": 1,
+    "explanation": "Standardized anatomical terminology removes ambiguity so professionals can communicate precisely regardless of the client's position or the observer's viewpoint."
   }
 ]

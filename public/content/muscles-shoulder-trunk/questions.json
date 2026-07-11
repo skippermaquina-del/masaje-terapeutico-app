@@ -1,122 +1,1102 @@
 [
   {
     "q": "Which muscle group specifically moves the scapula and/or clavicle, rather than the humerus?",
-    "options": ["Rotator cuff muscles", "Shoulder girdle muscles", "Deltoid fibers only", "Hamstrings"],
+    "options": [
+      "Rotator cuff muscles",
+      "Shoulder girdle muscles",
+      "Deltoid fibers only",
+      "Hamstrings"
+    ],
     "answer": 1,
     "explanation": "Shoulder girdle muscles attach to or move the scapula/clavicle rather than the humerus directly."
   },
   {
     "q": "Which trapezius fibers are responsible for retracting the scapula?",
-    "options": ["Upper fibers", "Middle fibers", "Lower fibers", "All fibers equally"],
+    "options": [
+      "Upper fibers",
+      "Middle fibers",
+      "Lower fibers",
+      "All fibers equally"
+    ],
     "answer": 1,
     "explanation": "The middle trapezius fibers retract the scapula."
   },
   {
     "q": "Weakness in which muscle classically causes a 'winged scapula'?",
-    "options": ["Rhomboid major", "Serratus anterior", "Pectoralis minor", "Levator scapulae"],
+    "options": [
+      "Rhomboid major",
+      "Serratus anterior",
+      "Pectoralis minor",
+      "Levator scapulae"
+    ],
     "answer": 1,
     "explanation": "Serratus anterior holds the scapula flat against the rib cage; weakness causes winging."
   },
   {
     "q": "Which muscle both elevates and downwardly rotates the scapula, and also laterally flexes the neck?",
-    "options": ["Serratus anterior", "Levator scapulae", "Pectoralis minor", "Trapezius (lower fibers)"],
+    "options": [
+      "Serratus anterior",
+      "Levator scapulae",
+      "Pectoralis minor",
+      "Trapezius (lower fibers)"
+    ],
     "answer": 1,
     "explanation": "Levator scapulae elevates and downwardly rotates the scapula, and laterally flexes the neck."
   },
   {
     "q": "The rhomboids (major and minor) primarily:",
-    "options": ["Protract and upwardly rotate the scapula", "Retract and downwardly rotate the scapula", "Depress the scapula only", "Abduct the shoulder"],
+    "options": [
+      "Protract and upwardly rotate the scapula",
+      "Retract and downwardly rotate the scapula",
+      "Depress the scapula only",
+      "Abduct the shoulder"
+    ],
     "answer": 1,
     "explanation": "Rhomboids retract and downwardly rotate the scapula."
   },
   {
     "q": "Which muscle is nicknamed the 'six-pack' muscle?",
-    "options": ["External oblique", "Transverse abdominis", "Rectus abdominis", "Erector spinae"],
+    "options": [
+      "External oblique",
+      "Transverse abdominis",
+      "Rectus abdominis",
+      "Erector spinae"
+    ],
     "answer": 2,
     "explanation": "Rectus abdominis gives the visible 'six-pack' appearance when well-developed and lean."
   },
   {
     "q": "Bilateral contraction of the erector spinae group produces:",
-    "options": ["Spine flexion", "Spine extension", "Only lateral flexion", "Rotation only"],
+    "options": [
+      "Spine flexion",
+      "Spine extension",
+      "Only lateral flexion",
+      "Rotation only"
+    ],
     "answer": 1,
     "explanation": "Bilaterally, erector spinae extends the spine and head."
   },
   {
     "q": "Quadratus lumborum is nicknamed the 'hip hiker' because unilateral contraction:",
-    "options": ["Extends the lumbar spine", "Elevates that side of the pelvis", "Flexes the hip joint", "Rotates the shoulder"],
+    "options": [
+      "Extends the lumbar spine",
+      "Elevates that side of the pelvis",
+      "Flexes the hip joint",
+      "Rotates the shoulder"
+    ],
     "answer": 1,
     "explanation": "Unilateral quadratus lumborum contraction hikes (elevates) that side of the pelvis."
   },
   {
     "q": "Which muscle primarily compresses the abdominal contents and acts as a core stabilizer with minimal direct movement?",
-    "options": ["Rectus abdominis", "External oblique", "Transverse abdominis", "Erector spinae"],
+    "options": [
+      "Rectus abdominis",
+      "External oblique",
+      "Transverse abdominis",
+      "Erector spinae"
+    ],
     "answer": 2,
     "explanation": "Transverse abdominis compresses the abdomen and serves mainly as a stabilizer."
   },
   {
     "q": "Which shoulder-joint muscle adducts, medially rotates, and flexes the shoulder, originating from the clavicle, sternum, and upper ribs?",
-    "options": ["Latissimus dorsi", "Pectoralis major", "Teres major", "Coracobrachialis"],
+    "options": [
+      "Latissimus dorsi",
+      "Pectoralis major",
+      "Teres major",
+      "Coracobrachialis"
+    ],
     "answer": 1,
     "explanation": "Pectoralis major performs adduction, medial rotation, and flexion of the shoulder."
   },
   {
     "q": "Which muscle extends, adducts, and medially rotates the shoulder, originating broadly from the lower spine, ribs, and iliac crest?",
-    "options": ["Deltoid", "Latissimus dorsi", "Supraspinatus", "Pectoralis minor"],
+    "options": [
+      "Deltoid",
+      "Latissimus dorsi",
+      "Supraspinatus",
+      "Pectoralis minor"
+    ],
     "answer": 1,
     "explanation": "Latissimus dorsi extends, adducts, and medially rotates the shoulder."
   },
   {
     "q": "Which fibers of the deltoid are responsible for shoulder abduction?",
-    "options": ["Anterior fibers", "Middle fibers", "Posterior fibers", "All fibers equally initiate abduction"],
+    "options": [
+      "Anterior fibers",
+      "Middle fibers",
+      "Posterior fibers",
+      "All fibers equally initiate abduction"
+    ],
     "answer": 1,
     "explanation": "The middle deltoid fibers abduct the shoulder."
   },
   {
     "q": "What does the acronym SITS stand for in the rotator cuff?",
-    "options": ["Supraspinatus, Infraspinatus, Teres minor, Subscapularis", "Supraspinatus, Iliacus, Teres major, Subscapularis", "Sternocleidomastoid, Infraspinatus, Trapezius, Subscapularis", "Supinator, Infraspinatus, Teres minor, Serratus"],
+    "options": [
+      "Supraspinatus, Infraspinatus, Teres minor, Subscapularis",
+      "Supraspinatus, Iliacus, Teres major, Subscapularis",
+      "Sternocleidomastoid, Infraspinatus, Trapezius, Subscapularis",
+      "Supinator, Infraspinatus, Teres minor, Serratus"
+    ],
     "answer": 0,
     "explanation": "SITS = Supraspinatus, Infraspinatus, Teres minor, Subscapularis."
   },
   {
     "q": "Which rotator cuff muscle is the only one that medially rotates the shoulder?",
-    "options": ["Supraspinatus", "Infraspinatus", "Teres minor", "Subscapularis"],
+    "options": [
+      "Supraspinatus",
+      "Infraspinatus",
+      "Teres minor",
+      "Subscapularis"
+    ],
     "answer": 3,
     "explanation": "Subscapularis is the only rotator cuff muscle producing medial rotation; the others contribute to lateral rotation or abduction."
   },
   {
     "q": "Which rotator cuff muscle is the only one that inserts on the lesser tubercle of the humerus?",
-    "options": ["Supraspinatus", "Infraspinatus", "Teres minor", "Subscapularis"],
+    "options": [
+      "Supraspinatus",
+      "Infraspinatus",
+      "Teres minor",
+      "Subscapularis"
+    ],
     "answer": 3,
     "explanation": "Subscapularis inserts on the lesser tubercle; the other three rotator cuff muscles insert on the greater tubercle."
   },
   {
     "q": "Which muscle abducts the shoulder and helps stabilize the humeral head in the glenoid cavity?",
-    "options": ["Infraspinatus", "Supraspinatus", "Teres minor", "Subscapularis"],
+    "options": [
+      "Infraspinatus",
+      "Supraspinatus",
+      "Teres minor",
+      "Subscapularis"
+    ],
     "answer": 1,
     "explanation": "Supraspinatus abducts the shoulder and stabilizes the humeral head."
   },
   {
     "q": "Infraspinatus and teres minor share which primary action?",
-    "options": ["Medial rotation", "Lateral rotation", "Abduction only", "Depression of the scapula"],
+    "options": [
+      "Medial rotation",
+      "Lateral rotation",
+      "Abduction only",
+      "Depression of the scapula"
+    ],
     "answer": 1,
     "explanation": "Both infraspinatus and teres minor laterally rotate the shoulder."
   },
   {
     "q": "Which muscle originates from ribs 1-8 and helps keep the scapula flat against the rib cage by protracting and upwardly rotating it?",
-    "options": ["Rhomboid major", "Serratus anterior", "Levator scapulae", "Pectoralis minor"],
+    "options": [
+      "Rhomboid major",
+      "Serratus anterior",
+      "Levator scapulae",
+      "Pectoralis minor"
+    ],
     "answer": 1,
     "explanation": "Serratus anterior protracts and upwardly rotates the scapula, keeping it against the ribs."
   },
   {
     "q": "Which muscle flexes and adducts the shoulder, originating from the coracoid process of the scapula?",
-    "options": ["Deltoid", "Teres major", "Coracobrachialis", "Latissimus dorsi"],
+    "options": [
+      "Deltoid",
+      "Teres major",
+      "Coracobrachialis",
+      "Latissimus dorsi"
+    ],
     "answer": 2,
     "explanation": "Coracobrachialis flexes and adducts the shoulder, originating at the coracoid process."
   },
   {
     "q": "Pectoralis minor's actions include:",
-    "options": ["Elevating and retracting the scapula", "Depressing and protracting the scapula, downwardly rotating it", "Abducting the shoulder joint", "Extending the elbow"],
+    "options": [
+      "Elevating and retracting the scapula",
+      "Depressing and protracting the scapula, downwardly rotating it",
+      "Abducting the shoulder joint",
+      "Extending the elbow"
+    ],
     "answer": 1,
     "explanation": "Pectoralis minor depresses and protracts the scapula, and downwardly rotates it."
+  },
+  {
+    "q": "Upper trapezius fibers originate from the occipital bone and nuchal ligament and insert on the:",
+    "options": [
+      "Scapular spine only",
+      "Lateral clavicle and acromion",
+      "Medial border of scapula",
+      "Superior angle of scapula"
+    ],
+    "answer": 1,
+    "explanation": "Upper trapezius fibers insert on the lateral clavicle and acromion process."
+  },
+  {
+    "q": "Which action is unique to the upper trapezius fibers, not shared by the middle or lower fibers?",
+    "options": [
+      "Retraction of the scapula",
+      "Extension of the neck/head",
+      "Depression of the scapula",
+      "Downward rotation of the scapula"
+    ],
+    "answer": 1,
+    "explanation": "Upper trapezius fibers extend the neck and head in addition to elevating and upwardly rotating the scapula — the middle and lower fibers do not act on the neck."
+  },
+  {
+    "q": "Lower trapezius fibers originate near T12 and primarily act to:",
+    "options": [
+      "Elevate the scapula",
+      "Retract the scapula",
+      "Depress the scapula",
+      "Protract the scapula"
+    ],
+    "answer": 2,
+    "explanation": "Lower trapezius fibers depress the scapula."
+  },
+  {
+    "q": "Which nerve provides motor innervation to the trapezius?",
+    "options": [
+      "Dorsal scapular nerve",
+      "Accessory nerve (cranial nerve XI)",
+      "Long thoracic nerve",
+      "Suprascapular nerve"
+    ],
+    "answer": 1,
+    "explanation": "The trapezius is motor-innervated by the accessory nerve (cranial nerve XI)."
+  },
+  {
+    "q": "A massage client habitually shrugs their shoulders toward their ears under stress. Chronic overactivity of which muscle fibers is most likely?",
+    "options": [
+      "Lower trapezius",
+      "Middle trapezius",
+      "Upper trapezius",
+      "Serratus anterior"
+    ],
+    "answer": 2,
+    "explanation": "Upper trapezius elevates the scapula, and chronic shoulder shrugging/stress posture commonly overworks and tightens these fibers."
+  },
+  {
+    "q": "Which nerve innervates the rhomboid muscles?",
+    "options": [
+      "Dorsal scapular nerve",
+      "Long thoracic nerve",
+      "Accessory nerve",
+      "Suprascapular nerve"
+    ],
+    "answer": 0,
+    "explanation": "The rhomboids are innervated by the dorsal scapular nerve."
+  },
+  {
+    "q": "The rhomboids are functional antagonists to which muscle, since it protracts the scapula while they retract it?",
+    "options": [
+      "Levator scapulae",
+      "Serratus anterior",
+      "Upper trapezius",
+      "Pectoralis major"
+    ],
+    "answer": 1,
+    "explanation": "Serratus anterior protracts the scapula, directly opposing the retraction produced by the rhomboids."
+  },
+  {
+    "q": "Rounded-shoulder (protracted scapula) posture is commonly associated with lengthened/weak rhomboids and tight:",
+    "options": [
+      "Pectoralis minor",
+      "Erector spinae",
+      "Latissimus dorsi",
+      "Supraspinatus"
+    ],
+    "answer": 0,
+    "explanation": "A tight pectoralis minor pulls the scapula into protraction and downward tilt, a pattern often paired with weak, overstretched rhomboids."
+  },
+  {
+    "q": "Levator scapulae originates from the transverse processes of:",
+    "options": [
+      "C1-C4",
+      "C7-T5",
+      "T1-T4",
+      "L1-L4"
+    ],
+    "answer": 0,
+    "explanation": "Levator scapulae originates from the transverse processes of the first four cervical vertebrae (C1-C4)."
+  },
+  {
+    "q": "Levator scapulae inserts on the:",
+    "options": [
+      "Lateral clavicle",
+      "Superior angle of the scapula",
+      "Scapular spine",
+      "Coracoid process"
+    ],
+    "answer": 1,
+    "explanation": "Levator scapulae inserts on the superior angle of the scapula."
+  },
+  {
+    "q": "Which nerve(s) typically innervate levator scapulae?",
+    "options": [
+      "Dorsal scapular nerve and direct branches of C3-C4",
+      "Accessory nerve only",
+      "Long thoracic nerve",
+      "Axillary nerve"
+    ],
+    "answer": 0,
+    "explanation": "Levator scapulae is innervated by the dorsal scapular nerve along with direct branches from cervical spinal nerves C3-C4."
+  },
+  {
+    "q": "A client with chronic neck stiffness and a tender spot at the superior angle of the scapula, worsened by turning the head away from that side, likely has tightness in:",
+    "options": [
+      "Serratus anterior",
+      "Levator scapulae",
+      "Rhomboid minor",
+      "Lower trapezius"
+    ],
+    "answer": 1,
+    "explanation": "Levator scapulae is a very common site of tension-related pain at the superior angle of the scapula, often aggravated by cervical rotation."
+  },
+  {
+    "q": "Serratus anterior inserts on the:",
+    "options": [
+      "Lateral clavicle",
+      "Underside of the medial border of the scapula",
+      "Coracoid process",
+      "Scapular spine"
+    ],
+    "answer": 1,
+    "explanation": "Serratus anterior wraps around the rib cage and inserts on the underside (costal surface) of the medial border of the scapula."
+  },
+  {
+    "q": "Which nerve innervates serratus anterior?",
+    "options": [
+      "Dorsal scapular nerve",
+      "Long thoracic nerve",
+      "Suprascapular nerve",
+      "Medial pectoral nerve"
+    ],
+    "answer": 1,
+    "explanation": "Serratus anterior is innervated by the long thoracic nerve; damage to this nerve produces the classic 'winged scapula.'"
+  },
+  {
+    "q": "A boxer's punch (forward-reaching arm motion) relies heavily on which scapular muscle to keep the scapula flush against the ribs as the arm reaches forward?",
+    "options": [
+      "Rhomboid major",
+      "Levator scapulae",
+      "Serratus anterior",
+      "Middle trapezius"
+    ],
+    "answer": 2,
+    "explanation": "Serratus anterior protracts the scapula and stabilizes it against the ribcage during forward-reaching or pushing movements."
+  },
+  {
+    "q": "Pectoralis minor originates from ribs:",
+    "options": [
+      "1-8",
+      "3-5",
+      "7-12",
+      "C7-T5"
+    ],
+    "answer": 1,
+    "explanation": "Pectoralis minor originates from ribs 3 through 5."
+  },
+  {
+    "q": "Pectoralis minor inserts on the:",
+    "options": [
+      "Intertubercular groove of the humerus",
+      "Coracoid process of the scapula",
+      "Lateral clavicle",
+      "Superior angle of the scapula"
+    ],
+    "answer": 1,
+    "explanation": "Pectoralis minor inserts on the coracoid process of the scapula."
+  },
+  {
+    "q": "Which nerve innervates pectoralis minor?",
+    "options": [
+      "Lateral pectoral nerve",
+      "Medial pectoral nerve",
+      "Long thoracic nerve",
+      "Thoracodorsal nerve"
+    ],
+    "answer": 1,
+    "explanation": "Pectoralis minor is innervated by the medial pectoral nerve."
+  },
+  {
+    "q": "Rectus abdominis originates on the pubic bone and inserts on the:",
+    "options": [
+      "Iliac crest",
+      "Ribs 5-7 and the xiphoid process of the sternum",
+      "Ribs 7-12",
+      "Abdominal fascia only"
+    ],
+    "answer": 1,
+    "explanation": "Rectus abdominis inserts on ribs 5-7 and the xiphoid process of the sternum."
+  },
+  {
+    "q": "Which nerves innervate the rectus abdominis?",
+    "options": [
+      "Lumbar plexus branches only",
+      "Thoracic (intercostal) nerves",
+      "Dorsal rami of spinal nerves",
+      "Suprascapular nerve"
+    ],
+    "answer": 1,
+    "explanation": "Rectus abdominis is innervated by the thoracic (intercostal) nerves, roughly T7-T12."
+  },
+  {
+    "q": "In addition to flexing the spine, rectus abdominis also functions to:",
+    "options": [
+      "Extend the lumbar spine",
+      "Compress the abdomen",
+      "Laterally rotate the trunk primarily",
+      "Elevate the ribs during inhalation"
+    ],
+    "answer": 1,
+    "explanation": "Rectus abdominis compresses the abdominal contents in addition to flexing the spine."
+  },
+  {
+    "q": "External oblique originates from ribs 5-12 and inserts on the:",
+    "options": [
+      "Ribs 7-12",
+      "Iliac crest and abdominal fascia",
+      "Xiphoid process",
+      "Transverse processes L1-L4"
+    ],
+    "answer": 1,
+    "explanation": "External oblique inserts on the iliac crest and abdominal fascia (linea alba)."
+  },
+  {
+    "q": "Unilateral contraction of the external oblique produces:",
+    "options": [
+      "Only trunk flexion",
+      "Lateral flexion and rotation of the trunk",
+      "Extension of the lumbar spine",
+      "Hip abduction"
+    ],
+    "answer": 1,
+    "explanation": "Unilaterally, the external oblique produces lateral flexion of the trunk to that side combined with rotation."
+  },
+  {
+    "q": "Internal oblique fibers run roughly perpendicular to external oblique fibers and originate from the:",
+    "options": [
+      "Ribs 5-12",
+      "Iliac crest and lower trunk fascia",
+      "Pubic bone",
+      "Spinous processes C7-T5"
+    ],
+    "answer": 1,
+    "explanation": "Internal oblique originates from the iliac crest and lower trunk (lumbodorsal) fascia, inserting on ribs 7-12."
+  },
+  {
+    "q": "Compared to external oblique, internal oblique lies:",
+    "options": [
+      "More superficial",
+      "Deeper, as the middle layer of the lateral abdominal wall",
+      "In the exact same layer",
+      "Only in the posterior trunk"
+    ],
+    "answer": 1,
+    "explanation": "Internal oblique is deep to external oblique, forming the middle of the three lateral abdominal wall layers."
+  },
+  {
+    "q": "Transverse abdominis is the deepest of the abdominal wall muscles and originates from ribs 7-12 and the iliac crest, inserting into the:",
+    "options": [
+      "Pubic bone",
+      "Abdominal fascia (linea alba)",
+      "Xiphoid process",
+      "Ribs 5-7"
+    ],
+    "answer": 1,
+    "explanation": "Transverse abdominis inserts into the abdominal fascia/linea alba rather than a specific bony landmark on the front of the trunk."
+  },
+  {
+    "q": "Because its fibers run horizontally around the trunk like a girdle, transverse abdominis is best described functionally as a:",
+    "options": [
+      "Trunk rotator",
+      "Trunk flexor",
+      "Core stabilizer/abdominal compressor",
+      "Trunk extensor"
+    ],
+    "answer": 2,
+    "explanation": "Transverse abdominis's horizontal fiber orientation makes it primarily a stabilizing, abdomen-compressing muscle rather than a mover of the spine."
+  },
+  {
+    "q": "The three abdominal wall muscles that share intercostal (thoracic) nerve innervation, along with iliohypogastric/ilioinguinal contributions for the deeper two, are:",
+    "options": [
+      "Rectus abdominis, erector spinae, quadratus lumborum",
+      "External oblique, internal oblique, transverse abdominis",
+      "Trapezius, rhomboids, levator scapulae",
+      "Deltoid, teres major, coracobrachialis"
+    ],
+    "answer": 1,
+    "explanation": "External oblique, internal oblique, and transverse abdominis all receive innervation from the lower thoracic (intercostal) nerves, with internal oblique and transverse abdominis also receiving iliohypogastric/ilioinguinal branches."
+  },
+  {
+    "q": "Erector spinae spans from the sacrum and pelvis up to the ribs, vertebrae, and skull. Unilateral contraction produces:",
+    "options": [
+      "Trunk flexion",
+      "Lateral flexion of the spine",
+      "Only rotation",
+      "Depression of the ribs"
+    ],
+    "answer": 1,
+    "explanation": "Unilateral erector spinae contraction produces lateral flexion of the spine to that side."
+  },
+  {
+    "q": "Which nerves innervate the erector spinae group?",
+    "options": [
+      "Ventral rami of spinal nerves",
+      "Dorsal rami of spinal nerves",
+      "Suprascapular nerve",
+      "Long thoracic nerve"
+    ],
+    "answer": 1,
+    "explanation": "The erector spinae group is innervated segmentally by the dorsal (posterior) rami of the spinal nerves."
+  },
+  {
+    "q": "A client who sits slouched for long hours often develops overstretched, weak erector spinae paired with tight:",
+    "options": [
+      "Hip flexors and pectoral muscles",
+      "Rhomboids",
+      "Serratus anterior",
+      "Lower trapezius"
+    ],
+    "answer": 0,
+    "explanation": "Prolonged slouched sitting often lengthens/weakens the erector spinae and posterior chain while shortening hip flexors and pectoral muscles anteriorly."
+  },
+  {
+    "q": "Quadratus lumborum originates from the posterior iliac crest and inserts on rib 12 and the:",
+    "options": [
+      "Transverse processes of L1-L4",
+      "Spinous processes of T12-L5",
+      "Sacrum",
+      "Ischial tuberosity"
+    ],
+    "answer": 0,
+    "explanation": "Quadratus lumborum inserts on rib 12 and the transverse processes of L1-L4."
+  },
+  {
+    "q": "Bilateral contraction of quadratus lumborum produces:",
+    "options": [
+      "Flexion of the lumbar spine",
+      "Extension of the lumbar spine",
+      "Lateral flexion only",
+      "Rotation of the thoracic spine"
+    ],
+    "answer": 1,
+    "explanation": "Bilaterally, quadratus lumborum extends the lumbar spine; unilaterally, it laterally flexes the spine and hikes the hip."
+  },
+  {
+    "q": "Which nerve(s) innervate quadratus lumborum?",
+    "options": [
+      "Subcostal nerve (T12) and branches of the lumbar plexus (L1-L3/L4)",
+      "Dorsal scapular nerve",
+      "Long thoracic nerve",
+      "Suprascapular nerve"
+    ],
+    "answer": 0,
+    "explanation": "Quadratus lumborum receives innervation from the subcostal nerve (T12) and branches of the lumbar plexus (roughly L1-L3 or L4)."
+  },
+  {
+    "q": "A client complains of one-sided low back pain that worsens when standing on one leg and hiking the opposite hip up (as in walking with a limp). Which muscle is most likely implicated?",
+    "options": [
+      "Quadratus lumborum",
+      "Rectus abdominis",
+      "External oblique",
+      "Rhomboid major"
+    ],
+    "answer": 0,
+    "explanation": "Quadratus lumborum hikes the hip and is commonly implicated in one-sided low back pain related to pelvic hiking or leg-length differences."
+  },
+  {
+    "q": "Pectoralis major originates from the clavicle, sternum, and ribs 1-8, and inserts on the:",
+    "options": [
+      "Deltoid tuberosity of the humerus",
+      "Intertubercular groove of the humerus",
+      "Coracoid process of the scapula",
+      "Greater tubercle of the humerus"
+    ],
+    "answer": 1,
+    "explanation": "Pectoralis major inserts on the intertubercular (bicipital) groove of the humerus."
+  },
+  {
+    "q": "Which nerves innervate pectoralis major?",
+    "options": [
+      "Medial and lateral pectoral nerves",
+      "Thoracodorsal nerve",
+      "Long thoracic nerve",
+      "Axillary nerve"
+    ],
+    "answer": 0,
+    "explanation": "Pectoralis major receives dual innervation from both the medial and lateral pectoral nerves."
+  },
+  {
+    "q": "A desk worker with rounded shoulders and an internally rotated arm posture likely has chronic tightness in which shoulder-joint muscle?",
+    "options": [
+      "Infraspinatus",
+      "Pectoralis major",
+      "Teres minor",
+      "Middle trapezius"
+    ],
+    "answer": 1,
+    "explanation": "Pectoralis major medially rotates and adducts the shoulder; chronic tightness contributes to a rounded-shoulder, internally rotated posture."
+  },
+  {
+    "q": "Which muscle acts as an antagonist to pectoralis major for the action of shoulder horizontal abduction (as in a reverse fly)?",
+    "options": [
+      "Posterior deltoid",
+      "Anterior deltoid",
+      "Biceps brachii",
+      "Pectoralis minor"
+    ],
+    "answer": 0,
+    "explanation": "Posterior deltoid, along with the middle trapezius and rhomboids, horizontally abducts the shoulder — opposing the horizontal adduction produced by pectoralis major."
+  },
+  {
+    "q": "Latissimus dorsi originates broadly from the spine (T6-L5), lower ribs, and iliac crest, converging to insert on the:",
+    "options": [
+      "Lesser tubercle of the humerus",
+      "Intertubercular groove of the humerus",
+      "Deltoid tuberosity",
+      "Coracoid process"
+    ],
+    "answer": 1,
+    "explanation": "Latissimus dorsi inserts on the intertubercular groove of the humerus, the same general region as pectoralis major and teres major."
+  },
+  {
+    "q": "Which nerve innervates latissimus dorsi?",
+    "options": [
+      "Thoracodorsal nerve",
+      "Long thoracic nerve",
+      "Dorsal scapular nerve",
+      "Axillary nerve"
+    ],
+    "answer": 0,
+    "explanation": "Latissimus dorsi is innervated by the thoracodorsal nerve."
+  },
+  {
+    "q": "A swimmer's freestyle pull-through phase (pulling the arm down and back through the water) relies heavily on which large back muscle?",
+    "options": [
+      "Trapezius",
+      "Latissimus dorsi",
+      "Levator scapulae",
+      "Supraspinatus"
+    ],
+    "answer": 1,
+    "explanation": "Latissimus dorsi extends, adducts, and medially rotates the shoulder — exactly the motion of the swimming pull-through phase, earning it the nickname 'swimmer's muscle.'"
+  },
+  {
+    "q": "Which two muscles share the same three actions at the shoulder — extension, adduction, and medial rotation?",
+    "options": [
+      "Latissimus dorsi and teres major",
+      "Deltoid and supraspinatus",
+      "Pectoralis major and coracobrachialis",
+      "Infraspinatus and teres minor"
+    ],
+    "answer": 0,
+    "explanation": "Latissimus dorsi and teres major share the same three actions: shoulder extension, adduction, and medial rotation, earning teres major the nickname 'latissimus dorsi's little helper.'"
+  },
+  {
+    "q": "Anterior deltoid fibers primarily produce:",
+    "options": [
+      "Shoulder extension and lateral rotation",
+      "Shoulder flexion and medial rotation",
+      "Shoulder abduction",
+      "Scapular depression"
+    ],
+    "answer": 1,
+    "explanation": "Anterior deltoid fibers flex and medially rotate the shoulder."
+  },
+  {
+    "q": "Posterior deltoid fibers primarily produce:",
+    "options": [
+      "Shoulder flexion and medial rotation",
+      "Shoulder abduction only",
+      "Shoulder extension and lateral rotation",
+      "Scapular elevation"
+    ],
+    "answer": 2,
+    "explanation": "Posterior deltoid fibers extend and laterally rotate the shoulder."
+  },
+  {
+    "q": "Deltoid originates from the clavicle, acromion, and scapular spine, and inserts on the:",
+    "options": [
+      "Intertubercular groove of the humerus",
+      "Deltoid tuberosity of the humerus",
+      "Greater tubercle of the humerus",
+      "Coracoid process"
+    ],
+    "answer": 1,
+    "explanation": "All three fiber divisions of the deltoid converge to insert on the deltoid tuberosity of the humerus."
+  },
+  {
+    "q": "Which nerve innervates the deltoid?",
+    "options": [
+      "Suprascapular nerve",
+      "Axillary nerve",
+      "Musculocutaneous nerve",
+      "Radial nerve"
+    ],
+    "answer": 1,
+    "explanation": "The deltoid is innervated by the axillary nerve, which also innervates teres minor."
+  },
+  {
+    "q": "During a lateral shoulder raise (abduction), which deltoid fibers are the prime mover, and which rotator cuff muscle assists?",
+    "options": [
+      "Anterior deltoid; infraspinatus",
+      "Middle deltoid; supraspinatus",
+      "Posterior deltoid; subscapularis",
+      "Middle deltoid; teres minor"
+    ],
+    "answer": 1,
+    "explanation": "Middle deltoid fibers are the prime mover of shoulder abduction, assisted by supraspinatus, especially in the first ~15 degrees."
+  },
+  {
+    "q": "Teres major originates from the inferior lateral border of the scapula and inserts on the:",
+    "options": [
+      "Greater tubercle of the humerus",
+      "Intertubercular groove of the humerus",
+      "Deltoid tuberosity",
+      "Lesser tubercle only"
+    ],
+    "answer": 1,
+    "explanation": "Teres major inserts on the intertubercular groove of the humerus, alongside latissimus dorsi and pectoralis major."
+  },
+  {
+    "q": "Which nerve innervates teres major?",
+    "options": [
+      "Axillary nerve",
+      "Lower subscapular nerve",
+      "Suprascapular nerve",
+      "Long thoracic nerve"
+    ],
+    "answer": 1,
+    "explanation": "Teres major is innervated by the lower subscapular nerve."
+  },
+  {
+    "q": "Although teres major and teres minor sit next to each other on the scapula's lateral border, their actions are:",
+    "options": [
+      "Identical",
+      "Nearly opposite — teres major medially rotates, teres minor laterally rotates",
+      "Both purely stabilizing with no rotation",
+      "Both abduct the shoulder"
+    ],
+    "answer": 1,
+    "explanation": "Despite their proximity, teres major medially rotates the shoulder while teres minor laterally rotates it — an easy source of exam confusion."
+  },
+  {
+    "q": "Coracobrachialis originates from the coracoid process and inserts on the:",
+    "options": [
+      "Intertubercular groove of the humerus",
+      "Medial shaft of the humerus",
+      "Deltoid tuberosity",
+      "Lesser tubercle of the humerus"
+    ],
+    "answer": 1,
+    "explanation": "Coracobrachialis inserts on the medial shaft of the humerus."
+  },
+  {
+    "q": "Which nerve innervates coracobrachialis?",
+    "options": [
+      "Axillary nerve",
+      "Musculocutaneous nerve",
+      "Median nerve",
+      "Radial nerve"
+    ],
+    "answer": 1,
+    "explanation": "Coracobrachialis is innervated by the musculocutaneous nerve, the same nerve supplying biceps brachii and brachialis."
+  },
+  {
+    "q": "Coracobrachialis shares its origin (the coracoid process of the scapula) with which other shoulder-girdle muscle?",
+    "options": [
+      "Pectoralis minor",
+      "Trapezius",
+      "Latissimus dorsi",
+      "Serratus anterior"
+    ],
+    "answer": 0,
+    "explanation": "Both coracobrachialis and pectoralis minor attach to the coracoid process, though coracobrachialis originates there while pectoralis minor inserts there."
+  },
+  {
+    "q": "Supraspinatus sits in the supraspinous fossa above the scapular spine and inserts on the:",
+    "options": [
+      "Lesser tubercle of the humerus",
+      "Greater tubercle of the humerus",
+      "Intertubercular groove",
+      "Deltoid tuberosity"
+    ],
+    "answer": 1,
+    "explanation": "Supraspinatus inserts on the greater tubercle of the humerus, along with infraspinatus and teres minor."
+  },
+  {
+    "q": "Which nerve innervates supraspinatus?",
+    "options": [
+      "Axillary nerve",
+      "Suprascapular nerve",
+      "Dorsal scapular nerve",
+      "Lower subscapular nerve"
+    ],
+    "answer": 1,
+    "explanation": "Supraspinatus is innervated by the suprascapular nerve, which also supplies infraspinatus."
+  },
+  {
+    "q": "Because it lies deep to the trapezius and is compressed in a narrow space beneath the acromion, supraspinatus is especially prone to:",
+    "options": [
+      "Impingement and tendinopathy",
+      "Winging",
+      "Thoracic outlet syndrome",
+      "Trigger finger"
+    ],
+    "answer": 0,
+    "explanation": "Supraspinatus's tendon passes through a narrow subacromial space, making it particularly susceptible to impingement and rotator cuff tendinopathy."
+  },
+  {
+    "q": "Infraspinatus originates in the infraspinous fossa, below the scapular spine, and its primary action is:",
+    "options": [
+      "Medial rotation of the shoulder",
+      "Lateral rotation of the shoulder",
+      "Abduction of the shoulder",
+      "Flexion of the shoulder"
+    ],
+    "answer": 1,
+    "explanation": "Infraspinatus laterally rotates the shoulder."
+  },
+  {
+    "q": "Which nerve innervates infraspinatus?",
+    "options": [
+      "Axillary nerve",
+      "Suprascapular nerve",
+      "Upper subscapular nerve",
+      "Musculocutaneous nerve"
+    ],
+    "answer": 1,
+    "explanation": "Infraspinatus shares its nerve supply, the suprascapular nerve, with supraspinatus."
+  },
+  {
+    "q": "Which nerve innervates teres minor?",
+    "options": [
+      "Suprascapular nerve",
+      "Axillary nerve",
+      "Lower subscapular nerve",
+      "Long thoracic nerve"
+    ],
+    "answer": 1,
+    "explanation": "Teres minor is innervated by the axillary nerve, the same nerve that supplies the deltoid."
+  },
+  {
+    "q": "Subscapularis originates from the subscapular fossa on the anterior (front) surface of the scapula and inserts on the:",
+    "options": [
+      "Greater tubercle of the humerus",
+      "Lesser tubercle of the humerus",
+      "Intertubercular groove",
+      "Deltoid tuberosity"
+    ],
+    "answer": 1,
+    "explanation": "Subscapularis inserts on the lesser tubercle of the humerus, unlike the other three rotator cuff muscles, which insert on the greater tubercle."
+  },
+  {
+    "q": "Which nerves innervate subscapularis?",
+    "options": [
+      "Suprascapular nerve only",
+      "Upper and lower subscapular nerves",
+      "Axillary nerve",
+      "Long thoracic nerve"
+    ],
+    "answer": 1,
+    "explanation": "Subscapularis is innervated by both the upper and lower subscapular nerves."
+  },
+  {
+    "q": "Which muscle sits on the anterior surface of the scapula, between the scapula and the rib cage?",
+    "options": [
+      "Infraspinatus",
+      "Supraspinatus",
+      "Subscapularis",
+      "Teres minor"
+    ],
+    "answer": 2,
+    "explanation": "Subscapularis is the only rotator cuff muscle located on the front (costal/anterior) surface of the scapula."
+  },
+  {
+    "q": "A client with a subscapularis strain would most likely have pain and weakness attempting which movement?",
+    "options": [
+      "Reaching behind the back to fasten a bra strap (medial rotation)",
+      "Combing hair overhead (abduction)",
+      "Reaching to open a door behind them (lateral rotation)",
+      "Throwing a ball (external rotation phase)"
+    ],
+    "answer": 0,
+    "explanation": "Subscapularis medially (internally) rotates the shoulder, a movement used when reaching behind the back."
+  },
+  {
+    "q": "A therapist needs to determine whether a client's shoulder pain stems from a scapular stabilizer or a rotator cuff muscle. Which question best distinguishes the two categories?",
+    "options": [
+      "Does the muscle attach to the ribs?",
+      "Does the muscle move the scapula, or does it move the humerus?",
+      "Is the muscle superficial or deep?",
+      "Does the muscle cross the elbow?"
+    ],
+    "answer": 1,
+    "explanation": "The key distinction for this region is whether a muscle moves the scapula/clavicle (shoulder girdle) or the humerus (glenohumeral/rotator cuff)."
+  },
+  {
+    "q": "Which muscle listed is classified as a shoulder girdle muscle rather than a glenohumeral (shoulder joint) muscle?",
+    "options": [
+      "Deltoid",
+      "Teres major",
+      "Levator scapulae",
+      "Coracobrachialis"
+    ],
+    "answer": 2,
+    "explanation": "Levator scapulae moves the scapula, making it a shoulder girdle muscle, unlike deltoid, teres major, and coracobrachialis, which move the humerus."
+  },
+  {
+    "q": "Both pectoralis minor and serratus anterior attach to the ribs. Which action do they have in common?",
+    "options": [
+      "Both retract the scapula",
+      "Both elevate the scapula",
+      "Both can assist forced inhalation when the scapula is fixed",
+      "Both laterally rotate the shoulder"
+    ],
+    "answer": 2,
+    "explanation": "When the scapula is stabilized, both pectoralis minor and serratus anterior can act in reverse to help elevate the ribs during forced inhalation."
+  },
+  {
+    "q": "Which muscle downwardly rotates the scapula while also elevating it, making it partly antagonistic to serratus anterior's upward rotation?",
+    "options": [
+      "Middle trapezius",
+      "Levator scapulae",
+      "Supraspinatus",
+      "Teres minor"
+    ],
+    "answer": 1,
+    "explanation": "Levator scapulae elevates and downwardly rotates the scapula, opposing serratus anterior's upward rotation component."
+  },
+  {
+    "q": "Which core trunk muscle has fibers running diagonally, similar in direction to putting your hands in your front pockets from the opposite side?",
+    "options": [
+      "Rectus abdominis",
+      "External oblique",
+      "Transverse abdominis",
+      "Quadratus lumborum"
+    ],
+    "answer": 1,
+    "explanation": "External oblique fibers run diagonally downward and medially, in the same direction as reaching into the opposite front pocket."
+  },
+  {
+    "q": "Which trunk muscle, along with the erector spinae, contributes to extension of the lumbar spine when contracting bilaterally?",
+    "options": [
+      "Rectus abdominis",
+      "External oblique",
+      "Quadratus lumborum",
+      "Transverse abdominis"
+    ],
+    "answer": 2,
+    "explanation": "Quadratus lumborum bilaterally extends the lumbar spine, working alongside the erector spinae for this action."
+  },
+  {
+    "q": "Which abdominal muscle is often specifically targeted in exercises cueing the client to 'draw the navel in' for deep core stability, due to its corset-like fiber orientation?",
+    "options": [
+      "Rectus abdominis",
+      "External oblique",
+      "Transverse abdominis",
+      "Erector spinae"
+    ],
+    "answer": 2,
+    "explanation": "Transverse abdominis's horizontal, corset-like fibers make it the primary target of 'draw-in' deep core stabilization cues."
+  },
+  {
+    "q": "Erector spinae originates broadly along the sacrum, spine, and ribs and inserts into the:",
+    "options": [
+      "Ribs, vertebrae, and skull",
+      "Iliac crest only",
+      "Pubic bone",
+      "Transverse processes L1-L4 only"
+    ],
+    "answer": 0,
+    "explanation": "Erector spinae inserts at multiple levels into the ribs, vertebrae, and skull as it ascends the length of the spine."
+  },
+  {
+    "q": "Bilateral contraction of erector spinae extends the spine and head, which is the opposite (antagonistic) action to which muscle?",
+    "options": [
+      "Quadratus lumborum",
+      "Rectus abdominis",
+      "Latissimus dorsi",
+      "Trapezius"
+    ],
+    "answer": 1,
+    "explanation": "Rectus abdominis flexes the spine, making it the antagonist of erector spinae's bilateral extension action."
+  },
+  {
+    "q": "Which shoulder muscle's fibers are divided into three functionally distinct sections that can produce almost opposite actions from one another?",
+    "options": [
+      "Pectoralis major",
+      "Deltoid",
+      "Latissimus dorsi",
+      "Teres major"
+    ],
+    "answer": 1,
+    "explanation": "The deltoid's anterior, middle, and posterior fibers act somewhat independently — anterior flexes/medially rotates while posterior extends/laterally rotates."
+  },
+  {
+    "q": "In addition to its role in shoulder abduction, supraspinatus's other key function is to:",
+    "options": [
+      "Depress the scapula",
+      "Stabilize the humeral head within the shallow glenoid cavity",
+      "Extend the elbow",
+      "Rotate the trunk"
+    ],
+    "answer": 1,
+    "explanation": "Supraspinatus, like the other rotator cuff muscles, helps stabilize the humeral head in the shallow glenoid fossa, in addition to producing movement."
+  },
+  {
+    "q": "If scalenes and pectoralis minor are hypertonic, what condition might result?",
+    "options": [
+      "Lordosis",
+      "Thoracic Outlet Syndrome",
+      "Ankylosing Spondylitis",
+      "Torticollis"
+    ],
+    "answer": 1,
+    "explanation": "Hypertonic scalenes and pectoralis minor can compress the brachial plexus and subclavian vessels, contributing to Thoracic Outlet Syndrome."
+  },
+  {
+    "q": "Muscles originating on the spinous processes of C7-T5:",
+    "options": [
+      "Levator scapulae",
+      "Serratus anterior",
+      "Trapezius",
+      "Rhomboids"
+    ],
+    "answer": 3,
+    "explanation": "Rhomboids originate on the spinous processes of C7-T5 and insert on the medial border of the scapula."
+  },
+  {
+    "q": "Which of the following muscles crosses the glenohumeral joint?",
+    "options": [
+      "Pectoralis minor",
+      "Trapezius",
+      "Coracobrachialis",
+      "Brachialis"
+    ],
+    "answer": 2,
+    "explanation": "Coracobrachialis crosses the glenohumeral (shoulder) joint, unlike pectoralis minor and trapezius, which move the scapula, and brachialis, which crosses only the elbow."
+  },
+  {
+    "q": "Which bone does pectoralis major NOT attach to?",
+    "options": [
+      "Sternum",
+      "Clavicle",
+      "Humerus",
+      "Scapula"
+    ],
+    "answer": 3,
+    "explanation": "Pectoralis major attaches to the sternum, clavicle, and humerus — not the scapula."
+  },
+  {
+    "q": "The one muscle of the rotator cuff that does NOT originate inside a fossa:",
+    "options": [
+      "Supraspinatus",
+      "Infraspinatus",
+      "Teres Minor",
+      "Subscapularis"
+    ],
+    "answer": 2,
+    "explanation": "Teres minor originates on the superior lateral border of the scapula, not inside a fossa, unlike the other three rotator cuff muscles."
   }
 ]

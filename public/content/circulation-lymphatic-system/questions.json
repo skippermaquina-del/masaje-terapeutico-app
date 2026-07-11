@@ -1,122 +1,1102 @@
 [
   {
     "q": "Which vessel type carries blood away from the heart?",
-    "options": ["Vein", "Artery", "Capillary", "Lymphatic vessel"],
+    "options": [
+      "Vein",
+      "Artery",
+      "Capillary",
+      "Lymphatic vessel"
+    ],
     "answer": 1,
     "explanation": "Arteries carry blood away from the heart."
   },
   {
     "q": "Which vessel type has valves to prevent backflow?",
-    "options": ["Arteries", "Capillaries", "Veins", "Lymph nodes"],
+    "options": [
+      "Arteries",
+      "Capillaries",
+      "Veins",
+      "Lymph nodes"
+    ],
     "answer": 2,
     "explanation": "Veins have valves that prevent blood from flowing backward as it returns to the heart."
   },
   {
     "q": "Where does exchange of oxygen, nutrients, and waste with tissue actually occur?",
-    "options": ["In the heart", "In arteries", "In capillaries", "In veins"],
+    "options": [
+      "In the heart",
+      "In arteries",
+      "In capillaries",
+      "In veins"
+    ],
     "answer": 2,
     "explanation": "Capillaries are the site of exchange with surrounding tissue."
   },
   {
     "q": "Pulmonary circulation refers to the loop between the heart and the:",
-    "options": ["Kidneys", "Lungs", "Liver", "Legs"],
+    "options": [
+      "Kidneys",
+      "Lungs",
+      "Liver",
+      "Legs"
+    ],
     "answer": 1,
     "explanation": "Pulmonary circulation is the loop between the heart and lungs."
   },
   {
     "q": "Systemic circulation refers to the loop between the heart and:",
-    "options": ["The lungs only", "The rest of the body", "The lymphatic system only", "The brain only"],
+    "options": [
+      "The lungs only",
+      "The rest of the body",
+      "The lymphatic system only",
+      "The brain only"
+    ],
     "answer": 1,
     "explanation": "Systemic circulation delivers blood between the heart and the rest of the body."
   },
   {
     "q": "Lymph fluid originates from:",
-    "options": ["Bone marrow directly", "Blood plasma leaking into tissue spaces", "The digestive system exclusively", "Cerebrospinal fluid"],
+    "options": [
+      "Bone marrow directly",
+      "Blood plasma leaking into tissue spaces",
+      "The digestive system exclusively",
+      "Cerebrospinal fluid"
+    ],
     "answer": 1,
     "explanation": "Lymph originates from blood plasma that leaks into surrounding tissue spaces."
   },
   {
     "q": "What moves lymph fluid through the body, since it lacks a central pump?",
-    "options": ["Gravity alone", "Muscle contraction, breathing, and manual techniques", "The heart directly pumps lymph", "Lymph doesn't need to move"],
+    "options": [
+      "Gravity alone",
+      "Muscle contraction, breathing, and manual techniques",
+      "The heart directly pumps lymph",
+      "Lymph doesn't need to move"
+    ],
     "answer": 1,
     "explanation": "Without a central pump, lymph relies on muscle contraction, breathing, and manual techniques for movement."
   },
   {
     "q": "What is the primary function of lymph nodes?",
-    "options": ["Pumping lymph fluid", "Filtering lymph and housing immune cells", "Producing red blood cells", "Storing fat"],
+    "options": [
+      "Pumping lymph fluid",
+      "Filtering lymph and housing immune cells",
+      "Producing red blood cells",
+      "Storing fat"
+    ],
     "answer": 1,
     "explanation": "Lymph nodes filter lymph fluid and contain immune cells that help fight infection."
   },
   {
     "q": "Lymphedema differs from general edema in that it:",
-    "options": ["Is always temporary", "Is a chronic condition caused by lymphatic system dysfunction/blockage", "Only occurs in the face", "Requires no special treatment"],
+    "options": [
+      "Is always temporary",
+      "Is a chronic condition caused by lymphatic system dysfunction/blockage",
+      "Only occurs in the face",
+      "Requires no special treatment"
+    ],
     "answer": 1,
     "explanation": "Lymphedema is a more serious, chronic swelling condition caused specifically by lymphatic dysfunction."
   },
   {
     "q": "Why are massage strokes for assisting venous return typically directed toward the heart?",
-    "options": ["It's purely traditional with no physiological basis", "It works with the direction of venous blood flow, assisting return to the heart", "It has no real effect either way", "Strokes should always go away from the heart instead"],
+    "options": [
+      "It's purely traditional with no physiological basis",
+      "It works with the direction of venous blood flow, assisting return to the heart",
+      "It has no real effect either way",
+      "Strokes should always go away from the heart instead"
+    ],
     "answer": 1,
     "explanation": "Centripetal (toward the heart) strokes assist the natural direction of venous return."
   },
   {
     "q": "Why is very light pressure used for lymphatic drainage techniques?",
-    "options": ["Lymphatic vessels are deep and need firm pressure", "Lymphatic vessels are superficial and collapse under too much pressure", "Light pressure has no clinical basis", "It's only a client comfort preference"],
+    "options": [
+      "Lymphatic vessels are deep and need firm pressure",
+      "Lymphatic vessels are superficial and collapse under too much pressure",
+      "Light pressure has no clinical basis",
+      "It's only a client comfort preference"
+    ],
     "answer": 1,
     "explanation": "Lymphatic vessels sit just under the skin and can collapse with too much pressure, reducing effectiveness."
   },
   {
     "q": "Why is DVT considered an absolute contraindication for massage on the affected limb?",
-    "options": ["It's simply uncomfortable for the client", "Pressure could dislodge the clot, risking a pulmonary embolism", "It only affects the skin", "There is no real risk involved"],
+    "options": [
+      "It's simply uncomfortable for the client",
+      "Pressure could dislodge the clot, risking a pulmonary embolism",
+      "It only affects the skin",
+      "There is no real risk involved"
+    ],
     "answer": 1,
     "explanation": "A dislodged clot from DVT can travel to the lungs, causing a life-threatening pulmonary embolism."
   },
   {
     "q": "Which of the following is a concern when working near varicose veins?",
-    "options": ["No concern — proceed normally", "Deep/vigorous work should be avoided or modified due to fragile, weakened veins", "Varicose veins strengthen with massage", "They only occur in the arms"],
+    "options": [
+      "No concern — proceed normally",
+      "Deep/vigorous work should be avoided or modified due to fragile, weakened veins",
+      "Varicose veins strengthen with massage",
+      "They only occur in the arms"
+    ],
     "answer": 1,
     "explanation": "Varicose veins have weakened valves and walls, making them fragile and requiring caution."
   },
   {
     "q": "Uncontrolled hypertension is a caution for which type of massage technique?",
-    "options": ["Gentle effleurage only", "Vigorous techniques that significantly stress the cardiovascular system", "Any massage whatsoever, with no exceptions", "Techniques applied only to the face"],
+    "options": [
+      "Gentle effleurage only",
+      "Vigorous techniques that significantly stress the cardiovascular system",
+      "Any massage whatsoever, with no exceptions",
+      "Techniques applied only to the face"
+    ],
     "answer": 1,
     "explanation": "Vigorous techniques that significantly increase circulation or cardiovascular demand require caution with uncontrolled hypertension."
   },
   {
     "q": "Which best describes deoxygenated blood?",
-    "options": ["Blood rich in oxygen, found mainly in arteries", "Blood low in oxygen, generally darker red", "Blood found only in the lymphatic system", "Blood that has no clinical significance"],
+    "options": [
+      "Blood rich in oxygen, found mainly in arteries",
+      "Blood low in oxygen, generally darker red",
+      "Blood found only in the lymphatic system",
+      "Blood that has no clinical significance"
+    ],
     "answer": 1,
     "explanation": "Deoxygenated blood has lower oxygen content and appears darker red."
   },
   {
     "q": "Which statement about the pulmonary artery and vein is correct?",
-    "options": ["The pulmonary artery carries oxygenated blood, unlike other arteries", "The pulmonary artery carries deoxygenated blood, an exception among arteries", "Pulmonary vessels don't carry blood", "The pulmonary vein carries deoxygenated blood"],
+    "options": [
+      "The pulmonary artery carries oxygenated blood, unlike other arteries",
+      "The pulmonary artery carries deoxygenated blood, an exception among arteries",
+      "Pulmonary vessels don't carry blood",
+      "The pulmonary vein carries deoxygenated blood"
+    ],
     "answer": 1,
     "explanation": "The pulmonary artery is an exception — it carries deoxygenated blood from the heart to the lungs."
   },
   {
     "q": "A client has swelling in one leg that has persisted for months and doesn't respond to elevation. This is most consistent with:",
-    "options": ["Simple, temporary edema", "Possible lymphedema, requiring specialized technique/referral", "A normal finding requiring no attention", "Dehydration"],
+    "options": [
+      "Simple, temporary edema",
+      "Possible lymphedema, requiring specialized technique/referral",
+      "A normal finding requiring no attention",
+      "Dehydration"
+    ],
     "answer": 1,
     "explanation": "Chronic, persistent localized swelling suggests possible lymphedema, which needs specialized care."
   },
   {
     "q": "Which statement best summarizes the relationship between massage and the cardiovascular/lymphatic systems?",
-    "options": ["Massage has no effect on either system", "Massage mechanically assists blood and lymph flow, especially with centripetal strokes", "Massage only affects the lymphatic system, never blood flow", "Massage always works against normal circulation"],
+    "options": [
+      "Massage has no effect on either system",
+      "Massage mechanically assists blood and lymph flow, especially with centripetal strokes",
+      "Massage only affects the lymphatic system, never blood flow",
+      "Massage always works against normal circulation"
+    ],
     "answer": 1,
     "explanation": "Massage, particularly with centripetal strokes, mechanically assists both venous and lymphatic flow."
   },
   {
     "q": "Which vessels transport lymph fluid through the body?",
-    "options": ["Arteries", "Veins", "Lymphatic vessels", "Capillaries only"],
+    "options": [
+      "Arteries",
+      "Veins",
+      "Lymphatic vessels",
+      "Capillaries only"
+    ],
     "answer": 2,
     "explanation": "Lymphatic vessels are dedicated to transporting lymph fluid, distinct from blood vessels."
   },
   {
     "q": "A therapist notices a client has a hard, tender, swollen area in the calf with warmth and discoloration. What's the safest response?",
-    "options": ["Massage the area with light pressure only", "Avoid the area/limb and refer for medical evaluation given possible DVT", "Use deep tissue stripping to reduce swelling", "Apply heat directly to the area"],
+    "options": [
+      "Massage the area with light pressure only",
+      "Avoid the area/limb and refer for medical evaluation given possible DVT",
+      "Use deep tissue stripping to reduce swelling",
+      "Apply heat directly to the area"
+    ],
     "answer": 1,
     "explanation": "These signs are consistent with possible DVT, an absolute contraindication requiring medical evaluation before any massage."
+  },
+  {
+    "q": "How many chambers does the human heart have?",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Six"
+    ],
+    "answer": 2,
+    "explanation": "The heart has four chambers: two atria (upper) and two ventricles (lower)."
+  },
+  {
+    "q": "Which heart chamber receives deoxygenated blood returning from the body via the venae cavae?",
+    "options": [
+      "Left atrium",
+      "Right atrium",
+      "Left ventricle",
+      "Right ventricle"
+    ],
+    "answer": 1,
+    "explanation": "The right atrium receives deoxygenated blood from the superior and inferior venae cavae."
+  },
+  {
+    "q": "Which heart chamber pumps deoxygenated blood into the pulmonary artery toward the lungs?",
+    "options": [
+      "Right atrium",
+      "Left atrium",
+      "Right ventricle",
+      "Left ventricle"
+    ],
+    "answer": 2,
+    "explanation": "The right ventricle pumps deoxygenated blood into the pulmonary artery, starting pulmonary circulation."
+  },
+  {
+    "q": "Which heart chamber receives oxygenated blood returning from the lungs via the pulmonary veins?",
+    "options": [
+      "Right atrium",
+      "Left atrium",
+      "Right ventricle",
+      "Left ventricle"
+    ],
+    "answer": 1,
+    "explanation": "The left atrium receives freshly oxygenated blood from the pulmonary veins."
+  },
+  {
+    "q": "Which heart chamber has the thickest, most muscular wall because it pumps blood to the entire body?",
+    "options": [
+      "Right atrium",
+      "Right ventricle",
+      "Left atrium",
+      "Left ventricle"
+    ],
+    "answer": 3,
+    "explanation": "The left ventricle has the thickest wall since it generates the pressure needed for systemic circulation."
+  },
+  {
+    "q": "The valve located between the right atrium and right ventricle is the:",
+    "options": [
+      "Mitral valve",
+      "Aortic valve",
+      "Tricuspid valve",
+      "Pulmonary valve"
+    ],
+    "answer": 2,
+    "explanation": "The tricuspid valve sits between the right atrium and right ventricle."
+  },
+  {
+    "q": "The valve located between the left atrium and left ventricle is the:",
+    "options": [
+      "Tricuspid valve",
+      "Mitral (bicuspid) valve",
+      "Pulmonary valve",
+      "Aortic valve"
+    ],
+    "answer": 1,
+    "explanation": "The mitral (bicuspid) valve sits between the left atrium and left ventricle."
+  },
+  {
+    "q": "Which valve prevents blood from flowing back into the right ventricle after it is pumped into the pulmonary artery?",
+    "options": [
+      "Mitral valve",
+      "Tricuspid valve",
+      "Pulmonary (pulmonic) valve",
+      "Aortic valve"
+    ],
+    "answer": 2,
+    "explanation": "The pulmonary valve prevents backflow from the pulmonary artery into the right ventricle."
+  },
+  {
+    "q": "Which valve prevents blood from flowing back into the left ventricle after it is pumped into the aorta?",
+    "options": [
+      "Aortic valve",
+      "Mitral valve",
+      "Tricuspid valve",
+      "Pulmonary valve"
+    ],
+    "answer": 0,
+    "explanation": "The aortic valve prevents backflow from the aorta into the left ventricle."
+  },
+  {
+    "q": "What is the general function of the heart's valves?",
+    "options": [
+      "To generate the heartbeat",
+      "To ensure one-way blood flow and prevent backflow",
+      "To filter blood cells",
+      "To produce hormones"
+    ],
+    "answer": 1,
+    "explanation": "Heart valves open and close to keep blood moving in one direction through the heart."
+  },
+  {
+    "q": "Which structure is known as the heart's natural pacemaker?",
+    "options": [
+      "AV node",
+      "SA node",
+      "Bundle of His",
+      "Purkinje fibers"
+    ],
+    "answer": 1,
+    "explanation": "The sinoatrial (SA) node initiates the electrical impulse that sets the heart's rhythm."
+  },
+  {
+    "q": "Systole refers to:",
+    "options": [
+      "Relaxation and filling of the heart chambers",
+      "Contraction of the heart chambers, ejecting blood",
+      "The resting phase of the entire heart",
+      "Blood flow through the lungs only"
+    ],
+    "answer": 1,
+    "explanation": "Systole is the contraction phase of the cardiac cycle, when blood is ejected from the chambers."
+  },
+  {
+    "q": "Diastole refers to:",
+    "options": [
+      "Contraction of the ventricles",
+      "Relaxation and filling of the heart chambers",
+      "Only atrial contraction",
+      "A type of arrhythmia"
+    ],
+    "answer": 1,
+    "explanation": "Diastole is the relaxation phase, during which the heart chambers fill with blood."
+  },
+  {
+    "q": "Which arteries supply oxygenated blood to the heart muscle itself?",
+    "options": [
+      "Carotid arteries",
+      "Coronary arteries",
+      "Pulmonary arteries",
+      "Renal arteries"
+    ],
+    "answer": 1,
+    "explanation": "The coronary arteries branch off the aorta and supply the heart muscle (myocardium) with oxygenated blood."
+  },
+  {
+    "q": "The heart wall is composed primarily of which muscle tissue type?",
+    "options": [
+      "Skeletal muscle",
+      "Smooth muscle",
+      "Cardiac muscle",
+      "Fibrous connective tissue"
+    ],
+    "answer": 2,
+    "explanation": "Cardiac muscle is the specialized, involuntary striated tissue that makes up the heart wall."
+  },
+  {
+    "q": "A pulse felt at the wrist or neck represents:",
+    "options": [
+      "Lymph flow",
+      "The rhythmic expansion of an artery from ventricular contraction",
+      "Venous backflow",
+      "Capillary exchange"
+    ],
+    "answer": 1,
+    "explanation": "A pulse is the palpable wave created in an artery each time the left ventricle contracts."
+  },
+  {
+    "q": "Which artery is the largest in the body and receives blood directly from the left ventricle?",
+    "options": [
+      "Pulmonary artery",
+      "Carotid artery",
+      "Aorta",
+      "Femoral artery"
+    ],
+    "answer": 2,
+    "explanation": "The aorta is the body's largest artery, carrying oxygenated blood from the left ventricle to systemic circulation."
+  },
+  {
+    "q": "The carotid arteries primarily supply blood to which region?",
+    "options": [
+      "The lower limbs",
+      "The head and neck",
+      "The abdominal organs",
+      "The kidneys"
+    ],
+    "answer": 1,
+    "explanation": "The carotid arteries carry blood up through the neck to supply the head and neck."
+  },
+  {
+    "q": "A pulse is commonly palpated at the wrist over which artery?",
+    "options": [
+      "Brachial artery",
+      "Radial artery",
+      "Femoral artery",
+      "Carotid artery"
+    ],
+    "answer": 1,
+    "explanation": "The radial artery at the wrist is one of the most common sites for taking a pulse."
+  },
+  {
+    "q": "During blood pressure measurement, the cuff and stethoscope are typically placed over which artery at the inner elbow?",
+    "options": [
+      "Radial artery",
+      "Popliteal artery",
+      "Brachial artery",
+      "Femoral artery"
+    ],
+    "answer": 2,
+    "explanation": "The brachial artery, at the crease of the elbow, is the standard site for blood pressure auscultation."
+  },
+  {
+    "q": "The femoral artery is the major artery supplying blood to the:",
+    "options": [
+      "Face",
+      "Thigh and leg",
+      "Forearm",
+      "Neck"
+    ],
+    "answer": 1,
+    "explanation": "The femoral artery runs through the groin and thigh, supplying the lower limb."
+  },
+  {
+    "q": "The popliteal artery is located:",
+    "options": [
+      "In front of the elbow",
+      "Behind the knee",
+      "In the wrist",
+      "In the neck"
+    ],
+    "answer": 1,
+    "explanation": "The popliteal artery passes through the popliteal fossa behind the knee."
+  },
+  {
+    "q": "Which of the following arteries branch directly off the aorta just above the aortic valve?",
+    "options": [
+      "Carotid arteries",
+      "Coronary arteries",
+      "Femoral arteries",
+      "Renal arteries"
+    ],
+    "answer": 1,
+    "explanation": "The coronary arteries are the first branches off the aorta, supplying the heart itself."
+  },
+  {
+    "q": "The external iliac artery continues into the thigh as the:",
+    "options": [
+      "Popliteal artery",
+      "Femoral artery",
+      "Carotid artery",
+      "Brachial artery"
+    ],
+    "answer": 1,
+    "explanation": "The external iliac artery becomes the femoral artery as it passes into the thigh, supplying the lower limb."
+  },
+  {
+    "q": "The superior vena cava returns deoxygenated blood to the heart from the:",
+    "options": [
+      "Lower body",
+      "Upper body",
+      "Lungs only",
+      "Digestive organs only"
+    ],
+    "answer": 1,
+    "explanation": "The superior vena cava collects deoxygenated blood from the head, neck, and arms."
+  },
+  {
+    "q": "The inferior vena cava returns deoxygenated blood to the heart from the:",
+    "options": [
+      "Head and arms",
+      "Lower body",
+      "Lungs",
+      "Heart muscle only"
+    ],
+    "answer": 1,
+    "explanation": "The inferior vena cava collects deoxygenated blood from the trunk and lower limbs."
+  },
+  {
+    "q": "The jugular veins primarily drain blood from the:",
+    "options": [
+      "Lower limbs",
+      "Head and neck",
+      "Kidneys",
+      "Digestive tract"
+    ],
+    "answer": 1,
+    "explanation": "The jugular veins carry deoxygenated blood away from the head and neck back toward the heart."
+  },
+  {
+    "q": "Which statement about the pulmonary veins is correct?",
+    "options": [
+      "They carry deoxygenated blood, like most veins",
+      "They carry oxygenated blood, unlike most other veins",
+      "They carry blood away from the heart",
+      "They have no valves"
+    ],
+    "answer": 1,
+    "explanation": "The pulmonary veins are an exception among veins because they carry freshly oxygenated blood from the lungs to the left atrium."
+  },
+  {
+    "q": "The great saphenous vein, a common site for varicosities, is located:",
+    "options": [
+      "Deep within the abdomen",
+      "Superficially along the leg",
+      "In the neck",
+      "In the forearm"
+    ],
+    "answer": 1,
+    "explanation": "The great saphenous vein is a long, superficial vein of the leg, commonly affected by varicosities."
+  },
+  {
+    "q": "Compared to arteries, veins generally:",
+    "options": [
+      "Carry blood at higher pressure",
+      "Have thicker muscular walls",
+      "Carry blood at lower pressure and rely on valves and muscle contraction for flow",
+      "Never carry deoxygenated blood"
+    ],
+    "answer": 2,
+    "explanation": "Veins operate at lower pressure than arteries and depend on valves and the muscle pump to assist blood's return to the heart."
+  },
+  {
+    "q": "Systolic blood pressure specifically measures pressure in the arteries during:",
+    "options": [
+      "Ventricular relaxation",
+      "Ventricular contraction",
+      "Atrial contraction only",
+      "Complete cardiac rest"
+    ],
+    "answer": 1,
+    "explanation": "Systolic pressure is the higher number, reflecting arterial pressure during ventricular contraction."
+  },
+  {
+    "q": "Diastolic blood pressure specifically measures pressure in the arteries during:",
+    "options": [
+      "Ventricular contraction",
+      "Ventricular relaxation between beats",
+      "Atrial contraction only",
+      "Exercise only"
+    ],
+    "answer": 1,
+    "explanation": "Diastolic pressure is the lower number, reflecting arterial pressure while the ventricles are relaxed and filling."
+  },
+  {
+    "q": "A commonly cited normal resting blood pressure reading is approximately:",
+    "options": [
+      "90/40 mmHg",
+      "120/80 mmHg",
+      "160/100 mmHg",
+      "200/120 mmHg"
+    ],
+    "answer": 1,
+    "explanation": "120/80 mmHg is commonly cited as a normal resting blood pressure reference value."
+  },
+  {
+    "q": "Hypertension is best defined as:",
+    "options": [
+      "A single elevated reading during exercise",
+      "Blood pressure that is persistently elevated above normal",
+      "Blood pressure that is too low",
+      "A normal variation with no clinical meaning"
+    ],
+    "answer": 1,
+    "explanation": "Hypertension refers to blood pressure that remains chronically above normal levels."
+  },
+  {
+    "q": "Hypotension (low blood pressure) may cause a client to experience:",
+    "options": [
+      "Increased alertness only",
+      "Dizziness or lightheadedness, especially when standing quickly",
+      "No symptoms at all",
+      "Elevated body temperature"
+    ],
+    "answer": 1,
+    "explanation": "Low blood pressure can cause dizziness or fainting, particularly with sudden position changes."
+  },
+  {
+    "q": "Why is it important for a massage therapist to ask about blood pressure conditions during intake?",
+    "options": [
+      "It has no bearing on treatment choices",
+      "Certain techniques may need to be modified or avoided with uncontrolled blood pressure conditions",
+      "Blood pressure is unrelated to massage safety",
+      "Only doctors need this information"
+    ],
+    "answer": 1,
+    "explanation": "Blood pressure status can affect which techniques are safe, especially vigorous or circulation-stimulating ones."
+  },
+  {
+    "q": "The liquid, straw-colored portion of blood that carries cells, nutrients, and waste is called:",
+    "options": [
+      "Serum only",
+      "Plasma",
+      "Lymph",
+      "Hemoglobin"
+    ],
+    "answer": 1,
+    "explanation": "Plasma is the liquid component of blood in which cells and dissolved substances are suspended."
+  },
+  {
+    "q": "Red blood cells (erythrocytes) are primarily responsible for:",
+    "options": [
+      "Fighting infection",
+      "Clotting blood",
+      "Transporting oxygen via hemoglobin",
+      "Producing antibodies"
+    ],
+    "answer": 2,
+    "explanation": "Erythrocytes contain hemoglobin, which binds and transports oxygen throughout the body."
+  },
+  {
+    "q": "White blood cells (leukocytes) primarily function to:",
+    "options": [
+      "Carry oxygen",
+      "Defend the body against infection and disease",
+      "Clot blood at a wound site",
+      "Transport hormones"
+    ],
+    "answer": 1,
+    "explanation": "Leukocytes are the immune cells of the blood, defending against pathogens."
+  },
+  {
+    "q": "Platelets (thrombocytes) are primarily responsible for:",
+    "options": [
+      "Oxygen transport",
+      "Immune defense",
+      "Blood clotting",
+      "Filtering lymph"
+    ],
+    "answer": 2,
+    "explanation": "Platelets initiate and assist the blood clotting process at sites of vessel injury."
+  },
+  {
+    "q": "Hemoglobin is the iron-containing protein found in:",
+    "options": [
+      "Plasma",
+      "White blood cells",
+      "Red blood cells",
+      "Platelets"
+    ],
+    "answer": 2,
+    "explanation": "Hemoglobin, located in red blood cells, binds oxygen for transport throughout the body."
+  },
+  {
+    "q": "A client with low red blood cell count or hemoglobin, causing persistent fatigue, may have:",
+    "options": [
+      "Hypertension",
+      "Anemia",
+      "Lymphedema",
+      "Phlebitis"
+    ],
+    "answer": 1,
+    "explanation": "Anemia is a reduction in red blood cells or hemoglobin, commonly causing fatigue and weakness."
+  },
+  {
+    "q": "Blood cells are primarily produced in the:",
+    "options": [
+      "Liver",
+      "Spleen",
+      "Bone marrow",
+      "Lymph nodes"
+    ],
+    "answer": 2,
+    "explanation": "Bone marrow is the primary site of blood cell production (hematopoiesis)."
+  },
+  {
+    "q": "Besides oxygen, what else does blood transport throughout the body?",
+    "options": [
+      "Nothing else — only oxygen",
+      "Nutrients, hormones, and waste products",
+      "Only carbon dioxide",
+      "Only immune cells"
+    ],
+    "answer": 1,
+    "explanation": "Blood transports many substances, including nutrients, hormones, gases, and metabolic waste."
+  },
+  {
+    "q": "Which lymphatic organ filters blood (not lymph), removes old red blood cells, and stores platelets?",
+    "options": [
+      "Thymus",
+      "Spleen",
+      "Tonsils",
+      "Appendix"
+    ],
+    "answer": 1,
+    "explanation": "The spleen filters blood directly, recycling old red blood cells and storing platelets."
+  },
+  {
+    "q": "The spleen is located in which region of the body?",
+    "options": [
+      "Right lower abdomen",
+      "Upper left abdomen, under the rib cage",
+      "Neck",
+      "Pelvis"
+    ],
+    "answer": 1,
+    "explanation": "The spleen sits in the upper left abdominal region, protected by the lower ribs."
+  },
+  {
+    "q": "Which lymphatic organ is responsible for maturation of T-lymphocytes and is more active in childhood?",
+    "options": [
+      "Spleen",
+      "Thymus",
+      "Tonsils",
+      "Thoracic duct"
+    ],
+    "answer": 1,
+    "explanation": "The thymus matures T-cells and is largest and most active earlier in life, shrinking with age."
+  },
+  {
+    "q": "The tonsils are strategically located to:",
+    "options": [
+      "Filter blood directly",
+      "Protect against pathogens entering through the nose and mouth",
+      "Produce red blood cells",
+      "Store excess lymph fluid only"
+    ],
+    "answer": 1,
+    "explanation": "Tonsils are lymphoid tissue positioned to intercept pathogens entering through the nose and mouth."
+  },
+  {
+    "q": "Superficial lymph nodes commonly considered in massage practice are clustered in the neck, armpit, and groin — respectively called:",
+    "options": [
+      "Cervical, axillary, inguinal",
+      "Cranial, brachial, femoral",
+      "Cervical, thoracic, pelvic",
+      "Occipital, popliteal, plantar"
+    ],
+    "answer": 0,
+    "explanation": "Cervical, axillary, and inguinal are the common superficial lymph node clusters in the neck, armpit, and groin."
+  },
+  {
+    "q": "The largest lymphatic vessel in the body, which drains lymph into the venous system near the left subclavian vein, is the:",
+    "options": [
+      "Right lymphatic duct",
+      "Thoracic duct",
+      "Femoral lymphatic trunk",
+      "Cisterna chyli only"
+    ],
+    "answer": 1,
+    "explanation": "The thoracic duct is the largest lymphatic vessel, emptying most of the body's lymph into the venous bloodstream."
+  },
+  {
+    "q": "Compared to blood capillaries, lymphatic capillaries are:",
+    "options": [
+      "Closed at both ends and less permeable",
+      "Blind-ended (closed at one end) and more permeable, allowing fluid and proteins to enter",
+      "Identical in structure and function",
+      "Located only in the digestive tract"
+    ],
+    "answer": 1,
+    "explanation": "Lymphatic capillaries are blind-ended and highly permeable, allowing interstitial fluid and proteins to enter as lymph."
+  },
+  {
+    "q": "Which of the following best summarizes the overall functions of the lymphatic system?",
+    "options": [
+      "Only produces red blood cells",
+      "Maintains fluid balance, supports immune function, and absorbs dietary fats",
+      "Only regulates body temperature",
+      "Only transports oxygen"
+    ],
+    "answer": 1,
+    "explanation": "The lymphatic system has three core roles: fluid balance, immunity, and fat absorption from the digestive tract."
+  },
+  {
+    "q": "Specialized lymphatic capillaries in the small intestine that absorb dietary fats are called:",
+    "options": [
+      "Villi",
+      "Lacteals",
+      "Sinusoids",
+      "Alveoli"
+    ],
+    "answer": 1,
+    "explanation": "Lacteals are lymphatic capillaries within intestinal villi that absorb fats as chyle."
+  },
+  {
+    "q": "Axillary lymph node removal or damage (e.g., after breast cancer surgery) creates increased risk for:",
+    "options": [
+      "Hypertension",
+      "Secondary lymphedema in the arm",
+      "DVT in the leg",
+      "Anemia"
+    ],
+    "answer": 1,
+    "explanation": "Removing axillary lymph nodes disrupts lymphatic drainage of the arm, increasing risk of secondary lymphedema."
+  },
+  {
+    "q": "Manual lymphatic drainage (MLD) is characterized by:",
+    "options": [
+      "Deep, vigorous strokes with heavy pressure",
+      "Very light, slow, rhythmic strokes designed to move lymph without collapsing vessels",
+      "Fast percussive tapping",
+      "No directional pattern at all"
+    ],
+    "answer": 1,
+    "explanation": "MLD uses light, rhythmic strokes because lymphatic vessels are superficial and easily collapsed by excess pressure."
+  },
+  {
+    "q": "Because lymph and venous blood both move toward the heart with no strong forward pump of their own in the limbs, effleurage strokes are typically directed:",
+    "options": [
+      "Away from the heart",
+      "Toward the heart (centripetally)",
+      "In random directions",
+      "Only downward"
+    ],
+    "answer": 1,
+    "explanation": "Centripetal strokes work with the natural direction of venous and lymphatic return."
+  },
+  {
+    "q": "Lymph movement through the limbs depends heavily on:",
+    "options": [
+      "Direct pumping by the heart",
+      "Contraction of skeletal muscles during movement",
+      "Gravity pulling fluid downward only",
+      "The digestive system"
+    ],
+    "answer": 1,
+    "explanation": "Since lymph has no central pump, skeletal muscle contraction is a key driver of lymph flow."
+  },
+  {
+    "q": "A client who has had axillary lymph nodes removed after mastectomy generally requires:",
+    "options": [
+      "No modification to standard massage",
+      "Specialized lymphatic technique and caution on the affected side",
+      "Only deep tissue work on the affected arm",
+      "Avoidance of massage anywhere on the body permanently"
+    ],
+    "answer": 1,
+    "explanation": "Post-mastectomy clients with lymph node removal need specialized, cautious lymphatic approaches on the affected side."
+  },
+  {
+    "q": "Lymphedema caused by a congenital malformation of the lymphatic system is called:",
+    "options": [
+      "Secondary lymphedema",
+      "Primary lymphedema",
+      "Pitting edema",
+      "Venous edema"
+    ],
+    "answer": 1,
+    "explanation": "Primary lymphedema results from a lymphatic system that develops abnormally from birth."
+  },
+  {
+    "q": "Lymphedema that develops after surgery, radiation, or trauma damages lymphatic structures is called:",
+    "options": [
+      "Primary lymphedema",
+      "Secondary lymphedema",
+      "Congenital edema",
+      "Idiopathic lymphedema"
+    ],
+    "answer": 1,
+    "explanation": "Secondary lymphedema is acquired, typically resulting from damage to previously normal lymphatic tissue."
+  },
+  {
+    "q": "General massage strokes applied to a local area typically cause which local circulatory effect?",
+    "options": [
+      "Vasoconstriction and decreased blood flow",
+      "Localized vasodilation and increased blood flow",
+      "No change in local circulation",
+      "Immediate clot formation"
+    ],
+    "answer": 1,
+    "explanation": "Massage generally promotes local vasodilation, increasing blood flow to the treated tissue."
+  },
+  {
+    "q": "Before performing lymphatic work on a client with a history of cancer, a therapist should generally:",
+    "options": [
+      "Proceed without any precautions",
+      "Confirm medical clearance/guidance given the complexity of lymphatic involvement",
+      "Avoid gathering any health history",
+      "Assume it is always completely safe"
+    ],
+    "answer": 1,
+    "explanation": "Given the complexity of cancer treatment and lymphatic involvement, medical guidance is an important precaution."
+  },
+  {
+    "q": "Massage over an area of active local infection is generally:",
+    "options": [
+      "Encouraged to boost immunity",
+      "Contraindicated, to avoid spreading the infection",
+      "Required for treatment",
+      "Only a concern if the client has a fever"
+    ],
+    "answer": 1,
+    "explanation": "Massaging over active infection risks spreading pathogens through the tissue and circulation."
+  },
+  {
+    "q": "The buildup of fatty plaque inside artery walls, narrowing the vessel, is called:",
+    "options": [
+      "Arteriosclerosis",
+      "Atherosclerosis",
+      "Phlebitis",
+      "Aneurysm"
+    ],
+    "answer": 1,
+    "explanation": "Atherosclerosis is the accumulation of plaque within arterial walls, narrowing the vessel lumen."
+  },
+  {
+    "q": "General hardening and loss of elasticity of artery walls is called:",
+    "options": [
+      "Atherosclerosis",
+      "Arteriosclerosis",
+      "Varicosity",
+      "Thrombosis"
+    ],
+    "answer": 1,
+    "explanation": "Arteriosclerosis refers to the general stiffening and thickening of arterial walls."
+  },
+  {
+    "q": "A localized, weakened, bulging section of an arterial wall that could rupture under pressure is called a(n):",
+    "options": [
+      "Aneurysm",
+      "Varicosity",
+      "Embolism",
+      "Edema"
+    ],
+    "answer": 0,
+    "explanation": "An aneurysm is a weakened, ballooning area of an arterial wall, requiring caution and possible medical referral."
+  },
+  {
+    "q": "Inflammation of a vein, which is a contraindication for massage over the affected area, is called:",
+    "options": [
+      "Arthritis",
+      "Phlebitis",
+      "Neuritis",
+      "Myositis"
+    ],
+    "answer": 1,
+    "explanation": "Phlebitis is vein inflammation, and the affected area should not be massaged."
+  },
+  {
+    "q": "A blood clot that remains at the site where it formed is called a:",
+    "options": [
+      "Thrombus",
+      "Embolus",
+      "Aneurysm",
+      "Varicosity"
+    ],
+    "answer": 0,
+    "explanation": "A thrombus is a stationary clot at its site of formation, as seen in DVT."
+  },
+  {
+    "q": "A blood clot (or part of one) that breaks loose and travels through the bloodstream is called a(n):",
+    "options": [
+      "Thrombus",
+      "Embolus",
+      "Varicosity",
+      "Aneurysm"
+    ],
+    "answer": 1,
+    "explanation": "An embolus is a clot fragment (or other material) that has broken free and travels through circulation."
+  },
+  {
+    "q": "If a thrombus from a deep leg vein breaks loose and lodges in the lungs, the resulting emergency is called a:",
+    "options": [
+      "Myocardial infarction",
+      "Pulmonary embolism",
+      "Stroke",
+      "Aneurysm"
+    ],
+    "answer": 1,
+    "explanation": "A dislodged DVT clot traveling to the lungs causes a pulmonary embolism, a life-threatening emergency."
+  },
+  {
+    "q": "General edema (fluid accumulation in tissue) can result from all of the following EXCEPT:",
+    "options": [
+      "Impaired venous return",
+      "Kidney or heart dysfunction",
+      "Localized inflammation",
+      "Increased hemoglobin production"
+    ],
+    "answer": 3,
+    "explanation": "Increased hemoglobin production is not a typical cause of edema; the other options are common causes of fluid buildup."
+  },
+  {
+    "q": "Pitting edema — where pressing the skin leaves a temporary indentation — is a sign that may warrant:",
+    "options": [
+      "Ignoring it completely",
+      "Deep, vigorous massage directly over the area",
+      "Caution and possible referral, since it can indicate an underlying medical condition",
+      "Applying maximum pressure to disperse the fluid"
+    ],
+    "answer": 2,
+    "explanation": "Pitting edema can signal underlying cardiovascular, kidney, or lymphatic issues and warrants caution and possible referral."
+  },
+  {
+    "q": "Varicose veins primarily develop because of:",
+    "options": [
+      "Overactive lymph nodes",
+      "Failure of venous valves, allowing blood to pool and the vein to bulge",
+      "Excess red blood cell production",
+      "Arterial plaque buildup"
+    ],
+    "answer": 1,
+    "explanation": "Varicose veins result from weakened or failed venous valves, causing blood to pool and the vein to distend."
+  },
+  {
+    "q": "Because massage and heat can cause vasodilation and blood pressure shifts, clients should generally be encouraged to:",
+    "options": [
+      "Stand up quickly right after a session",
+      "Sit up slowly after a session to avoid dizziness from a sudden blood pressure change",
+      "Lie flat for several hours afterward",
+      "Avoid drinking water afterward"
+    ],
+    "answer": 1,
+    "explanation": "Sitting up slowly after treatment helps prevent dizziness from postural blood pressure changes."
+  },
+  {
+    "q": "A therapist notices warmth, swelling, tenderness, and discoloration localized to one calf. This combination of signs should raise suspicion for:",
+    "options": [
+      "Simple muscle soreness only",
+      "Possible deep vein thrombosis (DVT), warranting avoidance and referral",
+      "Normal post-exercise recovery",
+      "Lymphedema exclusively"
+    ],
+    "answer": 1,
+    "explanation": "This classic symptom combination should raise concern for DVT, requiring avoidance of the area and medical referral."
+  },
+  {
+    "q": "Uncontrolled cardiovascular disease is generally considered a caution for which type of massage approach?",
+    "options": [
+      "Any technique that significantly increases cardiovascular workload, such as vigorous full-body work",
+      "Light, relaxing effleurage only",
+      "All massage is completely contraindicated in every case",
+      "There are no precautions needed"
+    ],
+    "answer": 0,
+    "explanation": "Vigorous techniques that raise cardiovascular demand require caution when a client has uncontrolled cardiovascular disease."
+  },
+  {
+    "q": "Platelets and clotting factors work together to prevent excessive bleeding through a process called:",
+    "options": [
+      "Hemostasis",
+      "Hemolysis",
+      "Hematopoiesis",
+      "Hemodilution"
+    ],
+    "answer": 0,
+    "explanation": "Hemostasis is the process by which platelets and clotting factors stop bleeding at an injury site."
+  },
+  {
+    "q": "Lymphocytes are a type of white blood cell central to:",
+    "options": [
+      "Oxygen transport",
+      "Blood clotting",
+      "Immune function, including antibody production",
+      "Digestion"
+    ],
+    "answer": 2,
+    "explanation": "Lymphocytes (including B-cells and T-cells) are key white blood cells in the body's immune response."
+  },
+  {
+    "q": "Antibodies, which help target and neutralize specific pathogens, are produced by:",
+    "options": [
+      "Red blood cells",
+      "B-lymphocytes",
+      "Platelets",
+      "The spleen's outer capsule only"
+    ],
+    "answer": 1,
+    "explanation": "B-lymphocytes produce antibodies that target specific pathogens as part of adaptive immunity."
+  },
+  {
+    "q": "Swollen, tender lymph nodes (lymphadenopathy) are most often a sign that the body is:",
+    "options": [
+      "Dehydrated",
+      "Actively fighting an infection or other immune challenge",
+      "Producing excess red blood cells",
+      "Experiencing low blood pressure"
+    ],
+    "answer": 1,
+    "explanation": "Swollen lymph nodes typically indicate the immune system is actively responding to infection or another challenge."
   }
 ]

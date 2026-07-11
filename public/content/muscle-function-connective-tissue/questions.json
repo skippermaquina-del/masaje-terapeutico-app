@@ -1,122 +1,1102 @@
 [
   {
     "q": "The attachment point of a muscle that remains relatively fixed during contraction is the:",
-    "options": ["Insertion", "Origin", "Synergist", "Fixator"],
+    "options": [
+      "Insertion",
+      "Origin",
+      "Synergist",
+      "Fixator"
+    ],
     "answer": 1,
     "explanation": "The origin is the stationary attachment point of a muscle."
   },
   {
     "q": "Which muscle role produces the primary movement being performed?",
-    "options": ["Antagonist", "Synergist", "Agonist", "Fixator"],
+    "options": [
+      "Antagonist",
+      "Synergist",
+      "Agonist",
+      "Fixator"
+    ],
     "answer": 2,
     "explanation": "The agonist (prime mover) is the main muscle producing a given movement."
   },
   {
     "q": "During elbow flexion, the triceps brachii (which extends the elbow) is acting as the:",
-    "options": ["Agonist", "Antagonist", "Fixator", "Synergist"],
+    "options": [
+      "Agonist",
+      "Antagonist",
+      "Fixator",
+      "Synergist"
+    ],
     "answer": 1,
     "explanation": "The triceps opposes elbow flexion, making it the antagonist during that movement."
   },
   {
     "q": "A muscle that stabilizes a joint so another muscle can effectively pull is called a:",
-    "options": ["Synergist", "Fixator (stabilizer)", "Antagonist", "Agonist"],
+    "options": [
+      "Synergist",
+      "Fixator (stabilizer)",
+      "Antagonist",
+      "Agonist"
+    ],
     "answer": 1,
     "explanation": "A fixator/stabilizer prevents unwanted motion so the prime mover has a firm base."
   },
   {
     "q": "Pressing your palms together without any joint movement is an example of:",
-    "options": ["Concentric contraction", "Eccentric contraction", "Isometric contraction", "Isotonic contraction"],
+    "options": [
+      "Concentric contraction",
+      "Eccentric contraction",
+      "Isometric contraction",
+      "Isotonic contraction"
+    ],
     "answer": 2,
     "explanation": "Isometric contractions generate tension without joint movement."
   },
   {
     "q": "The 'lowering' phase of a bicep curl, where the muscle lengthens while still under tension, is:",
-    "options": ["Concentric contraction", "Eccentric contraction", "Isometric contraction", "Isokinetic contraction"],
+    "options": [
+      "Concentric contraction",
+      "Eccentric contraction",
+      "Isometric contraction",
+      "Isokinetic contraction"
+    ],
     "answer": 1,
     "explanation": "Eccentric contraction involves the muscle lengthening while still generating tension."
   },
   {
     "q": "Which receptor detects excessive or rapid stretch and triggers a protective contraction?",
-    "options": ["Golgi tendon organ", "Muscle spindle", "Pacinian corpuscle", "Meissner's corpuscle"],
+    "options": [
+      "Golgi tendon organ",
+      "Muscle spindle",
+      "Pacinian corpuscle",
+      "Meissner's corpuscle"
+    ],
     "answer": 1,
     "explanation": "Muscle spindles detect stretch and trigger the stretch reflex to prevent overstretching."
   },
   {
     "q": "Which receptor is located near the muscle-tendon junction and responds to excessive tension by causing the muscle to relax?",
-    "options": ["Muscle spindle", "Golgi tendon organ", "Free nerve ending", "Baroreceptor"],
+    "options": [
+      "Muscle spindle",
+      "Golgi tendon organ",
+      "Free nerve ending",
+      "Baroreceptor"
+    ],
     "answer": 1,
     "explanation": "Golgi tendon organs detect high tension and trigger relaxation to protect the muscle/tendon."
   },
   {
     "q": "The ability to sense your body's position in space without looking is called:",
-    "options": ["Nociception", "Proprioception", "Thermoreception", "Mechanoreception"],
+    "options": [
+      "Nociception",
+      "Proprioception",
+      "Thermoreception",
+      "Mechanoreception"
+    ],
     "answer": 1,
     "explanation": "Proprioception is the sense of body position in space."
   },
   {
     "q": "Which connective tissue connects muscle to bone?",
-    "options": ["Ligament", "Tendon", "Cartilage", "Fascia"],
+    "options": [
+      "Ligament",
+      "Tendon",
+      "Cartilage",
+      "Fascia"
+    ],
     "answer": 1,
     "explanation": "Tendons connect muscle to bone."
   },
   {
     "q": "Which connective tissue connects bone to bone?",
-    "options": ["Tendon", "Ligament", "Bursa", "Fascia"],
+    "options": [
+      "Tendon",
+      "Ligament",
+      "Bursa",
+      "Fascia"
+    ],
     "answer": 1,
     "explanation": "Ligaments connect bone to bone, stabilizing joints."
   },
   {
     "q": "Why do ligament injuries typically heal more slowly than muscle injuries?",
-    "options": ["Ligaments have excellent blood supply", "Ligaments have relatively poor blood supply", "Ligaments regenerate faster than muscle", "There is no difference in healing speed"],
+    "options": [
+      "Ligaments have excellent blood supply",
+      "Ligaments have relatively poor blood supply",
+      "Ligaments regenerate faster than muscle",
+      "There is no difference in healing speed"
+    ],
     "answer": 1,
     "explanation": "Ligaments have a relatively poor blood supply, which slows healing."
   },
   {
     "q": "Which connective tissue wraps around and connects muscles, providing support and acting as a shock absorber?",
-    "options": ["Cartilage", "Bursa", "Fascia", "Tendon"],
+    "options": [
+      "Cartilage",
+      "Bursa",
+      "Fascia",
+      "Tendon"
+    ],
     "answer": 2,
     "explanation": "Fascia is the web-like connective tissue that wraps and supports muscles and other structures."
   },
   {
     "q": "A small fluid-filled sac that reduces friction between bone and tendon near a joint is called a:",
-    "options": ["Ligament", "Bursa", "Meniscus", "Fascicle"],
+    "options": [
+      "Ligament",
+      "Bursa",
+      "Meniscus",
+      "Fascicle"
+    ],
     "answer": 1,
     "explanation": "A bursa is a fluid-filled sac cushioning friction points near joints."
   },
   {
     "q": "Bending at the waist to lift a heavy object (instead of using the legs) often causes injury because:",
-    "options": ["The agonist becomes the antagonist", "A stabilizer is forced to act as a prime mover", "The synergist takes over completely", "Muscle spindles are disabled"],
+    "options": [
+      "The agonist becomes the antagonist",
+      "A stabilizer is forced to act as a prime mover",
+      "The synergist takes over completely",
+      "Muscle spindles are disabled"
+    ],
     "answer": 1,
     "explanation": "Improper lifting mechanics force stabilizer muscles (like those in the low back) to act as prime movers, increasing injury risk."
   },
   {
     "q": "Which term describes the flexible connective tissue that cushions between bones, such as at the knee?",
-    "options": ["Tendon", "Ligament", "Cartilage", "Bursa"],
+    "options": [
+      "Tendon",
+      "Ligament",
+      "Cartilage",
+      "Bursa"
+    ],
     "answer": 2,
     "explanation": "Cartilage cushions between bones."
   },
   {
     "q": "During a squat's upward phase, the quadriceps shortening while contracting is an example of:",
-    "options": ["Eccentric contraction", "Concentric contraction", "Isometric contraction", "Passive contraction"],
+    "options": [
+      "Eccentric contraction",
+      "Concentric contraction",
+      "Isometric contraction",
+      "Passive contraction"
+    ],
     "answer": 1,
     "explanation": "Concentric contraction is when the muscle shortens while generating force, as in the lifting phase."
   },
   {
     "q": "Deep fascia is best described as:",
-    "options": ["Located just under the skin", "Surrounding individual muscles and muscle groups", "The same as a ligament", "Only present in the face"],
+    "options": [
+      "Located just under the skin",
+      "Surrounding individual muscles and muscle groups",
+      "The same as a ligament",
+      "Only present in the face"
+    ],
     "answer": 1,
     "explanation": "Deep fascia surrounds individual muscles and muscle groups, distinct from superficial fascia under the skin."
   },
   {
     "q": "A synergist muscle typically:",
-    "options": ["Opposes the agonist's movement", "Assists the agonist by moving in the same direction", "Only stabilizes joints without moving", "Has no functional role in movement"],
+    "options": [
+      "Opposes the agonist's movement",
+      "Assists the agonist by moving in the same direction",
+      "Only stabilizes joints without moving",
+      "Has no functional role in movement"
+    ],
     "answer": 1,
     "explanation": "A synergist assists the prime mover by contracting in the same direction/manner."
   },
   {
     "q": "Which best explains why massage techniques like rhythmic petrissage can promote relaxation?",
-    "options": ["They eliminate all proprioceptive input", "They can influence stretch and tension receptors, contributing to a relaxation response", "They have no neurological effect", "They only affect bone tissue"],
+    "options": [
+      "They eliminate all proprioceptive input",
+      "They can influence stretch and tension receptors, contributing to a relaxation response",
+      "They have no neurological effect",
+      "They only affect bone tissue"
+    ],
     "answer": 1,
     "explanation": "Massage can interact with proprioceptive receptors like muscle spindles and Golgi tendon organs, contributing to relaxation."
+  },
+  {
+    "q": "The basic functional contractile unit of a muscle fiber is the:",
+    "options": [
+      "Myofibril",
+      "Sarcomere",
+      "Fascicle",
+      "Epimysium"
+    ],
+    "answer": 1,
+    "explanation": "The sarcomere is the smallest functional contractile unit within a muscle fiber."
+  },
+  {
+    "q": "A sarcomere is bounded on each end by structures called:",
+    "options": [
+      "Z-discs (Z-lines)",
+      "T-tubules",
+      "Cross-bridges",
+      "Synapses"
+    ],
+    "answer": 0,
+    "explanation": "Z-discs mark the boundaries of each sarcomere."
+  },
+  {
+    "q": "The thick filaments within a sarcomere are composed primarily of the protein:",
+    "options": [
+      "Actin",
+      "Myosin",
+      "Troponin",
+      "Collagen"
+    ],
+    "answer": 1,
+    "explanation": "Thick filaments are made of myosin."
+  },
+  {
+    "q": "The thin filaments within a sarcomere are composed primarily of the protein:",
+    "options": [
+      "Myosin",
+      "Actin",
+      "Elastin",
+      "Keratin"
+    ],
+    "answer": 1,
+    "explanation": "Thin filaments are made of actin."
+  },
+  {
+    "q": "According to the sliding filament theory, muscle contraction occurs when:",
+    "options": [
+      "Actin and myosin filaments shorten individually",
+      "Actin filaments slide past myosin filaments, shortening the sarcomere",
+      "Sarcomeres stretch permanently longer",
+      "Myosin filaments dissolve"
+    ],
+    "answer": 1,
+    "explanation": "The sliding filament theory describes actin sliding past myosin, pulling the Z-discs closer together and shortening the sarcomere."
+  },
+  {
+    "q": "The energy molecule that powers the cross-bridge cycling between actin and myosin is:",
+    "options": [
+      "ATP",
+      "Glucose",
+      "Glycogen",
+      "Creatine"
+    ],
+    "answer": 0,
+    "explanation": "ATP provides the energy for the myosin cross-bridges to cycle and pull on actin filaments."
+  },
+  {
+    "q": "Which ion, released from the sarcoplasmic reticulum, triggers the start of muscle contraction?",
+    "options": [
+      "Sodium",
+      "Potassium",
+      "Calcium",
+      "Chloride"
+    ],
+    "answer": 2,
+    "explanation": "Calcium ions bind to troponin, initiating the events that allow cross-bridge formation."
+  },
+  {
+    "q": "Troponin and tropomyosin, the regulatory proteins of contraction, are associated with which filament?",
+    "options": [
+      "Myosin (thick filament)",
+      "Actin (thin filament)",
+      "Titin",
+      "Collagen"
+    ],
+    "answer": 1,
+    "explanation": "Troponin and tropomyosin sit along the actin (thin) filament and regulate access to myosin-binding sites."
+  },
+  {
+    "q": "During contraction, calcium binding to troponin causes tropomyosin to move, which:",
+    "options": [
+      "Blocks the myosin-binding sites on actin",
+      "Exposes the myosin-binding sites on actin",
+      "Breaks down ATP directly",
+      "Disassembles the sarcomere"
+    ],
+    "answer": 1,
+    "explanation": "Calcium-bound troponin shifts tropomyosin away from the myosin-binding sites on actin, allowing cross-bridges to form."
+  },
+  {
+    "q": "A chain of many sarcomeres joined end to end forms a:",
+    "options": [
+      "Myofibril",
+      "Fascicle",
+      "Tendon",
+      "Ligament"
+    ],
+    "answer": 0,
+    "explanation": "Myofibrils are long chains of sarcomeres running the length of a muscle fiber."
+  },
+  {
+    "q": "A single muscle cell is more precisely called a:",
+    "options": [
+      "Sarcomere",
+      "Muscle fiber",
+      "Fascicle",
+      "Myofilament"
+    ],
+    "answer": 1,
+    "explanation": "A muscle fiber is the term for an individual skeletal muscle cell."
+  },
+  {
+    "q": "Ordering muscle structures from smallest to largest, the correct sequence is:",
+    "options": [
+      "Muscle, fascicle, fiber, myofibril, sarcomere",
+      "Sarcomere, myofibril, fiber, fascicle, muscle",
+      "Fiber, sarcomere, fascicle, myofibril, muscle",
+      "Myofibril, sarcomere, muscle, fiber, fascicle"
+    ],
+    "answer": 1,
+    "explanation": "The hierarchy runs from sarcomere (smallest) up through myofibril, muscle fiber, fascicle, to the whole muscle."
+  },
+  {
+    "q": "The connective tissue layer that wraps around an individual muscle fiber is the:",
+    "options": [
+      "Epimysium",
+      "Perimysium",
+      "Endomysium",
+      "Periosteum"
+    ],
+    "answer": 2,
+    "explanation": "Endomysium surrounds each individual muscle fiber."
+  },
+  {
+    "q": "The connective tissue layer that wraps a bundle of muscle fibers (a fascicle) is the:",
+    "options": [
+      "Endomysium",
+      "Perimysium",
+      "Epimysium",
+      "Periosteum"
+    ],
+    "answer": 1,
+    "explanation": "Perimysium wraps around fascicles, which are bundles of muscle fibers."
+  },
+  {
+    "q": "The connective tissue layer that wraps the entire muscle is the:",
+    "options": [
+      "Endomysium",
+      "Perimysium",
+      "Epimysium",
+      "Endosteum"
+    ],
+    "answer": 2,
+    "explanation": "Epimysium is the outermost connective tissue sheath surrounding a whole muscle."
+  },
+  {
+    "q": "A bundle of muscle fibers grouped together within a muscle is called a:",
+    "options": [
+      "Sarcomere",
+      "Fascicle",
+      "Myofilament",
+      "Bursa"
+    ],
+    "answer": 1,
+    "explanation": "A fascicle is a bundle of muscle fibers wrapped by perimysium."
+  },
+  {
+    "q": "At the end of a muscle, the connective tissue wrappings converge and become continuous with the:",
+    "options": [
+      "Bursa",
+      "Tendon",
+      "Ligament",
+      "Periosteum only"
+    ],
+    "answer": 1,
+    "explanation": "The muscle's connective tissue layers (especially the epimysium) blend into the tendon, which then attaches to bone."
+  },
+  {
+    "q": "Ordering the muscle connective tissue wrappings from innermost to outermost gives:",
+    "options": [
+      "Epimysium, perimysium, endomysium",
+      "Endomysium, perimysium, epimysium",
+      "Perimysium, endomysium, epimysium",
+      "Endomysium, epimysium, perimysium"
+    ],
+    "answer": 1,
+    "explanation": "From individual fiber to whole muscle: endomysium, then perimysium, then epimysium."
+  },
+  {
+    "q": "Which connective tissue wrapping is most similar in position/function to the 'deep fascia' described as surrounding individual muscles?",
+    "options": [
+      "Endomysium",
+      "Perimysium",
+      "Epimysium",
+      "Endosteum"
+    ],
+    "answer": 2,
+    "explanation": "Epimysium, like deep fascia, envelops an entire individual muscle."
+  },
+  {
+    "q": "Slow-twitch (Type I) muscle fibers are best suited for:",
+    "options": [
+      "Short, explosive bursts of power",
+      "Sustained, fatigue-resistant activity like posture",
+      "Producing the fastest possible contraction speed",
+      "Anaerobic sprinting only"
+    ],
+    "answer": 1,
+    "explanation": "Type I fibers are fatigue-resistant and well-suited for sustained, low-intensity activity such as maintaining posture."
+  },
+  {
+    "q": "Fast-twitch (Type II) muscle fibers are best suited for:",
+    "options": [
+      "Long-duration endurance activity",
+      "Short, powerful bursts of activity that fatigue quickly",
+      "Maintaining posture for hours",
+      "Continuous low-level tension"
+    ],
+    "answer": 1,
+    "explanation": "Type II fibers generate powerful contractions quickly but fatigue faster than Type I fibers."
+  },
+  {
+    "q": "Which muscle fiber type relies more heavily on aerobic (oxidative) metabolism?",
+    "options": [
+      "Type I (slow-twitch)",
+      "Type II (fast-twitch)",
+      "Both rely equally on aerobic metabolism",
+      "Neither uses aerobic metabolism"
+    ],
+    "answer": 0,
+    "explanation": "Type I fibers are oxidative, relying on aerobic metabolism, which supports their fatigue resistance."
+  },
+  {
+    "q": "Which muscle fiber type relies more heavily on anaerobic (glycolytic) metabolism?",
+    "options": [
+      "Type I (slow-twitch)",
+      "Type II (fast-twitch)",
+      "Both rely equally on anaerobic metabolism",
+      "Neither uses anaerobic metabolism"
+    ],
+    "answer": 1,
+    "explanation": "Type II fibers are glycolytic, generating quick energy anaerobically but fatiguing faster."
+  },
+  {
+    "q": "Postural muscles that maintain spinal stability over long periods tend to have a higher proportion of which fiber type?",
+    "options": [
+      "Type I (slow-twitch)",
+      "Type II (fast-twitch)",
+      "Cardiac fibers",
+      "Smooth muscle fibers"
+    ],
+    "answer": 0,
+    "explanation": "Postural muscles favor fatigue-resistant Type I fibers for sustained low-level contraction."
+  },
+  {
+    "q": "Compared to a marathon runner's leg muscles, a sprinter's leg muscles would be expected to have a higher proportion of:",
+    "options": [
+      "Type I fibers",
+      "Type II fibers",
+      "Cardiac fibers",
+      "Smooth muscle fibers"
+    ],
+    "answer": 1,
+    "explanation": "Sprinters rely on rapid, powerful contractions best supplied by Type II (fast-twitch) fibers."
+  },
+  {
+    "q": "Isotonic contraction is best defined as a contraction in which:",
+    "options": [
+      "Tension is generated but no joint movement occurs",
+      "Tension is generated and joint movement occurs",
+      "No tension is generated at all",
+      "The muscle only lengthens passively"
+    ],
+    "answer": 1,
+    "explanation": "Isotonic contractions generate tension and produce actual joint movement, unlike isometric contractions."
+  },
+  {
+    "q": "Isotonic contractions are divided into which two sub-types?",
+    "options": [
+      "Isometric and isokinetic",
+      "Concentric and eccentric",
+      "Agonist and antagonist",
+      "Voluntary and involuntary"
+    ],
+    "answer": 1,
+    "explanation": "Isotonic contraction includes concentric (shortening) and eccentric (lengthening) sub-types."
+  },
+  {
+    "q": "A contraction in which the muscle shortens while generating tension is called:",
+    "options": [
+      "Eccentric",
+      "Isometric",
+      "Concentric",
+      "Isokinetic"
+    ],
+    "answer": 2,
+    "explanation": "Concentric contraction involves the muscle shortening while producing force."
+  },
+  {
+    "q": "A contraction in which the muscle lengthens while still generating tension is called:",
+    "options": [
+      "Concentric",
+      "Eccentric",
+      "Isometric",
+      "Static"
+    ],
+    "answer": 1,
+    "explanation": "Eccentric contraction involves the muscle lengthening under tension, controlling a movement like lowering a weight."
+  },
+  {
+    "q": "During the downward (lowering) phase of a squat, the quadriceps' contraction type is best described as:",
+    "options": [
+      "Concentric",
+      "Eccentric",
+      "Isometric",
+      "None — the quadriceps is inactive"
+    ],
+    "answer": 1,
+    "explanation": "As the quadriceps lengthens while controlling the descent, it contracts eccentrically."
+  },
+  {
+    "q": "Pushing as hard as possible against an immovable wall, with no visible joint movement, is an example of:",
+    "options": [
+      "Concentric contraction",
+      "Eccentric contraction",
+      "Isometric contraction",
+      "Passive stretch"
+    ],
+    "answer": 2,
+    "explanation": "Isometric contraction generates tension without any change in joint angle or muscle length."
+  },
+  {
+    "q": "Eccentric contractions are often associated with greater delayed-onset muscle soreness (DOMS) than concentric contractions primarily because:",
+    "options": [
+      "Eccentric contractions use no ATP",
+      "Eccentric loading places greater mechanical stress on muscle fibers",
+      "Eccentric contractions never recruit Type II fibers",
+      "Eccentric contractions do not involve the nervous system"
+    ],
+    "answer": 1,
+    "explanation": "The greater mechanical stress and microtrauma associated with eccentric loading is a widely cited reason for increased DOMS."
+  },
+  {
+    "q": "During elbow flexion, if the biceps brachii is the agonist, a muscle like the brachialis that also flexes the elbow at the same time is acting as a:",
+    "options": [
+      "Antagonist",
+      "Fixator",
+      "Synergist",
+      "Stabilizer only, never contracting"
+    ],
+    "answer": 2,
+    "explanation": "A synergist assists the agonist by contracting in the same direction to produce the same movement."
+  },
+  {
+    "q": "During a push-up's upward phase, the triceps brachii is the agonist for elbow extension. The biceps brachii, which would flex the elbow, is functioning as the:",
+    "options": [
+      "Agonist",
+      "Antagonist",
+      "Synergist",
+      "Fixator"
+    ],
+    "answer": 1,
+    "explanation": "Since the biceps produces the opposite movement (flexion) of the triceps' extension, it acts as the antagonist."
+  },
+  {
+    "q": "During a shoulder press, while the deltoid acts as the prime mover, the muscles that stabilize the scapula so the deltoid has a firm base to pull from are acting as:",
+    "options": [
+      "Agonists",
+      "Antagonists",
+      "Fixators",
+      "Synergists only"
+    ],
+    "answer": 2,
+    "explanation": "Muscles that stabilize a joint or body part so the agonist can act effectively are functioning as fixators."
+  },
+  {
+    "q": "According to the roles muscles play in movement, the agonist is usually:",
+    "options": [
+      "The smallest, weakest muscle for that action",
+      "The largest, strongest muscle for that action",
+      "A muscle that never actually contracts",
+      "Always located distal to the joint"
+    ],
+    "answer": 1,
+    "explanation": "The agonist (prime mover) is typically the largest, strongest muscle capable of producing a given action."
+  },
+  {
+    "q": "As an agonist contracts to produce a movement, the antagonist typically:",
+    "options": [
+      "Contracts with equal force",
+      "Relaxes and lengthens",
+      "Also shortens concentrically",
+      "Becomes the new prime mover"
+    ],
+    "answer": 1,
+    "explanation": "The antagonist typically relaxes and lengthens as the agonist contracts, allowing smooth movement."
+  },
+  {
+    "q": "The attachment point of a muscle that typically moves during contraction is the:",
+    "options": [
+      "Origin",
+      "Insertion",
+      "Fixator",
+      "Synergist"
+    ],
+    "answer": 1,
+    "explanation": "The insertion is the attachment point that moves, while the origin remains relatively fixed."
+  },
+  {
+    "q": "The attachment point of a muscle that is usually closer to the midline or the root of a limb is the:",
+    "options": [
+      "Insertion",
+      "Origin",
+      "Antagonist point",
+      "Synergist point"
+    ],
+    "answer": 1,
+    "explanation": "The origin is usually the more proximal, fixed attachment point."
+  },
+  {
+    "q": "Knowing a muscle's action can help a student figure out which attachment point is the insertion because:",
+    "options": [
+      "The insertion is always the larger attachment",
+      "The insertion is the end that moves toward the origin as the muscle shortens",
+      "The insertion never touches bone",
+      "The origin always moves toward the insertion"
+    ],
+    "answer": 1,
+    "explanation": "Reasoning through the action reveals which end moves toward the other during shortening — that moving end is the insertion."
+  },
+  {
+    "q": "The reflex triggered when a muscle spindle detects a rapid, excessive stretch is called the:",
+    "options": [
+      "Golgi tendon reflex",
+      "Stretch reflex (myotatic reflex)",
+      "Withdrawal reflex",
+      "Crossed-extensor reflex"
+    ],
+    "answer": 1,
+    "explanation": "The stretch (myotatic) reflex is triggered by muscle spindles to protect against overstretching."
+  },
+  {
+    "q": "The reflex triggered when a Golgi tendon organ detects excessive tension is sometimes called the:",
+    "options": [
+      "Stretch reflex",
+      "Inverse stretch reflex (autogenic inhibition)",
+      "Patellar reflex",
+      "Crossed-extensor reflex"
+    ],
+    "answer": 1,
+    "explanation": "GTO activation causes autogenic inhibition, sometimes called the inverse stretch reflex, relaxing the muscle to prevent tearing."
+  },
+  {
+    "q": "Reciprocal inhibition refers to the phenomenon in which:",
+    "options": [
+      "Both agonist and antagonist contract with maximum force simultaneously",
+      "The antagonist relaxes as the agonist contracts, coordinated by the nervous system",
+      "Muscle spindles disable the Golgi tendon organs",
+      "A muscle spontaneously switches from agonist to antagonist"
+    ],
+    "answer": 1,
+    "explanation": "Reciprocal inhibition is a neural mechanism causing the antagonist to relax when the agonist contracts."
+  },
+  {
+    "q": "Reciprocal inhibition is useful in some stretching techniques (such as contract-relax methods) because it allows:",
+    "options": [
+      "The target muscle to contract harder against the stretch",
+      "The antagonist to relax more fully, permitting a deeper stretch of the target muscle",
+      "The Golgi tendon organ to be permanently disabled",
+      "The muscle spindle to increase stretch sensitivity"
+    ],
+    "answer": 1,
+    "explanation": "By contracting the antagonist first, reciprocal inhibition helps the target muscle relax further, aiding a deeper stretch."
+  },
+  {
+    "q": "A knee-jerk (patellar) reflex is primarily triggered by which receptor?",
+    "options": [
+      "Golgi tendon organ",
+      "Muscle spindle",
+      "Pacinian corpuscle",
+      "Free nerve ending"
+    ],
+    "answer": 1,
+    "explanation": "Tapping the patellar tendon stretches the quadriceps, activating muscle spindles and producing the reflex kick."
+  },
+  {
+    "q": "Muscle spindles are located:",
+    "options": [
+      "At the muscle-tendon junction only",
+      "Within the belly of the muscle, arranged parallel to the muscle fibers",
+      "Exclusively within tendons",
+      "Only in smooth muscle"
+    ],
+    "answer": 1,
+    "explanation": "Muscle spindles lie within the muscle belly, parallel to the surrounding muscle fibers."
+  },
+  {
+    "q": "Golgi tendon organs are located:",
+    "options": [
+      "Within the muscle belly, parallel to fibers",
+      "At the muscle-tendon junction, in series with the muscle fibers",
+      "Only within bone",
+      "Only within ligaments"
+    ],
+    "answer": 1,
+    "explanation": "GTOs are found at the junction between muscle and tendon, arranged in series with the fibers."
+  },
+  {
+    "q": "A fast, bouncy (ballistic) stretch risks triggering which protective response, potentially causing injury rather than relaxation?",
+    "options": [
+      "Golgi tendon reflex",
+      "Stretch reflex from the muscle spindle",
+      "Withdrawal reflex",
+      "Baroreceptor reflex"
+    ],
+    "answer": 1,
+    "explanation": "Rapid stretching can trigger the muscle spindle's protective stretch reflex, causing a contraction that resists the stretch."
+  },
+  {
+    "q": "Massage therapists often favor slow, sustained stretches over fast, bouncy ones primarily because slow stretching:",
+    "options": [
+      "Increases the risk of triggering the stretch reflex",
+      "Avoids strongly triggering the muscle spindle's protective stretch reflex",
+      "Has no effect on any proprioceptor",
+      "Only works on ligaments, not muscles"
+    ],
+    "answer": 1,
+    "explanation": "Slow, controlled stretching is less likely to trigger the muscle spindle's protective contraction, allowing greater lengthening."
+  },
+  {
+    "q": "A joint injury involving overstretching or tearing of a ligament is called a:",
+    "options": [
+      "Strain",
+      "Sprain",
+      "Contracture",
+      "Subluxation"
+    ],
+    "answer": 1,
+    "explanation": "A sprain involves ligament damage, while a strain involves muscle or tendon damage."
+  },
+  {
+    "q": "An injury involving overstretching or tearing of a muscle or its tendon is called a:",
+    "options": [
+      "Sprain",
+      "Strain",
+      "Dislocation",
+      "Ankylosis"
+    ],
+    "answer": 1,
+    "explanation": "A strain involves damage to muscle or tendon tissue, distinct from a ligament sprain."
+  },
+  {
+    "q": "Compared to ligaments, tendons generally have:",
+    "options": [
+      "A worse blood supply, healing even more slowly",
+      "A relatively better blood supply, though both heal slowly compared to muscle",
+      "An identical blood supply to bone",
+      "No blood supply at all"
+    ],
+    "answer": 1,
+    "explanation": "Tendons are generally somewhat better vascularized than ligaments, though both heal slowly compared to muscle tissue."
+  },
+  {
+    "q": "Poor blood supply in ligaments is a major reason why injuries like ACL tears often:",
+    "options": [
+      "Heal within a few days without treatment",
+      "Require longer healing time or surgical repair",
+      "Never cause any functional problems",
+      "Heal faster than muscle strains"
+    ],
+    "answer": 1,
+    "explanation": "Because ligaments have relatively poor blood supply, significant ligament tears (like the ACL) often need extended healing time or surgery."
+  },
+  {
+    "q": "Superficial fascia is located:",
+    "options": [
+      "Deep within individual muscles",
+      "Just under the skin",
+      "Only around bones",
+      "Only within tendons"
+    ],
+    "answer": 1,
+    "explanation": "Superficial fascia sits just beneath the skin, as distinct from deep fascia around muscles."
+  },
+  {
+    "q": "Deep fascia is best described as the connective tissue that:",
+    "options": [
+      "Sits just under the skin",
+      "Surrounds individual muscles and muscle groups",
+      "Connects bone to bone",
+      "Cushions joint surfaces"
+    ],
+    "answer": 1,
+    "explanation": "Deep fascia surrounds individual muscles and groups of muscles, distinct from the superficial fascia layer."
+  },
+  {
+    "q": "A 'fascial restriction' that limits normal gliding between tissue layers most directly involves which connective tissue?",
+    "options": [
+      "Bone",
+      "Fascia",
+      "Bursa fluid",
+      "Blood"
+    ],
+    "answer": 1,
+    "explanation": "Fascia forms the web-like connective tissue network whose restrictions can limit movement and tissue gliding."
+  },
+  {
+    "q": "Cartilage that cushions the ends of bones at a joint, such as at the knee, is generally described as:",
+    "options": [
+      "Rigid and heavily mineralized like bone",
+      "Flexible connective tissue that cushions between bones",
+      "The same tissue as tendon",
+      "A fluid-filled sac"
+    ],
+    "answer": 1,
+    "explanation": "Cartilage is a flexible connective tissue, distinct from the rigid, mineralized structure of bone."
+  },
+  {
+    "q": "Compared to bone, cartilage generally has:",
+    "options": [
+      "A much richer blood supply",
+      "A poor or absent blood supply, contributing to slow healing",
+      "Identical vascularity",
+      "No structural role in joints"
+    ],
+    "answer": 1,
+    "explanation": "Cartilage is largely avascular, receiving nutrients by diffusion, which contributes to its slow healing capacity."
+  },
+  {
+    "q": "A bursa is filled with which type of fluid?",
+    "options": [
+      "Blood plasma",
+      "Synovial fluid",
+      "Lymph only",
+      "Cerebrospinal fluid"
+    ],
+    "answer": 1,
+    "explanation": "Bursae are filled with synovial fluid, which reduces friction near joints."
+  },
+  {
+    "q": "The primary function of a bursa is to:",
+    "options": [
+      "Connect bone to bone",
+      "Reduce friction between structures like bone and tendon near a joint",
+      "Generate new bone tissue",
+      "Store calcium for muscle contraction"
+    ],
+    "answer": 1,
+    "explanation": "Bursae cushion and reduce friction between bone, tendon, muscle, and skin near joints."
+  },
+  {
+    "q": "Inflammation of a bursa is called:",
+    "options": [
+      "Bursitis",
+      "Tendinitis",
+      "Fasciitis",
+      "Synovitis"
+    ],
+    "answer": 0,
+    "explanation": "Bursitis is inflammation of a bursa, often from repetitive friction or pressure."
+  },
+  {
+    "q": "The Achilles tendon is an example of a tendon that connects the calf muscles to the:",
+    "options": [
+      "Femur",
+      "Tibia",
+      "Heel bone (calcaneus)",
+      "Patella"
+    ],
+    "answer": 2,
+    "explanation": "The Achilles tendon connects the gastrocnemius and soleus muscles to the calcaneus (heel bone)."
+  },
+  {
+    "q": "The anterior cruciate ligament (ACL) is a ligament connecting the:",
+    "options": [
+      "Femur to the tibia",
+      "Tibia to the fibula",
+      "Patella to the tibia",
+      "Femur to the pelvis"
+    ],
+    "answer": 0,
+    "explanation": "The ACL connects the femur to the tibia, stabilizing the knee joint."
+  },
+  {
+    "q": "The tough connective tissue membrane covering the outer surface of bone, into which some tendons anchor, is called the:",
+    "options": [
+      "Periosteum",
+      "Endomysium",
+      "Perichondrium",
+      "Synovium"
+    ],
+    "answer": 0,
+    "explanation": "The periosteum covers the outer surface of bone and is a common attachment site for tendon fibers."
+  },
+  {
+    "q": "The shaft (middle portion) of a long bone is called the:",
+    "options": [
+      "Epiphysis",
+      "Diaphysis",
+      "Periosteum",
+      "Metaphysis only"
+    ],
+    "answer": 1,
+    "explanation": "The diaphysis is the shaft of a long bone."
+  },
+  {
+    "q": "The rounded ends of a long bone are called the:",
+    "options": [
+      "Diaphyses",
+      "Epiphyses",
+      "Periostea",
+      "Sarcomeres"
+    ],
+    "answer": 1,
+    "explanation": "The epiphyses are the ends of a long bone, often where it articulates with another bone."
+  },
+  {
+    "q": "Dense bone tissue forming the strong outer layer of a bone is called:",
+    "options": [
+      "Spongy (cancellous) bone",
+      "Compact bone",
+      "Cartilaginous bone",
+      "Periosteal bone"
+    ],
+    "answer": 1,
+    "explanation": "Compact bone is the dense outer layer, while spongy bone has a more lattice-like internal structure."
+  },
+  {
+    "q": "Which best describes a key structural difference between cartilage and bone?",
+    "options": [
+      "Cartilage is more flexible and lacks bone's mineralized rigidity",
+      "Bone is more flexible than cartilage",
+      "They are identical in composition",
+      "Cartilage contains marrow, bone does not"
+    ],
+    "answer": 0,
+    "explanation": "Cartilage is a flexible connective tissue, while bone is mineralized and rigid."
+  },
+  {
+    "q": "Which of the following is NOT one of the four muscle roles (agonist, antagonist, synergist, fixator) described in the notes?",
+    "options": [
+      "Agonist",
+      "Neutralizer",
+      "Synergist",
+      "Fixator"
+    ],
+    "answer": 1,
+    "explanation": "'Neutralizer' is not one of the four roles described; the notes describe agonist, antagonist, synergist, and fixator."
+  },
+  {
+    "q": "All of the following are examples of connective tissue in the musculoskeletal system EXCEPT:",
+    "options": [
+      "Tendon",
+      "Ligament",
+      "Epithelium",
+      "Cartilage"
+    ],
+    "answer": 2,
+    "explanation": "Epithelium is a separate tissue type, not one of the musculoskeletal connective tissues described (tendon, ligament, fascia, cartilage, bursa)."
+  },
+  {
+    "q": "During a kicking motion, as the quadriceps (agonist) concentrically contracts to extend the knee, the hamstrings act as the:",
+    "options": [
+      "Agonist",
+      "Fixator",
+      "Antagonist",
+      "Synergist"
+    ],
+    "answer": 2,
+    "explanation": "The hamstrings oppose knee extension, making them the antagonist during this movement."
+  },
+  {
+    "q": "Applying sustained, deep pressure at a muscle-tendon junction for several seconds is thought to influence relaxation in part by stimulating:",
+    "options": [
+      "Muscle spindles only",
+      "Golgi tendon organs",
+      "Baroreceptors",
+      "Nociceptors exclusively"
+    ],
+    "answer": 1,
+    "explanation": "Sustained pressure at the muscle-tendon junction can influence Golgi tendon organs, which are located there and can promote reflexive relaxation."
+  },
+  {
+    "q": "Which best explains why a therapist might hold a muscle in a lengthened position for 20-30 seconds rather than bouncing it quickly?",
+    "options": [
+      "Sustained holds are more likely to avoid triggering the protective stretch reflex",
+      "Bouncing always relaxes muscle spindles faster",
+      "Sustained holds increase the risk of tearing the muscle",
+      "There is no physiological difference between the two approaches"
+    ],
+    "answer": 0,
+    "explanation": "A sustained, gradual stretch is less likely to provoke the muscle spindle's protective contraction than a fast bouncing stretch."
+  },
+  {
+    "q": "The term for the ability to sense your body's position and movement without visual input relies primarily on input from:",
+    "options": [
+      "Only the eyes",
+      "Proprioceptors such as muscle spindles and Golgi tendon organs",
+      "Only the skin's touch receptors",
+      "Only the inner ear"
+    ],
+    "answer": 1,
+    "explanation": "Proprioception relies heavily on muscle spindles and Golgi tendon organs, along with joint receptors."
+  },
+  {
+    "q": "Which of the following would be classified as connective tissue rather than muscle tissue?",
+    "options": [
+      "Cardiac muscle",
+      "Smooth muscle",
+      "Tendon",
+      "Skeletal muscle fiber"
+    ],
+    "answer": 2,
+    "explanation": "Tendon is a connective tissue; the other three options are types of muscle tissue."
+  },
+  {
+    "q": "A fixator differs from a synergist in that a fixator primarily:",
+    "options": [
+      "Produces the main movement of a joint",
+      "Stabilizes a body part so another muscle can effectively pull, rather than assisting the movement directly",
+      "Always opposes the agonist",
+      "Is only found in the lower body"
+    ],
+    "answer": 1,
+    "explanation": "A fixator stabilizes rather than directly assisting the movement, unlike a synergist which moves in the same direction as the agonist."
+  },
+  {
+    "q": "Why is it common for a low-back stabilizer muscle to become injured when someone lifts a heavy box by bending at the waist rather than the knees?",
+    "options": [
+      "The stabilizer muscle is forced to act as a prime mover for which it isn't well-suited",
+      "Stabilizer muscles never experience load",
+      "Bending the knees always injures the low back instead",
+      "The agonist and antagonist switch roles permanently"
+    ],
+    "answer": 0,
+    "explanation": "Poor lifting mechanics force stabilizing muscles into a prime-mover role, increasing strain and injury risk."
+  },
+  {
+    "q": "Which statement about muscle spindles and Golgi tendon organs is accurate?",
+    "options": [
+      "Both are found only in tendons",
+      "Muscle spindles detect stretch; Golgi tendon organs detect tension",
+      "Muscle spindles detect tension; Golgi tendon organs detect stretch",
+      "Neither has any protective function"
+    ],
+    "answer": 1,
+    "explanation": "Muscle spindles primarily detect stretch/length changes, while Golgi tendon organs detect tension."
+  },
+  {
+    "q": "If a muscle contracts so forcefully that the Golgi tendon organ triggers relaxation to prevent tendon damage, this is an example of:",
+    "options": [
+      "A voluntary decision by the client",
+      "A protective reflex response",
+      "A sign the muscle spindle has failed",
+      "An allergic reaction"
+    ],
+    "answer": 1,
+    "explanation": "GTO-triggered relaxation under excessive tension is an involuntary protective reflex."
+  },
+  {
+    "q": "A fixator differs from a synergist in that a fixator primarily stabilizes a body part rather than directly assisting the movement. Which example best fits this distinction?",
+    "options": [
+      "The rotator cuff muscles stabilizing the shoulder while the deltoid lifts the arm",
+      "The biceps brachii flexing the elbow",
+      "The hamstrings extending the hip",
+      "The triceps brachii extending the elbow"
+    ],
+    "answer": 0,
+    "explanation": "The rotator cuff muscles typically stabilize the glenohumeral joint (fixator role) while the deltoid produces the main arm-raising movement."
   }
 ]

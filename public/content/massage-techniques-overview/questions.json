@@ -1,122 +1,1102 @@
 [
   {
     "q": "Which technique involves lifting, squeezing, and rolling soft tissue like kneading dough?",
-    "options": ["Effleurage", "Petrissage", "Tapotement", "Vibration"],
+    "options": [
+      "Effleurage",
+      "Petrissage",
+      "Tapotement",
+      "Vibration"
+    ],
     "answer": 1,
     "explanation": "Petrissage is the kneading technique involving lifting, squeezing, and rolling tissue."
   },
   {
     "q": "Which technique is most likely to be used at the END of an invigorating sports massage routine?",
-    "options": ["Vibration", "Tapotement", "Myofascial spreading", "Joint mobilization"],
+    "options": [
+      "Vibration",
+      "Tapotement",
+      "Myofascial spreading",
+      "Joint mobilization"
+    ],
     "answer": 1,
     "explanation": "Tapotement's stimulating, energizing effect makes it well suited to finish an invigorating routine."
   },
   {
     "q": "A therapist applies fine, rapid shaking movements to help sedate an anxious client's nervous system. This is:",
-    "options": ["Tapotement", "Vibration", "Compression", "Skin rolling"],
+    "options": [
+      "Tapotement",
+      "Vibration",
+      "Compression",
+      "Skin rolling"
+    ],
     "answer": 1,
     "explanation": "Vibration produces a sedating, calming effect on the nervous system."
   },
   {
     "q": "Friction technique is best applied:",
-    "options": ["On cold, unwarmed tissue at the very start of a session", "On tissue that has already been warmed up, mid-to-late session", "Only during the cool-down", "Exclusively over bony prominences"],
+    "options": [
+      "On cold, unwarmed tissue at the very start of a session",
+      "On tissue that has already been warmed up, mid-to-late session",
+      "Only during the cool-down",
+      "Exclusively over bony prominences"
+    ],
     "answer": 1,
     "explanation": "Friction works best on tissue that's already warmed, typically mid-to-late in the session."
   },
   {
     "q": "Which technique presses rhythmically into tissue without gliding, often using a flat hand or forearm?",
-    "options": ["Compression", "Skin rolling", "Effleurage", "Stretching"],
+    "options": [
+      "Compression",
+      "Skin rolling",
+      "Effleurage",
+      "Stretching"
+    ],
     "answer": 0,
     "explanation": "Compression is rhythmic pressing into tissue without a gliding motion."
   },
   {
     "q": "A client with severe osteoporosis is scheduled for a session. Which technique should be used with the most caution or avoided?",
-    "options": ["Light effleurage", "Rocking/rhythmic mobilization at standard intensity", "Gentle vibration", "Superficial stroking"],
+    "options": [
+      "Light effleurage",
+      "Rocking/rhythmic mobilization at standard intensity",
+      "Gentle vibration",
+      "Superficial stroking"
+    ],
     "answer": 1,
     "explanation": "Rocking is contraindicated or requires caution with severe osteoporosis due to fracture risk."
   },
   {
     "q": "Skin rolling should generally be avoided on a scar that is:",
-    "options": ["Over 6 months old", "Under about 6 weeks old", "On the forearm", "Fully healed with no sensitivity"],
+    "options": [
+      "Over 6 months old",
+      "Under about 6 weeks old",
+      "On the forearm",
+      "Fully healed with no sensitivity"
+    ],
     "answer": 1,
     "explanation": "Recent scars (under roughly 6 weeks old) are a contraindication for skin rolling due to fragile healing tissue."
   },
   {
     "q": "Myofascial spreading typically uses:",
-    "options": ["Heavy oil for maximum glide", "Little or no lubricant so the hands can grip the tissue", "Ice to numb the area first", "Only percussive movements"],
+    "options": [
+      "Heavy oil for maximum glide",
+      "Little or no lubricant so the hands can grip the tissue",
+      "Ice to numb the area first",
+      "Only percussive movements"
+    ],
     "answer": 1,
     "explanation": "Myofascial techniques rely on tissue grip, so little or no lubricant is used."
   },
   {
     "q": "Deep tissue stripping is best described as:",
-    "options": ["A rapid tapping motion", "A slow, deep glide along the length of a muscle", "A quick vibration technique", "A light superficial stroke"],
+    "options": [
+      "A rapid tapping motion",
+      "A slow, deep glide along the length of a muscle",
+      "A quick vibration technique",
+      "A light superficial stroke"
+    ],
     "answer": 1,
     "explanation": "Deep tissue stripping is a slow, deep glide along a muscle's length."
   },
   {
     "q": "Static pressure (ischemic compression) on a trigger point is typically followed by:",
-    "options": ["Tapotement", "A stretch of the muscle", "Cold application only", "Immediate termination of the session"],
+    "options": [
+      "Tapotement",
+      "A stretch of the muscle",
+      "Cold application only",
+      "Immediate termination of the session"
+    ],
     "answer": 1,
     "explanation": "Static/ischemic pressure on a trigger point is usually followed by stretching the muscle."
   },
   {
     "q": "Which technique is contraindicated over the kidneys and bony prominences?",
-    "options": ["Tapotement", "Vibration", "Skin rolling", "Joint mobilization"],
+    "options": [
+      "Tapotement",
+      "Vibration",
+      "Skin rolling",
+      "Joint mobilization"
+    ],
     "answer": 0,
     "explanation": "Tapotement (percussion) should avoid the kidneys and bony prominences due to the force involved."
   },
   {
     "q": "A client has vertigo. Which technique is most likely contraindicated?",
-    "options": ["Effleurage", "Rocking/rhythmic mobilization", "Static pressure on the forearm", "Gentle stretching of the calf"],
+    "options": [
+      "Effleurage",
+      "Rocking/rhythmic mobilization",
+      "Static pressure on the forearm",
+      "Gentle stretching of the calf"
+    ],
     "answer": 1,
     "explanation": "Rocking can worsen symptoms in clients with vertigo and is generally contraindicated."
   },
   {
     "q": "Which of the following best describes the general purpose of joint mobilization/passive range of motion?",
-    "options": ["To energize the nervous system", "To lubricate the joint and reduce stiffness", "To break up scar tissue only", "To stimulate lymphatic drainage exclusively"],
+    "options": [
+      "To energize the nervous system",
+      "To lubricate the joint and reduce stiffness",
+      "To break up scar tissue only",
+      "To stimulate lymphatic drainage exclusively"
+    ],
     "answer": 1,
     "explanation": "Passive ROM/joint mobilization lubricates the joint, increases range of motion, and reduces stiffness."
   },
   {
     "q": "A client recently had surgery. Which of the following techniques carries the most caution due to this?",
-    "options": ["Light effleurage away from the surgical site", "Joint mobilization near the surgical area", "Superficial stroking on an unrelated limb", "Gentle vibration on the scalp"],
+    "options": [
+      "Light effleurage away from the surgical site",
+      "Joint mobilization near the surgical area",
+      "Superficial stroking on an unrelated limb",
+      "Gentle vibration on the scalp"
+    ],
     "answer": 1,
     "explanation": "Recent surgery is a contraindication for joint mobilization near the surgical area due to healing tissue."
   },
   {
     "q": "Which technique is most associated with breaking up adhesions and realigning collagen fibers during tissue healing?",
-    "options": ["Tapotement", "Friction", "Vibration", "Rocking"],
+    "options": [
+      "Tapotement",
+      "Friction",
+      "Vibration",
+      "Rocking"
+    ],
     "answer": 1,
     "explanation": "Friction (circular/cross-fiber) is specifically used to break adhesions and help realign collagen during healing."
   },
   {
     "q": "Compression is contraindicated in a client with which condition?",
-    "options": ["Mild muscle soreness", "Deep vein thrombosis (clot risk)", "Tight hamstrings", "General fatigue"],
+    "options": [
+      "Mild muscle soreness",
+      "Deep vein thrombosis (clot risk)",
+      "Tight hamstrings",
+      "General fatigue"
+    ],
     "answer": 1,
     "explanation": "Compression is contraindicated with clot risk (DVT) because pressure could dislodge a clot."
   },
   {
     "q": "Which four contraindication categories repeat across nearly all massage techniques?",
-    "options": ["Age, gender, height, weight", "Acute inflammation/injury, clot risk, fragile bone/skin, uncontrolled cardiovascular conditions", "Time of day, room temperature, oil type, session length", "Client mood, income, occupation, hobbies"],
+    "options": [
+      "Age, gender, height, weight",
+      "Acute inflammation/injury, clot risk, fragile bone/skin, uncontrolled cardiovascular conditions",
+      "Time of day, room temperature, oil type, session length",
+      "Client mood, income, occupation, hobbies"
+    ],
     "answer": 1,
     "explanation": "These four categories are the recurring red flags across almost every massage technique's contraindications."
   },
   {
     "q": "Active-assisted stretching differs from passive stretching in that:",
-    "options": ["The therapist does all the work in active-assisted stretching", "The client participates actively in active-assisted stretching", "Passive stretching requires more client effort", "There is no real difference"],
+    "options": [
+      "The therapist does all the work in active-assisted stretching",
+      "The client participates actively in active-assisted stretching",
+      "Passive stretching requires more client effort",
+      "There is no real difference"
+    ],
     "answer": 1,
     "explanation": "In active-assisted stretching, the client actively participates, unlike passive stretching where the therapist does the work."
   },
   {
     "q": "A client has severe edema in the lower leg. Which technique should generally be avoided there?",
-    "options": ["Compression", "Light superficial effleurage", "Gentle vibration elsewhere on the body", "Conversation during the session"],
+    "options": [
+      "Compression",
+      "Light superficial effleurage",
+      "Gentle vibration elsewhere on the body",
+      "Conversation during the session"
+    ],
     "answer": 0,
     "explanation": "Compression is contraindicated with severe edema, as it can be uncomfortable or problematic for already swollen tissue."
   },
   {
     "q": "Which technique best fits early in a session, before deeper work, especially in sports or Thai massage styles?",
-    "options": ["Deep tissue stripping", "Compression", "Static pressure on trigger points", "Skin rolling on fragile skin"],
+    "options": [
+      "Deep tissue stripping",
+      "Compression",
+      "Static pressure on trigger points",
+      "Skin rolling on fragile skin"
+    ],
     "answer": 1,
     "explanation": "Compression is commonly used early-to-mid session, and is characteristic of sports and Thai massage styles."
+  },
+  {
+    "q": "Which of the following is a physiological (bodily) effect commonly attributed to soft tissue manipulation?",
+    "options": [
+      "Decreased local circulation",
+      "Increased local blood and lymphatic circulation",
+      "Permanent muscle shortening",
+      "Decreased range of motion"
+    ],
+    "answer": 1,
+    "explanation": "Increased local circulation and lymphatic flow are among the primary physiological effects of soft tissue manipulation."
+  },
+  {
+    "q": "Which of the following is best described as a psychological, rather than physiological, effect of massage?",
+    "options": [
+      "Increased venous return",
+      "Activation of the relaxation response and reduced perceived stress",
+      "Increased local tissue temperature",
+      "Improved lymphatic drainage"
+    ],
+    "answer": 1,
+    "explanation": "The relaxation response and reduced perceived stress are psychological/nervous-system effects, distinct from direct tissue-level physiological effects."
+  },
+  {
+    "q": "Massage's stimulation of mechanoreceptors, which can help reduce the perception of pain signals, relates to which concept?",
+    "options": [
+      "The gate control theory of pain",
+      "The stretch reflex",
+      "Reciprocal inhibition",
+      "The law of facilitation"
+    ],
+    "answer": 0,
+    "explanation": "The gate control theory suggests that stimulating large-diameter touch/pressure fibers (mechanoreceptors) can help block or reduce pain signal transmission."
+  },
+  {
+    "q": "Which best describes the general physiological effect of massage on venous blood flow?",
+    "options": [
+      "It has no effect on venous flow",
+      "It can assist venous return toward the heart, particularly with strokes directed toward the heart",
+      "It only affects arterial flow, never venous flow",
+      "It always decreases venous return"
+    ],
+    "answer": 1,
+    "explanation": "Massage strokes directed toward the heart (centripetally) can help assist venous return."
+  },
+  {
+    "q": "The 'relaxation response,' often cited as a psychological benefit of massage, is associated with activation of the:",
+    "options": [
+      "Sympathetic nervous system",
+      "Parasympathetic nervous system",
+      "Somatic nervous system only",
+      "Enteric nervous system exclusively"
+    ],
+    "answer": 1,
+    "explanation": "The relaxation response is linked to parasympathetic ('rest and digest') nervous system activation."
+  },
+  {
+    "q": "Which of the following effects of massage on mood is generally supported by the release of certain neurochemicals?",
+    "options": [
+      "Increased anxiety",
+      "Improved mood, potentially linked to endorphin and serotonin activity",
+      "No measurable mood effect",
+      "Immediate cure of clinical depression"
+    ],
+    "answer": 1,
+    "explanation": "Massage is generally associated with improved mood, plausibly linked to changes in neurochemicals like endorphins and serotonin, though it is not a cure for clinical conditions."
+  },
+  {
+    "q": "Which of the following best reflects an appropriate modification for massage with an elderly client with fragile skin and bones?",
+    "options": [
+      "Using the deepest pressure available to ensure effectiveness",
+      "Using lighter pressure and a slower pace, with caution around bony areas",
+      "Avoiding all forms of touch entirely",
+      "Using vigorous tapotement throughout the session"
+    ],
+    "answer": 1,
+    "explanation": "Lighter pressure, a slower pace, and caution near bony areas are appropriate modifications for elderly clients with fragile tissue."
+  },
+  {
+    "q": "For a client undergoing cancer treatment, general massage guidance often emphasizes:",
+    "options": [
+      "Deep, vigorous pressure throughout the body regardless of treatment status",
+      "Lighter pressure and caution around affected lymph node regions, often with medical clearance",
+      "No modifications are ever necessary",
+      "Avoiding all massage permanently after any cancer diagnosis"
+    ],
+    "answer": 1,
+    "explanation": "Oncology massage generally uses lighter pressure and caution near affected lymph nodes or treatment sites, often requiring medical clearance and specialized training."
+  },
+  {
+    "q": "For a client with diabetes and peripheral neuropathy, a key consideration during massage is:",
+    "options": [
+      "No special considerations are needed",
+      "Reduced sensation may limit the client's ability to accurately report excessive pressure or heat, requiring extra caution",
+      "Neuropathy has no relevance to massage safety",
+      "Only the feet require any caution"
+    ],
+    "answer": 1,
+    "explanation": "Reduced sensation from neuropathy means the client may not reliably report excessive pressure, heat, or injury, requiring the therapist to use extra caution."
+  },
+  {
+    "q": "Massage for infants is generally characterized by:",
+    "options": [
+      "Deep, vigorous pressure similar to adult sports massage",
+      "Very gentle, light touch, often used to support bonding and digestion",
+      "No touch below the neck",
+      "Techniques identical to adult Swedish massage at full intensity"
+    ],
+    "answer": 1,
+    "explanation": "Infant massage uses very gentle, light touch and is often associated with parent-infant bonding and digestive comfort."
+  },
+  {
+    "q": "Which is a general guideline for massage with pregnant clients, especially in later pregnancy?",
+    "options": [
+      "Prone positioning for the entire session",
+      "Side-lying positioning, often with supportive bolstering, avoiding prolonged supine positioning",
+      "Deep abdominal work is encouraged",
+      "No positioning modifications are needed"
+    ],
+    "answer": 1,
+    "explanation": "Side-lying positioning with support is generally recommended for pregnant clients, especially later in pregnancy, while prolonged supine positioning is generally avoided."
+  },
+  {
+    "q": "Pre-event sports massage, given shortly before athletic competition, typically emphasizes:",
+    "options": [
+      "Slow, deep, sedating strokes",
+      "Brisk, stimulating strokes to help prepare muscles without inducing excessive relaxation",
+      "Long static holds only",
+      "Techniques identical to post-event recovery massage"
+    ],
+    "answer": 1,
+    "explanation": "Pre-event massage tends to be brisk and stimulating, helping warm up tissue without over-relaxing the athlete before competition."
+  },
+  {
+    "q": "Post-event sports massage typically emphasizes:",
+    "options": [
+      "Vigorous tapotement throughout",
+      "Slower, lighter strokes aimed at recovery and reducing muscle soreness",
+      "The exact same approach as pre-event massage",
+      "Avoiding all touch until the athlete has rested for a week"
+    ],
+    "answer": 1,
+    "explanation": "Post-event massage generally uses slower, lighter strokes to support recovery, distinct from the more stimulating pre-event approach."
+  },
+  {
+    "q": "Which of the following best describes 'sequence of application' in a massage session?",
+    "options": [
+      "Techniques should be applied in a completely random order each time",
+      "A logical progression, such as general-to-specific and superficial-to-deep, guides technique order",
+      "Only one technique should ever be used per session",
+      "Sequence has no bearing on treatment outcomes"
+    ],
+    "answer": 1,
+    "explanation": "A logical sequence — generally moving from general to specific and superficial to deeper work — helps prepare tissue and improve treatment effectiveness."
+  },
+  {
+    "q": "Why does effleurage typically open and close a massage session?",
+    "options": [
+      "It has no functional purpose beyond tradition",
+      "It helps warm tissue at the start and provides a calming transition/closure at the end",
+      "It is the only technique allowed by law",
+      "It replaces the need for a health history form"
+    ],
+    "answer": 1,
+    "explanation": "Effleurage is commonly used to warm and prepare tissue at the start, and to provide a smooth, calming close to the session."
+  },
+  {
+    "q": "The five classic strokes historically associated with Swedish massage are:",
+    "options": [
+      "Effleurage, petrissage, friction, tapotement, and vibration",
+      "Shiatsu, Tuina, reflexology, myofascial release, and trigger point therapy",
+      "Compression, stripping, skin rolling, rocking, and stretching",
+      "Cupping, gua sha, acupuncture, moxibustion, and reflexology"
+    ],
+    "answer": 0,
+    "explanation": "Effleurage, petrissage, friction, tapotement, and vibration are the traditional five classic Swedish massage strokes."
+  },
+  {
+    "q": "Which of the following best describes thermotherapy (heat application)?",
+    "options": [
+      "The therapeutic application of cold to reduce inflammation",
+      "The therapeutic application of heat, generally causing vasodilation and increased local blood flow",
+      "A technique that always increases inflammation",
+      "A form of percussion massage"
+    ],
+    "answer": 1,
+    "explanation": "Thermotherapy is the therapeutic use of heat, which generally increases local blood flow through vasodilation."
+  },
+  {
+    "q": "Thermotherapy is generally indicated for:",
+    "options": [
+      "Acute, inflamed injuries",
+      "Chronic muscle stiffness and tension, in tissue without acute inflammation",
+      "Fresh, swollen sprains",
+      "Active bleeding"
+    ],
+    "answer": 1,
+    "explanation": "Heat is generally appropriate for chronic stiffness and tension, not for acute inflammation, which calls for cold."
+  },
+  {
+    "q": "A general contraindication for applying heat would be:",
+    "options": [
+      "Chronic low back tightness",
+      "An area with impaired sensation, where the client can't reliably detect excessive heat",
+      "General relaxation goals",
+      "Muscle stiffness before stretching"
+    ],
+    "answer": 1,
+    "explanation": "Impaired sensation is a contraindication for heat application, since the client may not be able to detect and report a burn risk."
+  },
+  {
+    "q": "Cryotherapy refers to:",
+    "options": [
+      "The therapeutic application of heat",
+      "The therapeutic application of cold, such as ice packs, to reduce pain and inflammation",
+      "A form of percussion massage",
+      "A category of essential oil use"
+    ],
+    "answer": 1,
+    "explanation": "Cryotherapy is the therapeutic application of cold, commonly used to reduce pain, swelling, and inflammation after acute injury."
+  },
+  {
+    "q": "The classic RICE protocol for an acute injury stands for:",
+    "options": [
+      "Rest, Ice, Compression, Elevation",
+      "Rub, Ice, Circulate, Extend",
+      "Rest, Immobilize, Cool, Elevate",
+      "Reduce, Ice, Compress, Exercise"
+    ],
+    "answer": 0,
+    "explanation": "RICE stands for Rest, Ice, Compression, Elevation — a standard general approach to managing acute soft tissue injury."
+  },
+  {
+    "q": "Cryotherapy is generally contraindicated for a client with which condition?",
+    "options": [
+      "A fresh ankle sprain with swelling",
+      "Raynaud's phenomenon (a cold-sensitivity vascular condition)",
+      "General post-workout soreness",
+      "Acute inflammation"
+    ],
+    "answer": 1,
+    "explanation": "Cold application is generally contraindicated with conditions involving abnormal cold sensitivity or vascular spasm, such as Raynaud's phenomenon."
+  },
+  {
+    "q": "Contrast therapy, alternating between hot and cold application, is generally intended to:",
+    "options": [
+      "Cause a single, permanent vasodilation effect",
+      "Stimulate a pumping effect in local circulation by alternating vasodilation and vasoconstriction",
+      "Replace the need for any massage techniques",
+      "Only be used for relaxation purposes with no circulatory effect"
+    ],
+    "answer": 1,
+    "explanation": "Contrast therapy alternates vasodilation (heat) and vasoconstriction (cold) to create a pumping effect that can stimulate local circulation."
+  },
+  {
+    "q": "Before applying a hot or cold modality, a therapist should first:",
+    "options": [
+      "Skip checking client sensation to save time",
+      "Confirm the client's sensation is intact and there are no contraindications",
+      "Apply the modality directly to skin with no barrier, regardless of temperature",
+      "Assume all clients can tolerate the same time and intensity"
+    ],
+    "answer": 1,
+    "explanation": "Confirming intact sensation and screening for contraindications is an essential safety step before hot or cold application."
+  },
+  {
+    "q": "A protective barrier (such as a cloth layer) between a hot pack and a client's skin is used primarily to:",
+    "options": [
+      "Reduce the aesthetic appeal of the treatment",
+      "Prevent burns by moderating direct heat contact with the skin",
+      "Make the hot pack less effective",
+      "Replace the need for checking client sensation"
+    ],
+    "answer": 1,
+    "explanation": "A barrier layer helps prevent burns by moderating direct skin contact with a hot modality."
+  },
+  {
+    "q": "A Swiss shower, used in some spa/hydrotherapy settings, is best described as:",
+    "options": [
+      "A single overhead rain-like shower used for relaxation only",
+      "A shower system with multiple jets that can target specific areas of the body",
+      "A form of dry heat treatment with no water involved",
+      "A type of cold plunge pool"
+    ],
+    "answer": 1,
+    "explanation": "A Swiss shower uses multiple shower heads/jets to target specific body regions, often as part of a hydrotherapy circuit."
+  },
+  {
+    "q": "A Vichy shower is generally characterized by:",
+    "options": [
+      "A single handheld shower head",
+      "An overhead bar of jets providing a gentle, rain-like shower while the client lies on a treatment table",
+      "A fully submerged whirlpool bath",
+      "A dry sauna with no water"
+    ],
+    "answer": 1,
+    "explanation": "A Vichy shower uses an overhead bar of multiple jets to create a gentle rain-like effect over a client lying on a wet table, often paired with a body treatment."
+  },
+  {
+    "q": "Which of these hydrotherapy modalities uses full-body immersion in circulating, often heated, water?",
+    "options": [
+      "Vichy shower",
+      "Whirlpool bath",
+      "Dry sauna",
+      "Cryotherapy chamber"
+    ],
+    "answer": 1,
+    "explanation": "A whirlpool bath involves full or partial body immersion in circulating water, often heated, distinct from a shower-based modality."
+  },
+  {
+    "q": "A steam room and a dry sauna both generally use heat primarily to:",
+    "options": [
+      "Cause vasoconstriction and reduce circulation",
+      "Promote relaxation and increase local circulation through heat exposure",
+      "Numb the skin to reduce all sensation",
+      "Replace the need for hydration"
+    ],
+    "answer": 1,
+    "explanation": "Both steam rooms and saunas use heat exposure to promote relaxation and increase circulation, similar in principle to other thermotherapy applications."
+  },
+  {
+    "q": "Shiatsu, a Japanese bodywork modality, primarily involves:",
+    "options": [
+      "Deep tissue stripping with lubricant",
+      "Finger and palm pressure applied to specific points (tsubo) along energy pathways",
+      "Percussive tapping over the entire body",
+      "Full-body immersion in water"
+    ],
+    "answer": 1,
+    "explanation": "Shiatsu uses finger/palm pressure on tsubo (acupressure points) believed to be along energy (Ki) pathways, without the use of lubricant."
+  },
+  {
+    "q": "Tuina is best described as:",
+    "options": [
+      "A Japanese modality based on tsubo points",
+      "A traditional Chinese bodywork modality using techniques like kneading, rolling, and pressing",
+      "A Swedish hydrotherapy technique",
+      "A form of aromatherapy"
+    ],
+    "answer": 1,
+    "explanation": "Tuina is a traditional Chinese massage/bodywork modality using a range of hand techniques as part of Traditional Chinese Medicine."
+  },
+  {
+    "q": "Reflexology is based on the concept that:",
+    "options": [
+      "Specific points on the feet, hands, or ears correspond to other areas or organs of the body",
+      "Deep tissue work must always be applied to the spine",
+      "Only essential oils can produce therapeutic effects",
+      "Percussion is the only effective technique"
+    ],
+    "answer": 0,
+    "explanation": "Reflexology applies pressure to specific points, often on the feet, hands, or ears, believed to correspond to other body areas or organs."
+  },
+  {
+    "q": "Myofascial release, as a modality, generally involves:",
+    "options": [
+      "Fast, brisk percussive strokes",
+      "Slow, sustained pressure and stretching applied to the fascia, often with minimal lubricant",
+      "Full-body water immersion",
+      "Rapid, shallow effleurage strokes only"
+    ],
+    "answer": 1,
+    "explanation": "Myofascial release uses slow, sustained pressure/stretch on fascia, typically with little or no lubricant so the practitioner can 'grip' and engage the tissue."
+  },
+  {
+    "q": "Trigger point therapy is a modality that specifically targets:",
+    "options": [
+      "General relaxation across the whole body with no specific focus",
+      "Hyperirritable spots within a taut band of muscle that can cause local or referred pain",
+      "Only the lymphatic system",
+      "Bone density"
+    ],
+    "answer": 1,
+    "explanation": "Trigger point therapy targets hyperirritable spots (trigger points) within taut muscle bands, which can cause local pain or refer pain elsewhere."
+  },
+  {
+    "q": "Referred pain, relevant to trigger point work, refers to:",
+    "options": [
+      "Pain felt at the exact site of the trigger point only",
+      "Pain felt in a location distant from the actual trigger point source",
+      "Pain that only occurs during exercise",
+      "A type of pain that cannot be assessed"
+    ],
+    "answer": 1,
+    "explanation": "Referred pain is pain perceived at a location different from where the trigger point itself is located."
+  },
+  {
+    "q": "Manual lymphatic drainage (MLD) is characterized by:",
+    "options": [
+      "Deep, vigorous pressure to force fluid movement",
+      "Very light, rhythmic pumping strokes directed toward lymph nodes",
+      "Percussive tapping over lymph node clusters",
+      "Full-body stretching with no manual contact"
+    ],
+    "answer": 1,
+    "explanation": "Manual lymphatic drainage uses very light, rhythmic strokes directed toward lymph nodes to encourage lymph fluid movement — deep pressure would be counterproductive."
+  },
+  {
+    "q": "Manual lymphatic drainage is often used clinically for clients with:",
+    "options": [
+      "Acute muscle strains only",
+      "Edema or swelling, such as after certain surgeries or with lymphedema",
+      "Only cosmetic, non-clinical purposes",
+      "Uncontrolled hypertension exclusively"
+    ],
+    "answer": 1,
+    "explanation": "MLD is commonly used for clients with edema or lymphedema, such as after certain surgeries affecting lymph nodes."
+  },
+  {
+    "q": "Structural integration (e.g., the Rolfing approach) is generally characterized by:",
+    "options": [
+      "A single light-touch session focused only on relaxation",
+      "A series of sessions using deep fascial work aimed at improving overall postural alignment",
+      "Exclusively hydrotherapy-based techniques",
+      "Techniques that avoid touching fascia entirely"
+    ],
+    "answer": 1,
+    "explanation": "Structural integration approaches typically use a series of sessions with deep fascial work aimed at long-term postural and structural change."
+  },
+  {
+    "q": "Thai massage is traditionally characterized by:",
+    "options": [
+      "The use of heavy oil and long gliding strokes on a table",
+      "Passive stretching and assisted yoga-like positioning, typically performed on a floor mat without oil",
+      "Full immersion in a heated pool",
+      "Exclusively percussive tapping"
+    ],
+    "answer": 1,
+    "explanation": "Thai massage traditionally involves passive stretching and assisted yoga-like positions, performed on a mat on the floor, generally without oil."
+  },
+  {
+    "q": "Craniosacral therapy is generally described as using:",
+    "options": [
+      "Deep, vigorous pressure on the skull",
+      "Very light touch, often on the skull and spine, attuned to subtle rhythmic movement",
+      "Percussive tapping on the spine",
+      "Full-body hydrotherapy immersion"
+    ],
+    "answer": 1,
+    "explanation": "Craniosacral therapy uses very light touch, often focused on the skull and spine, attuned to a subtle rhythmic movement practitioners describe feeling."
+  },
+  {
+    "q": "Watsu is best described as:",
+    "options": [
+      "A form of deep tissue massage performed on a dry table",
+      "A form of bodywork performed in warm water, combining passive movement and stretching",
+      "A percussive technique used in sports massage",
+      "A type of essential oil blend"
+    ],
+    "answer": 1,
+    "explanation": "Watsu (\"water shiatsu\") is performed in warm water and combines passive movement, stretching, and support of the client's body."
+  },
+  {
+    "q": "Amma, an ancient Asian bodywork tradition, is generally described as involving:",
+    "options": [
+      "Only water-based treatment",
+      "Rubbing, pressing, and pulling techniques applied to specific points on the body",
+      "Exclusively percussive strokes",
+      "A modern Swedish invention"
+    ],
+    "answer": 1,
+    "explanation": "Amma is an ancient technique involving rubbing, pressing, and pulling at specific points, historically influential on later Asian bodywork traditions."
+  },
+  {
+    "q": "Bindegewebsmassage (connective tissue massage), developed in Germany, primarily targets:",
+    "options": [
+      "Deep skeletal muscle only",
+      "The subcutaneous connective tissue layer",
+      "The lymphatic vessels exclusively",
+      "Bone tissue"
+    ],
+    "answer": 1,
+    "explanation": "Bindegewebsmassage specifically focuses on the subcutaneous connective tissue layer, distinct from deep muscle-focused techniques."
+  },
+  {
+    "q": "Ayurvedic massage, such as Abhyanga from India, is traditionally characterized by:",
+    "options": [
+      "The use of warm herbal oils as part of the treatment",
+      "The complete avoidance of any oil or lubricant",
+      "Exclusively dry percussive techniques",
+      "Full immersion in cold water"
+    ],
+    "answer": 0,
+    "explanation": "Abhyanga, a form of Ayurvedic massage, traditionally uses warm herbal oils as a central part of the treatment."
+  },
+  {
+    "q": "The Swedish Movement Cure, a precursor to some later massage/movement approaches, was introduced to the United States around:",
+    "options": [
+      "1650",
+      "1858",
+      "1920",
+      "1975"
+    ],
+    "answer": 1,
+    "explanation": "The Swedish Movement Cure was introduced to the United States around 1858, an important historical milestone in the development of massage in the West."
+  },
+  {
+    "q": "Essential oils used in aromatherapy-based massage are most commonly extracted from plants using:",
+    "options": [
+      "Freezing",
+      "Steam distillation",
+      "Boiling in water only",
+      "Chemical bleaching"
+    ],
+    "answer": 1,
+    "explanation": "Steam distillation is the primary method used to extract essential oils from plant material."
+  },
+  {
+    "q": "Because essential oils are highly concentrated, appropriate use in massage generally requires:",
+    "options": [
+      "Applying them undiluted, directly to skin, in large amounts",
+      "Diluting them appropriately in a carrier oil/lotion and screening for allergies/sensitivities",
+      "Ingesting them before the session",
+      "Using them regardless of client sensitivities"
+    ],
+    "answer": 1,
+    "explanation": "Essential oils are typically diluted in a carrier substance and used with attention to potential allergies or skin sensitivities."
+  },
+  {
+    "q": "A 'nerve stroke,' sometimes used at the very end of a session, is best described as:",
+    "options": [
+      "A deep, sustained pressure technique",
+      "A very light, feathering stroke used to calm the nervous system before ending contact",
+      "A percussive technique used to stimulate alertness",
+      "A technique that always uses ice"
+    ],
+    "answer": 1,
+    "explanation": "Nerve strokes are very light, feathering strokes typically used at the close of a session to have a calming, transitional effect."
+  },
+  {
+    "q": "Four-hand massage refers to:",
+    "options": [
+      "A single therapist using unusually large hands",
+      "Two therapists working simultaneously on one client, often with synchronized movements",
+      "A technique using only the thumbs",
+      "A self-massage technique"
+    ],
+    "answer": 1,
+    "explanation": "Four-hand massage involves two therapists working on one client at the same time, typically with coordinated, synchronized strokes."
+  },
+  {
+    "q": "Cross-fiber friction is applied in which direction relative to the muscle fibers?",
+    "options": [
+      "Parallel to the fiber direction",
+      "Perpendicular (across the grain) to the fiber direction",
+      "Only in a circular pattern with no relation to fiber direction",
+      "Only along tendons, never across muscle"
+    ],
+    "answer": 1,
+    "explanation": "Cross-fiber friction is applied perpendicular to the muscle fiber direction, which helps address adhesions and disorganized collagen."
+  },
+  {
+    "q": "Which best explains why friction techniques are typically applied to tissue that has already been warmed by prior strokes?",
+    "options": [
+      "Warmed tissue is easier to work more deeply and comfortably, reducing discomfort and injury risk",
+      "Cold tissue responds better to friction",
+      "Warming has no relevance to friction technique",
+      "Friction should always be the very first technique applied"
+    ],
+    "answer": 0,
+    "explanation": "Working on already-warmed tissue makes deeper techniques like friction more comfortable and reduces the risk of injury or excessive discomfort."
+  },
+  {
+    "q": "Which massage technique is most associated with a sedating, calming nervous system effect, in contrast to tapotement's stimulating effect?",
+    "options": [
+      "Tapotement",
+      "Vibration",
+      "Deep tissue stripping",
+      "Cross-fiber friction"
+    ],
+    "answer": 1,
+    "explanation": "Vibration tends to have a sedating, calming effect on the nervous system, the opposite of tapotement's stimulating effect."
+  },
+  {
+    "q": "Which best describes the general physiological rationale for using compression early in a session?",
+    "options": [
+      "It has a purely psychological effect with no physiological basis",
+      "It helps increase circulation and warm the muscle before deeper work",
+      "It is only used to end a session",
+      "It replaces the need for effleurage entirely"
+    ],
+    "answer": 1,
+    "explanation": "Compression helps increase local circulation and warm tissue, making it a useful early-session technique before deeper work."
+  },
+  {
+    "q": "Which of these effects would generally NOT be expected from a full-body relaxation (Swedish-style) massage?",
+    "options": [
+      "Reduced perceived stress",
+      "Increased local circulation",
+      "Permanent structural realignment of bones",
+      "A sense of general relaxation"
+    ],
+    "answer": 2,
+    "explanation": "Massage does not permanently realign bones; that expectation misrepresents massage's actual physiological effects."
+  },
+  {
+    "q": "Which best reflects the general effect of massage on skeletal muscle tension?",
+    "options": [
+      "It has no measurable effect on muscle tension",
+      "It can help reduce hypertonicity and promote a more relaxed resting muscle tone",
+      "It always increases muscle tension",
+      "It permanently eliminates the need for exercise"
+    ],
+    "answer": 1,
+    "explanation": "Massage is generally associated with reduced hypertonicity and a more relaxed resting muscle tone, though effects are typically temporary and benefit from ongoing care."
+  },
+  {
+    "q": "Which best describes an appropriate physiological rationale for including passive stretching near the end of a session?",
+    "options": [
+      "Stretching cold, unwarmed tissue is always preferred",
+      "Tissue that has been warmed and relaxed by prior techniques may respond better to lengthening through stretching",
+      "Stretching has no physiological rationale in massage",
+      "Stretching should always precede all other techniques"
+    ],
+    "answer": 1,
+    "explanation": "Warmed, relaxed tissue generally responds better to stretching than cold tissue, supporting its typical placement later in a session."
+  },
+  {
+    "q": "A client with severe, uncontrolled hypertension is scheduled for a massage. Which general precaution is most relevant across many techniques?",
+    "options": [
+      "No precautions are needed for cardiovascular conditions",
+      "Vigorous, deep techniques may be more strongly contraindicated, and physician input may be appropriate",
+      "Only tapotement needs to be avoided",
+      "Uncontrolled hypertension only affects hydrotherapy techniques"
+    ],
+    "answer": 1,
+    "explanation": "Uncontrolled hypertension is a recurring contraindication consideration across several vigorous or deep techniques, sometimes warranting physician input."
+  },
+  {
+    "q": "Which best reflects why massage modalities are described as having both physiological and psychological effects?",
+    "options": [
+      "The two categories never overlap or influence each other",
+      "Physical changes in tissue and physiological state can occur alongside changes in mood and nervous system arousal",
+      "Only physiological effects are considered legitimate",
+      "Only psychological effects are considered legitimate"
+    ],
+    "answer": 1,
+    "explanation": "Massage effects span both categories — tissue/physiological changes often occur together with mood and nervous-system-related psychological effects."
+  },
+  {
+    "q": "Which of the following best reflects a psychological benefit specifically relevant to a client experiencing high daily stress?",
+    "options": [
+      "Increased local blood flow to a specific muscle",
+      "Activation of the relaxation response, reducing the subjective feeling of stress",
+      "Increased strength of a treated muscle",
+      "Reduced joint stiffness"
+    ],
+    "answer": 1,
+    "explanation": "Activating the relaxation response to reduce subjective stress is a psychological benefit particularly relevant to stress-related concerns."
+  },
+  {
+    "q": "For a client recovering from a mild, non-acute soft tissue injury who is cleared for gentle work, general technique sequencing would most likely progress:",
+    "options": [
+      "Deep tissue stripping first, then light effleurage last",
+      "Light, warming strokes first, progressing to more specific or deeper work as tolerated, and calming strokes at the close",
+      "Random technique order with no logical progression",
+      "Only tapotement for the entire session"
+    ],
+    "answer": 1,
+    "explanation": "General-to-specific and superficial-to-deep sequencing, closing with calming strokes, reflects standard sequencing logic even for a mild recovering injury (once cleared)."
+  },
+  {
+    "q": "Which of these best reflects the overview purpose of learning multiple bodywork modalities, even briefly, for the MBLEx?",
+    "options": [
+      "To become fully certified in every modality listed",
+      "To recognize general characteristics and appropriate contexts of common modalities, supporting informed practice and referral",
+      "To replace formal training in any specific modality",
+      "To avoid ever needing continuing education"
+    ],
+    "answer": 1,
+    "explanation": "Exam-level modality knowledge is about general recognition and context, not full certification — deeper training is required to actually practice a specialized modality."
+  },
+  {
+    "q": "A client wants a highly relaxing, general wellness session with no specific complaint. Which general approach best fits this goal?",
+    "options": [
+      "An aggressive deep tissue and trigger point-focused session throughout",
+      "A traditional Swedish-style session emphasizing effleurage, petrissage, and a calming pace",
+      "A session using only cryotherapy",
+      "A session using only resisted range of motion testing"
+    ],
+    "answer": 1,
+    "explanation": "A traditional Swedish-style, relaxation-focused approach best matches a general wellness goal without a specific clinical complaint."
+  },
+  {
+    "q": "A client wants focused work on a specific chronic knot in the upper trapezius. Which general approach best fits this goal, once appropriate assessment has occurred?",
+    "options": [
+      "A purely relaxation-focused, light-pressure full-body Swedish session with no local focus",
+      "Techniques like sustained compression, friction, or trigger point work focused on the specific area after general warm-up",
+      "Only hydrotherapy with no manual technique",
+      "Only techniques designed for infants"
+    ],
+    "answer": 1,
+    "explanation": "For a focused, specific complaint like a chronic knot, more targeted techniques (compression, friction, trigger point work) after general warm-up better fit the goal."
+  },
+  {
+    "q": "Which best explains why cold application is generally preferred over heat immediately after an acute soft tissue injury?",
+    "options": [
+      "Cold has no physiological effect on inflammation",
+      "Cold causes vasoconstriction, helping limit swelling and numb pain, while heat can worsen swelling in acutely inflamed tissue",
+      "Heat always works faster than cold in every situation",
+      "Cold and heat have identical effects on inflammation"
+    ],
+    "answer": 1,
+    "explanation": "Cold's vasoconstrictive effect helps limit swelling and numb pain in acute injury, while heat's vasodilation can worsen swelling if applied too soon."
+  },
+  {
+    "q": "Which best reflects a reasonable general guideline for the duration of a single cold application to intact skin?",
+    "options": [
+      "Several hours continuously with no monitoring",
+      "A limited period (commonly cited as roughly 10-20 minutes), with skin monitored to avoid frostbite/tissue damage",
+      "Cold should never be time-limited",
+      "Only a few seconds, since any longer has no effect"
+    ],
+    "answer": 1,
+    "explanation": "Cold applications are generally time-limited (commonly cited around 10-20 minutes) with attention to the skin to prevent frostbite or tissue damage."
+  },
+  {
+    "q": "Which best reflects a reasonable safety practice when using a hot pack on a client?",
+    "options": [
+      "Leaving it unattended on the client's skin for an extended period",
+      "Checking in on the client's comfort and skin condition periodically during application",
+      "Applying it directly to skin with no barrier and no time limit",
+      "Assuming heat sensitivity is the same for every client"
+    ],
+    "answer": 1,
+    "explanation": "Periodically checking client comfort and skin condition during heat application is a basic safety practice to prevent burns."
+  },
+  {
+    "q": "Which best describes why techniques like deep tissue stripping and static/ischemic compression are generally placed mid-to-late in a session?",
+    "options": [
+      "They must always be performed first, before any other technique",
+      "They work best on tissue that has already been warmed and prepared by earlier, lighter techniques",
+      "They have no relationship to tissue temperature or preparation",
+      "They should replace the need for effleurage entirely"
+    ],
+    "answer": 1,
+    "explanation": "Deeper, more specific techniques are generally more comfortable and effective once tissue has been warmed and prepared by earlier strokes."
+  },
+  {
+    "q": "A therapist is deciding whether to use tapotement or vibration to help an overstimulated, anxious client relax before ending the session. The better choice is generally:",
+    "options": [
+      "Tapotement, since it's more stimulating",
+      "Vibration, since it tends to have a calming, sedating effect",
+      "Neither technique has any relevant effect",
+      "Both are equally stimulating"
+    ],
+    "answer": 1,
+    "explanation": "Vibration's generally sedating effect makes it a better fit than tapotement's stimulating effect for calming an anxious client."
+  },
+  {
+    "q": "Which best reflects the general effect of massage on lymphatic flow?",
+    "options": [
+      "Massage has no effect on the lymphatic system",
+      "Certain techniques, especially light rhythmic strokes directed toward lymph nodes, can help support lymphatic flow",
+      "Only deep tissue techniques affect lymphatic flow",
+      "Lymphatic flow can only be affected by hydrotherapy"
+    ],
+    "answer": 1,
+    "explanation": "Light, rhythmic strokes directed toward lymph nodes (as in manual lymphatic drainage and general effleurage) can help support lymphatic flow."
+  },
+  {
+    "q": "Which best distinguishes a general 'overview of modalities' question from a technique-specific question on the exam?",
+    "options": [
+      "There is no meaningful distinction",
+      "Overview questions test recognizing broad characteristics of named approaches (e.g., Shiatsu uses tsubo points), while technique questions test specific strokes like petrissage or friction",
+      "Overview questions only apply to hydrotherapy",
+      "Technique-specific questions never appear on the exam"
+    ],
+    "answer": 1,
+    "explanation": "Overview-of-modalities content tests broad recognition of named approaches and their defining characteristics, distinct from detailed knowledge of individual classic strokes."
+  },
+  {
+    "q": "A client asks why the therapist starts and ends the session with effleurage rather than deeper techniques. The best explanation is that effleurage:",
+    "options": [
+      "Is required by law to bookend every session",
+      "Helps warm and prepare tissue at the start and provides a calming, connective close at the end",
+      "Has no real purpose beyond tradition",
+      "Is the only technique that uses lubricant"
+    ],
+    "answer": 1,
+    "explanation": "Effleurage serves a functional purpose at both the beginning (warming/preparing tissue) and end (calming transition) of a session."
+  },
+  {
+    "q": "Which best reflects the appropriate general approach when combining hydrotherapy (e.g., a warm soak) with manual massage technique in the same session?",
+    "options": [
+      "Hydrotherapy and massage should never be combined under any circumstances",
+      "Hydrotherapy can be used to help warm and relax tissue, complementing manual technique, provided contraindications are screened",
+      "Hydrotherapy always replaces the need for manual technique",
+      "Hydrotherapy has no relevant interaction with manual technique"
+    ],
+    "answer": 1,
+    "explanation": "Hydrotherapy (such as a warm soak) can complement manual technique by helping prepare tissue, provided appropriate screening for contraindications occurs."
+  },
+  {
+    "q": "Which best reflects the physiological effect of massage most directly relevant to reducing minor everyday muscular tension from prolonged sitting?",
+    "options": [
+      "Increased bone density",
+      "Reduced hypertonicity and improved local circulation in affected muscles",
+      "Permanent postural correction with no other intervention needed",
+      "Increased blood clotting"
+    ],
+    "answer": 1,
+    "explanation": "Reduced hypertonicity and improved local circulation directly address common muscular tension from prolonged static positions like sitting."
+  },
+  {
+    "q": "Which best reflects an appropriate way to describe the psychological benefit of touch itself, separate from any specific technique?",
+    "options": [
+      "Touch has no psychological significance in massage",
+      "Therapeutic touch can support feelings of comfort, trust, and reduced isolation, independent of the specific stroke used",
+      "Only percussive techniques provide psychological benefit",
+      "Psychological benefits only occur with verbal conversation, never touch"
+    ],
+    "answer": 1,
+    "explanation": "Therapeutic touch itself, independent of the specific technique used, can support feelings of comfort, connection, and reduced isolation."
+  },
+  {
+    "q": "General relaxation-oriented massage is often associated with which short-term cardiovascular effect?",
+    "options": [
+      "A significant, permanent increase in blood pressure",
+      "A transient decrease in heart rate and blood pressure associated with the relaxation response",
+      "No cardiovascular effect whatsoever",
+      "A permanent cure for hypertension"
+    ],
+    "answer": 1,
+    "explanation": "Relaxation-oriented massage is often associated with a transient reduction in heart rate and blood pressure linked to parasympathetic activation — not a permanent medical cure."
+  },
+  {
+    "q": "For a post-surgical client whose incision has fully healed and been cleared by their physician, gentle scar tissue mobilization is generally aimed at:",
+    "options": [
+      "Improving tissue mobility and reducing adhesion-related restriction",
+      "Reopening the incision to inspect it",
+      "Intentionally increasing infection risk",
+      "Replacing the need for any physician follow-up"
+    ],
+    "answer": 0,
+    "explanation": "Once cleared by a physician, gentle scar work aims to improve mobility and reduce adhesion-related restriction in the healed tissue."
+  },
+  {
+    "q": "Which best reflects appropriate general caution when working with a client who has a pacemaker or other implanted cardiac device?",
+    "options": [
+      "No caution is needed since devices are unrelated to massage",
+      "Avoid direct, deep pressure over the device site and remain aware of any restrictions noted by the client's physician",
+      "Always avoid the entire chest and back regardless of the device's actual location",
+      "Implanted devices have no relevance to session planning"
+    ],
+    "answer": 1,
+    "explanation": "Direct pressure over an implanted device site should generally be avoided, and any physician-noted restrictions should guide session planning."
+  },
+  {
+    "q": "Which best reflects the general rationale for using lighter pressure with a client who has fibromyalgia?",
+    "options": [
+      "Fibromyalgia clients generally tolerate the deepest pressure best",
+      "Fibromyalgia is often associated with heightened pain sensitivity, making lighter pressure generally more appropriate",
+      "Fibromyalgia has no bearing on pressure selection",
+      "Only percussive techniques should ever be used with fibromyalgia clients"
+    ],
+    "answer": 1,
+    "explanation": "Fibromyalgia is commonly associated with heightened generalized pain sensitivity, so lighter pressure is generally more appropriate."
+  },
+  {
+    "q": "Which best reflects why therapists screen for blood clotting disorders or anticoagulant medication use before applying techniques like deep compression or friction?",
+    "options": [
+      "These conditions have no relevance to massage safety",
+      "Increased bleeding/bruising risk means deeper techniques may need to be modified or avoided",
+      "Only hydrotherapy techniques are affected by clotting disorders",
+      "Clotting disorders only matter in surgical settings, never massage"
+    ],
+    "answer": 1,
+    "explanation": "Clients with clotting disorders or on anticoagulant medication have increased bleeding/bruising risk, so deeper techniques often need to be modified or avoided."
+  },
+  {
+    "q": "Which best reflects the general approach to direct manual work on a scar that is still within its early healing window (e.g., under about 6 weeks old)?",
+    "options": [
+      "Direct, vigorous work is encouraged to speed healing",
+      "Direct work is generally avoided or approached with caution, since the tissue is still fragile and healing",
+      "Recent scars require no special consideration at all",
+      "Only heat should ever be applied directly to a fresh scar"
+    ],
+    "answer": 1,
+    "explanation": "Recent scars are still fragile and healing, so direct, vigorous manual work is generally avoided or approached cautiously until the tissue has matured further."
   }
 ]

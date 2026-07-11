@@ -1,122 +1,1102 @@
 [
   {
     "q": "Which is considered the single most effective infection-control measure?",
-    "options": ["Wearing gloves at all times", "Handwashing before and after every session", "Using scented lotion", "Opening windows for ventilation"],
+    "options": [
+      "Wearing gloves at all times",
+      "Handwashing before and after every session",
+      "Using scented lotion",
+      "Opening windows for ventilation"
+    ],
     "answer": 1,
     "explanation": "Handwashing is the single most effective measure for infection control."
   },
   {
     "q": "Universal precautions mean treating all bodily fluids as:",
-    "options": ["Safe unless the client discloses an infection", "Potentially infectious, regardless of known health status", "Only a concern for visibly ill clients", "Irrelevant to massage practice"],
+    "options": [
+      "Safe unless the client discloses an infection",
+      "Potentially infectious, regardless of known health status",
+      "Only a concern for visibly ill clients",
+      "Irrelevant to massage practice"
+    ],
     "answer": 1,
     "explanation": "Universal precautions assume all bodily fluids could be infectious, protecting against undisclosed or unknown conditions."
   },
   {
     "q": "How should linens be handled between clients?",
-    "options": ["Reused if they appear clean", "Laundered fresh for every single client/session", "Only changed once per day", "Only changed if visibly soiled"],
+    "options": [
+      "Reused if they appear clean",
+      "Laundered fresh for every single client/session",
+      "Only changed once per day",
+      "Only changed if visibly soiled"
+    ],
     "answer": 1,
     "explanation": "Linens must be freshly laundered for every client, with no exceptions."
   },
   {
     "q": "Heat application generally causes which vascular effect?",
-    "options": ["Vasoconstriction", "Vasodilation", "No vascular effect", "Immediate clotting"],
+    "options": [
+      "Vasoconstriction",
+      "Vasodilation",
+      "No vascular effect",
+      "Immediate clotting"
+    ],
     "answer": 1,
     "explanation": "Heat causes vasodilation, widening blood vessels and increasing local blood flow."
   },
   {
     "q": "Cold application is most appropriate for:",
-    "options": ["Chronic, non-inflamed tissue", "Acute, inflamed injury", "General relaxation only", "Muscle building"],
+    "options": [
+      "Chronic, non-inflamed tissue",
+      "Acute, inflamed injury",
+      "General relaxation only",
+      "Muscle building"
+    ],
     "answer": 1,
     "explanation": "Cold causes vasoconstriction, useful for reducing acute inflammation and swelling."
   },
   {
     "q": "A client has an acute ankle sprain with visible swelling. Which is appropriate?",
-    "options": ["Apply heat to increase blood flow", "Apply cold and avoid aggravating the area", "Use deep tissue stripping directly on the swelling", "No modification needed"],
+    "options": [
+      "Apply heat to increase blood flow",
+      "Apply cold and avoid aggravating the area",
+      "Use deep tissue stripping directly on the swelling",
+      "No modification needed"
+    ],
     "answer": 1,
     "explanation": "Acute inflammation calls for cold, not heat, per standard hydrotherapy guidance."
   },
   {
     "q": "Which of the following is NOT a typical effect of heat application?",
-    "options": ["Increased blood flow", "Increased pulse rate", "Decreased metabolic rate", "Dilation of peripheral blood vessels"],
+    "options": [
+      "Increased blood flow",
+      "Increased pulse rate",
+      "Decreased metabolic rate",
+      "Dilation of peripheral blood vessels"
+    ],
     "answer": 2,
     "explanation": "Heat typically increases metabolic activity locally, not decreases it — this is the exception among the listed effects."
   },
   {
     "q": "Gloves should be used by a massage therapist primarily when:",
-    "options": ["The client requests it for comfort", "There's risk of contact with broken skin, lesions, or bodily fluids", "Performing any session, without exception", "Only during hydrotherapy"],
+    "options": [
+      "The client requests it for comfort",
+      "There's risk of contact with broken skin, lesions, or bodily fluids",
+      "Performing any session, without exception",
+      "Only during hydrotherapy"
+    ],
     "answer": 1,
     "explanation": "Gloves are indicated when there's a risk of contact with broken skin, lesions, or bodily fluids."
   },
   {
     "q": "Failing to disinfect the table and face cradle between clients is best described as:",
-    "options": ["A minor cosmetic issue", "A sanitation violation with infection risk, regardless of appearance", "Acceptable if the linens were changed", "Only a concern in group settings"],
+    "options": [
+      "A minor cosmetic issue",
+      "A sanitation violation with infection risk, regardless of appearance",
+      "Acceptable if the linens were changed",
+      "Only a concern in group settings"
+    ],
     "answer": 1,
     "explanation": "Equipment must be disinfected between every client, regardless of how clean it appears."
   },
   {
     "q": "Which best describes ethical advertising for a massage practice?",
-    "options": ["Claiming massage can cure chronic diseases", "Making honest claims that don't promise outcomes massage can't reliably deliver", "Exaggerating results to attract clients", "Advertising is not regulated at all"],
+    "options": [
+      "Claiming massage can cure chronic diseases",
+      "Making honest claims that don't promise outcomes massage can't reliably deliver",
+      "Exaggerating results to attract clients",
+      "Advertising is not regulated at all"
+    ],
     "answer": 1,
     "explanation": "Ethical advertising avoids false or exaggerated claims, especially medical 'cure' claims."
   },
   {
     "q": "Client record retention should follow:",
-    "options": ["The therapist's personal preference only", "Applicable local/state regulation, with secure and confidential storage", "No specific rules, records can be discarded anytime", "Client requests only"],
+    "options": [
+      "The therapist's personal preference only",
+      "Applicable local/state regulation, with secure and confidential storage",
+      "No specific rules, records can be discarded anytime",
+      "Client requests only"
+    ],
     "answer": 1,
     "explanation": "Record retention is governed by regulation and must be handled securely and confidentially."
   },
   {
     "q": "Which of these is part of good risk management in a massage business?",
-    "options": ["Skipping documentation to save time", "Maintaining liability insurance and clear consent processes", "Avoiding intake forms", "Ignoring state regulations"],
+    "options": [
+      "Skipping documentation to save time",
+      "Maintaining liability insurance and clear consent processes",
+      "Avoiding intake forms",
+      "Ignoring state regulations"
+    ],
     "answer": 1,
     "explanation": "Liability insurance, documentation, and consent processes all reduce professional risk."
   },
   {
     "q": "Why does therapist self-care and body mechanics matter for licensing exams?",
-    "options": ["It's irrelevant to professional practice", "Poor self-care leads to therapist injury and shortens career longevity", "It only matters for clients, not therapists", "Self-care is only a personal, not professional, concern"],
+    "options": [
+      "It's irrelevant to professional practice",
+      "Poor self-care leads to therapist injury and shortens career longevity",
+      "It only matters for clients, not therapists",
+      "Self-care is only a personal, not professional, concern"
+    ],
     "answer": 1,
     "explanation": "Proper body mechanics and self-care protect a therapist's ability to work safely over a full career."
   },
   {
     "q": "Cross-contamination prevention primarily involves:",
-    "options": ["Ignoring hygiene between different clients", "Avoiding the spread of pathogens between clients through proper sanitation practices", "Only relevant in hospital settings", "Reusing tools if wiped with a dry cloth"],
+    "options": [
+      "Ignoring hygiene between different clients",
+      "Avoiding the spread of pathogens between clients through proper sanitation practices",
+      "Only relevant in hospital settings",
+      "Reusing tools if wiped with a dry cloth"
+    ],
     "answer": 1,
     "explanation": "Cross-contamination prevention focuses on stopping pathogen spread between clients."
   },
   {
     "q": "A therapist notices they've run out of clean face cradle covers mid-day. The correct action is to:",
-    "options": ["Reuse the previous one since it looks clean", "Obtain a clean cover before continuing, even if it delays the session", "Skip the face cradle for that session", "Use a paper towel as a substitute without disinfecting"],
+    "options": [
+      "Reuse the previous one since it looks clean",
+      "Obtain a clean cover before continuing, even if it delays the session",
+      "Skip the face cradle for that session",
+      "Use a paper towel as a substitute without disinfecting"
+    ],
     "answer": 1,
     "explanation": "Proper sanitation requires a clean cover for every client — appearance alone doesn't confirm cleanliness."
   },
   {
     "q": "Disinfection primarily refers to:",
-    "options": ["Washing hands only", "Using chemical agents to kill pathogens on surfaces/equipment", "A type of massage technique", "A category of massage oil"],
+    "options": [
+      "Washing hands only",
+      "Using chemical agents to kill pathogens on surfaces/equipment",
+      "A type of massage technique",
+      "A category of massage oil"
+    ],
     "answer": 1,
     "explanation": "Disinfection uses chemical agents to eliminate pathogens from surfaces and equipment."
   },
   {
     "q": "Which scenario best reflects proper universal precautions?",
-    "options": ["Assuming a regular client poses no infection risk since they seem healthy", "Treating all clients' bodily fluids as potentially infectious, regardless of appearance or history", "Only using precautions with new clients", "Skipping precautions if time is limited"],
+    "options": [
+      "Assuming a regular client poses no infection risk since they seem healthy",
+      "Treating all clients' bodily fluids as potentially infectious, regardless of appearance or history",
+      "Only using precautions with new clients",
+      "Skipping precautions if time is limited"
+    ],
     "answer": 1,
     "explanation": "Universal precautions apply consistently to all clients, not selectively based on appearance or familiarity."
   },
   {
     "q": "Why might heat be inappropriate for a fresh, acutely inflamed injury?",
-    "options": ["Heat has no effect on inflammation", "Heat could worsen swelling by increasing blood flow to the area", "Heat is always safe regardless of injury stage", "Heat only affects bone tissue"],
+    "options": [
+      "Heat has no effect on inflammation",
+      "Heat could worsen swelling by increasing blood flow to the area",
+      "Heat is always safe regardless of injury stage",
+      "Heat only affects bone tissue"
+    ],
     "answer": 1,
     "explanation": "Applying heat to acute inflammation can increase blood flow and worsen swelling."
   },
   {
     "q": "Accurate documentation supports business practice primarily by:",
-    "options": ["Having no practical value beyond record-keeping", "Serving as both a clinical tool and a legal safeguard", "Being required only for tax purposes", "Replacing the need for client communication"],
+    "options": [
+      "Having no practical value beyond record-keeping",
+      "Serving as both a clinical tool and a legal safeguard",
+      "Being required only for tax purposes",
+      "Replacing the need for client communication"
+    ],
     "answer": 1,
     "explanation": "Documentation serves dual purposes: clinical continuity of care and legal protection."
   },
   {
     "q": "A massage business advertises that its treatments 'cure chronic back disease.' This is a violation of:",
-    "options": ["No rule — advertising is unregulated", "Ethical advertising standards, since it's an unsupported medical claim", "Only a minor issue with no real concern", "Scope of practice, but not advertising ethics"],
+    "options": [
+      "No rule — advertising is unregulated",
+      "Ethical advertising standards, since it's an unsupported medical claim",
+      "Only a minor issue with no real concern",
+      "Scope of practice, but not advertising ethics"
+    ],
     "answer": 1,
     "explanation": "Making false or exaggerated medical claims violates ethical advertising standards and can also cross into scope-of-practice issues."
+  },
+  {
+    "q": "Massage oil or lotion should be dispensed from what type of container to reduce contamination risk between clients?",
+    "options": [
+      "A pump or squeeze bottle rather than an open jar",
+      "An open jar for easy access",
+      "A shared communal jar for all therapists",
+      "Any container as long as it's refilled weekly"
+    ],
+    "answer": 0,
+    "explanation": "Pump/squeeze bottles prevent fingers from contacting the remaining product, reducing cross-contamination risk compared to open jars."
+  },
+  {
+    "q": "If a massage therapist accidentally dips fingers directly into a shared lotion jar during a session, the best practice going forward is to:",
+    "options": [
+      "Continue as usual since it's a minor issue",
+      "Switch to single-use portions or a pump dispenser to avoid recontaminating the supply",
+      "Wipe the jar rim with a tissue",
+      "Only use that jar for that one client from now on"
+    ],
+    "answer": 1,
+    "explanation": "Preventing 'double-dipping' into shared product is a core sanitation practice; pump dispensers or single-use portions avoid recontamination."
+  },
+  {
+    "q": "Hot stones used in a hot stone massage should be sanitized between clients by:",
+    "options": [
+      "Wiping them with a dry towel only",
+      "Cleaning and disinfecting them with an appropriate solution after each use",
+      "Rinsing briefly in tap water",
+      "Reheating them, since heat alone sanitizes them"
+    ],
+    "answer": 1,
+    "explanation": "Reusable equipment like hot stones must be cleaned and disinfected between clients, not just reheated or rinsed."
+  },
+  {
+    "q": "Bolsters and cushions used during a session should be:",
+    "options": [
+      "Left uncovered since fabric doesn't harbor pathogens",
+      "Covered with a clean, changeable barrier (e.g., a cover or towel) for each client",
+      "Shared without covers if the client seems healthy",
+      "Cleaned only once per week"
+    ],
+    "answer": 1,
+    "explanation": "Bolsters/cushions should have a clean barrier changed for every client, similar to table linens."
+  },
+  {
+    "q": "Which of these is an example of proper equipment maintenance that supports both safety and sanitation?",
+    "options": [
+      "Ignoring a wobbly table leg since clients rarely notice",
+      "Regularly checking the table's stability and cleaning surfaces per protocol",
+      "Only checking equipment once a year",
+      "Assuming new equipment never needs inspection"
+    ],
+    "answer": 1,
+    "explanation": "Regular inspection and cleaning are both required to keep equipment safe and sanitary."
+  },
+  {
+    "q": "Single-use items (such as disposable table paper or a wooden applicator used to scoop from a jar) are used primarily to:",
+    "options": [
+      "Save money over time",
+      "Reduce the risk of cross-contamination between clients",
+      "Make cleanup faster",
+      "Provide a more luxurious experience"
+    ],
+    "answer": 1,
+    "explanation": "Single-use/disposable items reduce cross-contamination risk since they only ever touch one client."
+  },
+  {
+    "q": "Extension cords for equipment like heating pads or massage chairs should be:",
+    "options": [
+      "Run across walkways for convenience",
+      "Kept away from walkways and in good repair to prevent tripping and electrical hazards",
+      "Left frayed if still functional",
+      "Coiled tightly under the massage table without inspection"
+    ],
+    "answer": 1,
+    "explanation": "Cords should avoid walkways and be inspected for damage as part of facility safety practices."
+  },
+  {
+    "q": "A therapist's supply of clean linens should be stored:",
+    "options": [
+      "Together with used/soiled linens to save space",
+      "Separately from soiled linens, in a clean, covered area",
+      "In an open bin next to the trash",
+      "It doesn't matter as long as they're laundered eventually"
+    ],
+    "answer": 1,
+    "explanation": "Clean and soiled linens must be stored separately to prevent recontamination of clean supplies."
+  },
+  {
+    "q": "Which of the following is an appropriate personal hygiene practice for a massage therapist?",
+    "options": [
+      "Wearing long, decorative fingernails for a polished look",
+      "Keeping fingernails short and trimmed",
+      "Wearing strong perfume or cologne to mask odors",
+      "Skipping handwashing if hands appear clean"
+    ],
+    "answer": 1,
+    "explanation": "Short, trimmed nails prevent scratching clients and reduce places where pathogens can collect."
+  },
+  {
+    "q": "Why should a massage therapist avoid wearing strong perfume or cologne during sessions?",
+    "options": [
+      "It has no real impact on the client",
+      "Clients may have allergies or sensitivities and could find strong scents unpleasant or triggering",
+      "It's required by law in every state",
+      "It improves the therapeutic effect of the massage"
+    ],
+    "answer": 1,
+    "explanation": "Strong scents can trigger allergies, migraines, or general discomfort, so therapists typically minimize fragrance."
+  },
+  {
+    "q": "A therapist has a small open cut on their hand. Appropriate protocol is to:",
+    "options": [
+      "Continue working with no changes",
+      "Cover the cut with a bandage, and glove if contact risk remains, before working",
+      "Only work on unaffected body areas without covering it",
+      "Cancel all appointments for the week"
+    ],
+    "answer": 1,
+    "explanation": "Open cuts should be covered (bandage, and glove if needed) to protect both therapist and client."
+  },
+  {
+    "q": "If a massage therapist develops a contagious illness (e.g., a bad cold or flu), the appropriate action is to:",
+    "options": [
+      "Work as normal since massage doesn't involve close contact",
+      "Reschedule appointments until no longer contagious",
+      "Wear a mask and continue without informing anyone",
+      "Only cancel sessions with elderly clients"
+    ],
+    "answer": 1,
+    "explanation": "A contagious therapist should reschedule sessions to protect client health, similar to a client being asked to reschedule if ill."
+  },
+  {
+    "q": "Which of these is a recommended hygiene practice for a massage therapist's hair during sessions?",
+    "options": [
+      "Leaving long hair loose and unrestrained",
+      "Tying back long hair to keep it away from the client and work surfaces",
+      "Wearing a hat that isn't washed regularly",
+      "Hair hygiene has no bearing on sanitation"
+    ],
+    "answer": 1,
+    "explanation": "Hair should be secured/tied back so it doesn't fall on the client or contaminate surfaces."
+  },
+  {
+    "q": "Jewelry worn by a massage therapist during a session should generally be:",
+    "options": [
+      "As elaborate as possible for a professional look",
+      "Minimal or removed, especially rings/bracelets that could scratch a client or harbor bacteria",
+      "Required, for a personal touch",
+      "Left on regardless of size or sharpness"
+    ],
+    "answer": 1,
+    "explanation": "Minimal jewelry reduces the risk of scratching clients and limits surfaces where bacteria can accumulate."
+  },
+  {
+    "q": "Before and after every session, a massage therapist should wash hands using:",
+    "options": [
+      "Hand sanitizer only, regardless of visible soiling",
+      "Soap and water, especially when hands are visibly soiled, using sanitizer as a supplement when handwashing isn't available",
+      "Cold water only, no soap needed",
+      "A single hand wipe shared between clients"
+    ],
+    "answer": 1,
+    "explanation": "Soap and water is the gold standard, especially for visibly soiled hands; hand sanitizer is a supplement, not a full replacement."
+  },
+  {
+    "q": "A therapist wearing a uniform with visible stains from a previous client would be a violation of:",
+    "options": [
+      "No rule — appearance doesn't matter",
+      "Practitioner hygiene standards, since clean attire is expected for every session",
+      "Only a concern if the client complains",
+      "A minor issue with no sanitation impact"
+    ],
+    "answer": 1,
+    "explanation": "Clean, appropriate attire for every session is part of practitioner hygiene standards."
+  },
+  {
+    "q": "For disinfecting a massage table between clients, a therapist should use:",
+    "options": [
+      "Plain water only",
+      "An appropriate disinfectant effective against relevant pathogens, applied per label instructions",
+      "Whatever cleaner is on hand, without following instructions",
+      "Air freshener spray"
+    ],
+    "answer": 1,
+    "explanation": "An appropriate registered disinfectant used per its label instructions (including contact time) is required for effective disinfection."
+  },
+  {
+    "q": "\"Contact time\" for a disinfectant refers to:",
+    "options": [
+      "How long the client is in contact with the table",
+      "The amount of time the disinfectant must remain wet on a surface to kill pathogens effectively",
+      "How long a bottle of disinfectant lasts before expiring",
+      "The time it takes to wipe down a surface"
+    ],
+    "answer": 1,
+    "explanation": "Contact time is the minimum time a disinfectant needs to stay wet on a surface to be effective — wiping it off too soon reduces effectiveness."
+  },
+  {
+    "q": "Linens should be laundered using:",
+    "options": [
+      "Cold water only, regardless of soil level",
+      "Hot water and detergent appropriate to kill pathogens, per standard laundering guidelines",
+      "No detergent, just water",
+      "Air-drying without washing between uses"
+    ],
+    "answer": 1,
+    "explanation": "Proper laundering (hot water/appropriate detergent) helps ensure linens are sanitary for the next client."
+  },
+  {
+    "q": "If a client has athlete's foot (a fungal infection) and receives a foot massage, which sanitation step is especially important afterward?",
+    "options": [
+      "No special steps are needed",
+      "Disinfecting any surfaces or tools that contacted the affected area",
+      "Only washing your hands the next day",
+      "Using the same towel for the next client's feet"
+    ],
+    "answer": 1,
+    "explanation": "Fungal infections can spread via contaminated surfaces, so thorough disinfection of contacted surfaces/tools is important."
+  },
+  {
+    "q": "A face cradle cover should be changed:",
+    "options": [
+      "Once per day regardless of number of clients",
+      "For every individual client",
+      "Only if visibly soiled",
+      "Only for new clients"
+    ],
+    "answer": 1,
+    "explanation": "Like table linens, face cradle covers must be changed for every client, not just when visibly dirty."
+  },
+  {
+    "q": "Which best describes why hand sanitizer alone is not always sufficient for hand hygiene?",
+    "options": [
+      "It kills too many pathogens",
+      "It is less effective on visibly soiled or greasy hands compared to soap and water",
+      "It takes too long to dry",
+      "It's more expensive than soap"
+    ],
+    "answer": 1,
+    "explanation": "Hand sanitizer is less effective when hands are visibly dirty or greasy (e.g., from oils) — soap and water is needed in that case."
+  },
+  {
+    "q": "Massage therapy rooms and common areas should be cleaned:",
+    "options": [
+      "Only at the end of each week",
+      "Regularly, including surfaces, floors, and high-touch areas like doorknobs",
+      "Only if a client complains",
+      "Never, since deep cleaning damages equipment"
+    ],
+    "answer": 1,
+    "explanation": "Regular cleaning of rooms and common areas (not just the table) supports overall sanitation."
+  },
+  {
+    "q": "Why is proper sanitation described as a legal requirement rather than just professional courtesy?",
+    "options": [
+      "It isn't actually regulated anywhere",
+      "Regulatory bodies can take licensing action for sanitation violations, since they protect public health",
+      "It's only a courtesy with no formal consequences",
+      "Sanitation rules only apply to spas, not independent practitioners"
+    ],
+    "answer": 1,
+    "explanation": "Sanitation is regulated by licensing boards/health codes; violations can carry real licensing consequences."
+  },
+  {
+    "q": "A therapist notices a mold or mildew smell in the room where clean linens are stored. The appropriate response is to:",
+    "options": [
+      "Ignore it if the linens look clean",
+      "Address the mold/mildew issue immediately, since it can contaminate stored linens",
+      "Only address it if a client notices",
+      "Spray air freshener over the linens"
+    ],
+    "answer": 1,
+    "explanation": "Mold/mildew in a storage area can contaminate clean linens and must be addressed directly, not masked."
+  },
+  {
+    "q": "A pregnant client in her third trimester is preparing for a session. Which positioning is generally safest?",
+    "options": [
+      "Prone (face-down) positioning for the full session",
+      "Side-lying position, often with supportive bolsters",
+      "Supine (face-up) positioning for the full session",
+      "Standing throughout the session"
+    ],
+    "answer": 1,
+    "explanation": "Side-lying position, well supported with bolsters, is generally the safest option for pregnant clients, especially later in pregnancy, avoiding prolonged prone or supine positioning."
+  },
+  {
+    "q": "Which of the following best supports facility safety in a massage practice?",
+    "options": [
+      "Cluttered walkways to save storage space",
+      "Clear walkways, adequate lighting, and accessible emergency exits",
+      "Dim lighting to enhance ambiance regardless of tripping hazards",
+      "Locking all exits during business hours"
+    ],
+    "answer": 1,
+    "explanation": "Clear walkways, good lighting, and accessible exits are basic facility safety requirements."
+  },
+  {
+    "q": "A massage table with a loose or wobbly leg should be:",
+    "options": [
+      "Used carefully until it becomes a bigger problem",
+      "Taken out of service and repaired before use",
+      "Propped up with a folded towel and used as normal",
+      "Only used for lighter clients"
+    ],
+    "answer": 1,
+    "explanation": "Unstable equipment is a safety hazard and should be repaired before continued use, not patched temporarily."
+  },
+  {
+    "q": "A first aid kit in a massage practice is an example of:",
+    "options": [
+      "An unnecessary expense",
+      "A basic facility safety measure for handling minor injuries or emergencies",
+      "Something only required in medical offices",
+      "A marketing tool"
+    ],
+    "answer": 1,
+    "explanation": "A first aid kit is a standard facility safety measure to handle minor injuries or emergencies on-site."
+  },
+  {
+    "q": "When helping an elderly or mobility-limited client get on and off the massage table, the therapist should:",
+    "options": [
+      "Let the client manage entirely on their own regardless of visible difficulty",
+      "Offer physical assistance and use a step stool if needed, for client safety",
+      "Rush the process to save time",
+      "Avoid physical contact even if the client is at risk of falling"
+    ],
+    "answer": 1,
+    "explanation": "Offering appropriate assistance (and tools like a step stool) protects client safety when getting on/off the table."
+  },
+  {
+    "q": "A step stool used to help clients onto a high massage table should be:",
+    "options": [
+      "Placed loosely wherever convenient",
+      "Stable, non-slip, and properly positioned to prevent falls",
+      "Optional even if the table is unusually high",
+      "Used only for pediatric clients"
+    ],
+    "answer": 1,
+    "explanation": "A stable, non-slip step stool properly positioned reduces fall risk for clients getting on/off a table."
+  },
+  {
+    "q": "Before applying an unfamiliar essential oil or lotion, it's good safety practice to:",
+    "options": [
+      "Apply it liberally over the whole body first",
+      "Ask about known allergies and consider a small patch test if there's uncertainty",
+      "Assume all natural products are safe for everyone",
+      "Skip asking, since allergies are rare"
+    ],
+    "answer": 1,
+    "explanation": "Asking about allergies and patch-testing unfamiliar products helps prevent adverse reactions."
+  },
+  {
+    "q": "A client mentions feeling light-headed or faint after standing up post-session. The therapist should:",
+    "options": [
+      "Let the client leave immediately without further attention",
+      "Have the client sit or lie back down and monitor them until it passes",
+      "Tell them it's normal and end the interaction",
+      "Give them a beverage with caffeine to perk them up"
+    ],
+    "answer": 1,
+    "explanation": "A client feeling faint should be monitored (sitting/lying down) rather than left to leave immediately, for their safety."
+  },
+  {
+    "q": "Which of these is an example of proper practitioner safety, not just client safety?",
+    "options": [
+      "Sanitizing the table between clients",
+      "Using proper body mechanics to avoid injury while performing techniques",
+      "Draping the client appropriately",
+      "Keeping accurate SOAP notes"
+    ],
+    "answer": 1,
+    "explanation": "Proper body mechanics primarily protects the therapist from injury, distinct from client-focused safety measures."
+  },
+  {
+    "q": "Room temperature during a massage session should generally be:",
+    "options": [
+      "As cold as possible to keep the therapist alert",
+      "Comfortably warm, since an undressed, still client can get cold quickly",
+      "Irrelevant to the session",
+      "Set only according to the therapist's preference"
+    ],
+    "answer": 1,
+    "explanation": "Room temperature should be kept comfortably warm because an undressed, relaxed client cools down more easily than an active person."
+  },
+  {
+    "q": "A massage practice should have accessible emergency contact information because:",
+    "options": [
+      "It is decorative and improves the waiting room aesthetic",
+      "It allows a fast, appropriate response in the event of a medical emergency during a session",
+      "It's only useful for billing",
+      "It's required only for group practices, not solo practitioners"
+    ],
+    "answer": 1,
+    "explanation": "Ready emergency contact information supports a fast, appropriate response if a medical emergency occurs."
+  },
+  {
+    "q": "Which best reflects appropriate safety practice for electrical equipment like heating pads or massage chairs used in a treatment room?",
+    "options": [
+      "Using any equipment regardless of visible damage",
+      "Regularly inspecting cords and equipment for damage and following manufacturer safety guidelines",
+      "Leaving equipment plugged in and unattended overnight without concern",
+      "Ignoring manufacturer instructions if they slow down the session"
+    ],
+    "answer": 1,
+    "explanation": "Electrical equipment should be inspected regularly and used according to manufacturer safety guidelines."
+  },
+  {
+    "q": "A therapist notices the treatment room floor is slippery from spilled oil. The correct response is to:",
+    "options": [
+      "Leave it, since clients rarely notice",
+      "Clean it up immediately to prevent a slip-and-fall hazard",
+      "Place a small sign and continue without cleaning",
+      "Wait until the end of the day to clean it"
+    ],
+    "answer": 1,
+    "explanation": "Spilled oil on the floor is an immediate slip hazard and should be cleaned right away."
+  },
+  {
+    "q": "Good body mechanics during massage generally involve:",
+    "options": [
+      "Using isolated finger/wrist strength for most pressure",
+      "Using body weight and larger muscle groups (legs, core) to generate pressure",
+      "Standing as far from the table as possible",
+      "Keeping the back rounded throughout the session"
+    ],
+    "answer": 1,
+    "explanation": "Proper body mechanics use body weight and larger muscle groups rather than relying on small joints like fingers/wrists, reducing injury risk."
+  },
+  {
+    "q": "Which of the following best reflects proper wrist positioning during massage strokes?",
+    "options": [
+      "Wrists sharply flexed or hyperextended for deeper pressure",
+      "Wrists kept in a relatively neutral position to avoid strain",
+      "Wrists locked rigidly straight at all times",
+      "Wrist position has no bearing on injury risk"
+    ],
+    "answer": 1,
+    "explanation": "A neutral wrist position reduces strain and lowers the risk of repetitive strain injuries like carpal tunnel syndrome."
+  },
+  {
+    "q": "The table height for most massage work should generally allow the therapist to:",
+    "options": [
+      "Reach comfortably with a relatively straight back, using body weight rather than excessive bending",
+      "Always work with the table as low as possible",
+      "Always work with the table as high as possible",
+      "Adjust the table only for taller clients"
+    ],
+    "answer": 0,
+    "explanation": "Table height should let the therapist use body weight and leverage efficiently, avoiding excessive bending or reaching."
+  },
+  {
+    "q": "Why is varying strokes and hand positions throughout a session recommended for the therapist's own health?",
+    "options": [
+      "It has no real benefit",
+      "It reduces repetitive strain on the same joints/muscles over time",
+      "It makes the session less effective",
+      "It slows the therapist down unnecessarily"
+    ],
+    "answer": 1,
+    "explanation": "Varying strokes/hand positions reduces cumulative repetitive strain injury risk for the therapist over a career."
+  },
+  {
+    "q": "A common repetitive strain injury risk for massage therapists, especially with poor body mechanics, is:",
+    "options": [
+      "Carpal tunnel syndrome",
+      "Athlete's foot",
+      "Migraine",
+      "Seasonal allergies"
+    ],
+    "answer": 0,
+    "explanation": "Carpal tunnel syndrome is a common repetitive strain injury among massage therapists due to repeated wrist stress."
+  },
+  {
+    "q": "Which best describes why therapist self-care (exercise, stretching, adequate rest) is emphasized in professional training?",
+    "options": [
+      "It's unrelated to job performance",
+      "It helps sustain a long, injury-free career providing quality care",
+      "It's only relevant to athletes, not massage therapists",
+      "It has no connection to client safety"
+    ],
+    "answer": 1,
+    "explanation": "Self-care supports the physical demands of the job and helps therapists avoid injury over a long career."
+  },
+  {
+    "q": "Scheduling too many back-to-back sessions without breaks primarily risks:",
+    "options": [
+      "Improved efficiency with no downside",
+      "Therapist fatigue and increased injury risk from cumulative strain",
+      "Better client outcomes",
+      "Reduced need for body mechanics"
+    ],
+    "answer": 1,
+    "explanation": "Overloading a schedule without breaks increases fatigue and cumulative strain injury risk for the therapist."
+  },
+  {
+    "q": "Personal protective equipment (PPE) for a massage therapist most commonly includes:",
+    "options": [
+      "A hard hat",
+      "Gloves, and a mask when appropriate (e.g., illness risk or open wounds)",
+      "Steel-toed boots",
+      "Ear protection"
+    ],
+    "answer": 1,
+    "explanation": "Gloves (and sometimes masks) are the most relevant PPE for massage therapists, used when there's contact or airborne risk."
+  },
+  {
+    "q": "A therapist should consider wearing a mask during a session primarily when:",
+    "options": [
+      "The client requests background music",
+      "There's a respiratory illness risk to either party",
+      "The room temperature is warm",
+      "The client is a first-time visitor"
+    ],
+    "answer": 1,
+    "explanation": "Masks are used primarily to reduce respiratory illness transmission risk, not for unrelated reasons."
+  },
+  {
+    "q": "Which best describes the relationship between proper body mechanics and career longevity?",
+    "options": [
+      "There's no connection between the two",
+      "Poor body mechanics increases cumulative injury risk, which can shorten a therapist's working career",
+      "Body mechanics only matter for very physically demanding modalities",
+      "Career longevity depends solely on marketing skill"
+    ],
+    "answer": 1,
+    "explanation": "Poor body mechanics leads to cumulative strain and injury that can shorten a therapist's professional working life."
+  },
+  {
+    "q": "An \"archer stance\" or \"horse stance\" used by massage therapists is intended to:",
+    "options": [
+      "Improve the aesthetic appearance of the massage",
+      "Provide a stable base to transfer body weight efficiently into strokes",
+      "Make it easier to reach tall clients only",
+      "Reduce the need for draping"
+    ],
+    "answer": 1,
+    "explanation": "These stances give the therapist a stable base to generate pressure from body weight rather than isolated muscle effort."
+  },
+  {
+    "q": "Stretching and warming up before a full day of sessions primarily helps a therapist:",
+    "options": [
+      "Impress clients with visible flexibility",
+      "Prepare muscles and joints for repetitive physical demands, reducing injury risk",
+      "Save time later in the day",
+      "Reduce the need for proper draping"
+    ],
+    "answer": 1,
+    "explanation": "Pre-shift stretching/warm-up helps prepare the body for repetitive physical work and reduces injury risk."
+  },
+  {
+    "q": "The primary purpose of draping during a massage session is to:",
+    "options": [
+      "Keep the room looking tidy",
+      "Protect client privacy, dignity, and warmth while allowing access to the area being worked on",
+      "Reduce the amount of lubricant needed",
+      "Speed up the session"
+    ],
+    "answer": 1,
+    "explanation": "Draping protects the client's privacy, dignity, and comfort while still allowing the therapist to work."
+  },
+  {
+    "q": "Standard draping practice generally means:",
+    "options": [
+      "The entire body is undraped throughout the session for full access",
+      "Only the area currently being worked on is undraped, with the rest of the body covered",
+      "Draping is optional based on client preference alone",
+      "Draping is only required for female clients"
+    ],
+    "answer": 1,
+    "explanation": "Only the specific area being worked on should be exposed at any time, with the rest of the body draped."
+  },
+  {
+    "q": "In most jurisdictions, which areas must remain draped at all times during a general massage session (absent a specific, consented, and appropriately trained exception)?",
+    "options": [
+      "The back and shoulders",
+      "The genitals and, for female clients, the breasts",
+      "The forearms",
+      "The scalp"
+    ],
+    "answer": 1,
+    "explanation": "Genitals (and breasts for female clients) are standard areas that remain draped throughout a general massage session."
+  },
+  {
+    "q": "When undraping a limb to work on it, proper technique involves:",
+    "options": [
+      "Removing the drape from the entire body at once",
+      "Undraping only that limb while keeping the rest of the body covered",
+      "Asking the client to remove the drape themselves each time",
+      "Skipping communication about what's happening"
+    ],
+    "answer": 1,
+    "explanation": "Proper draping technique exposes only the limb/area being worked on, communicated clearly to the client."
+  },
+  {
+    "q": "Communicating with a client during draping (e.g., \"I'm going to uncover your leg now\") primarily supports:",
+    "options": [
+      "Filling silence during the session",
+      "Ongoing informed consent and client comfort",
+      "Faster session pacing",
+      "Reducing the need for a health history form"
+    ],
+    "answer": 1,
+    "explanation": "Clear communication about draping supports the client's ongoing consent and comfort throughout the session."
+  },
+  {
+    "q": "If a client's drape shifts unexpectedly and exposes an area that should remain covered, the therapist should:",
+    "options": [
+      "Ignore it to avoid drawing attention",
+      "Promptly and professionally readjust the drape",
+      "Ask the client to fix it mid-technique",
+      "Continue and address it only if the client complains"
+    ],
+    "answer": 1,
+    "explanation": "The therapist is responsible for promptly and professionally correcting any unintended drape shift."
+  },
+  {
+    "q": "Draping technique typically differs based on client position because:",
+    "options": [
+      "It doesn't actually differ",
+      "Supine, prone, and side-lying positions each require different tucking/securing methods to maintain coverage",
+      "Only prone position requires draping",
+      "Side-lying clients don't need draping"
+    ],
+    "answer": 1,
+    "explanation": "Each position (supine, prone, side-lying) has different draping methods to keep the client secure and covered."
+  },
+  {
+    "q": "Why is proper draping considered both an ethical and a legal matter in many jurisdictions?",
+    "options": [
+      "It has no legal basis, only tradition",
+      "Draping requirements are often written into state massage regulations, and violations can affect licensure",
+      "It only affects the therapist's personal comfort",
+      "It's solely an aesthetic choice"
+    ],
+    "answer": 1,
+    "explanation": "Draping requirements are frequently codified in state regulations, making them a licensing/legal matter, not just a courtesy."
+  },
+  {
+    "q": "A client requests a modification to standard draping for religious or cultural reasons. An appropriate response is to:",
+    "options": [
+      "Deny the request outright",
+      "Reasonably accommodate the request while still maintaining safety and professional standards",
+      "Cancel the appointment",
+      "Ignore the request and proceed with standard draping"
+    ],
+    "answer": 1,
+    "explanation": "Reasonable accommodation of cultural/religious needs, within safety and professional bounds, reflects client-centered, respectful care."
+  },
+  {
+    "q": "Securing a drape snugly (tucking it) around a client is intended to:",
+    "options": [
+      "Make the client feel restrained",
+      "Keep the client covered and the drape from shifting or falling during movement",
+      "Save on laundry costs",
+      "Speed up the session"
+    ],
+    "answer": 1,
+    "explanation": "Snug, secure tucking keeps the drape in place as the client or body part moves during the session."
+  },
+  {
+    "q": "A basic business plan for a massage practice typically includes:",
+    "options": [
+      "Only a list of massage techniques offered",
+      "A description of services, target market, pricing, and financial projections",
+      "Only the therapist's personal biography",
+      "Only a list of state licensing requirements"
+    ],
+    "answer": 1,
+    "explanation": "A business plan typically covers services, target market, pricing/financials, and strategy, not just techniques offered."
+  },
+  {
+    "q": "Identifying a practice's \"target market\" refers to:",
+    "options": [
+      "The geographic location of the business only",
+      "The specific group of clients the business aims to attract and serve",
+      "The tax bracket of the business owner",
+      "The types of massage tables purchased"
+    ],
+    "answer": 1,
+    "explanation": "Target market means the specific client population a business is designed to attract and serve."
+  },
+  {
+    "q": "Which of the following is an example of a business expense for a massage practice?",
+    "options": [
+      "The therapist's personal grocery bill",
+      "Rent, linen service, and liability insurance premiums",
+      "A client's personal medical bills",
+      "A client's tip to the therapist"
+    ],
+    "answer": 1,
+    "explanation": "Rent, linens, and insurance are recurring costs of operating the business — classic business expenses."
+  },
+  {
+    "q": "A sole proprietorship, as a business structure, generally means:",
+    "options": [
+      "The business is legally separate from the owner's personal assets in every way",
+      "The business and owner are legally the same entity, with the owner personally liable for business debts",
+      "The business must have at least two owners",
+      "The business cannot hire employees"
+    ],
+    "answer": 1,
+    "explanation": "In a sole proprietorship, there's no legal separation between the owner and the business — the owner is personally liable."
+  },
+  {
+    "q": "Forming an LLC (limited liability company) for a massage practice is often chosen primarily to:",
+    "options": [
+      "Avoid all forms of taxation",
+      "Provide some legal separation between personal assets and business liabilities",
+      "Eliminate the need for liability insurance",
+      "Avoid the need for a business license"
+    ],
+    "answer": 1,
+    "explanation": "An LLC structure helps separate personal assets from business liability, though it doesn't eliminate the need for insurance or licensing."
+  },
+  {
+    "q": "A cancellation policy in a massage practice primarily serves to:",
+    "options": [
+      "Punish clients unnecessarily",
+      "Set clear expectations and protect the business from lost income due to late cancellations/no-shows",
+      "Increase client anxiety",
+      "Replace the need for a health history form"
+    ],
+    "answer": 1,
+    "explanation": "Cancellation policies protect business income and set clear, professional expectations with clients."
+  },
+  {
+    "q": "Marketing claims for a massage practice must be:",
+    "options": [
+      "As persuasive as possible, regardless of accuracy",
+      "Honest and supportable, avoiding promises massage cannot reliably deliver",
+      "Left entirely to the therapist's discretion with no oversight",
+      "Focused only on price discounts"
+    ],
+    "answer": 1,
+    "explanation": "Marketing must be truthful and not overpromise outcomes, both for ethics and legal advertising standards."
+  },
+  {
+    "q": "When interviewing a potential employee or contractor for a massage practice, the interviewer should focus on:",
+    "options": [
+      "Personal questions unrelated to job qualifications",
+      "Relevant qualifications, licensure status, and professional fit",
+      "Only the candidate's personal social media presence",
+      "Whether the candidate agrees to work for free initially"
+    ],
+    "answer": 1,
+    "explanation": "Hiring interviews should focus on qualifications, licensure, and professional fit — not irrelevant personal details."
+  },
+  {
+    "q": "Verifying a candidate's massage therapy license before hiring is important because:",
+    "options": [
+      "It's optional and rarely checked",
+      "Practicing without a valid license is illegal, and hiring an unlicensed therapist creates legal risk for the business",
+      "Licenses don't need to be current, only obtained once",
+      "It only matters in some states"
+    ],
+    "answer": 1,
+    "explanation": "Verifying current, valid licensure protects the business from legal risk associated with employing someone practicing illegally."
+  },
+  {
+    "q": "Business records that should be maintained for a massage practice typically include:",
+    "options": [
+      "Only client SOAP notes",
+      "Financial records (income/expenses), appointment logs, and relevant licensing/insurance documentation",
+      "Only marketing materials",
+      "No records are legally required"
+    ],
+    "answer": 1,
+    "explanation": "Sound business record-keeping includes financial, scheduling, and compliance documentation, not just clinical notes."
+  },
+  {
+    "q": "Which of these best reflects sound office management practice for a massage business?",
+    "options": [
+      "No system for scheduling or tracking appointments",
+      "A consistent system for scheduling, record-keeping, and client communication",
+      "Keeping all records only in memory",
+      "Allowing walk-ins to bypass intake procedures entirely"
+    ],
+    "answer": 1,
+    "explanation": "Consistent, organized systems for scheduling and records support smooth, professional operations."
+  },
+  {
+    "q": "Strategic planning for a massage business, as distinct from day-to-day office management, focuses on:",
+    "options": [
+      "Daily appointment scheduling only",
+      "Long-term goals, growth direction, and how the business will adapt over time",
+      "Cleaning the treatment room",
+      "Answering the phone"
+    ],
+    "answer": 1,
+    "explanation": "Strategic planning addresses long-term direction and growth, distinct from routine daily operations."
+  },
+  {
+    "q": "Maintaining professional liability insurance for a massage practice primarily protects against:",
+    "options": [
+      "Loss of office supplies",
+      "Financial risk from claims related to professional services provided",
+      "Increases in rent",
+      "Marketing costs"
+    ],
+    "answer": 1,
+    "explanation": "Professional liability (malpractice) insurance covers financial risk tied to claims about the services provided."
+  },
+  {
+    "q": "A therapist advertises \"guaranteed pain relief in one session\" for every client. This is problematic because:",
+    "options": [
+      "It's an example of ideal, ethical marketing",
+      "It makes an unsupportable guarantee that massage cannot reliably deliver for every client",
+      "It's illegal only if a client complains",
+      "It has no bearing on licensing"
+    ],
+    "answer": 1,
+    "explanation": "Guaranteeing a specific outcome for every client is an unsupportable claim and violates ethical advertising standards."
+  },
+  {
+    "q": "In business terms, \"overhead\" refers to:",
+    "options": [
+      "The income generated directly from client sessions",
+      "The ongoing operating costs of running a business (rent, utilities, supplies, etc.)",
+      "A type of massage stroke",
+      "A client's insurance coverage"
+    ],
+    "answer": 1,
+    "explanation": "Overhead is the ongoing cost of operating a business, distinct from direct service income."
+  },
+  {
+    "q": "The difference between an \"independent contractor\" and an \"employee\" in a massage practice primarily relates to:",
+    "options": [
+      "How many clients each sees per week",
+      "The degree of control the business has over how, when, and where the work is performed",
+      "Whether they wear a uniform",
+      "Whether they are licensed"
+    ],
+    "answer": 1,
+    "explanation": "Employment classification hinges largely on the degree of control the business exercises over the worker's schedule, methods, and tools."
+  },
+  {
+    "q": "A \"W-2\" form in the United States is associated with:",
+    "options": [
+      "An independent contractor's business license",
+      "An employee's wage and tax reporting from their employer",
+      "A client's health history form",
+      "A massage therapy license renewal"
+    ],
+    "answer": 1,
+    "explanation": "A W-2 is the standard US tax form employers issue to report employee wages and withheld taxes."
+  },
+  {
+    "q": "A \"1099\" form in the United States is typically associated with:",
+    "options": [
+      "Employee wages",
+      "Payments made to independent contractors",
+      "A client's informed consent",
+      "A massage school diploma"
+    ],
+    "answer": 1,
+    "explanation": "A 1099 form is used to report payments made to independent contractors, as opposed to employee wages (W-2)."
+  },
+  {
+    "q": "\"Net profit\" for a massage business refers to:",
+    "options": [
+      "Total income before any expenses are subtracted",
+      "Total income remaining after all business expenses are subtracted",
+      "The number of clients seen in a month",
+      "The price of a single session"
+    ],
+    "answer": 1,
+    "explanation": "Net profit is what remains after subtracting business expenses from total revenue (gross income)."
+  },
+  {
+    "q": "A \"referral network\" in massage practice terminology refers to:",
+    "options": [
+      "A list of banned techniques",
+      "A group of professionals (e.g., physicians, chiropractors) who refer clients to and from the therapist",
+      "A type of massage stroke",
+      "A billing software system"
+    ],
+    "answer": 1,
+    "explanation": "A referral network is a group of professional contacts that mutually refer clients, supporting practice growth and appropriate client care."
   }
 ]

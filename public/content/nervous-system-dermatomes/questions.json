@@ -1,122 +1,1102 @@
 [
   {
     "q": "The brain and spinal cord together make up the:",
-    "options": ["Peripheral nervous system", "Central nervous system", "Autonomic nervous system", "Somatic nervous system"],
+    "options": [
+      "Peripheral nervous system",
+      "Central nervous system",
+      "Autonomic nervous system",
+      "Somatic nervous system"
+    ],
     "answer": 1,
     "explanation": "The CNS consists of the brain and spinal cord."
   },
   {
     "q": "Which nervous system division controls voluntary skeletal muscle movement?",
-    "options": ["Autonomic", "Somatic", "Sympathetic only", "Parasympathetic only"],
+    "options": [
+      "Autonomic",
+      "Somatic",
+      "Sympathetic only",
+      "Parasympathetic only"
+    ],
     "answer": 1,
     "explanation": "The somatic nervous system controls voluntary movement."
   },
   {
     "q": "Which branch of the autonomic nervous system is associated with 'fight or flight'?",
-    "options": ["Parasympathetic", "Somatic", "Sympathetic", "Sensory"],
+    "options": [
+      "Parasympathetic",
+      "Somatic",
+      "Sympathetic",
+      "Sensory"
+    ],
     "answer": 2,
     "explanation": "The sympathetic branch activates the fight-or-flight response."
   },
   {
     "q": "Which branch of the autonomic nervous system promotes relaxation and digestion?",
-    "options": ["Sympathetic", "Parasympathetic", "Somatic", "Motor"],
+    "options": [
+      "Sympathetic",
+      "Parasympathetic",
+      "Somatic",
+      "Motor"
+    ],
     "answer": 1,
     "explanation": "The parasympathetic branch handles 'rest and digest' functions."
   },
   {
     "q": "A therapist uses slow, rhythmic effleurage throughout a session. This is most likely to promote:",
-    "options": ["Sympathetic activation", "Parasympathetic activation", "No nervous system effect", "Only muscular effects, no nervous system involvement"],
+    "options": [
+      "Sympathetic activation",
+      "Parasympathetic activation",
+      "No nervous system effect",
+      "Only muscular effects, no nervous system involvement"
+    ],
     "answer": 1,
     "explanation": "Slow, rhythmic techniques tend to shift clients toward parasympathetic (relaxation) dominance."
   },
   {
     "q": "A vigorous tapotement routine at the end of a sports massage is more likely to promote:",
-    "options": ["Sympathetic activation", "Parasympathetic activation", "Complete sedation", "No physiological response"],
+    "options": [
+      "Sympathetic activation",
+      "Parasympathetic activation",
+      "Complete sedation",
+      "No physiological response"
+    ],
     "answer": 0,
     "explanation": "Fast, stimulating tapotement tends to activate the sympathetic ('fight or flight') system."
   },
   {
     "q": "A neuron that carries information FROM the body TOWARD the CNS is called a:",
-    "options": ["Motor neuron", "Sensory neuron", "Interneuron only", "Autonomic neuron"],
+    "options": [
+      "Motor neuron",
+      "Sensory neuron",
+      "Interneuron only",
+      "Autonomic neuron"
+    ],
     "answer": 1,
     "explanation": "Sensory (afferent) neurons carry input from the body to the CNS."
   },
   {
     "q": "A neuron that carries commands FROM the CNS TO the body is called a:",
-    "options": ["Sensory neuron", "Motor neuron", "Afferent neuron", "Dermatome neuron"],
+    "options": [
+      "Sensory neuron",
+      "Motor neuron",
+      "Afferent neuron",
+      "Dermatome neuron"
+    ],
     "answer": 1,
     "explanation": "Motor (efferent) neurons carry output from the CNS to the body."
   },
   {
     "q": "Pulling your hand away from a hot stove without conscious thought is an example of a:",
-    "options": ["Voluntary action", "Reflex", "Sympathetic override", "Dermatome response"],
+    "options": [
+      "Voluntary action",
+      "Reflex",
+      "Sympathetic override",
+      "Dermatome response"
+    ],
     "answer": 1,
     "explanation": "This automatic, involuntary response is a reflex."
   },
   {
     "q": "Which receptor type primarily responds to pressure and skin displacement — the main receptor category massage stimulates?",
-    "options": ["Nociceptors", "Mechanoreceptors", "Chemoreceptors", "Photoreceptors"],
+    "options": [
+      "Nociceptors",
+      "Mechanoreceptors",
+      "Chemoreceptors",
+      "Photoreceptors"
+    ],
     "answer": 1,
     "explanation": "Mechanoreceptors respond to pressure, vibration, and displacement — key to how massage is sensed."
   },
   {
     "q": "Which receptor type specifically detects pain?",
-    "options": ["Mechanoreceptors", "Proprioceptors", "Nociceptors", "Baroreceptors"],
+    "options": [
+      "Mechanoreceptors",
+      "Proprioceptors",
+      "Nociceptors",
+      "Baroreceptors"
+    ],
     "answer": 2,
     "explanation": "Nociceptors are the receptors responsible for detecting pain."
   },
   {
     "q": "A dermatome is best defined as:",
-    "options": ["A muscle group supplied by one nerve", "A band of skin supplied by sensory fibers from a single spinal nerve root", "A type of connective tissue", "A joint classification"],
+    "options": [
+      "A muscle group supplied by one nerve",
+      "A band of skin supplied by sensory fibers from a single spinal nerve root",
+      "A type of connective tissue",
+      "A joint classification"
+    ],
     "answer": 1,
     "explanation": "A dermatome is a skin area supplied by one spinal nerve root."
   },
   {
     "q": "A client reports tingling that follows a specific band pattern down the arm. This pattern is most useful for identifying:",
-    "options": ["A local muscle strain only", "A possible spinal nerve root issue", "Random unrelated symptoms", "A digestive problem"],
+    "options": [
+      "A local muscle strain only",
+      "A possible spinal nerve root issue",
+      "Random unrelated symptoms",
+      "A digestive problem"
+    ],
     "answer": 1,
     "explanation": "Symptoms following a dermatome pattern suggest a possible nerve root issue rather than a purely muscular one."
   },
   {
     "q": "Why might a therapist refer a client whose pain follows a clear dermatome pattern?",
-    "options": ["Because dermatome patterns are never clinically relevant", "Because it may indicate a neurological issue outside massage scope of practice", "Because it always means the client is exaggerating", "Because dermatomes only relate to digestion"],
+    "options": [
+      "Because dermatome patterns are never clinically relevant",
+      "Because it may indicate a neurological issue outside massage scope of practice",
+      "Because it always means the client is exaggerating",
+      "Because dermatomes only relate to digestion"
+    ],
     "answer": 1,
     "explanation": "A dermatome pattern suggests a possible nerve-root problem, which may need medical evaluation beyond massage scope."
   },
   {
     "q": "Proprioceptors are best described as receptors that:",
-    "options": ["Detect pain exclusively", "Sense body position and movement", "Detect light and color", "Only respond to temperature"],
+    "options": [
+      "Detect pain exclusively",
+      "Sense body position and movement",
+      "Detect light and color",
+      "Only respond to temperature"
+    ],
     "answer": 1,
     "explanation": "Proprioceptors provide the sense of body position and movement."
   },
   {
     "q": "Which of the following is an example of the parasympathetic nervous system's effect?",
-    "options": ["Increased heart rate", "Redirected blood flow to muscles for exertion", "Decreased heart rate and promotion of digestion", "Heightened alertness during danger"],
+    "options": [
+      "Increased heart rate",
+      "Redirected blood flow to muscles for exertion",
+      "Decreased heart rate and promotion of digestion",
+      "Heightened alertness during danger"
+    ],
     "answer": 2,
     "explanation": "Decreased heart rate and enhanced digestion are parasympathetic ('rest and digest') effects."
   },
   {
     "q": "The peripheral nervous system (PNS) is best described as:",
-    "options": ["Only the brain", "Only the spinal cord", "All nerves outside the brain and spinal cord", "Only sensory nerves"],
+    "options": [
+      "Only the brain",
+      "Only the spinal cord",
+      "All nerves outside the brain and spinal cord",
+      "Only sensory nerves"
+    ],
     "answer": 2,
     "explanation": "The PNS includes all nerves outside the central nervous system (brain and spinal cord)."
   },
   {
     "q": "Which nervous system division would be most active during a calming, slow-paced relaxation massage session?",
-    "options": ["Sympathetic", "Parasympathetic", "Somatic only", "Neither division is affected"],
+    "options": [
+      "Sympathetic",
+      "Parasympathetic",
+      "Somatic only",
+      "Neither division is affected"
+    ],
     "answer": 1,
     "explanation": "A slow, calming massage tends to promote parasympathetic (relaxation) dominance."
   },
   {
     "q": "Which statement correctly distinguishes CNS from PNS?",
-    "options": ["CNS includes all body nerves; PNS is only the brain", "CNS is the brain and spinal cord; PNS is the nerves connecting CNS to the rest of the body", "CNS and PNS are the same system with different names", "PNS controls only involuntary functions"],
+    "options": [
+      "CNS includes all body nerves; PNS is only the brain",
+      "CNS is the brain and spinal cord; PNS is the nerves connecting CNS to the rest of the body",
+      "CNS and PNS are the same system with different names",
+      "PNS controls only involuntary functions"
+    ],
     "answer": 1,
     "explanation": "CNS = brain + spinal cord; PNS = nerves outside the CNS connecting it to the body."
   },
   {
     "q": "Dermatome maps are clinically useful mainly because they help:",
-    "options": ["Diagnose skin cancer", "Localize a possible spinal nerve root problem based on symptom location", "Determine muscle strength only", "Identify circulatory problems exclusively"],
+    "options": [
+      "Diagnose skin cancer",
+      "Localize a possible spinal nerve root problem based on symptom location",
+      "Determine muscle strength only",
+      "Identify circulatory problems exclusively"
+    ],
     "answer": 1,
     "explanation": "Since each dermatome corresponds to a specific spinal nerve level, symptom patterns can help localize nerve root issues."
+  },
+  {
+    "q": "The three main parts of a typical neuron are the cell body, axon, and:",
+    "options": [
+      "Synapse",
+      "Dendrites",
+      "Myelin only",
+      "Node of Ranvier"
+    ],
+    "answer": 1,
+    "explanation": "A neuron has a cell body (soma), dendrites, and an axon."
+  },
+  {
+    "q": "Dendrites are the neuron structures that:",
+    "options": [
+      "Transmit signals away from the cell body",
+      "Receive incoming signals from other neurons",
+      "Produce myelin",
+      "Store neurotransmitters exclusively"
+    ],
+    "answer": 1,
+    "explanation": "Dendrites receive incoming signals and conduct them toward the cell body."
+  },
+  {
+    "q": "The axon is the neuron structure that:",
+    "options": [
+      "Receives incoming signals",
+      "Transmits electrical signals away from the cell body toward other cells",
+      "Produces cerebrospinal fluid",
+      "Only exists in motor neurons"
+    ],
+    "answer": 1,
+    "explanation": "The axon carries the nerve impulse away from the cell body toward the next neuron or target tissue."
+  },
+  {
+    "q": "The myelin sheath surrounding many axons primarily functions to:",
+    "options": [
+      "Slow down nerve conduction",
+      "Speed up nerve conduction through insulation",
+      "Produce neurotransmitters",
+      "Filter cerebrospinal fluid"
+    ],
+    "answer": 1,
+    "explanation": "Myelin insulates the axon, allowing much faster transmission of nerve impulses."
+  },
+  {
+    "q": "The small gaps in the myelin sheath along an axon, where the nerve impulse 'jumps' from point to point, are called:",
+    "options": [
+      "Synapses",
+      "Nodes of Ranvier",
+      "Dendritic spines",
+      "Ganglia"
+    ],
+    "answer": 1,
+    "explanation": "Nodes of Ranvier are unmyelinated gaps that allow rapid, jumping (saltatory) conduction of the nerve impulse."
+  },
+  {
+    "q": "The junction where a signal passes from one neuron to another (or to a muscle/gland) is called a:",
+    "options": [
+      "Node of Ranvier",
+      "Synapse",
+      "Dendrite",
+      "Ganglion"
+    ],
+    "answer": 1,
+    "explanation": "A synapse is the junction across which neurotransmitters carry a signal from one cell to the next."
+  },
+  {
+    "q": "A chemical messenger released at a synapse to carry a signal to the next cell is called a:",
+    "options": [
+      "Hormone",
+      "Neurotransmitter",
+      "Enzyme",
+      "Antibody"
+    ],
+    "answer": 1,
+    "explanation": "Neurotransmitters (e.g., acetylcholine) transmit signals across the synapse to the next cell."
+  },
+  {
+    "q": "Glial cells within the nervous system primarily function to:",
+    "options": [
+      "Generate the body's main nerve impulses",
+      "Support, protect, and nourish neurons",
+      "Produce hormones",
+      "Directly contract muscle fibers"
+    ],
+    "answer": 1,
+    "explanation": "Glial cells support and protect neurons but do not themselves generate the primary nerve impulse."
+  },
+  {
+    "q": "A nerve impulse traveling along an axon is best described as a(n):",
+    "options": [
+      "Chemical reaction only, with no electrical component",
+      "Electrical signal (action potential) traveling along the neuron",
+      "Muscle contraction",
+      "Hormonal release"
+    ],
+    "answer": 1,
+    "explanation": "A nerve impulse is an electrical signal, called an action potential, that travels along the neuron."
+  },
+  {
+    "q": "Schwann cells are responsible for producing myelin in which part of the nervous system?",
+    "options": [
+      "Central nervous system only",
+      "Peripheral nervous system",
+      "The brain only",
+      "Neither the CNS nor PNS"
+    ],
+    "answer": 1,
+    "explanation": "Schwann cells produce myelin for peripheral nerves; oligodendrocytes perform this role in the CNS."
+  },
+  {
+    "q": "A nerve made up only of fibers carrying information toward the CNS is called a:",
+    "options": [
+      "Motor nerve",
+      "Sensory nerve",
+      "Mixed nerve",
+      "Reflex nerve"
+    ],
+    "answer": 1,
+    "explanation": "A purely sensory nerve carries only afferent (incoming) information."
+  },
+  {
+    "q": "A nerve made up only of fibers carrying commands away from the CNS is called a:",
+    "options": [
+      "Sensory nerve",
+      "Motor nerve",
+      "Mixed nerve",
+      "Dermatome nerve"
+    ],
+    "answer": 1,
+    "explanation": "A purely motor nerve carries only efferent (outgoing) commands."
+  },
+  {
+    "q": "A nerve that contains both sensory and motor fibers is called a:",
+    "options": [
+      "Sensory nerve",
+      "Motor nerve",
+      "Mixed nerve",
+      "Reflex nerve"
+    ],
+    "answer": 2,
+    "explanation": "Mixed nerves carry both sensory (afferent) and motor (efferent) fibers."
+  },
+  {
+    "q": "Most peripheral spinal nerves are classified as:",
+    "options": [
+      "Purely sensory nerves",
+      "Purely motor nerves",
+      "Mixed nerves",
+      "Autonomic nerves only"
+    ],
+    "answer": 2,
+    "explanation": "The majority of spinal nerves are mixed nerves, carrying both sensory and motor fibers."
+  },
+  {
+    "q": "How many pairs of spinal nerves does the human body have?",
+    "options": [
+      "12",
+      "24",
+      "31",
+      "43"
+    ],
+    "answer": 2,
+    "explanation": "There are 31 pairs of spinal nerves, corresponding to cervical, thoracic, lumbar, sacral, and coccygeal levels."
+  },
+  {
+    "q": "The spinal cord is directly protected by the:",
+    "options": [
+      "Ribs",
+      "Vertebral column",
+      "Sternum",
+      "Pelvis"
+    ],
+    "answer": 1,
+    "explanation": "The bony vertebral column surrounds and protects the spinal cord."
+  },
+  {
+    "q": "The protective membranes surrounding the brain and spinal cord are collectively called the:",
+    "options": [
+      "Meninges",
+      "Myelin sheaths",
+      "Ganglia",
+      "Plexuses"
+    ],
+    "answer": 0,
+    "explanation": "The meninges (dura, arachnoid, and pia mater) are the protective membrane layers around the CNS."
+  },
+  {
+    "q": "The fluid that cushions and protects the brain and spinal cord is called:",
+    "options": [
+      "Synovial fluid",
+      "Lymph",
+      "Cerebrospinal fluid",
+      "Plasma"
+    ],
+    "answer": 2,
+    "explanation": "Cerebrospinal fluid (CSF) cushions the CNS and helps maintain a stable chemical environment."
+  },
+  {
+    "q": "In the central nervous system, clusters of neuron cell bodies are found in:",
+    "options": [
+      "White matter",
+      "Gray matter",
+      "The myelin sheath",
+      "The dura mater"
+    ],
+    "answer": 1,
+    "explanation": "Gray matter consists largely of neuron cell bodies, while white matter consists of myelinated axon tracts."
+  },
+  {
+    "q": "In the central nervous system, bundles of myelinated axon tracts are found in:",
+    "options": [
+      "Gray matter",
+      "White matter",
+      "The pia mater",
+      "The dorsal root ganglion"
+    ],
+    "answer": 1,
+    "explanation": "White matter is composed primarily of myelinated axons carrying signals between regions of the CNS."
+  },
+  {
+    "q": "The dorsal root of a spinal nerve carries which type of fibers into the spinal cord?",
+    "options": [
+      "Motor (efferent) fibers",
+      "Sensory (afferent) fibers",
+      "Autonomic fibers only",
+      "No fibers — it is purely structural"
+    ],
+    "answer": 1,
+    "explanation": "The dorsal root carries sensory (afferent) fibers into the spinal cord."
+  },
+  {
+    "q": "The cell bodies of sensory neurons entering the spinal cord are clustered in the:",
+    "options": [
+      "Ventral horn",
+      "Dorsal root ganglion",
+      "Central canal",
+      "Sacral plexus"
+    ],
+    "answer": 1,
+    "explanation": "The dorsal root ganglion houses the cell bodies of incoming sensory neurons."
+  },
+  {
+    "q": "The autonomic nervous system primarily controls:",
+    "options": [
+      "Voluntary skeletal muscle only",
+      "Smooth muscle, cardiac muscle, and glands",
+      "Only the special senses",
+      "Only reflex arcs"
+    ],
+    "answer": 1,
+    "explanation": "The autonomic nervous system regulates involuntary functions via smooth muscle, cardiac muscle, and glands."
+  },
+  {
+    "q": "Which of the following is a sympathetic nervous system effect?",
+    "options": [
+      "Pupil constriction",
+      "Pupil dilation",
+      "Increased digestive activity",
+      "Decreased heart rate"
+    ],
+    "answer": 1,
+    "explanation": "Pupil dilation is a classic sympathetic 'fight or flight' response."
+  },
+  {
+    "q": "During sympathetic activation, digestive activity is typically:",
+    "options": [
+      "Increased significantly",
+      "Inhibited, as resources are redirected elsewhere",
+      "Unaffected",
+      "Only affected in the mouth"
+    ],
+    "answer": 1,
+    "explanation": "The sympathetic system redirects resources away from digestion during fight-or-flight activation."
+  },
+  {
+    "q": "During parasympathetic activation, salivation and digestive activity are typically:",
+    "options": [
+      "Inhibited",
+      "Stimulated",
+      "Unaffected",
+      "Redirected to the muscles"
+    ],
+    "answer": 1,
+    "explanation": "The parasympathetic ('rest and digest') system stimulates salivation and digestive processes."
+  },
+  {
+    "q": "The primary neurotransmitter released by sympathetic nerve endings at target organs is:",
+    "options": [
+      "Acetylcholine",
+      "Norepinephrine",
+      "Dopamine",
+      "Serotonin"
+    ],
+    "answer": 1,
+    "explanation": "Norepinephrine is the main neurotransmitter released by sympathetic postganglionic fibers at target organs."
+  },
+  {
+    "q": "The primary neurotransmitter released by parasympathetic nerve endings is:",
+    "options": [
+      "Norepinephrine",
+      "Acetylcholine",
+      "Serotonin",
+      "Cortisol"
+    ],
+    "answer": 1,
+    "explanation": "Acetylcholine is the main neurotransmitter of the parasympathetic system."
+  },
+  {
+    "q": "Which cranial nerve is the major parasympathetic nerve influencing the heart, lungs, and digestive organs?",
+    "options": [
+      "Facial nerve (CN VII)",
+      "Vagus nerve (CN X)",
+      "Trigeminal nerve (CN V)",
+      "Accessory nerve (CN XI)"
+    ],
+    "answer": 1,
+    "explanation": "The vagus nerve (CN X) is the primary parasympathetic nerve to the thoracic and abdominal organs."
+  },
+  {
+    "q": "Chronic sympathetic dominance from ongoing stress is commonly associated with:",
+    "options": [
+      "Decreased overall muscle tension",
+      "Increased muscle tension and tightness",
+      "No physical effects",
+      "Improved digestion"
+    ],
+    "answer": 1,
+    "explanation": "Ongoing sympathetic activation is associated with increased muscular tension, which massage can help address."
+  },
+  {
+    "q": "How many pairs of cranial nerves does the human body have?",
+    "options": [
+      "10",
+      "12",
+      "24",
+      "31"
+    ],
+    "answer": 1,
+    "explanation": "There are 12 pairs of cranial nerves, each with a specific number and name."
+  },
+  {
+    "q": "Which cranial nerve controls the muscles of facial expression?",
+    "options": [
+      "Cranial nerve V (trigeminal)",
+      "Cranial nerve VII (facial)",
+      "Cranial nerve X (vagus)",
+      "Cranial nerve XII (hypoglossal)"
+    ],
+    "answer": 1,
+    "explanation": "The facial nerve (CN VII) innervates the muscles responsible for facial expression."
+  },
+  {
+    "q": "Bell's palsy, a condition causing sudden facial muscle weakness or drooping on one side, involves which cranial nerve?",
+    "options": [
+      "Cranial nerve V",
+      "Cranial nerve VII",
+      "Cranial nerve IV",
+      "Cranial nerve XII"
+    ],
+    "answer": 1,
+    "explanation": "Bell's palsy affects cranial nerve VII (facial nerve), causing facial muscle weakness or paralysis."
+  },
+  {
+    "q": "Which cranial nerve provides sensation to the face and motor control to the muscles of chewing (mastication)?",
+    "options": [
+      "Facial nerve (CN VII)",
+      "Trigeminal nerve (CN V)",
+      "Vagus nerve (CN X)",
+      "Accessory nerve (CN XI)"
+    ],
+    "answer": 1,
+    "explanation": "The trigeminal nerve (CN V) provides facial sensation and motor innervation to the muscles of mastication."
+  },
+  {
+    "q": "Trigeminal neuralgia is a condition involving:",
+    "options": [
+      "Sudden facial muscle paralysis",
+      "Severe pain along the distribution of cranial nerve V",
+      "Loss of taste sensation only",
+      "Weakness of the tongue"
+    ],
+    "answer": 1,
+    "explanation": "Trigeminal neuralgia causes intense pain along the pathway of the trigeminal nerve."
+  },
+  {
+    "q": "Which cranial nerve provides motor innervation to the trapezius and sternocleidomastoid muscles?",
+    "options": [
+      "Cranial nerve VII (facial)",
+      "Cranial nerve X (vagus)",
+      "Cranial nerve XI (accessory)",
+      "Cranial nerve XII (hypoglossal)"
+    ],
+    "answer": 2,
+    "explanation": "The accessory nerve (CN XI) supplies motor control to the trapezius and sternocleidomastoid, both relevant to massage of the neck/shoulders."
+  },
+  {
+    "q": "Which cranial nerve controls movement of the tongue?",
+    "options": [
+      "Cranial nerve V",
+      "Cranial nerve X",
+      "Cranial nerve XI",
+      "Cranial nerve XII (hypoglossal)"
+    ],
+    "answer": 3,
+    "explanation": "The hypoglossal nerve (CN XII) controls tongue movement."
+  },
+  {
+    "q": "A network formed by the intersection and merging of several spinal nerve roots is called a:",
+    "options": [
+      "Ganglion",
+      "Plexus",
+      "Dermatome",
+      "Synapse"
+    ],
+    "answer": 1,
+    "explanation": "A plexus is a network of interweaving spinal nerves that reorganize into peripheral nerves."
+  },
+  {
+    "q": "The brachial plexus, formed from spinal nerve roots C5 through T1, primarily supplies the:",
+    "options": [
+      "Face",
+      "Trunk only",
+      "Arm",
+      "Leg"
+    ],
+    "answer": 2,
+    "explanation": "The brachial plexus gives rise to the major nerves supplying the arm."
+  },
+  {
+    "q": "Thoracic outlet syndrome involves compression of the brachial plexus and/or nearby blood vessels, often near the:",
+    "options": [
+      "Popliteal fossa",
+      "Scalene muscles, clavicle, or pectoralis minor",
+      "Carpal tunnel",
+      "Cubital tunnel"
+    ],
+    "answer": 1,
+    "explanation": "Thoracic outlet syndrome commonly results from compression near the scalenes, clavicle/first rib, or under pectoralis minor."
+  },
+  {
+    "q": "The lumbar plexus, which includes the femoral nerve, primarily supplies the:",
+    "options": [
+      "Anterior thigh",
+      "Posterior leg only",
+      "Face",
+      "Forearm"
+    ],
+    "answer": 0,
+    "explanation": "The lumbar plexus gives rise to nerves such as the femoral nerve, supplying the anterior thigh."
+  },
+  {
+    "q": "The sacral plexus is the origin of which major nerve of the lower limb?",
+    "options": [
+      "Femoral nerve",
+      "Sciatic nerve",
+      "Radial nerve",
+      "Median nerve"
+    ],
+    "answer": 1,
+    "explanation": "The sciatic nerve arises from the sacral plexus and is the largest nerve in the body."
+  },
+  {
+    "q": "The sciatic nerve is notable for being the body's:",
+    "options": [
+      "Smallest nerve",
+      "Largest and longest nerve",
+      "Only purely motor nerve",
+      "Only cranial nerve"
+    ],
+    "answer": 1,
+    "explanation": "The sciatic nerve is both the largest and longest nerve in the human body."
+  },
+  {
+    "q": "Sciatica refers to:",
+    "options": [
+      "Inflammation of the hip joint only",
+      "Pain radiating along the path of the sciatic nerve, often from nerve root compression",
+      "A type of skin infection",
+      "A cardiovascular condition"
+    ],
+    "answer": 1,
+    "explanation": "Sciatica is pain that follows the sciatic nerve's path, often due to nerve root or nerve compression."
+  },
+  {
+    "q": "Piriformis syndrome can cause sciatica-like symptoms because the piriformis muscle:",
+    "options": [
+      "Has no relationship to the sciatic nerve",
+      "Can compress or irritate the sciatic nerve as it passes nearby",
+      "Is located in the forearm",
+      "Directly innervates the sciatic nerve"
+    ],
+    "answer": 1,
+    "explanation": "The sciatic nerve passes near (and sometimes through) the piriformis, which can compress it when tight."
+  },
+  {
+    "q": "Carpal tunnel syndrome results from compression of which nerve at the wrist?",
+    "options": [
+      "Ulnar nerve",
+      "Radial nerve",
+      "Median nerve",
+      "Femoral nerve"
+    ],
+    "answer": 2,
+    "explanation": "Carpal tunnel syndrome involves compression of the median nerve as it passes through the carpal tunnel."
+  },
+  {
+    "q": "Cubital tunnel syndrome results from compression of which nerve near the elbow's medial epicondyle ('funny bone')?",
+    "options": [
+      "Median nerve",
+      "Radial nerve",
+      "Ulnar nerve",
+      "Sciatic nerve"
+    ],
+    "answer": 2,
+    "explanation": "The ulnar nerve passes through the cubital tunnel near the medial epicondyle, where it is vulnerable to compression."
+  },
+  {
+    "q": "Tingling in the ring and little fingers after pressure near the medial elbow most likely involves the:",
+    "options": [
+      "Median nerve",
+      "Radial nerve",
+      "Ulnar nerve",
+      "Femoral nerve"
+    ],
+    "answer": 2,
+    "explanation": "The ulnar nerve, running near the medial epicondyle, supplies sensation to the ring and little fingers."
+  },
+  {
+    "q": "Each dermatome typically has some overlap with neighboring dermatomes, meaning:",
+    "options": [
+      "Dermatome boundaries are always razor-sharp with zero overlap",
+      "Skin at the edge of one dermatome may share innervation with the adjacent one",
+      "Dermatomes never share any innervation",
+      "Only the trunk has overlapping dermatomes"
+    ],
+    "answer": 1,
+    "explanation": "Adjacent dermatomes commonly overlap somewhat, so a single nerve root injury may not cause total numbness in that strip."
+  },
+  {
+    "q": "In common dermatome mapping, the thumb is most closely associated with which spinal nerve level?",
+    "options": [
+      "C5",
+      "C6",
+      "C8",
+      "T1"
+    ],
+    "answer": 1,
+    "explanation": "The thumb and lateral forearm are commonly mapped to the C6 dermatome."
+  },
+  {
+    "q": "In common dermatome mapping, the middle finger is most closely associated with which spinal nerve level?",
+    "options": [
+      "C6",
+      "C7",
+      "C8",
+      "T1"
+    ],
+    "answer": 1,
+    "explanation": "The middle finger is commonly mapped to the C7 dermatome."
+  },
+  {
+    "q": "In common dermatome mapping, the big toe and dorsum of the foot are most closely associated with which spinal nerve level?",
+    "options": [
+      "L3",
+      "L4",
+      "L5",
+      "S2"
+    ],
+    "answer": 2,
+    "explanation": "The big toe and top of the foot are commonly mapped to the L5 dermatome."
+  },
+  {
+    "q": "In common dermatome mapping, the little toe and lateral foot are most closely associated with which spinal nerve level?",
+    "options": [
+      "L4",
+      "L5",
+      "S1",
+      "S3"
+    ],
+    "answer": 2,
+    "explanation": "The little toe and lateral foot are commonly mapped to the S1 dermatome."
+  },
+  {
+    "q": "A myotome differs from a dermatome in that a myotome refers to:",
+    "options": [
+      "A band of skin supplied by one spinal nerve root",
+      "A group of muscles supplied by one spinal nerve root",
+      "A type of reflex",
+      "A cranial nerve pathway"
+    ],
+    "answer": 1,
+    "explanation": "A myotome is the muscular equivalent of a dermatome — muscles innervated by a single spinal nerve root."
+  },
+  {
+    "q": "Why is it useful to distinguish whether a client's symptom pattern follows a specific dermatome versus being spread diffusely?",
+    "options": [
+      "It has no diagnostic value",
+      "A dermatome pattern points toward a possible nerve root issue rather than a general muscular one",
+      "Diffuse symptoms always mean a nerve root problem",
+      "Dermatome patterns only matter for headaches"
+    ],
+    "answer": 1,
+    "explanation": "A clear dermatome-following pattern suggests a specific nerve root may be involved, which is clinically distinct from vague muscular discomfort."
+  },
+  {
+    "q": "Pain that is felt at a location different from its actual source (e.g., shoulder pain from a heart issue) is called:",
+    "options": [
+      "Referred pain",
+      "Dermatome pain",
+      "Phantom pain",
+      "Somatic pain only"
+    ],
+    "answer": 0,
+    "explanation": "Referred pain is perceived at a site removed from the actual source of the problem."
+  },
+  {
+    "q": "The basic components of a reflex arc include a receptor, sensory neuron, integration center, motor neuron, and:",
+    "options": [
+      "A second brain region",
+      "An effector (muscle or gland)",
+      "A cranial nerve exclusively",
+      "A dermatome"
+    ],
+    "answer": 1,
+    "explanation": "A reflex arc ends with an effector, typically a muscle or gland that carries out the response."
+  },
+  {
+    "q": "Many spinal reflexes (such as the withdrawal reflex) are processed quickly at the level of the:",
+    "options": [
+      "Cerebral cortex only",
+      "Spinal cord, without needing to first reach the brain",
+      "Cerebellum exclusively",
+      "Thymus"
+    ],
+    "answer": 1,
+    "explanation": "Spinal reflexes can be processed directly at the spinal cord level, allowing a very fast response."
+  },
+  {
+    "q": "Receptors that specifically detect changes in temperature are called:",
+    "options": [
+      "Nociceptors",
+      "Mechanoreceptors",
+      "Thermoreceptors",
+      "Proprioceptors"
+    ],
+    "answer": 2,
+    "explanation": "Thermoreceptors detect changes in temperature at the skin and elsewhere in the body."
+  },
+  {
+    "q": "Muscle spindles and Golgi tendon organs are specific examples of which receptor category?",
+    "options": [
+      "Nociceptors",
+      "Mechanoreceptors",
+      "Proprioceptors",
+      "Thermoreceptors"
+    ],
+    "answer": 2,
+    "explanation": "Muscle spindles and Golgi tendon organs are proprioceptors that sense muscle length and tension."
+  },
+  {
+    "q": "The gradual decrease in a receptor's response to an ongoing, unchanging stimulus is called:",
+    "options": [
+      "Reflex arc",
+      "Sensory adaptation",
+      "Referred pain",
+      "Synaptic fatigue"
+    ],
+    "answer": 1,
+    "explanation": "Sensory adaptation explains why a constant stimulus, like sustained pressure, becomes less noticeable over time."
+  },
+  {
+    "q": "The 'gate control theory' of pain helps explain why:",
+    "options": [
+      "Pain signals are always fully blocked by touch",
+      "Non-painful touch input, like massage, can help reduce the perception of pain",
+      "Massage has no effect on pain perception",
+      "Pain receptors never adapt"
+    ],
+    "answer": 1,
+    "explanation": "Gate control theory proposes that non-painful sensory input can help modulate and reduce the perception of pain signals."
+  },
+  {
+    "q": "Massage is often associated with reduced sympathetic nervous system activity, which can correspond to:",
+    "options": [
+      "Increased stress hormone levels",
+      "Reduced stress hormone levels and a calmer physiological state",
+      "No measurable physiological change",
+      "Increased heart rate only"
+    ],
+    "answer": 1,
+    "explanation": "Reduced sympathetic activity is generally associated with lower stress hormone levels and a more relaxed state."
+  },
+  {
+    "q": "A relaxing massage session that increases parasympathetic activity may produce which short-term effect?",
+    "options": [
+      "Increased heart rate and blood pressure",
+      "Decreased heart rate and blood pressure",
+      "No cardiovascular effect",
+      "Immediate muscle spasm"
+    ],
+    "answer": 1,
+    "explanation": "Parasympathetic activation tends to lower heart rate and blood pressure in the short term."
+  },
+  {
+    "q": "Numbness and tingling distributed in a 'stocking-glove' pattern over the hands and feet (rather than a single strip) is more suggestive of:",
+    "options": [
+      "A single dermatome nerve root issue",
+      "General peripheral neuropathy rather than one specific nerve root",
+      "A cranial nerve palsy",
+      "Normal sensation"
+    ],
+    "answer": 1,
+    "explanation": "A stocking-glove distribution suggests widespread peripheral nerve involvement, distinct from a single dermatome pattern."
+  },
+  {
+    "q": "Which combination of signs would most suggest nerve compression along a specific pathway, rather than a general muscular strain?",
+    "options": [
+      "Localized muscle soreness that improves with stretching",
+      "Numbness, tingling, and weakness that follow a nerve's course",
+      "Mild stiffness after exercise",
+      "Symmetrical fatigue in both legs after a long walk"
+    ],
+    "answer": 1,
+    "explanation": "Numbness, tingling, and weakness along a specific nerve pathway suggest nerve involvement rather than simple muscular strain."
+  },
+  {
+    "q": "A therapist should consider referring a client out when pain follows a true dermatome pattern accompanied by:",
+    "options": [
+      "Mild, temporary soreness only",
+      "Numbness or weakness suggesting a possible nerve root problem",
+      "General relaxation after the session",
+      "Improved range of motion"
+    ],
+    "answer": 1,
+    "explanation": "Numbness or weakness along with a dermatome pattern raises concern for nerve root involvement, warranting referral."
+  },
+  {
+    "q": "Prolonged, sustained deep pressure directly over a superficial nerve pathway during massage carries a risk of:",
+    "options": [
+      "No risk whatsoever",
+      "Temporary or, in rare cases, lasting nerve irritation or compression symptoms",
+      "Guaranteed permanent nerve damage every time",
+      "Improved nerve conduction only"
+    ],
+    "answer": 1,
+    "explanation": "Sustained direct pressure on a superficial nerve can cause temporary or, rarely, lasting compression symptoms, so caution is warranted."
+  },
+  {
+    "q": "Multiple sclerosis is a condition involving:",
+    "options": [
+      "Degeneration of myelin sheaths in the central nervous system",
+      "Excess myelin production",
+      "A bacterial infection of peripheral nerves",
+      "Overactivity of the parasympathetic nervous system"
+    ],
+    "answer": 0,
+    "explanation": "Multiple sclerosis is an autoimmune condition causing degeneration (demyelination) of myelin in the CNS, disrupting nerve signal transmission."
+  },
+  {
+    "q": "Parkinson's disease primarily involves degeneration of neurons that produce which neurotransmitter, affecting movement control?",
+    "options": [
+      "Serotonin",
+      "Acetylcholine",
+      "Dopamine",
+      "Norepinephrine"
+    ],
+    "answer": 2,
+    "explanation": "Parkinson's disease involves loss of dopamine-producing neurons, leading to movement-related symptoms."
+  },
+  {
+    "q": "During an episode of acute sciatica, direct deep compression over the sciatic nerve pathway should generally be:",
+    "options": [
+      "Increased to break up the irritation",
+      "Approached with caution or avoided, to prevent aggravating the irritated nerve",
+      "Performed as forcefully as possible",
+      "Irrelevant to the client's symptoms"
+    ],
+    "answer": 1,
+    "explanation": "Deep direct pressure on an already irritated sciatic nerve can aggravate symptoms and should be approached cautiously."
+  },
+  {
+    "q": "The sympathetic nervous system's 'fight or flight' response is most useful in situations involving:",
+    "options": [
+      "Calm, safe rest",
+      "Perceived danger or significant physical/emotional stress",
+      "Digestion after a meal",
+      "Sleep"
+    ],
+    "answer": 1,
+    "explanation": "The sympathetic response prepares the body to react to danger or significant stress."
+  },
+  {
+    "q": "The term 'afferent,' as applied to neurons, means the neuron carries signals:",
+    "options": [
+      "Away from the CNS",
+      "Toward the CNS",
+      "Only within the brain",
+      "Only to skeletal muscle"
+    ],
+    "answer": 1,
+    "explanation": "Afferent neurons (sensory neurons) carry signals toward the central nervous system."
+  },
+  {
+    "q": "The term 'efferent,' as applied to neurons, means the neuron carries signals:",
+    "options": [
+      "Toward the CNS",
+      "Away from the CNS, toward the body",
+      "Only within the spinal cord",
+      "Only to sensory receptors"
+    ],
+    "answer": 1,
+    "explanation": "Efferent neurons (motor neurons) carry signals away from the CNS to the body's muscles and glands."
+  },
+  {
+    "q": "Neurons located entirely within the CNS that connect sensory input to motor output are called:",
+    "options": [
+      "Sensory neurons",
+      "Motor neurons",
+      "Interneurons",
+      "Autonomic neurons"
+    ],
+    "answer": 2,
+    "explanation": "Interneurons connect sensory and motor neurons within the central nervous system, integrating information."
+  },
+  {
+    "q": "Which division of the peripheral nervous system regulates smooth muscle, cardiac muscle, and glands rather than voluntary movement?",
+    "options": [
+      "Somatic nervous system",
+      "Autonomic nervous system",
+      "Cranial nervous system",
+      "Sensory nervous system"
+    ],
+    "answer": 1,
+    "explanation": "The autonomic division regulates involuntary functions, distinct from the somatic division's voluntary control."
+  },
+  {
+    "q": "Pupil dilation, increased heart rate, and redirection of blood to skeletal muscle are all effects of which nervous system branch?",
+    "options": [
+      "Parasympathetic",
+      "Sympathetic",
+      "Somatic",
+      "Central"
+    ],
+    "answer": 1,
+    "explanation": "These are classic sympathetic 'fight or flight' effects."
+  },
+  {
+    "q": "Compared to hormonal (endocrine) signaling, nervous system signaling is generally:",
+    "options": [
+      "Slower and longer-lasting",
+      "Faster, using electrochemical impulses, though often shorter-lived",
+      "Identical in speed and duration",
+      "Only chemical, with no electrical component"
+    ],
+    "answer": 1,
+    "explanation": "Nervous signals travel very quickly via electrochemical impulses, while hormonal signals tend to act more slowly but can last longer."
+  },
+  {
+    "q": "The cervical plexus (roots C1-C4) contributes significantly to which nerve that innervates the diaphragm?",
+    "options": [
+      "Sciatic nerve",
+      "Phrenic nerve",
+      "Femoral nerve",
+      "Radial nerve"
+    ],
+    "answer": 1,
+    "explanation": "The phrenic nerve, arising largely from the cervical plexus, innervates the diaphragm and is essential for breathing."
+  },
+  {
+    "q": "Compression of the radial nerve, such as from prolonged pressure in the upper arm/axilla, most characteristically produces:",
+    "options": [
+      "Weakness of wrist and finger extension ('wrist drop')",
+      "Weakness of hip flexion",
+      "Numbness of the sole of the foot",
+      "Facial drooping"
+    ],
+    "answer": 0,
+    "explanation": "Radial nerve compression classically causes wrist drop due to loss of innervation to the wrist and finger extensors."
   }
 ]

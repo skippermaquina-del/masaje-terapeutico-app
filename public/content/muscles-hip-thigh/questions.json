@@ -1,122 +1,1102 @@
 [
   {
     "q": "The iliopsoas (psoas major + iliacus) primarily:",
-    "options": ["Extends the hip", "Flexes the hip", "Abducts the hip", "Laterally rotates the knee"],
+    "options": [
+      "Extends the hip",
+      "Flexes the hip",
+      "Abducts the hip",
+      "Laterally rotates the knee"
+    ],
     "answer": 1,
     "explanation": "The iliopsoas is the primary hip flexor group, inserting at the lesser trochanter."
   },
   {
     "q": "Which muscle is the primary hip extensor, especially forceful in movements like climbing stairs?",
-    "options": ["Gluteus medius", "Gluteus maximus", "Tensor fasciae latae", "Piriformis"],
+    "options": [
+      "Gluteus medius",
+      "Gluteus maximus",
+      "Tensor fasciae latae",
+      "Piriformis"
+    ],
     "answer": 1,
     "explanation": "Gluteus maximus is the primary, most powerful hip extensor."
   },
   {
     "q": "Which muscles are essential stabilizers of the pelvis while standing on one leg during walking?",
-    "options": ["Gluteus maximus and piriformis", "Gluteus medius and minimus", "Sartorius and gracilis", "Rectus femoris and vastus lateralis"],
+    "options": [
+      "Gluteus maximus and piriformis",
+      "Gluteus medius and minimus",
+      "Sartorius and gracilis",
+      "Rectus femoris and vastus lateralis"
+    ],
     "answer": 1,
     "explanation": "Gluteus medius and minimus stabilize the pelvis during single-leg stance."
   },
   {
     "q": "Weakness of gluteus medius/minimus during walking classically causes:",
-    "options": ["Increased hip flexion strength", "A hip 'drop' or compensatory limp", "Knee hyperextension only", "No noticeable effect"],
+    "options": [
+      "Increased hip flexion strength",
+      "A hip 'drop' or compensatory limp",
+      "Knee hyperextension only",
+      "No noticeable effect"
+    ],
     "answer": 1,
     "explanation": "Weak hip abductors lead to pelvic instability and a drop/limp pattern."
   },
   {
     "q": "Which shared action do all six deep hip rotators (piriformis, quadratus femoris, obturators, gemelli) have?",
-    "options": ["Hip flexion", "Medial rotation of the hip", "Lateral rotation of the hip", "Knee extension"],
+    "options": [
+      "Hip flexion",
+      "Medial rotation of the hip",
+      "Lateral rotation of the hip",
+      "Knee extension"
+    ],
     "answer": 2,
     "explanation": "All six deep hip rotators laterally rotate the hip."
   },
   {
     "q": "Piriformis syndrome occurs because piriformis can compress the:",
-    "options": ["Femoral nerve", "Sciatic nerve", "Obturator nerve", "Tibial artery"],
+    "options": [
+      "Femoral nerve",
+      "Sciatic nerve",
+      "Obturator nerve",
+      "Tibial artery"
+    ],
     "answer": 1,
     "explanation": "The sciatic nerve runs through or under piriformis in most people, and compression mimics sciatica."
   },
   {
     "q": "Which muscle is the only member of the quadriceps group that also crosses the hip joint?",
-    "options": ["Vastus lateralis", "Vastus medialis", "Rectus femoris", "Vastus intermedius"],
+    "options": [
+      "Vastus lateralis",
+      "Vastus medialis",
+      "Rectus femoris",
+      "Vastus intermedius"
+    ],
     "answer": 2,
     "explanation": "Rectus femoris crosses both hip and knee, flexing the hip and extending the knee."
   },
   {
     "q": "Vastus lateralis, medialis, and intermedius all share which single action?",
-    "options": ["Hip flexion", "Knee extension only", "Hip extension", "Knee flexion"],
+    "options": [
+      "Hip flexion",
+      "Knee extension only",
+      "Hip extension",
+      "Knee flexion"
+    ],
     "answer": 1,
     "explanation": "Unlike rectus femoris, the three vastus muscles only extend the knee — they don't cross the hip."
   },
   {
     "q": "Which three muscles form the pes anserine tendon group?",
-    "options": ["Sartorius, gracilis, semitendinosus", "Rectus femoris, gracilis, biceps femoris", "Sartorius, vastus medialis, semimembranosus", "Gracilis, adductor longus, piriformis"],
+    "options": [
+      "Sartorius, gracilis, semitendinosus",
+      "Rectus femoris, gracilis, biceps femoris",
+      "Sartorius, vastus medialis, semimembranosus",
+      "Gracilis, adductor longus, piriformis"
+    ],
     "answer": 0,
     "explanation": "Sartorius, gracilis, and semitendinosus insert together at the pes anserine."
   },
   {
     "q": "Sartorius is notable for being:",
-    "options": ["The strongest muscle in the body", "The longest muscle in the body, crossing both hip and knee", "A muscle that only extends the hip", "Part of the quadriceps group"],
+    "options": [
+      "The strongest muscle in the body",
+      "The longest muscle in the body, crossing both hip and knee",
+      "A muscle that only extends the hip",
+      "Part of the quadriceps group"
+    ],
     "answer": 1,
     "explanation": "Sartorius is the longest muscle in the body and crosses both the hip and knee joints."
   },
   {
     "q": "Which muscle group shares a common origin at the ischial tuberosity and flexes the knee while extending the hip?",
-    "options": ["Quadriceps", "Adductors", "Hamstrings", "Deep hip rotators"],
+    "options": [
+      "Quadriceps",
+      "Adductors",
+      "Hamstrings",
+      "Deep hip rotators"
+    ],
     "answer": 2,
     "explanation": "The hamstrings (biceps femoris, semitendinosus, semimembranosus) originate at the ischial tuberosity."
   },
   {
     "q": "Which hamstring muscle has a short head that originates from the femur rather than the ischial tuberosity?",
-    "options": ["Semitendinosus", "Semimembranosus", "Biceps femoris", "Gracilis"],
+    "options": [
+      "Semitendinosus",
+      "Semimembranosus",
+      "Biceps femoris",
+      "Gracilis"
+    ],
     "answer": 2,
     "explanation": "Biceps femoris has a long head (ischial tuberosity) and a short head (femur)."
   },
   {
     "q": "Which muscle adducts and flexes the hip, and also flexes and medially rotates the knee (crossing two joints)?",
-    "options": ["Adductor magnus", "Gracilis", "Pectineus", "Adductor brevis"],
+    "options": [
+      "Adductor magnus",
+      "Gracilis",
+      "Pectineus",
+      "Adductor brevis"
+    ],
     "answer": 1,
     "explanation": "Gracilis crosses both the hip and knee, contributing to hip adduction/flexion and knee flexion/medial rotation."
   },
   {
     "q": "Which adductor is described as the largest, with both anterior and posterior fibers producing different hip actions?",
-    "options": ["Adductor longus", "Adductor brevis", "Adductor magnus", "Pectineus"],
+    "options": [
+      "Adductor longus",
+      "Adductor brevis",
+      "Adductor magnus",
+      "Pectineus"
+    ],
     "answer": 2,
     "explanation": "Adductor magnus is the largest adductor, capable of both flexing and extending the hip due to its dual fiber orientation."
   },
   {
     "q": "Tensor fasciae latae (TFL) inserts into the:",
-    "options": ["Greater trochanter directly", "Iliotibial (IT) band", "Tibial tuberosity", "Ischial tuberosity"],
+    "options": [
+      "Greater trochanter directly",
+      "Iliotibial (IT) band",
+      "Tibial tuberosity",
+      "Ischial tuberosity"
+    ],
     "answer": 1,
     "explanation": "TFL inserts into the iliotibial band, which runs down the lateral thigh."
   },
   {
     "q": "An anterior pelvic tilt is typically associated with which muscle imbalance?",
-    "options": ["Tight hip extensors, weak hip flexors", "Tight hip flexors, weak hip extensors", "Tight knee flexors only", "No muscular involvement"],
+    "options": [
+      "Tight hip extensors, weak hip flexors",
+      "Tight hip flexors, weak hip extensors",
+      "Tight knee flexors only",
+      "No muscular involvement"
+    ],
     "answer": 1,
     "explanation": "Anterior pelvic tilt typically involves tight hip flexors (iliopsoas, rectus femoris) and weak hip extensors (glutes, hamstrings)."
   },
   {
     "q": "Which muscle's unilateral action includes hip flexion and lateral rotation, originating from the lumbar spine?",
-    "options": ["Iliacus", "Psoas major", "Gluteus maximus", "Adductor longus"],
+    "options": [
+      "Iliacus",
+      "Psoas major",
+      "Gluteus maximus",
+      "Adductor longus"
+    ],
     "answer": 1,
     "explanation": "Psoas major flexes and laterally rotates the hip, originating from T12-L5."
   },
   {
     "q": "Semitendinosus and semimembranosus share which rotation action when the knee is flexed?",
-    "options": ["Lateral rotation of the knee", "Medial rotation of the knee", "No rotational action", "Lateral rotation of the hip"],
+    "options": [
+      "Lateral rotation of the knee",
+      "Medial rotation of the knee",
+      "No rotational action",
+      "Lateral rotation of the hip"
+    ],
     "answer": 1,
     "explanation": "Both semitendinosus and semimembranosus medially rotate the flexed knee, unlike biceps femoris which laterally rotates it."
   },
   {
     "q": "Which muscle laterally rotates the flexed knee, distinguishing it from the other two hamstrings?",
-    "options": ["Semitendinosus", "Semimembranosus", "Biceps femoris", "Gracilis"],
+    "options": [
+      "Semitendinosus",
+      "Semimembranosus",
+      "Biceps femoris",
+      "Gracilis"
+    ],
     "answer": 2,
     "explanation": "Biceps femoris laterally rotates the flexed knee, while the other two hamstrings medially rotate it."
   },
   {
     "q": "Rectus femoris originates from the anterior inferior iliac spine and inserts on the:",
-    "options": ["Ischial tuberosity", "Tibial tuberosity", "Greater trochanter", "Pes anserine"],
+    "options": [
+      "Ischial tuberosity",
+      "Tibial tuberosity",
+      "Greater trochanter",
+      "Pes anserine"
+    ],
     "answer": 1,
     "explanation": "Like the other quadriceps muscles, rectus femoris inserts on the tibial tuberosity."
+  },
+  {
+    "q": "Psoas major originates from the:",
+    "options": [
+      "Iliac fossa",
+      "Transverse processes and bodies of T12–L5",
+      "Ischial tuberosity",
+      "Anterior superior iliac spine"
+    ],
+    "answer": 1,
+    "explanation": "Psoas major arises from the lumbar spine and the last thoracic vertebra."
+  },
+  {
+    "q": "Psoas major inserts onto the:",
+    "options": [
+      "Greater trochanter",
+      "Lesser trochanter of the femur",
+      "Linea aspera",
+      "Iliotibial band"
+    ],
+    "answer": 1,
+    "explanation": "Psoas major crosses the hip to insert on the lesser trochanter of the femur."
+  },
+  {
+    "q": "Which nerve fibers directly innervate psoas major?",
+    "options": [
+      "Femoral nerve only",
+      "Direct branches of the lumbar plexus (L1–L3)",
+      "Sciatic nerve",
+      "Obturator nerve only"
+    ],
+    "answer": 1,
+    "explanation": "Unlike iliacus, psoas major is innervated directly by branches of the lumbar plexus rather than the femoral nerve."
+  },
+  {
+    "q": "Iliacus originates from the:",
+    "options": [
+      "Iliac fossa",
+      "Ischial tuberosity",
+      "Pubic tubercle",
+      "Sacrum"
+    ],
+    "answer": 0,
+    "explanation": "Iliacus fills the broad, concave iliac fossa of the pelvis."
+  },
+  {
+    "q": "Which nerve innervates iliacus?",
+    "options": [
+      "Obturator nerve",
+      "Femoral nerve",
+      "Superior gluteal nerve",
+      "Sciatic nerve"
+    ],
+    "answer": 1,
+    "explanation": "Iliacus is innervated by the femoral nerve, unlike psoas major which is supplied directly by the lumbar plexus."
+  },
+  {
+    "q": "The iliopsoas is best described as:",
+    "options": [
+      "A single muscle with two names",
+      "The functional combination of psoas major and iliacus, sharing an insertion at the lesser trochanter",
+      "A synonym for the gluteus maximus",
+      "Part of the hamstring group"
+    ],
+    "answer": 1,
+    "explanation": "Psoas major and iliacus merge into a common tendon and are often treated as one functional hip flexor unit."
+  },
+  {
+    "q": "In addition to flexing the hip, psoas major also assists with:",
+    "options": [
+      "Bilateral flexion of the lumbar spine",
+      "Extension of the knee",
+      "Eversion of the foot",
+      "Abduction of the shoulder"
+    ],
+    "answer": 0,
+    "explanation": "Because it attaches along the lumbar vertebrae, psoas major also contributes to trunk/spinal flexion."
+  },
+  {
+    "q": "A chronically shortened iliopsoas is most associated with which postural pattern?",
+    "options": [
+      "Posterior pelvic tilt",
+      "Anterior pelvic tilt with increased lumbar lordosis",
+      "Lateral pelvic tilt only",
+      "Flattening of the lumbar spine"
+    ],
+    "answer": 1,
+    "explanation": "Tight hip flexors, especially iliopsoas, pull the pelvis into anterior tilt and can increase lumbar curvature."
+  },
+  {
+    "q": "Gluteus maximus originates from the:",
+    "options": [
+      "Superior gluteal line of the ilium",
+      "Posterior sacrum, coccyx, and posterior iliac crest",
+      "Ischial spine",
+      "Anterior iliac crest"
+    ],
+    "answer": 1,
+    "explanation": "Gluteus maximus has a broad origin along the posterior sacrum, coccyx, and posterior iliac crest."
+  },
+  {
+    "q": "Gluteus maximus inserts onto the:",
+    "options": [
+      "Greater trochanter only",
+      "Gluteal tuberosity and iliotibial band",
+      "Lesser trochanter",
+      "Tibial tuberosity"
+    ],
+    "answer": 1,
+    "explanation": "Most gluteus maximus fibers insert into the IT band, with a deeper portion attaching to the gluteal tuberosity of the femur."
+  },
+  {
+    "q": "Which nerve innervates gluteus maximus?",
+    "options": [
+      "Superior gluteal nerve",
+      "Inferior gluteal nerve",
+      "Femoral nerve",
+      "Obturator nerve"
+    ],
+    "answer": 1,
+    "explanation": "Gluteus maximus is innervated by the inferior gluteal nerve, distinct from the superior gluteal nerve supplying medius/minimus/TFL."
+  },
+  {
+    "q": "Gluteus maximus is most forcefully recruited during:",
+    "options": [
+      "Standing perfectly still",
+      "Powerful hip extension activities like climbing stairs or rising from a squat",
+      "Ankle plantarflexion",
+      "Toe extension"
+    ],
+    "answer": 1,
+    "explanation": "As the primary hip extensor, gluteus maximus generates the most force during demanding extension movements."
+  },
+  {
+    "q": "Gluteus medius originates from the:",
+    "options": [
+      "Superior gluteal line of the ilium",
+      "Ischial tuberosity",
+      "Anterior sacrum",
+      "Pubic ramus"
+    ],
+    "answer": 0,
+    "explanation": "Gluteus medius arises from the outer surface of the ilium along the superior gluteal line."
+  },
+  {
+    "q": "Gluteus medius inserts onto the:",
+    "options": [
+      "Iliotibial band",
+      "Greater trochanter",
+      "Gluteal tuberosity",
+      "Lesser trochanter"
+    ],
+    "answer": 1,
+    "explanation": "Gluteus medius inserts directly on the greater trochanter of the femur."
+  },
+  {
+    "q": "Which nerve innervates gluteus medius?",
+    "options": [
+      "Inferior gluteal nerve",
+      "Sciatic nerve",
+      "Superior gluteal nerve",
+      "Pudendal nerve"
+    ],
+    "answer": 2,
+    "explanation": "Gluteus medius, minimus, and TFL are all innervated by the superior gluteal nerve."
+  },
+  {
+    "q": "Gluteus minimus originates from the:",
+    "options": [
+      "Inferior gluteal line of the ilium",
+      "Ischial spine",
+      "Pubic tubercle",
+      "Posterior sacrum"
+    ],
+    "answer": 0,
+    "explanation": "Gluteus minimus arises from the ilium just below gluteus medius, along the inferior gluteal line."
+  },
+  {
+    "q": "Gluteus minimus inserts onto the:",
+    "options": [
+      "Iliotibial band",
+      "Gluteal tuberosity",
+      "Greater trochanter",
+      "Ischial tuberosity"
+    ],
+    "answer": 2,
+    "explanation": "Like gluteus medius, gluteus minimus inserts on the greater trochanter."
+  },
+  {
+    "q": "Gluteus medius and minimus share which two actions?",
+    "options": [
+      "Extension and lateral rotation",
+      "Abduction and medial rotation of the hip",
+      "Flexion and adduction",
+      "Plantarflexion and inversion"
+    ],
+    "answer": 1,
+    "explanation": "Both muscles abduct and medially rotate the hip, and both stabilize the pelvis during single-leg stance."
+  },
+  {
+    "q": "During normal walking, weakness of gluteus medius/minimus on the stance-leg side classically produces which observable sign?",
+    "options": [
+      "Excessive knee flexion on the opposite side",
+      "A Trendelenburg-type hip drop toward the unsupported side",
+      "Toe walking",
+      "Increased arm swing only"
+    ],
+    "answer": 1,
+    "explanation": "Weak hip abductors fail to stabilize the pelvis during single-leg stance, causing the opposite hip to drop (Trendelenburg sign)."
+  },
+  {
+    "q": "Tensor fasciae latae (TFL) originates from the:",
+    "options": [
+      "Anterior iliac crest",
+      "Ischial tuberosity",
+      "Posterior sacrum",
+      "Pubic tubercle"
+    ],
+    "answer": 0,
+    "explanation": "TFL arises from the anterior portion of the iliac crest, near the ASIS."
+  },
+  {
+    "q": "Tensor fasciae latae's three actions at the hip are:",
+    "options": [
+      "Extension, adduction, lateral rotation",
+      "Abduction, flexion, and medial rotation",
+      "Flexion, adduction, lateral rotation",
+      "Extension, abduction, lateral rotation"
+    ],
+    "answer": 1,
+    "explanation": "TFL abducts, flexes, and medially rotates the hip, then transmits its pull down the IT band."
+  },
+  {
+    "q": "Which nerve innervates tensor fasciae latae?",
+    "options": [
+      "Femoral nerve",
+      "Superior gluteal nerve",
+      "Inferior gluteal nerve",
+      "Obturator nerve"
+    ],
+    "answer": 1,
+    "explanation": "TFL shares superior gluteal nerve innervation with gluteus medius and minimus."
+  },
+  {
+    "q": "Which muscle lies directly deep to the iliotibial band on the lateral thigh?",
+    "options": [
+      "Rectus femoris",
+      "Semimembranosus",
+      "Vastus lateralis",
+      "Gracilis"
+    ],
+    "answer": 2,
+    "explanation": "The vastus lateralis lies immediately beneath the IT band along the lateral thigh."
+  },
+  {
+    "q": "All six deep lateral hip rotators share which single common action?",
+    "options": [
+      "Hip flexion",
+      "Medial rotation of the hip",
+      "Lateral rotation of the hip",
+      "Knee extension"
+    ],
+    "answer": 2,
+    "explanation": "Piriformis, quadratus femoris, both obturators, and both gemelli all laterally rotate the hip."
+  },
+  {
+    "q": "Piriformis originates from the:",
+    "options": [
+      "Anterior sacrum",
+      "Ischial tuberosity",
+      "Obturator foramen",
+      "Ischial spine"
+    ],
+    "answer": 0,
+    "explanation": "Piriformis arises from the anterior (pelvic) surface of the sacrum."
+  },
+  {
+    "q": "Piriformis inserts onto the:",
+    "options": [
+      "Intertrochanteric crest",
+      "Greater trochanter",
+      "Lesser trochanter",
+      "Trochanteric fossa"
+    ],
+    "answer": 1,
+    "explanation": "Piriformis inserts on the superior aspect of the greater trochanter."
+  },
+  {
+    "q": "In addition to laterally rotating the hip, piriformis also abducts the hip when the hip is in which position?",
+    "options": [
+      "Fully extended",
+      "Flexed",
+      "Adducted and extended",
+      "Neutral rotation"
+    ],
+    "answer": 1,
+    "explanation": "When the hip is flexed to roughly 90 degrees, piriformis's line of pull changes and it acts as an abductor instead."
+  },
+  {
+    "q": "The sciatic nerve typically runs directly through or beneath which deep hip rotator, explaining piriformis syndrome?",
+    "options": [
+      "Obturator internus",
+      "Piriformis",
+      "Quadratus femoris",
+      "Gemellus superior"
+    ],
+    "answer": 1,
+    "explanation": "In most people the sciatic nerve passes just deep to piriformis; spasm/tightness here can compress the nerve and mimic sciatica."
+  },
+  {
+    "q": "Quadratus femoris originates from the:",
+    "options": [
+      "Ischial tuberosity",
+      "Ischial spine",
+      "Obturator foramen",
+      "Anterior sacrum"
+    ],
+    "answer": 0,
+    "explanation": "Quadratus femoris arises from the ischial tuberosity, the same landmark that gives rise to the hamstrings."
+  },
+  {
+    "q": "Quadratus femoris inserts onto the:",
+    "options": [
+      "Greater trochanter",
+      "Intertrochanteric crest",
+      "Trochanteric fossa",
+      "Gluteal tuberosity"
+    ],
+    "answer": 1,
+    "explanation": "Quadratus femoris inserts along the intertrochanteric crest of the femur."
+  },
+  {
+    "q": "Obturator externus is unique among the deep six lateral rotators because it is innervated by the:",
+    "options": [
+      "Superior gluteal nerve",
+      "Sciatic nerve",
+      "Obturator nerve",
+      "Inferior gluteal nerve"
+    ],
+    "answer": 2,
+    "explanation": "Unlike the other five deep rotators (branches of the sacral plexus), obturator externus is supplied by the obturator nerve."
+  },
+  {
+    "q": "Obturator internus originates from the:",
+    "options": [
+      "Internal surface of the obturator foramen",
+      "External surface of the obturator foramen",
+      "Ischial spine",
+      "Anterior sacrum"
+    ],
+    "answer": 0,
+    "explanation": "Obturator internus arises from the internal (pelvic) surface of the obturator foramen and membrane."
+  },
+  {
+    "q": "Obturator externus originates from the:",
+    "options": [
+      "Internal surface of the obturator foramen",
+      "External surface of the obturator foramen",
+      "Ischial tuberosity",
+      "Anterior sacrum"
+    ],
+    "answer": 1,
+    "explanation": "Obturator externus arises from the external (outer) surface of the obturator foramen, deep in the groin/upper thigh."
+  },
+  {
+    "q": "Obturator externus inserts onto the:",
+    "options": [
+      "Greater trochanter",
+      "Trochanteric fossa",
+      "Intertrochanteric crest",
+      "Lesser trochanter"
+    ],
+    "answer": 1,
+    "explanation": "Obturator externus inserts into the trochanteric fossa on the medial surface of the greater trochanter."
+  },
+  {
+    "q": "Gemellus superior originates from the:",
+    "options": [
+      "Ischial spine",
+      "Ischial tuberosity",
+      "Anterior sacrum",
+      "Obturator foramen"
+    ],
+    "answer": 0,
+    "explanation": "Gemellus superior arises from the ischial spine, just above obturator internus's tendon."
+  },
+  {
+    "q": "Gemellus inferior originates from the:",
+    "options": [
+      "Ischial spine",
+      "Ischial tuberosity",
+      "Pubic ramus",
+      "Anterior sacrum"
+    ],
+    "answer": 1,
+    "explanation": "Gemellus inferior arises from the ischial tuberosity, below the obturator internus tendon."
+  },
+  {
+    "q": "Gemellus superior and gemellus inferior both insert onto the:",
+    "options": [
+      "Trochanteric fossa",
+      "Greater trochanter",
+      "Intertrochanteric crest",
+      "Lesser trochanter"
+    ],
+    "answer": 1,
+    "explanation": "Both gemelli insert on the greater trochanter, sandwiching the obturator internus tendon as it passes between them."
+  },
+  {
+    "q": "Adductor longus originates from the:",
+    "options": [
+      "Pubic tubercle",
+      "Ischial tuberosity",
+      "Inferior pubic ramus",
+      "Iliac fossa"
+    ],
+    "answer": 0,
+    "explanation": "Adductor longus arises from the pubic tubercle, anterior on the pubic bone."
+  },
+  {
+    "q": "Adductor longus inserts onto the:",
+    "options": [
+      "Pectineal line",
+      "Linea aspera",
+      "Medial proximal tibia",
+      "Adductor tubercle"
+    ],
+    "answer": 1,
+    "explanation": "Adductor longus inserts along the linea aspera of the femur."
+  },
+  {
+    "q": "Which nerve innervates most of the adductor group, including adductor longus, brevis, and gracilis?",
+    "options": [
+      "Femoral nerve",
+      "Obturator nerve",
+      "Sciatic nerve",
+      "Superior gluteal nerve"
+    ],
+    "answer": 1,
+    "explanation": "The obturator nerve, passing through the obturator foramen, supplies most of the medial thigh adductors."
+  },
+  {
+    "q": "Adductor magnus originates from the:",
+    "options": [
+      "Ischial tuberosity and pubic/ischial rami",
+      "Pubic tubercle only",
+      "Iliac fossa",
+      "Anterior sacrum"
+    ],
+    "answer": 0,
+    "explanation": "As the largest adductor, adductor magnus has a broad origin spanning the ischial tuberosity and pubic/ischial rami."
+  },
+  {
+    "q": "Adductor magnus inserts onto the:",
+    "options": [
+      "Pectineal line",
+      "Linea aspera and adductor tubercle",
+      "Tibial tuberosity",
+      "Greater trochanter"
+    ],
+    "answer": 1,
+    "explanation": "Adductor magnus inserts along a long line from the linea aspera down to the adductor tubercle."
+  },
+  {
+    "q": "Adductor magnus is unusual among the adductors because its posterior (hamstring) portion is innervated by the:",
+    "options": [
+      "Obturator nerve, like the rest of the muscle",
+      "Tibial division of the sciatic nerve",
+      "Femoral nerve",
+      "Superior gluteal nerve"
+    ],
+    "answer": 1,
+    "explanation": "The adductor portion is supplied by the obturator nerve, but the posterior 'ischiocondylar' portion acts more like a hamstring and is innervated by the tibial division of the sciatic nerve."
+  },
+  {
+    "q": "Because it has both anterior and posterior fibers, adductor magnus can produce which combination of hip actions?",
+    "options": [
+      "Only adduction",
+      "Adduction plus both flexion (anterior fibers) and extension (posterior fibers)",
+      "Only abduction",
+      "Only lateral rotation"
+    ],
+    "answer": 1,
+    "explanation": "The dual fiber orientation of adductor magnus lets it adduct while either flexing or extending the hip depending on which fibers dominate."
+  },
+  {
+    "q": "Adductor brevis originates from the:",
+    "options": [
+      "Inferior pubic ramus",
+      "Ischial tuberosity",
+      "Pubic tubercle",
+      "Iliac fossa"
+    ],
+    "answer": 0,
+    "explanation": "Adductor brevis arises from the inferior pubic ramus, deep to adductor longus."
+  },
+  {
+    "q": "Adductor brevis inserts onto the:",
+    "options": [
+      "Pectineal line",
+      "Linea aspera",
+      "Adductor tubercle",
+      "Medial tibial condyle"
+    ],
+    "answer": 1,
+    "explanation": "Adductor brevis inserts along the upper portion of the linea aspera."
+  },
+  {
+    "q": "Pectineus originates from the:",
+    "options": [
+      "Pectineal line of the pubis",
+      "Ischial tuberosity",
+      "Anterior iliac crest",
+      "Obturator foramen"
+    ],
+    "answer": 0,
+    "explanation": "Pectineus arises from the pectineal line on the superior pubic ramus."
+  },
+  {
+    "q": "Pectineus inserts onto the:",
+    "options": [
+      "Pectineal line of the femur",
+      "Linea aspera exclusively",
+      "Tibial tuberosity",
+      "Greater trochanter"
+    ],
+    "answer": 0,
+    "explanation": "Pectineus inserts on the pectineal line of the femur, just below the lesser trochanter."
+  },
+  {
+    "q": "Pectineus's actions at the hip are:",
+    "options": [
+      "Abduction and lateral rotation",
+      "Adduction and flexion",
+      "Extension and medial rotation",
+      "Adduction and extension"
+    ],
+    "answer": 1,
+    "explanation": "Pectineus both adducts and flexes the hip."
+  },
+  {
+    "q": "Gracilis originates from the:",
+    "options": [
+      "Inferior pubic ramus",
+      "Ischial tuberosity",
+      "Anterior superior iliac spine",
+      "Pubic tubercle"
+    ],
+    "answer": 0,
+    "explanation": "Gracilis arises from the inferior pubic ramus, the most medial and superficial of the adductor group."
+  },
+  {
+    "q": "Gracilis is unique among the adductor group because it also crosses the knee to:",
+    "options": [
+      "Extend the knee",
+      "Flex and medially rotate the knee",
+      "Laterally rotate the knee",
+      "Have no action at the knee"
+    ],
+    "answer": 1,
+    "explanation": "Gracilis inserts at the pes anserine on the tibia, so besides adducting/flexing the hip it also flexes and medially rotates the knee."
+  },
+  {
+    "q": "Which three muscles/tendons converge to form the pes anserine on the medial proximal tibia?",
+    "options": [
+      "Sartorius, gracilis, semitendinosus",
+      "Sartorius, vastus medialis, semimembranosus",
+      "Gracilis, adductor longus, biceps femoris",
+      "Rectus femoris, gracilis, piriformis"
+    ],
+    "answer": 0,
+    "explanation": "The mnemonic 'Say Grace before Tea' recalls Sartorius, Gracilis, and semiTendinosus forming the pes anserine."
+  },
+  {
+    "q": "Sartorius originates from the:",
+    "options": [
+      "Anterior superior iliac spine (ASIS)",
+      "Anterior inferior iliac spine (AIIS)",
+      "Ischial tuberosity",
+      "Pubic tubercle"
+    ],
+    "answer": 0,
+    "explanation": "Sartorius arises from the ASIS, the most anterior point of the iliac crest."
+  },
+  {
+    "q": "Sartorius's combined actions at the hip are:",
+    "options": [
+      "Extension, adduction, medial rotation",
+      "Flexion, abduction, lateral rotation",
+      "Flexion, adduction, medial rotation",
+      "Extension, abduction, lateral rotation"
+    ],
+    "answer": 1,
+    "explanation": "Sartorius flexes, abducts, and laterally rotates the hip (as in crossing the leg to sit cross-legged), while also flexing the knee."
+  },
+  {
+    "q": "Which nerve innervates sartorius?",
+    "options": [
+      "Obturator nerve",
+      "Femoral nerve",
+      "Superior gluteal nerve",
+      "Sciatic nerve"
+    ],
+    "answer": 1,
+    "explanation": "Sartorius is innervated by the femoral nerve, along with the rest of the anterior thigh muscles."
+  },
+  {
+    "q": "Rectus femoris originates from the:",
+    "options": [
+      "Anterior inferior iliac spine (AIIS)",
+      "Anterior superior iliac spine (ASIS)",
+      "Linea aspera",
+      "Greater trochanter"
+    ],
+    "answer": 0,
+    "explanation": "Rectus femoris arises from the AIIS, distinguishing it from sartorius which arises from the ASIS."
+  },
+  {
+    "q": "Rectus femoris inserts, along with the other quadriceps muscles, onto the:",
+    "options": [
+      "Tibial tuberosity",
+      "Pes anserine",
+      "Fibular head",
+      "Greater trochanter"
+    ],
+    "answer": 0,
+    "explanation": "All four quadriceps muscles converge on the patella and quadriceps tendon to insert at the tibial tuberosity."
+  },
+  {
+    "q": "Which nerve innervates the entire quadriceps group, including rectus femoris?",
+    "options": [
+      "Femoral nerve",
+      "Obturator nerve",
+      "Sciatic nerve",
+      "Superior gluteal nerve"
+    ],
+    "answer": 0,
+    "explanation": "The femoral nerve innervates all four quadriceps muscles."
+  },
+  {
+    "q": "Vastus lateralis originates from the:",
+    "options": [
+      "Linea aspera and gluteal tuberosity",
+      "Anterior inferior iliac spine",
+      "Ischial tuberosity",
+      "Pubic ramus"
+    ],
+    "answer": 0,
+    "explanation": "Vastus lateralis arises broadly from the linea aspera and gluteal tuberosity of the femur."
+  },
+  {
+    "q": "Vastus medialis originates from the:",
+    "options": [
+      "Linea aspera",
+      "Anterior inferior iliac spine",
+      "Ischial tuberosity",
+      "Greater trochanter"
+    ],
+    "answer": 0,
+    "explanation": "Vastus medialis arises from the medial aspect of the linea aspera."
+  },
+  {
+    "q": "Vastus intermedius originates from the:",
+    "options": [
+      "Anterior/lateral shaft of the femur",
+      "Ischial tuberosity",
+      "Pubic tubercle",
+      "Anterior superior iliac spine"
+    ],
+    "answer": 0,
+    "explanation": "Vastus intermedius lies deep to rectus femoris, arising directly from the femoral shaft."
+  },
+  {
+    "q": "Biceps femoris originates from the:",
+    "options": [
+      "Ischial tuberosity (long head) and femur (short head)",
+      "Iliac fossa only",
+      "Pubic tubercle",
+      "Ischial spine"
+    ],
+    "answer": 0,
+    "explanation": "Biceps femoris has two heads: a long head from the ischial tuberosity and a short head from the femur (linea aspera)."
+  },
+  {
+    "q": "Biceps femoris inserts onto the:",
+    "options": [
+      "Medial tibial condyle",
+      "Fibular head",
+      "Tibial tuberosity",
+      "Pes anserine"
+    ],
+    "answer": 1,
+    "explanation": "Biceps femoris inserts on the fibular head, the most lateral of the three hamstring insertions."
+  },
+  {
+    "q": "Which nerve innervates the long head of biceps femoris and the other two hamstrings?",
+    "options": [
+      "Tibial division of the sciatic nerve",
+      "Common fibular division of the sciatic nerve",
+      "Femoral nerve",
+      "Obturator nerve"
+    ],
+    "answer": 0,
+    "explanation": "The long head of biceps femoris, semitendinosus, and semimembranosus are all innervated by the tibial division of the sciatic nerve."
+  },
+  {
+    "q": "Uniquely among the hamstrings, the short head of biceps femoris is innervated by the:",
+    "options": [
+      "Tibial division of the sciatic nerve",
+      "Common fibular (peroneal) division of the sciatic nerve",
+      "Femoral nerve",
+      "Obturator nerve"
+    ],
+    "answer": 1,
+    "explanation": "Because the short head develops differently, it receives innervation from the fibular division of the sciatic nerve rather than the tibial division."
+  },
+  {
+    "q": "Semitendinosus originates from the:",
+    "options": [
+      "Ischial tuberosity",
+      "Femur (linea aspera)",
+      "Pubic tubercle",
+      "Ischial spine"
+    ],
+    "answer": 0,
+    "explanation": "Semitendinosus, like semimembranosus and the long head of biceps femoris, arises from the ischial tuberosity."
+  },
+  {
+    "q": "Semitendinosus inserts onto the:",
+    "options": [
+      "Fibular head",
+      "Medial proximal tibia (pes anserine)",
+      "Medial tibial condyle",
+      "Tibial tuberosity"
+    ],
+    "answer": 1,
+    "explanation": "Semitendinosus inserts at the pes anserine on the medial proximal tibia, alongside sartorius and gracilis."
+  },
+  {
+    "q": "Semimembranosus originates from the:",
+    "options": [
+      "Ischial tuberosity",
+      "Femur",
+      "Pubic ramus",
+      "Anterior sacrum"
+    ],
+    "answer": 0,
+    "explanation": "Semimembranosus shares its origin at the ischial tuberosity with the other two hamstrings."
+  },
+  {
+    "q": "Semimembranosus inserts onto the:",
+    "options": [
+      "Fibular head",
+      "Pes anserine",
+      "Medial condyle of the tibia",
+      "Tibial tuberosity"
+    ],
+    "answer": 2,
+    "explanation": "Semimembranosus inserts on the posteromedial aspect of the medial tibial condyle, distinct from the pes anserine tendons."
+  },
+  {
+    "q": "All three hamstring muscles share which two actions?",
+    "options": [
+      "Knee extension and hip flexion",
+      "Knee flexion and hip extension",
+      "Hip abduction and knee extension",
+      "Ankle plantarflexion and knee flexion"
+    ],
+    "answer": 1,
+    "explanation": "Biceps femoris, semitendinosus, and semimembranosus all flex the knee and extend the hip."
+  },
+  {
+    "q": "The hamstrings and quadriceps are considered the classic antagonist pair of the thigh because they oppose each other at the:",
+    "options": [
+      "Hip only",
+      "Knee joint",
+      "Ankle joint",
+      "Sacroiliac joint"
+    ],
+    "answer": 1,
+    "explanation": "Hamstrings flex the knee while quadriceps extend it, making them primary antagonists there (though both also act at the hip)."
+  },
+  {
+    "q": "A posterior pelvic tilt is typically associated with which muscular imbalance?",
+    "options": [
+      "Tight hip flexors and weak hip extensors",
+      "Tight hamstrings/glutes and relatively weaker hip flexors",
+      "No muscular involvement",
+      "Tight quadriceps only"
+    ],
+    "answer": 1,
+    "explanation": "Posterior pelvic tilt is often driven by tight hamstrings and glutes pulling the pelvis into a backward tilt, with underactive hip flexors."
+  },
+  {
+    "q": "An anterior pelvic tilt is typically associated with tightness in which muscles?",
+    "options": [
+      "Gluteus maximus and hamstrings",
+      "Iliopsoas and rectus femoris",
+      "Gluteus medius and TFL",
+      "Adductor magnus and gracilis"
+    ],
+    "answer": 1,
+    "explanation": "Tight hip flexors, especially iliopsoas and rectus femoris, are classic contributors to anterior pelvic tilt."
+  },
+  {
+    "q": "Because rectus femoris crosses both the hip and knee, a tight rectus femoris can contribute to:",
+    "options": [
+      "Posterior pelvic tilt and knee flexion contracture",
+      "Anterior pelvic tilt and reduced active knee flexion",
+      "Lateral pelvic tilt only",
+      "No postural effects since it is a single-joint muscle"
+    ],
+    "answer": 1,
+    "explanation": "A shortened rectus femoris pulls the pelvis forward into anterior tilt and can limit knee flexion range."
+  },
+  {
+    "q": "Which muscle both adducts the hip and, because it also crosses the knee, assists in that joint's flexion and medial rotation?",
+    "options": [
+      "Adductor magnus",
+      "Gracilis",
+      "Pectineus",
+      "Adductor brevis"
+    ],
+    "answer": 1,
+    "explanation": "Gracilis is the only adductor group muscle that crosses the knee joint."
+  },
+  {
+    "q": "The gluteus maximus's insertion into the iliotibial band links it functionally with which other hip muscle that also inserts on the IT band?",
+    "options": [
+      "Piriformis",
+      "Tensor fasciae latae",
+      "Gluteus minimus",
+      "Quadratus femoris"
+    ],
+    "answer": 1,
+    "explanation": "Both gluteus maximus and TFL feed into the IT band, coordinating lateral hip/thigh stability."
+  },
+  {
+    "q": "Deep, sustained pressure on a tender point in the buttock that reproduces pain radiating down the posterior thigh is a classic finding when assessing the:",
+    "options": [
+      "Sartorius",
+      "Piriformis",
+      "Vastus medialis",
+      "Gracilis"
+    ],
+    "answer": 1,
+    "explanation": "This is the classic presentation used to help identify piriformis involvement/piriformis syndrome."
+  },
+  {
+    "q": "Which bony landmark serves as the insertion point shared by gluteus medius, gluteus minimus, piriformis, obturator internus, and both gemelli?",
+    "options": [
+      "Ischial tuberosity",
+      "Lesser trochanter",
+      "Greater trochanter",
+      "Iliac crest"
+    ],
+    "answer": 2,
+    "explanation": "The greater trochanter is a major insertion hub for several hip abductors and lateral rotators."
+  },
+  {
+    "q": "Which muscle's tightness is classically implicated in IT band syndrome, given its direct insertion into the iliotibial band along with gluteus maximus?",
+    "options": [
+      "Tensor fasciae latae",
+      "Semitendinosus",
+      "Pectineus",
+      "Obturator externus"
+    ],
+    "answer": 0,
+    "explanation": "TFL feeds directly into the IT band; excessive tightness or overuse is commonly linked to IT band syndrome at the lateral knee."
+  },
+  {
+    "q": "Hamstring strains most commonly occur during which type of muscle action?",
+    "options": [
+      "Concentric contraction during slow walking",
+      "Eccentric contraction during high-speed activities like sprinting",
+      "Isometric contraction while seated",
+      "Passive stretching only"
+    ],
+    "answer": 1,
+    "explanation": "Hamstrings are especially vulnerable to strain when contracting eccentrically at high speed, such as during the late swing phase of sprinting."
   }
 ]

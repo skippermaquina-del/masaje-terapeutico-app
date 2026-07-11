@@ -1,122 +1,1102 @@
 [
   {
     "q": "Client assessment should be understood as:",
-    "options": ["A one-time event during intake only", "An ongoing process throughout the session", "Something only physicians perform", "Optional if the client seems fine"],
+    "options": [
+      "A one-time event during intake only",
+      "An ongoing process throughout the session",
+      "Something only physicians perform",
+      "Optional if the client seems fine"
+    ],
     "answer": 1,
     "explanation": "Assessment continues throughout the session, not just at intake."
   },
   {
     "q": "A client says their shoulder pain is a 6 out of 10 and worse in the morning. This is an example of:",
-    "options": ["Objective data", "Subjective data", "A red flag", "A treatment plan"],
+    "options": [
+      "Objective data",
+      "Subjective data",
+      "A red flag",
+      "A treatment plan"
+    ],
     "answer": 1,
     "explanation": "This is the client's own report — subjective data."
   },
   {
     "q": "The therapist observes visible swelling and reduced range of motion in a client's shoulder. This is an example of:",
-    "options": ["Subjective data", "Objective data", "A treatment plan", "A SOAP assessment only"],
+    "options": [
+      "Subjective data",
+      "Objective data",
+      "A treatment plan",
+      "A SOAP assessment only"
+    ],
     "answer": 1,
     "explanation": "Directly observed/measured findings are objective data."
   },
   {
     "q": "The primary purpose of intake is to determine:",
-    "options": ["A medical diagnosis for the client", "Whether massage is appropriate and how it should be modified", "The exact cause of all symptoms", "Insurance billing codes"],
+    "options": [
+      "A medical diagnosis for the client",
+      "Whether massage is appropriate and how it should be modified",
+      "The exact cause of all symptoms",
+      "Insurance billing codes"
+    ],
     "answer": 1,
     "explanation": "Intake determines appropriateness and modification of massage, not diagnosis."
   },
   {
     "q": "Involuntary muscle tensing in response to pain or perceived threat is called:",
-    "options": ["Hypertonicity", "Guarding", "Edema", "Asymmetry"],
+    "options": [
+      "Hypertonicity",
+      "Guarding",
+      "Edema",
+      "Asymmetry"
+    ],
     "answer": 1,
     "explanation": "Guarding is the involuntary protective tensing response."
   },
   {
     "q": "Palpation findings are best used to:",
-    "options": ["Confirm a medical diagnosis", "Guide pressure, technique, and pacing decisions", "Replace the need for client communication", "Determine billing codes only"],
+    "options": [
+      "Confirm a medical diagnosis",
+      "Guide pressure, technique, and pacing decisions",
+      "Replace the need for client communication",
+      "Determine billing codes only"
+    ],
     "answer": 1,
     "explanation": "Palpation informs clinical decisions about technique but never justifies diagnosis."
   },
   {
     "q": "If a client reports sharp pain during a technique, the therapist should:",
-    "options": ["Continue at the same pressure to work through it", "Reduce pressure and reassess", "End the session immediately with no explanation", "Ignore it if it seems minor"],
+    "options": [
+      "Continue at the same pressure to work through it",
+      "Reduce pressure and reassess",
+      "End the session immediately with no explanation",
+      "Ignore it if it seems minor"
+    ],
     "answer": 1,
     "explanation": "Reported discomfort requires adjusting pressure/technique and reassessing, not pushing through."
   },
   {
     "q": "In SOAP notes, which section contains what the client reports in their own words?",
-    "options": ["Objective", "Assessment", "Subjective", "Plan"],
+    "options": [
+      "Objective",
+      "Assessment",
+      "Subjective",
+      "Plan"
+    ],
     "answer": 2,
     "explanation": "The Subjective section captures the client's own reported experience."
   },
   {
     "q": "In SOAP notes, which section outlines what will be done in this or future sessions?",
-    "options": ["Subjective", "Objective", "Assessment", "Plan"],
+    "options": [
+      "Subjective",
+      "Objective",
+      "Assessment",
+      "Plan"
+    ],
     "answer": 3,
     "explanation": "The Plan section describes the intended course of treatment."
   },
   {
     "q": "Which of the following is an appropriate entry in the 'Assessment' section of SOAP notes?",
-    "options": ["'Client has a herniated disc'", "'Tissue appears hypertonic in the upper trapezius'", "'Client is probably exaggerating symptoms'", "'Client should stop taking their medication'"],
+    "options": [
+      "'Client has a herniated disc'",
+      "'Tissue appears hypertonic in the upper trapezius'",
+      "'Client is probably exaggerating symptoms'",
+      "'Client should stop taking their medication'"
+    ],
     "answer": 1,
     "explanation": "Assessment entries should stay within scope, describing clinical findings without diagnosing."
   },
   {
     "q": "Documentation should generally be:",
-    "options": ["Filled with the therapist's personal opinions", "Factual and objective", "Written only if something goes wrong", "Optional for routine sessions"],
+    "options": [
+      "Filled with the therapist's personal opinions",
+      "Factual and objective",
+      "Written only if something goes wrong",
+      "Optional for routine sessions"
+    ],
     "answer": 1,
     "explanation": "Good documentation is factual and free of personal opinions."
   },
   {
     "q": "What is the practical risk of not documenting a session finding?",
-    "options": ["There is no risk — verbal notice is enough", "Legally and clinically, undocumented findings are effectively unaddressed", "Documentation is only required for insurance purposes", "Only serious findings need documentation"],
+    "options": [
+      "There is no risk — verbal notice is enough",
+      "Legally and clinically, undocumented findings are effectively unaddressed",
+      "Documentation is only required for insurance purposes",
+      "Only serious findings need documentation"
+    ],
     "answer": 1,
     "explanation": "'If it wasn't documented, it didn't happen' — thorough documentation protects both client and therapist."
   },
   {
     "q": "A client reports new numbness in their arm that wasn't present before. The best response is to:",
-    "options": ["Continue the session as planned", "Pause the session and recommend medical referral", "Apply deeper pressure to the area", "Note it but take no further action"],
+    "options": [
+      "Continue the session as planned",
+      "Pause the session and recommend medical referral",
+      "Apply deeper pressure to the area",
+      "Note it but take no further action"
+    ],
     "answer": 1,
     "explanation": "New neurological symptoms are a red flag requiring pause and referral."
   },
   {
     "q": "A client asks the therapist for advice on adjusting their medication dosage. The therapist should:",
-    "options": ["Give a general opinion based on experience", "Stay within scope and refer to a licensed medical provider", "Recommend they stop the medication", "Avoid answering and change the topic entirely"],
+    "options": [
+      "Give a general opinion based on experience",
+      "Stay within scope and refer to a licensed medical provider",
+      "Recommend they stop the medication",
+      "Avoid answering and change the topic entirely"
+    ],
     "answer": 1,
     "explanation": "Medication advice is outside scope; refer to an appropriate licensed provider."
   },
   {
     "q": "A therapist notices visible, undiagnosed skin lesions on a client's back. The appropriate response is to:",
-    "options": ["Massage directly over the lesions", "Avoid the area and follow hygiene/infection control protocols", "Diagnose the lesion type for the client", "Ignore it since it's probably nothing"],
+    "options": [
+      "Massage directly over the lesions",
+      "Avoid the area and follow hygiene/infection control protocols",
+      "Diagnose the lesion type for the client",
+      "Ignore it since it's probably nothing"
+    ],
     "answer": 1,
     "explanation": "Undiagnosed lesions should be avoided locally, following hygiene and infection control practices."
   },
   {
     "q": "Which best describes 'hypertonicity'?",
-    "options": ["Reduced muscle tone", "Excessive muscle tone/tension", "Fluid swelling in tissue", "A type of red flag symptom only"],
+    "options": [
+      "Reduced muscle tone",
+      "Excessive muscle tone/tension",
+      "Fluid swelling in tissue",
+      "A type of red flag symptom only"
+    ],
     "answer": 1,
     "explanation": "Hypertonicity refers to excessive muscle tone or tension."
   },
   {
     "q": "Comparing the left and right sides of the body for differences during assessment relates to:",
-    "options": ["Symmetry/asymmetry", "Subjective data only", "SOAP documentation format", "Chief complaint"],
+    "options": [
+      "Symmetry/asymmetry",
+      "Subjective data only",
+      "SOAP documentation format",
+      "Chief complaint"
+    ],
     "answer": 0,
     "explanation": "Symmetry/asymmetry assessment compares sides of the body for meaningful differences."
   },
   {
     "q": "Which best reflects 'client-centered' treatment planning?",
-    "options": ["The therapist works only on areas they find interesting", "The plan reflects what the client wants addressed", "The plan is fixed and never adjusted", "The therapist ignores client feedback during the session"],
+    "options": [
+      "The therapist works only on areas they find interesting",
+      "The plan reflects what the client wants addressed",
+      "The plan is fixed and never adjusted",
+      "The therapist ignores client feedback during the session"
+    ],
     "answer": 1,
     "explanation": "Client-centered planning means the plan reflects the client's own goals and needs."
   },
   {
     "q": "A 'red flag' finding during intake most likely indicates:",
-    "options": ["A routine, expected finding requiring no action", "A possible issue beyond simple musculoskeletal concerns, warranting caution or referral", "That the client should be discharged permanently", "That massage should always proceed as planned"],
+    "options": [
+      "A routine, expected finding requiring no action",
+      "A possible issue beyond simple musculoskeletal concerns, warranting caution or referral",
+      "That the client should be discharged permanently",
+      "That massage should always proceed as planned"
+    ],
     "answer": 1,
     "explanation": "Red flags suggest something may be outside routine musculoskeletal issues, warranting extra caution or referral."
   },
   {
     "q": "Reassessment during a session (e.g., asking 'how does that pressure feel?') is important because:",
-    "options": ["It has no real clinical value, just conversation", "It allows the treatment to adapt based on real-time feedback", "It replaces the need for intake entirely", "It's only necessary for new clients"],
+    "options": [
+      "It has no real clinical value, just conversation",
+      "It allows the treatment to adapt based on real-time feedback",
+      "It replaces the need for intake entirely",
+      "It's only necessary for new clients"
+    ],
     "answer": 1,
     "explanation": "Ongoing reassessment allows the therapist to adapt technique and pressure based on the client's real-time response."
+  },
+  {
+    "q": "Which best describes the general organization of a massage/bodywork session, from start to finish?",
+    "options": [
+      "Massage begins immediately with no consultation",
+      "Consultation/intake, positioning and treatment, and a closing/post-session discussion",
+      "Only the treatment portion matters; intake and closing are optional",
+      "Documentation always happens before the client arrives"
+    ],
+    "answer": 1,
+    "explanation": "A well-organized session includes intake/consultation, the treatment itself, and a closing discussion, followed by documentation."
+  },
+  {
+    "q": "At the start of a session, reviewing the client's intake information primarily helps the therapist:",
+    "options": [
+      "Fill time before starting",
+      "Identify goals, contraindications, and how to plan the session appropriately",
+      "Avoid the need for a health history form",
+      "Determine the client's payment method"
+    ],
+    "answer": 1,
+    "explanation": "Reviewing intake information helps the therapist plan an appropriate, safe session tailored to the client's needs."
+  },
+  {
+    "q": "A verbal intake conversation, compared to a written health history form, is especially useful for:",
+    "options": [
+      "Creating a permanent legal record",
+      "Clarifying details, asking follow-up questions, and building rapport in real time",
+      "Replacing the need for any written documentation",
+      "Billing purposes only"
+    ],
+    "answer": 1,
+    "explanation": "Verbal intake allows real-time clarification and follow-up questions that a static written form cannot capture."
+  },
+  {
+    "q": "A written health history form is especially valuable because it:",
+    "options": [
+      "Has no legal or clinical significance",
+      "Creates a documented, standardized record of relevant health information collected at intake",
+      "Replaces the need for any verbal conversation with the client",
+      "Is optional for returning clients"
+    ],
+    "answer": 1,
+    "explanation": "A written health history form creates a standardized, documented record that supports both clinical decision-making and legal protection."
+  },
+  {
+    "q": "Which of the following would typically be included on a written health history form?",
+    "options": [
+      "The client's musical preferences",
+      "Current medications, surgeries, allergies, and relevant medical conditions",
+      "The therapist's personal certifications",
+      "The room temperature preference only"
+    ],
+    "answer": 1,
+    "explanation": "Health history forms typically capture medications, surgical history, allergies, and relevant medical conditions to inform safe treatment planning."
+  },
+  {
+    "q": "Health history forms should generally be updated:",
+    "options": [
+      "Only once, at the client's very first visit",
+      "Periodically, since health status and medications can change over time",
+      "Never, once initially completed",
+      "Only if the client requests an update"
+    ],
+    "answer": 1,
+    "explanation": "Health history should be reviewed and updated periodically, since a client's health status can change between visits."
+  },
+  {
+    "q": "\"Written data collection\" in the context of assessment refers to:",
+    "options": [
+      "Only the therapist's SOAP notes after the session",
+      "Any recorded information gathered before, during, or after a session, including intake forms and session notes",
+      "Verbal conversation only",
+      "Marketing materials given to the client"
+    ],
+    "answer": 1,
+    "explanation": "Written data collection encompasses all recorded information relevant to a client's care, from intake forms through session notes."
+  },
+  {
+    "q": "General visual assessment, performed before any hands-on work, typically involves observing:",
+    "options": [
+      "The client's insurance card",
+      "Overall posture, obvious asymmetries, skin condition, and gait as the client walks in",
+      "The client's vehicle in the parking lot",
+      "The client's phone notifications"
+    ],
+    "answer": 1,
+    "explanation": "General visual assessment involves observing overall posture, obvious asymmetries, visible skin conditions, and how the client moves."
+  },
+  {
+    "q": "Postural assessment often uses a reference tool called a:",
+    "options": [
+      "Goniometer",
+      "Plumb line",
+      "Stethoscope",
+      "Sphygmomanometer"
+    ],
+    "answer": 1,
+    "explanation": "A plumb line (a weighted string) provides a vertical reference to assess postural alignment against landmarks like the ears, shoulders, and hips."
+  },
+  {
+    "q": "In ideal postural alignment viewed from the side, a plumb line would generally pass through which landmarks?",
+    "options": [
+      "Only the knees and feet",
+      "Roughly the ear, shoulder, hip, knee, and ankle",
+      "Only the top of the head",
+      "Only the lower back"
+    ],
+    "answer": 1,
+    "explanation": "A commonly referenced ideal alignment has the ear, shoulder, hip, knee, and ankle roughly aligned vertically when viewed from the side."
+  },
+  {
+    "q": "An exaggerated forward curve of the thoracic spine, often associated with rounded shoulders, is called:",
+    "options": [
+      "Lordosis",
+      "Kyphosis",
+      "Scoliosis",
+      "Torticollis"
+    ],
+    "answer": 1,
+    "explanation": "Kyphosis is an excessive forward curvature of the thoracic spine, often seen with rounded, forward-hunched shoulders."
+  },
+  {
+    "q": "An exaggerated inward curve of the lumbar spine is called:",
+    "options": [
+      "Kyphosis",
+      "Lordosis",
+      "Scoliosis",
+      "Kyphoscoliosis"
+    ],
+    "answer": 1,
+    "explanation": "Lordosis refers to an exaggerated inward (anterior) curve of the lumbar spine."
+  },
+  {
+    "q": "A lateral (side-to-side) curvature of the spine is called:",
+    "options": [
+      "Lordosis",
+      "Kyphosis",
+      "Scoliosis",
+      "Spondylosis"
+    ],
+    "answer": 2,
+    "explanation": "Scoliosis is an abnormal lateral curvature of the spine, often visible during postural assessment."
+  },
+  {
+    "q": "\"Forward head posture,\" commonly observed during postural assessment, describes:",
+    "options": [
+      "The head tilted symmetrically backward",
+      "The head positioned forward of the shoulders, often with associated upper back rounding",
+      "A condition affecting only the lower back",
+      "A temporary posture only seen during sleep"
+    ],
+    "answer": 1,
+    "explanation": "Forward head posture describes the head sitting forward of the shoulder line, commonly linked with upper crossed postural patterns."
+  },
+  {
+    "q": "During gait analysis, the phase of walking where the foot is in contact with the ground is called the:",
+    "options": [
+      "Swing phase",
+      "Stance phase",
+      "Float phase",
+      "Recovery phase"
+    ],
+    "answer": 1,
+    "explanation": "The stance phase is when the foot is in contact with the ground and bearing weight; the swing phase is when the foot moves through the air."
+  },
+  {
+    "q": "A limping or asymmetrical gait pattern that avoids weight-bearing on a painful limb is called:",
+    "options": [
+      "A normal gait",
+      "An antalgic gait",
+      "A resisted gait",
+      "A passive gait"
+    ],
+    "answer": 1,
+    "explanation": "An antalgic gait is a limp adopted to reduce pain on a particular limb, typically shortening the stance phase on that side."
+  },
+  {
+    "q": "During gait assessment, a therapist observing reduced or absent arm swing on one side would consider it:",
+    "options": [
+      "Always a normal variation with no significance",
+      "A potential asymmetry worth noting as part of the visual assessment",
+      "Irrelevant to massage therapy",
+      "Something that should never be documented"
+    ],
+    "answer": 1,
+    "explanation": "Reduced arm swing or other asymmetries observed in gait are relevant findings that should be noted as part of a thorough visual assessment."
+  },
+  {
+    "q": "Palpation assessment involves gathering information through:",
+    "options": [
+      "Verbal questioning only",
+      "Touch, to assess qualities like tissue texture, tone, and temperature",
+      "Visual observation only",
+      "Reviewing past medical records only"
+    ],
+    "answer": 1,
+    "explanation": "Palpation is a touch-based assessment method used to gather information about tissue quality, distinct from visual or verbal assessment."
+  },
+  {
+    "q": "During palpation, assessing whether tissue feels unusually warm or cool compared to surrounding areas is evaluating:",
+    "options": [
+      "Range of motion",
+      "Temperature",
+      "Symmetry only",
+      "Chief complaint"
+    ],
+    "answer": 1,
+    "explanation": "Temperature is one of the basic qualities assessed through palpation, alongside texture and tone."
+  },
+  {
+    "q": "A therapist palpates an area and notes it feels puffy with fluid. This finding is best described as:",
+    "options": [
+      "Guarding",
+      "Edema",
+      "Hypertonicity",
+      "Hypotonicity"
+    ],
+    "answer": 1,
+    "explanation": "Edema refers to fluid swelling in tissue, typically felt as puffiness during palpation."
+  },
+  {
+    "q": "Palpating layer by layer from superficial to deep tissue (skin, superficial fascia, muscle) is an example of:",
+    "options": [
+      "A random, unstructured approach to touch",
+      "A systematic palpation approach that helps build an accurate picture of tissue condition",
+      "A technique used only for visual assessment",
+      "An outdated practice with no clinical value"
+    ],
+    "answer": 1,
+    "explanation": "Palpating from superficial to deep layers in a systematic way helps the therapist accurately assess different tissue structures."
+  },
+  {
+    "q": "A taut, rope-like band felt within a muscle during palpation, often associated with a hyperirritable spot, may indicate:",
+    "options": [
+      "Normal, healthy muscle tissue with no findings",
+      "A possible trigger point",
+      "A bone fracture",
+      "A vitamin deficiency"
+    ],
+    "answer": 1,
+    "explanation": "A taut band with a hyperirritable spot is a classic palpation finding associated with a myofascial trigger point."
+  },
+  {
+    "q": "Reduced muscle tone felt during palpation is best described as:",
+    "options": [
+      "Hypertonicity",
+      "Hypotonicity",
+      "Edema",
+      "Guarding"
+    ],
+    "answer": 1,
+    "explanation": "Hypotonicity refers to reduced muscle tone, the opposite of hypertonicity (excessive tone)."
+  },
+  {
+    "q": "Range of motion (ROM) in which the client moves a joint entirely on their own, without therapist assistance, is called:",
+    "options": [
+      "Passive range of motion",
+      "Active range of motion",
+      "Resisted range of motion",
+      "Assisted range of motion"
+    ],
+    "answer": 1,
+    "explanation": "Active range of motion is movement performed entirely by the client's own muscular effort."
+  },
+  {
+    "q": "Range of motion in which the therapist moves the client's joint while the client remains relaxed is called:",
+    "options": [
+      "Active range of motion",
+      "Passive range of motion",
+      "Resisted range of motion",
+      "Functional range of motion"
+    ],
+    "answer": 1,
+    "explanation": "Passive range of motion is movement performed by the therapist while the client stays relaxed and does not assist."
+  },
+  {
+    "q": "Range of motion assessment in which the therapist applies resistance while the client attempts to move the joint is called:",
+    "options": [
+      "Passive range of motion",
+      "Active range of motion",
+      "Resisted range of motion",
+      "Gravity-eliminated range of motion"
+    ],
+    "answer": 2,
+    "explanation": "Resisted range of motion tests the client's ability to move against therapist-applied resistance, helping assess muscle strength and pain response."
+  },
+  {
+    "q": "Which type of range of motion assessment is most useful for identifying whether pain is coming from contractile tissue (muscle/tendon) versus non-contractile tissue?",
+    "options": [
+      "Active range of motion only",
+      "Passive and resisted range of motion, compared together",
+      "Visual assessment alone",
+      "Health history form only"
+    ],
+    "answer": 1,
+    "explanation": "Comparing passive ROM (non-contractile tissue) and resisted ROM (contractile tissue) findings helps differentiate the likely source of pain."
+  },
+  {
+    "q": "During passive range of motion assessment, the quality of resistance felt at the end of the movement is called the:",
+    "options": [
+      "Chief complaint",
+      "End-feel",
+      "Guarding response",
+      "Objective marker"
+    ],
+    "answer": 1,
+    "explanation": "\"End-feel\" describes the quality of resistance felt at the end range of passive movement, which can provide clinical information."
+  },
+  {
+    "q": "A firm, painless stop at the end of elbow extension due to bone contacting bone is an example of a normal:",
+    "options": [
+      "Soft end-feel",
+      "Bony (hard) end-feel",
+      "Empty end-feel",
+      "Springy end-feel"
+    ],
+    "answer": 1,
+    "explanation": "A bony (hard) end-feel, such as at full elbow extension, is a normal, abrupt stop caused by bone-on-bone contact."
+  },
+  {
+    "q": "An end-feel where movement stops due to soft tissue bulk contacting itself (e.g., bending the elbow fully) is called a:",
+    "options": [
+      "Soft (tissue approximation) end-feel",
+      "Hard end-feel",
+      "Empty end-feel",
+      "Capsular end-feel"
+    ],
+    "answer": 0,
+    "explanation": "A soft end-feel occurs when soft tissue bulk (like the forearm meeting the biceps) limits further movement, as in full elbow flexion."
+  },
+  {
+    "q": "If a client reports significant pain before any real mechanical resistance is felt during passive ROM testing, this is often described as an:",
+    "options": [
+      "Empty end-feel",
+      "Normal bony end-feel",
+      "Expected finding requiring no follow-up",
+      "Irrelevant observation"
+    ],
+    "answer": 0,
+    "explanation": "An empty end-feel occurs when pain stops the movement before a true tissue resistance barrier is reached, often signaling a need for caution or referral."
+  },
+  {
+    "q": "A goniometer is a tool used to:",
+    "options": [
+      "Measure blood pressure",
+      "Measure joint angles during range of motion assessment",
+      "Measure body temperature",
+      "Measure grip strength"
+    ],
+    "answer": 1,
+    "explanation": "A goniometer measures joint angles, providing an objective, numeric way to document range of motion."
+  },
+  {
+    "q": "Clinical reasoning in massage therapy includes which of the following tasks?",
+    "options": [
+      "Diagnosing the underlying disease causing symptoms",
+      "Ruling out contraindications and formulating an appropriate treatment strategy",
+      "Prescribing medication adjustments",
+      "Billing insurance companies directly"
+    ],
+    "answer": 1,
+    "explanation": "Clinical reasoning includes ruling out contraindications and formulating a treatment strategy — within scope, and distinct from diagnosing disease."
+  },
+  {
+    "q": "\"Ruling out contraindications\" during clinical reasoning means:",
+    "options": [
+      "Ignoring any findings that complicate the session",
+      "Considering intake and assessment findings to identify reasons a technique or session should be modified, avoided, or referred",
+      "Assuming every client has no contraindications unless they explicitly say so",
+      "Skipping assessment for returning clients"
+    ],
+    "answer": 1,
+    "explanation": "Ruling out contraindications means actively considering findings that would require modifying, avoiding, or referring rather than proceeding as usual."
+  },
+  {
+    "q": "Client treatment goal setting should generally be:",
+    "options": [
+      "Determined solely by the therapist without client input",
+      "A collaborative process reflecting what the client wants from treatment",
+      "Skipped if the therapist has more clinical experience",
+      "The same for every client regardless of their concerns"
+    ],
+    "answer": 1,
+    "explanation": "Goal setting should be collaborative and centered on what the client hopes to achieve, not therapist-driven alone."
+  },
+  {
+    "q": "Evaluating a client's response to a previous treatment is part of clinical reasoning because it:",
+    "options": [
+      "Has no bearing on future sessions",
+      "Helps determine whether the current treatment strategy is working or needs adjustment",
+      "Is only relevant for insurance billing",
+      "Replaces the need for a new intake at each visit"
+    ],
+    "answer": 1,
+    "explanation": "Evaluating response to prior treatment informs whether to continue, adjust, or change the treatment strategy going forward."
+  },
+  {
+    "q": "A client reports that pain in a treated area was unchanged after several sessions using the same approach. Sound clinical reasoning suggests the therapist should:",
+    "options": [
+      "Continue the identical approach indefinitely",
+      "Reevaluate and consider adjusting the treatment strategy",
+      "Stop asking about treatment effectiveness",
+      "Assume the client is exaggerating"
+    ],
+    "answer": 1,
+    "explanation": "A lack of progress after repeated sessions is a cue to reevaluate and adjust the treatment strategy, not simply continue unchanged."
+  },
+  {
+    "q": "\"Formulation of a treatment strategy\" refers to:",
+    "options": [
+      "Randomly selecting techniques for each session",
+      "Planning session focus, techniques, frequency, and goals based on assessment findings",
+      "Copying the same plan used for every client",
+      "Something only physicians do, not massage therapists"
+    ],
+    "answer": 1,
+    "explanation": "Formulating a treatment strategy means using assessment findings to plan an appropriate, individualized course of care."
+  },
+  {
+    "q": "Which best reflects the purpose of the initial consultation before a first-time massage session?",
+    "options": [
+      "To collect payment only",
+      "To gather relevant health information and establish goals and appropriateness of treatment",
+      "To perform the full assessment without any client input",
+      "To skip informed consent"
+    ],
+    "answer": 1,
+    "explanation": "The initial consultation establishes health-relevant information, client goals, and whether/how treatment should proceed."
+  },
+  {
+    "q": "Which of the following is an example of subjective data collected during intake?",
+    "options": [
+      "A goniometer reading of 90 degrees of elbow flexion",
+      "The client's report that their pain feels like a dull ache",
+      "Visible bruising observed by the therapist",
+      "A measured leg-length discrepancy"
+    ],
+    "answer": 1,
+    "explanation": "The client's own description of their pain quality is subjective data, as opposed to therapist-measured or observed findings."
+  },
+  {
+    "q": "Which of the following is an example of objective data collected during assessment?",
+    "options": [
+      "The client's description of when the pain started",
+      "A therapist's measurement of reduced shoulder range of motion",
+      "The client's rating of their stress level",
+      "The client's account of how the injury occurred"
+    ],
+    "answer": 1,
+    "explanation": "A therapist's direct measurement is objective data, distinct from the client's self-reported (subjective) account."
+  },
+  {
+    "q": "A client's \"chief complaint\" refers to:",
+    "options": [
+      "Any complaint about the business's pricing",
+      "The main issue the client wants addressed during treatment",
+      "A list of all contraindications",
+      "The therapist's assessment notes"
+    ],
+    "answer": 0,
+    "explanation": "The chief complaint is the primary concern the client presents with and wants addressed — not a business or billing issue."
+  },
+  {
+    "q": "Which of the following is the best example of a 'red flag' finding during intake?",
+    "options": [
+      "Mild, expected muscle soreness from recent exercise",
+      "Sudden, unexplained weight loss reported by the client",
+      "A client's preference for medium pressure",
+      "A client requesting a 60-minute session"
+    ],
+    "answer": 1,
+    "explanation": "Sudden, unexplained weight loss is a red flag that may indicate an underlying medical issue requiring referral, unlike routine preferences or expected soreness."
+  },
+  {
+    "q": "If assessment findings raise a red flag that is outside the scope of massage therapy, the appropriate next step is to:",
+    "options": [
+      "Continue the session as originally planned",
+      "Pause and consider a referral to an appropriate medical provider",
+      "Diagnose the likely cause for the client",
+      "Avoid mentioning the finding to the client"
+    ],
+    "answer": 1,
+    "explanation": "Red flags that fall outside scope should prompt a pause and appropriate referral, not diagnosis or silence."
+  },
+  {
+    "q": "In SOAP notes, the Subjective section should primarily reflect:",
+    "options": [
+      "The therapist's opinion about the client's condition",
+      "The client's own reported experience, in their words or a close paraphrase",
+      "Only numeric measurements",
+      "The treatment plan for the next session"
+    ],
+    "answer": 1,
+    "explanation": "The Subjective section captures what the client reports, not the therapist's interpretation or measurements."
+  },
+  {
+    "q": "In SOAP notes, the Objective section should primarily reflect:",
+    "options": [
+      "The client's opinion of the session",
+      "The therapist's direct observations and measurements",
+      "The therapist's billing notes",
+      "A general disclaimer about liability"
+    ],
+    "answer": 1,
+    "explanation": "The Objective section documents what the therapist observed or measured directly, distinct from the client's subjective report."
+  },
+  {
+    "q": "Which of the following would be appropriate Objective documentation?",
+    "options": [
+      "Client seems to be in a bad mood",
+      "Palpation revealed hypertonicity in the right upper trapezius",
+      "Client probably overexaggerates pain",
+      "Client should see a specialist immediately"
+    ],
+    "answer": 1,
+    "explanation": "Objective documentation records measurable or observed findings using neutral, factual, scope-appropriate language."
+  },
+  {
+    "q": "Which of the following is inappropriate language for a SOAP Assessment entry?",
+    "options": [
+      "\"Tissue appears hypertonic in the cervical paraspinals\"",
+      "\"Client presents with reduced active ROM in cervical rotation\"",
+      "\"Client likely has a cervical disc herniation\"",
+      "\"Palpation reveals tenderness over the upper trapezius\""
+    ],
+    "answer": 2,
+    "explanation": "Stating a specific medical diagnosis like a disc herniation is outside scope and inappropriate for a massage therapist's SOAP notes."
+  },
+  {
+    "q": "The Plan section of a SOAP note should describe:",
+    "options": [
+      "What the client reported feeling during intake",
+      "The intended focus and approach for this session and/or future sessions",
+      "A summary of the client's insurance coverage",
+      "The therapist's personal schedule"
+    ],
+    "answer": 1,
+    "explanation": "The Plan section outlines what will be done — the intended treatment approach going forward."
+  },
+  {
+    "q": "Which best reflects the standard for language used throughout SOAP documentation?",
+    "options": [
+      "Casual, informal language is preferred for readability",
+      "Factual, objective, and scope-appropriate language, avoiding diagnosis and personal opinion",
+      "Detailed personal opinions about the client's lifestyle choices",
+      "Vague language to avoid ever being wrong"
+    ],
+    "answer": 1,
+    "explanation": "SOAP documentation should be factual, objective, and appropriately scoped — avoiding both diagnosis and unsupported opinion."
+  },
+  {
+    "q": "Why is timely documentation (completed soon after the session) considered best practice?",
+    "options": [
+      "It has no bearing on accuracy",
+      "Details are freshest and most accurately recalled soon after the session",
+      "It is only required for insurance-billed sessions",
+      "It replaces the need for a health history form"
+    ],
+    "answer": 1,
+    "explanation": "Documenting promptly after a session helps ensure details are accurately captured while still fresh."
+  },
+  {
+    "q": "A therapist writes vague, generic notes for every session regardless of what actually occurred. This practice primarily risks:",
+    "options": [
+      "No real risk, since documentation is just a formality",
+      "Reduced clinical usefulness and weaker legal protection if specific details are later needed",
+      "Improved efficiency with no downside",
+      "Better client outcomes"
+    ],
+    "answer": 1,
+    "explanation": "Vague documentation reduces its clinical value and can weaken legal protection if specific facts are later disputed or needed."
+  },
+  {
+    "q": "If a therapist fails to document that a client reported new, unexplained numbness during a session, the most significant risk is:",
+    "options": [
+      "No risk, since the client will remember",
+      "Loss of a legally and clinically important record of a red-flag finding",
+      "The client will be charged an additional fee",
+      "The session will need to be repeated"
+    ],
+    "answer": 1,
+    "explanation": "Undocumented red-flag findings represent a serious clinical and legal gap, since there's no record the finding was addressed."
+  },
+  {
+    "q": "Client records, including SOAP notes and intake forms, should be:",
+    "options": [
+      "Shared freely with anyone who asks",
+      "Kept confidential and retained according to applicable regulations",
+      "Discarded immediately after each session",
+      "Stored without any security measures"
+    ],
+    "answer": 1,
+    "explanation": "Client records must be kept confidential and retained per applicable legal/regulatory requirements."
+  },
+  {
+    "q": "A client reports 8/10 pain in their lower back that started three days ago after gardening. This information belongs in which SOAP section?",
+    "options": [
+      "Objective",
+      "Subjective",
+      "Assessment",
+      "Plan"
+    ],
+    "answer": 1,
+    "explanation": "This is the client's own report of pain level, onset, and cause — Subjective data."
+  },
+  {
+    "q": "During assessment, the therapist visually notices one shoulder sitting noticeably higher than the other. This observation is:",
+    "options": [
+      "Subjective data",
+      "Objective data",
+      "A treatment plan",
+      "A chief complaint"
+    ],
+    "answer": 1,
+    "explanation": "A directly observed physical finding, like shoulder height asymmetry, is objective data."
+  },
+  {
+    "q": "A client says they \"just feel off\" but can't describe specific symptoms. This vague self-report is still classified as:",
+    "options": [
+      "Objective data, since it's a measurable finding",
+      "Subjective data, since it comes from the client's own experience",
+      "A red flag requiring immediate referral in all cases",
+      "Irrelevant information that shouldn't be documented"
+    ],
+    "answer": 1,
+    "explanation": "Even vague or hard-to-quantify reports from the client remain subjective data, and should still be documented appropriately."
+  },
+  {
+    "q": "Which best describes the relationship between assessment and reassessment during a single session?",
+    "options": [
+      "Reassessment never occurs within a single session",
+      "Reassessment involves checking in on pressure, comfort, and tissue response throughout the session and adjusting accordingly",
+      "Reassessment only happens at the very end of the session",
+      "Reassessment replaces the need for initial assessment"
+    ],
+    "answer": 1,
+    "explanation": "Reassessment is an ongoing process throughout the session, not confined to the beginning or end."
+  },
+  {
+    "q": "A client reports that pressure applied to their calf feels too intense. The correct response, reflecting proper clinical reasoning, is to:",
+    "options": [
+      "Continue at the same pressure since it was previously agreed upon",
+      "Reduce pressure and reassess the client's comfort",
+      "End the session immediately without adjustment",
+      "Note it in the chart but make no changes during the session"
+    ],
+    "answer": 1,
+    "explanation": "Client feedback about discomfort should prompt an immediate adjustment in pressure/technique, not just documentation after the fact."
+  },
+  {
+    "q": "Which of the following best reflects appropriate use of palpation findings in clinical reasoning?",
+    "options": [
+      "Palpation findings are used to formally diagnose the client's condition",
+      "Palpation findings inform technique, pressure, and pacing decisions within scope of practice",
+      "Palpation findings are recorded but never actually used to guide treatment",
+      "Palpation findings replace the need for verbal intake"
+    ],
+    "answer": 1,
+    "explanation": "Palpation findings should guide clinical decisions about approach, without crossing into diagnosis."
+  },
+  {
+    "q": "A client's guarding response (involuntary muscle tensing) during palpation of an area is most useful for:",
+    "options": [
+      "Confirming a specific injury diagnosis",
+      "Signaling that the area may need a gentler approach or further clarification from the client",
+      "Determining the client's payment plan",
+      "Replacing the need for informed consent"
+    ],
+    "answer": 1,
+    "explanation": "Guarding is a cue to adjust approach or ask more questions — it's a signal for clinical judgment, not a diagnostic confirmation."
+  },
+  {
+    "q": "Comparing range of motion and tissue quality between the left and right sides of the body during assessment is an example of evaluating:",
+    "options": [
+      "Symmetry/asymmetry",
+      "The chief complaint",
+      "The health history form",
+      "The billing summary"
+    ],
+    "answer": 0,
+    "explanation": "Comparing sides for meaningful differences is a core symmetry/asymmetry assessment technique."
+  },
+  {
+    "q": "Which best reflects an appropriate use of postural assessment findings?",
+    "options": [
+      "Diagnosing a specific spinal disease based on visible curvature",
+      "Informing which areas may benefit from focused attention during the session, within scope",
+      "Ignoring postural findings since they're not clinically relevant",
+      "Replacing the need for a health history form"
+    ],
+    "answer": 1,
+    "explanation": "Postural findings inform treatment focus within scope, without crossing into diagnosing a specific spinal pathology."
+  },
+  {
+    "q": "A client mentions during intake that they recently had major surgery in the area they want massaged. Sound clinical reasoning suggests:",
+    "options": [
+      "Proceeding with standard full pressure immediately",
+      "Considering the recency and nature of the surgery when determining if/how to modify the session, possibly requiring physician clearance",
+      "Ignoring the surgery since it wasn't the chief complaint",
+      "Automatically declining all future sessions with this client"
+    ],
+    "answer": 1,
+    "explanation": "Recent surgery requires careful consideration of contraindications and possibly physician clearance before proceeding with work near the area."
+  },
+  {
+    "q": "The primary difference between assessment and diagnosis, as relevant to a massage therapist's scope of practice, is that:",
+    "options": [
+      "There is no meaningful difference",
+      "Assessment gathers information to guide safe, appropriate treatment, while diagnosis (identifying a specific disease) is outside a massage therapist's legal scope",
+      "Diagnosis is a routine part of every massage session",
+      "Assessment only applies to first-time clients"
+    ],
+    "answer": 1,
+    "explanation": "Assessment supports safe treatment planning within scope; diagnosing disease is a medical function outside a massage therapist's legal scope."
+  },
+  {
+    "q": "A therapist notices during visual assessment that a mole on the client's back has an irregular, asymmetrical border. The appropriate response is to:",
+    "options": [
+      "Massage directly over it to assess further",
+      "Note the observation and suggest the client have it evaluated by a physician or dermatologist",
+      "Diagnose it as likely cancerous",
+      "Ignore it since it's not the chief complaint"
+    ],
+    "answer": 1,
+    "explanation": "Irregular skin findings should be noted and referred for medical evaluation, not diagnosed or ignored."
+  },
+  {
+    "q": "Which best describes why session organization typically includes a closing conversation after the hands-on work?",
+    "options": [
+      "It has no real purpose",
+      "It allows the therapist to check in on the client's experience, discuss findings within scope, and plan follow-up",
+      "It is only used to process payment",
+      "It replaces the need for documentation"
+    ],
+    "answer": 1,
+    "explanation": "A closing conversation supports client communication, appropriate follow-up planning, and a smooth transition out of the session — it doesn't replace documentation."
+  },
+  {
+    "q": "A therapist wants to document a client's reported pain intensity in a standardized, trackable way. Which approach is most appropriate?",
+    "options": [
+      "Using a numeric pain scale (e.g., 0-10) as reported by the client",
+      "Estimating pain intensity without asking the client",
+      "Skipping pain intensity documentation entirely",
+      "Only documenting pain if it's severe"
+    ],
+    "answer": 0,
+    "explanation": "A numeric pain scale reported by the client provides a standardized, trackable way to document subjective pain intensity over time."
+  },
+  {
+    "q": "Which best reflects the appropriate scope of a massage therapist's 'Assessment' entry when a client reports numbness radiating down the leg?",
+    "options": [
+      "Documenting the client's report and objective findings, and noting a referral was recommended due to a possible neurological red flag",
+      "Diagnosing sciatica directly in the chart",
+      "Ignoring the symptom since it wasn't the chief complaint",
+      "Prescribing stretches to resolve the numbness"
+    ],
+    "answer": 0,
+    "explanation": "The appropriate scope-limited response is to document findings and the referral recommendation, not to diagnose or treat a possible neurological issue directly."
+  },
+  {
+    "q": "A client's reported pain decreasing from 7/10 to 3/10 over three sessions, using the same technique focus, best supports which clinical reasoning conclusion?",
+    "options": [
+      "The treatment strategy should be immediately abandoned",
+      "The current treatment approach appears to be effective and reassessment supports continuing a similar strategy",
+      "This information is not useful for planning",
+      "The client's report should be disregarded since it's subjective"
+    ],
+    "answer": 1,
+    "explanation": "A documented trend of improvement supports continuing a similar strategy, illustrating how evaluating response to treatment informs clinical reasoning."
+  },
+  {
+    "q": "Which of these best reflects appropriate integration of visual, palpation, and ROM findings during assessment?",
+    "options": [
+      "Using only one type of assessment and ignoring the others",
+      "Considering visual, palpation, and ROM findings together to build a fuller clinical picture and guide treatment planning",
+      "Only performing ROM assessment on new clients",
+      "Randomly choosing which assessment method to use each session"
+    ],
+    "answer": 1,
+    "explanation": "Combining multiple assessment methods provides a more complete and reliable picture than relying on just one."
+  },
+  {
+    "q": "A therapist assessing gait notices the client favors one leg and shortens the time spent bearing weight on it. This finding would most appropriately be documented as:",
+    "options": [
+      "A subjective symptom described by the client",
+      "An objective observation from visual/gait assessment",
+      "Part of the client's health history form",
+      "A billing note"
+    ],
+    "answer": 1,
+    "explanation": "A directly observed gait pattern is an objective finding from the therapist's visual assessment."
+  },
+  {
+    "q": "Which best reflects the purpose of asking a client about their goals for treatment during intake?",
+    "options": [
+      "To fill out required paperwork with no real use",
+      "To ensure the treatment plan is client-centered and appropriately focused",
+      "To determine the client's tip amount",
+      "To avoid the need for a written health history form"
+    ],
+    "answer": 1,
+    "explanation": "Understanding client goals ensures the treatment plan reflects what the client actually wants addressed."
+  },
+  {
+    "q": "Which of the following best illustrates 'organization of a session' in a way that supports safety?",
+    "options": [
+      "Skipping intake for regular clients to save time",
+      "Reviewing updated health information before each session, even for returning clients",
+      "Beginning treatment before the client is positioned safely",
+      "Randomizing the order of assessment steps each visit"
+    ],
+    "answer": 1,
+    "explanation": "Reviewing updated health information before every session, including for returning clients, supports safe and organized session structure."
+  },
+  {
+    "q": "A client's health history form indicates a recent diagnosis of deep vein thrombosis (DVT). How should this inform clinical reasoning?",
+    "options": [
+      "It has no bearing on the session",
+      "It should prompt caution or avoidance of techniques like deep compression in the affected area, and possibly physician clearance",
+      "It only matters for cardiovascular specialists, not massage therapists",
+      "It should be ignored unless the client brings it up again"
+    ],
+    "answer": 1,
+    "explanation": "A DVT diagnosis is a significant contraindication consideration that should directly shape treatment modifications and safety decisions."
+  },
+  {
+    "q": "Which best distinguishes 'visual assessment' from 'palpation assessment'?",
+    "options": [
+      "There is no meaningful difference between the two",
+      "Visual assessment relies on observation without touch; palpation assessment relies on touch-based information gathering",
+      "Palpation always precedes visual assessment",
+      "Visual assessment can only be performed by a physician"
+    ],
+    "answer": 1,
+    "explanation": "Visual assessment is observation-based (no touch), while palpation is touch-based information gathering — both are complementary parts of a full assessment."
+  },
+  {
+    "q": "A therapist observes a client's gait showing a wide, unsteady base and notes it for possible referral. This finding relates most directly to which assessment category?",
+    "options": [
+      "Palpation assessment",
+      "Visual (gait) assessment",
+      "Written health history only",
+      "SOAP Plan section only"
+    ],
+    "answer": 1,
+    "explanation": "Observing gait characteristics like a wide, unsteady base is part of visual/gait assessment."
+  },
+  {
+    "q": "Which best reflects why session pacing (how quickly or slowly a therapist moves through the session) is considered part of clinical reasoning?",
+    "options": [
+      "Pacing has no clinical relevance",
+      "Pacing should be adjusted based on client tolerance, findings, and goals rather than followed rigidly",
+      "Pacing should always be as fast as possible",
+      "Pacing is determined only by the clock, regardless of findings"
+    ],
+    "answer": 1,
+    "explanation": "Pacing is a clinical decision that should respond to the client's tolerance, assessment findings, and treatment goals."
+  },
+  {
+    "q": "A client with a documented latex allergy is noted on their intake form. This information should primarily influence:",
+    "options": [
+      "Nothing relevant to the session",
+      "The therapist's choice of gloves and other latex-containing supplies",
+      "Only the billing process",
+      "The client's music preference during the session"
+    ],
+    "answer": 1,
+    "explanation": "A documented latex allergy directly affects supply choices (e.g., non-latex gloves) to ensure client safety."
+  },
+  {
+    "q": "Which best reflects the overall purpose of combining thorough assessment with careful documentation?",
+    "options": [
+      "To create unnecessary paperwork",
+      "To support safe, effective, client-centered care and provide a legal record of what occurred",
+      "To replace the need for client communication during the session",
+      "To satisfy marketing requirements only"
+    ],
+    "answer": 1,
+    "explanation": "Thorough assessment and documentation together support safe, effective care and serve as an important legal and clinical record."
   }
 ]

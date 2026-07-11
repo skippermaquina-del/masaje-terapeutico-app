@@ -1,122 +1,1102 @@
 [
   {
     "q": "Decreasing the angle of a joint is called:",
-    "options": ["Extension", "Flexion", "Abduction", "Rotation"],
+    "options": [
+      "Extension",
+      "Flexion",
+      "Abduction",
+      "Rotation"
+    ],
     "answer": 1,
     "explanation": "Flexion decreases the angle of a joint."
   },
   {
     "q": "Pointing the toes downward at the ankle is:",
-    "options": ["Dorsiflexion", "Plantarflexion", "Eversion", "Inversion"],
+    "options": [
+      "Dorsiflexion",
+      "Plantarflexion",
+      "Eversion",
+      "Inversion"
+    ],
     "answer": 1,
     "explanation": "Plantarflexion points the foot/toes downward."
   },
   {
     "q": "Moving a limb away from the midline of the body is:",
-    "options": ["Adduction", "Abduction", "Flexion", "Rotation"],
+    "options": [
+      "Adduction",
+      "Abduction",
+      "Flexion",
+      "Rotation"
+    ],
     "answer": 1,
     "explanation": "Abduction is movement away from the midline."
   },
   {
     "q": "Which movement turns the sole of the foot outward, away from the midline?",
-    "options": ["Inversion", "Eversion", "Dorsiflexion", "Plantarflexion"],
+    "options": [
+      "Inversion",
+      "Eversion",
+      "Dorsiflexion",
+      "Plantarflexion"
+    ],
     "answer": 1,
     "explanation": "Eversion turns the sole outward, away from the midline."
   },
   {
     "q": "When the forearm rotates so the palm faces upward, this is:",
-    "options": ["Pronation", "Supination", "Abduction", "Circumduction"],
+    "options": [
+      "Pronation",
+      "Supination",
+      "Abduction",
+      "Circumduction"
+    ],
     "answer": 1,
     "explanation": "Supination turns the palm upward/forward."
   },
   {
     "q": "A combined, cone-shaped motion of flexion, abduction, extension, and adduction in sequence is called:",
-    "options": ["Rotation", "Circumduction", "Protraction", "Retraction"],
+    "options": [
+      "Rotation",
+      "Circumduction",
+      "Protraction",
+      "Retraction"
+    ],
     "answer": 1,
     "explanation": "Circumduction combines flexion, abduction, extension, and adduction into one circular motion."
   },
   {
     "q": "Squeezing the shoulder blades together toward the spine is an example of scapular:",
-    "options": ["Protraction", "Retraction", "Elevation", "Depression"],
+    "options": [
+      "Protraction",
+      "Retraction",
+      "Elevation",
+      "Depression"
+    ],
     "answer": 1,
     "explanation": "Retraction moves the scapula toward the spine."
   },
   {
     "q": "Which joint movement allows only flexion and extension due to its hinge structure?",
-    "options": ["Shoulder", "Hip", "Elbow", "Wrist"],
+    "options": [
+      "Shoulder",
+      "Hip",
+      "Elbow",
+      "Wrist"
+    ],
     "answer": 2,
     "explanation": "The elbow is a hinge joint, permitting only flexion and extension."
   },
   {
     "q": "Rotating the shoulder so the arm turns toward the midline of the body is:",
-    "options": ["Lateral rotation", "Medial rotation", "Abduction", "Circumduction"],
+    "options": [
+      "Lateral rotation",
+      "Medial rotation",
+      "Abduction",
+      "Circumduction"
+    ],
     "answer": 1,
     "explanation": "Medial (internal) rotation turns a limb toward the midline."
   },
   {
     "q": "Raising the shoulders upward (like a shrug) is an example of:",
-    "options": ["Depression", "Elevation", "Protraction", "Retraction"],
+    "options": [
+      "Depression",
+      "Elevation",
+      "Protraction",
+      "Retraction"
+    ],
     "answer": 1,
     "explanation": "Elevation raises a structure, like the shoulders or scapula."
   },
   {
     "q": "Bending the neck sideways, away from the midline, is:",
-    "options": ["Rotation", "Lateral flexion", "Flexion", "Extension"],
+    "options": [
+      "Rotation",
+      "Lateral flexion",
+      "Flexion",
+      "Extension"
+    ],
     "answer": 1,
     "explanation": "Lateral flexion bends the spine or neck sideways."
   },
   {
     "q": "Which plane is associated with pronation and supination?",
-    "options": ["Sagittal", "Frontal", "Transverse", "Coronal"],
+    "options": [
+      "Sagittal",
+      "Frontal",
+      "Transverse",
+      "Coronal"
+    ],
     "answer": 2,
     "explanation": "Pronation and supination are rotational movements in the transverse plane."
   },
   {
     "q": "Extension carried beyond the normal anatomical range of motion is called:",
-    "options": ["Hyperflexion", "Hyperextension", "Overextension only in sports contexts", "Circumduction"],
+    "options": [
+      "Hyperflexion",
+      "Hyperextension",
+      "Overextension only in sports contexts",
+      "Circumduction"
+    ],
     "answer": 1,
     "explanation": "Hyperextension is extension beyond the normal range."
   },
   {
     "q": "Which movement describes the scapula rotating so the glenoid cavity faces downward?",
-    "options": ["Upward rotation", "Downward rotation", "Elevation", "Retraction"],
+    "options": [
+      "Upward rotation",
+      "Downward rotation",
+      "Elevation",
+      "Retraction"
+    ],
     "answer": 1,
     "explanation": "Downward rotation of the scapula points the glenoid cavity downward."
   },
   {
     "q": "The jaw jutting forward is best described as mandibular:",
-    "options": ["Elevation", "Depression", "Protraction", "Retraction"],
+    "options": [
+      "Elevation",
+      "Depression",
+      "Protraction",
+      "Retraction"
+    ],
     "answer": 2,
     "explanation": "Protraction moves a structure like the mandible forward."
   },
   {
     "q": "Which movements are available at the ankle joint?",
-    "options": ["Flexion and extension only", "Dorsiflexion, plantarflexion, inversion, and eversion", "Only rotation", "Only abduction and adduction"],
+    "options": [
+      "Flexion and extension only",
+      "Dorsiflexion, plantarflexion, inversion, and eversion",
+      "Only rotation",
+      "Only abduction and adduction"
+    ],
     "answer": 1,
     "explanation": "The ankle allows dorsiflexion, plantarflexion, inversion, and eversion."
   },
   {
     "q": "Which term describes movement toward the midline at a joint like the hip or shoulder?",
-    "options": ["Abduction", "Adduction", "Rotation", "Circumduction"],
+    "options": [
+      "Abduction",
+      "Adduction",
+      "Rotation",
+      "Circumduction"
+    ],
     "answer": 1,
     "explanation": "Adduction moves a limb toward the midline."
   },
   {
     "q": "A muscle table entry says a muscle 'laterally rotates the hip.' This means the muscle:",
-    "options": ["Rotates the thigh toward the midline", "Rotates the thigh away from the midline", "Flexes the hip joint", "Abducts the hip joint"],
+    "options": [
+      "Rotates the thigh toward the midline",
+      "Rotates the thigh away from the midline",
+      "Flexes the hip joint",
+      "Abducts the hip joint"
+    ],
     "answer": 1,
     "explanation": "Lateral (external) rotation turns a limb away from the midline."
   },
   {
     "q": "Which of these is NOT a frontal-plane movement?",
-    "options": ["Abduction", "Adduction", "Rotation", "Elevation"],
+    "options": [
+      "Abduction",
+      "Adduction",
+      "Rotation",
+      "Elevation"
+    ],
     "answer": 2,
     "explanation": "Rotation occurs in the transverse plane, not the frontal plane."
   },
   {
     "q": "Circumduction is best associated with which type of joints?",
-    "options": ["Hinge joints only", "Ball-and-socket and condyloid joints", "Fibrous joints only", "Gliding joints only"],
+    "options": [
+      "Hinge joints only",
+      "Ball-and-socket and condyloid joints",
+      "Fibrous joints only",
+      "Gliding joints only"
+    ],
     "answer": 1,
     "explanation": "Circumduction occurs at joints allowing multi-directional movement, like ball-and-socket and condyloid joints."
+  },
+  {
+    "q": "Increasing the angle of a joint, returning it toward anatomical position, is called:",
+    "options": [
+      "Flexion",
+      "Extension",
+      "Abduction",
+      "Circumduction"
+    ],
+    "answer": 1,
+    "explanation": "Extension increases the angle of a joint, typically returning it toward anatomical position."
+  },
+  {
+    "q": "Pulling the toes/foot up toward the shin at the ankle is called:",
+    "options": [
+      "Plantarflexion",
+      "Dorsiflexion",
+      "Inversion",
+      "Eversion"
+    ],
+    "answer": 1,
+    "explanation": "Dorsiflexion pulls the foot/toes upward toward the shin."
+  },
+  {
+    "q": "Adduction is best defined as movement:",
+    "options": [
+      "Away from the midline",
+      "Toward the midline",
+      "In a circular cone-shaped path",
+      "Around a single axis only"
+    ],
+    "answer": 1,
+    "explanation": "Adduction is movement toward the midline of the body."
+  },
+  {
+    "q": "Turning the sole of the foot inward, toward the midline, is called:",
+    "options": [
+      "Eversion",
+      "Inversion",
+      "Dorsiflexion",
+      "Plantarflexion"
+    ],
+    "answer": 1,
+    "explanation": "Inversion turns the sole of the foot inward, toward the midline."
+  },
+  {
+    "q": "Forearm rotation so the palm faces downward/backward is called:",
+    "options": [
+      "Supination",
+      "Pronation",
+      "Medial rotation",
+      "Circumduction"
+    ],
+    "answer": 1,
+    "explanation": "Pronation rotates the forearm so the palm faces down or back."
+  },
+  {
+    "q": "Rotating a limb away from the midline is called:",
+    "options": [
+      "Medial (internal) rotation",
+      "Lateral (external) rotation",
+      "Abduction",
+      "Adduction"
+    ],
+    "answer": 1,
+    "explanation": "Lateral (external) rotation turns a limb away from the midline."
+  },
+  {
+    "q": "Raising the mandible during chewing and raising the scapula in a shrug are both examples of:",
+    "options": [
+      "Depression",
+      "Elevation",
+      "Protraction",
+      "Retraction"
+    ],
+    "answer": 1,
+    "explanation": "Elevation is the general term for raising a structure, whether the mandible or the scapula."
+  },
+  {
+    "q": "Lowering a structure, such as the scapula returning down from a shrug, is called:",
+    "options": [
+      "Elevation",
+      "Depression",
+      "Protraction",
+      "Retraction"
+    ],
+    "answer": 1,
+    "explanation": "Depression is the general term for lowering a structure."
+  },
+  {
+    "q": "The scapula sliding forward around the rib cage, as when reaching an arm forward, is called scapular:",
+    "options": [
+      "Retraction",
+      "Protraction",
+      "Elevation",
+      "Downward rotation"
+    ],
+    "answer": 1,
+    "explanation": "Protraction moves the scapula forward around the rib cage, away from the spine; it's also called scapular abduction."
+  },
+  {
+    "q": "The scapula rotating so the glenoid cavity faces upward, as when raising the arm overhead, is called:",
+    "options": [
+      "Downward rotation",
+      "Upward rotation",
+      "Elevation",
+      "Protraction"
+    ],
+    "answer": 1,
+    "explanation": "Upward rotation of the scapula occurs during arm-raising, orienting the glenoid cavity upward."
+  },
+  {
+    "q": "Touching the tip of the thumb to the tips of the other fingers is called:",
+    "options": [
+      "Circumduction",
+      "Opposition",
+      "Pronation",
+      "Abduction"
+    ],
+    "answer": 1,
+    "explanation": "Opposition is the movement that brings the thumb into contact with the fingertips, unique to the thumb's saddle joint."
+  },
+  {
+    "q": "Opposition of the thumb occurs primarily at which joint?",
+    "options": [
+      "The interphalangeal joint of the thumb",
+      "The carpometacarpal (saddle) joint of the thumb",
+      "The wrist (radiocarpal) joint",
+      "The metacarpophalangeal joint of the index finger"
+    ],
+    "answer": 1,
+    "explanation": "The saddle-shaped carpometacarpal joint of the thumb allows the multi-directional movement needed for opposition."
+  },
+  {
+    "q": "Which movement is unique to the thumb among the digits?",
+    "options": [
+      "Flexion",
+      "Extension",
+      "Opposition",
+      "Abduction"
+    ],
+    "answer": 2,
+    "explanation": "Opposition is a movement unique to the thumb, made possible by its saddle joint."
+  },
+  {
+    "q": "Flexion and extension occur in which plane of movement?",
+    "options": [
+      "Frontal (coronal)",
+      "Sagittal",
+      "Transverse",
+      "None — they are planeless"
+    ],
+    "answer": 1,
+    "explanation": "Flexion and extension are sagittal-plane movements."
+  },
+  {
+    "q": "Abduction and adduction occur in which plane of movement?",
+    "options": [
+      "Sagittal",
+      "Frontal (coronal)",
+      "Transverse",
+      "Oblique"
+    ],
+    "answer": 1,
+    "explanation": "Abduction and adduction are frontal (coronal)-plane movements."
+  },
+  {
+    "q": "Medial and lateral rotation occur in which plane of movement?",
+    "options": [
+      "Sagittal",
+      "Frontal",
+      "Transverse",
+      "None of these"
+    ],
+    "answer": 2,
+    "explanation": "Rotational movements occur in the transverse plane."
+  },
+  {
+    "q": "Which movements are available at the shoulder (glenohumeral) joint?",
+    "options": [
+      "Flexion and extension only",
+      "Flexion, extension, abduction, adduction, medial/lateral rotation, and circumduction",
+      "Only pronation and supination",
+      "Only elevation and depression"
+    ],
+    "answer": 1,
+    "explanation": "As a ball-and-socket joint, the shoulder allows flexion, extension, abduction, adduction, medial/lateral rotation, and circumduction."
+  },
+  {
+    "q": "Which movements are available at the wrist joint?",
+    "options": [
+      "Pronation and supination only",
+      "Flexion, extension, abduction, adduction, and circumduction",
+      "Only flexion and extension",
+      "Medial and lateral rotation only"
+    ],
+    "answer": 1,
+    "explanation": "The wrist allows flexion, extension, abduction, adduction, and circumduction, but not true rotation."
+  },
+  {
+    "q": "Which movements are available at the hip joint?",
+    "options": [
+      "Only flexion and extension",
+      "Flexion, extension, abduction, adduction, medial/lateral rotation, and circumduction",
+      "Only pronation and supination",
+      "Only elevation and depression"
+    ],
+    "answer": 1,
+    "explanation": "Like the shoulder, the hip is a ball-and-socket joint allowing flexion, extension, abduction, adduction, rotation, and circumduction."
+  },
+  {
+    "q": "Which movements are available at the forearm (radioulnar joints)?",
+    "options": [
+      "Flexion and extension",
+      "Pronation and supination",
+      "Abduction and adduction",
+      "Elevation and depression"
+    ],
+    "answer": 1,
+    "explanation": "The forearm's radioulnar joints allow only pronation and supination."
+  },
+  {
+    "q": "Which movements are available at the scapula?",
+    "options": [
+      "Flexion, extension, abduction, adduction",
+      "Elevation, depression, protraction, retraction, upward/downward rotation",
+      "Dorsiflexion and plantarflexion",
+      "Inversion and eversion"
+    ],
+    "answer": 1,
+    "explanation": "The scapula moves through elevation, depression, protraction, retraction, and upward/downward rotation."
+  },
+  {
+    "q": "Which movements are available at the knee joint?",
+    "options": [
+      "Flexion and extension (mostly hinge motion)",
+      "Pronation and supination",
+      "Inversion and eversion",
+      "Elevation and depression"
+    ],
+    "answer": 0,
+    "explanation": "The knee is mostly a hinge joint, allowing flexion and extension, with slight rotation only when flexed."
+  },
+  {
+    "q": "Which movements are available at the spine and neck?",
+    "options": [
+      "Only pronation and supination",
+      "Flexion, extension, lateral flexion, and rotation",
+      "Only elevation and depression",
+      "Only circumduction"
+    ],
+    "answer": 1,
+    "explanation": "The spine and neck allow flexion, extension, lateral flexion, and rotation."
+  },
+  {
+    "q": "Which movements are available at the mandible (jaw)?",
+    "options": [
+      "Elevation, depression, protraction, retraction",
+      "Flexion, extension, abduction, adduction",
+      "Pronation and supination",
+      "Inversion and eversion"
+    ],
+    "answer": 0,
+    "explanation": "The jaw performs elevation, depression, protraction, and retraction."
+  },
+  {
+    "q": "Why can the elbow only flex and extend, while the shoulder can move in many directions?",
+    "options": [
+      "The elbow is a ball-and-socket joint; the shoulder is a hinge joint",
+      "The elbow is a uniaxial hinge joint; the shoulder is a multiaxial ball-and-socket joint",
+      "The elbow has more muscles than the shoulder",
+      "There is no structural reason — it is arbitrary"
+    ],
+    "answer": 1,
+    "explanation": "The elbow's hinge structure only allows movement in one plane, while the shoulder's ball-and-socket structure allows multiple planes of movement."
+  },
+  {
+    "q": "Why can the forearm perform pronation and supination, while the knee cannot rotate freely?",
+    "options": [
+      "The forearm's radioulnar joints are pivot-type joints allowing rotation, unlike the knee's mostly hinge structure",
+      "The forearm has more bones than the knee",
+      "The knee has better blood supply",
+      "Pronation and supination are not real movements"
+    ],
+    "answer": 0,
+    "explanation": "The pivot-type radioulnar joints allow the radius to rotate around the ulna, a movement the mostly hinge-type knee does not permit."
+  },
+  {
+    "q": "A lateral ankle sprain typically results from the foot being forced into excessive:",
+    "options": [
+      "Dorsiflexion",
+      "Eversion",
+      "Plantarflexion",
+      "Inversion"
+    ],
+    "answer": 3,
+    "explanation": "Lateral ankle sprains commonly occur when the foot is forced into excessive inversion, stretching or tearing the lateral ligaments."
+  },
+  {
+    "q": "Tibialis anterior and tibialis posterior both contribute to which shared movement of the foot?",
+    "options": [
+      "Eversion",
+      "Inversion",
+      "Plantarflexion",
+      "Circumduction"
+    ],
+    "answer": 1,
+    "explanation": "Both tibialis anterior and tibialis posterior perform inversion of the foot, despite differing in their other actions."
+  },
+  {
+    "q": "A client actively works to move a joint through a stretch while the massage therapist provides some assistance. This describes:",
+    "options": [
+      "Passive stretch",
+      "Active stretch",
+      "Active assistive stretch",
+      "Resisted stretch"
+    ],
+    "answer": 2,
+    "explanation": "Active assistive stretch combines the client's own effort with therapist assistance."
+  },
+  {
+    "q": "A massage therapist moves a client's completely relaxed limb through a stretch, with no effort from the client, providing a:",
+    "options": [
+      "Active stretch",
+      "Passive stretch",
+      "Resisted stretch",
+      "Active assistive stretch"
+    ],
+    "answer": 1,
+    "explanation": "A passive stretch is performed entirely by an outside force while the client remains relaxed."
+  },
+  {
+    "q": "Active range of motion is produced by:",
+    "options": [
+      "The therapist moving the client's joint",
+      "The client's own muscular effort",
+      "Gravity acting alone",
+      "External resistance"
+    ],
+    "answer": 1,
+    "explanation": "Active ROM is movement the client performs using their own muscle contraction, unassisted."
+  },
+  {
+    "q": "Passive range of motion is produced by:",
+    "options": [
+      "The client's own effort only",
+      "An outside force (such as the therapist) while the client remains relaxed",
+      "Resistance applied against the client",
+      "Gravity resisting the client"
+    ],
+    "answer": 1,
+    "explanation": "Passive ROM involves an outside force moving the joint while the client stays relaxed."
+  },
+  {
+    "q": "Resisted range of motion primarily assesses the integrity of:",
+    "options": [
+      "Ligaments and joint capsule only",
+      "Muscles and tendons",
+      "Bursae",
+      "Skin elasticity"
+    ],
+    "answer": 1,
+    "explanation": "Resisted ROM has the client contract against therapist resistance, testing the strength and pain response of muscles and tendons."
+  },
+  {
+    "q": "Passive range of motion is especially useful for assessing which structures, since the client's muscles are not actively involved?",
+    "options": [
+      "Non-contractile structures such as ligaments and joint capsule",
+      "Only skin condition",
+      "Only cardiovascular fitness",
+      "Only muscle strength"
+    ],
+    "answer": 0,
+    "explanation": "Because passive ROM removes active muscle contraction from the equation, it helps isolate limitations from non-contractile structures like ligaments and the joint capsule."
+  },
+  {
+    "q": "Marching in place by raising the thigh forward at the hip is an example of hip:",
+    "options": [
+      "Extension",
+      "Flexion",
+      "Abduction",
+      "Lateral rotation"
+    ],
+    "answer": 1,
+    "explanation": "Raising the thigh forward decreases the angle at the hip joint, which is flexion."
+  },
+  {
+    "q": "Bringing the heel toward the buttock by bending the knee is an example of knee:",
+    "options": [
+      "Extension",
+      "Flexion",
+      "Abduction",
+      "Rotation"
+    ],
+    "answer": 1,
+    "explanation": "Bending the knee, decreasing the joint angle, is knee flexion."
+  },
+  {
+    "q": "Straightening a bent arm at the elbow is an example of:",
+    "options": [
+      "Elbow flexion",
+      "Elbow extension",
+      "Elbow abduction",
+      "Elbow rotation"
+    ],
+    "answer": 1,
+    "explanation": "Straightening the elbow, increasing the joint angle back toward anatomical position, is extension."
+  },
+  {
+    "q": "Which two terms describe the sagittal-plane movements available at the ankle?",
+    "options": [
+      "Inversion and eversion",
+      "Dorsiflexion and plantarflexion",
+      "Abduction and adduction",
+      "Medial and lateral rotation"
+    ],
+    "answer": 1,
+    "explanation": "Dorsiflexion and plantarflexion are the sagittal-plane movements of the ankle."
+  },
+  {
+    "q": "Bending forward at the waist to touch the toes is an example of trunk:",
+    "options": [
+      "Extension",
+      "Flexion",
+      "Lateral flexion",
+      "Rotation"
+    ],
+    "answer": 1,
+    "explanation": "Bending forward decreases the angle of the trunk relative to the legs, which is flexion."
+  },
+  {
+    "q": "Arching the back beyond neutral, as in a backbend, is an example of spinal:",
+    "options": [
+      "Flexion",
+      "Hyperextension",
+      "Lateral flexion",
+      "Rotation"
+    ],
+    "answer": 1,
+    "explanation": "Arching beyond the normal anatomical range is hyperextension."
+  },
+  {
+    "q": "Cocking the wrist backward, as if signaling 'stop' with the palm, is an example of wrist:",
+    "options": [
+      "Flexion",
+      "Extension",
+      "Abduction",
+      "Circumduction"
+    ],
+    "answer": 1,
+    "explanation": "Bending the wrist backward, away from flexion, is wrist extension."
+  },
+  {
+    "q": "Bending the wrist so the palm moves toward the forearm is an example of wrist:",
+    "options": [
+      "Extension",
+      "Flexion",
+      "Adduction",
+      "Rotation"
+    ],
+    "answer": 1,
+    "explanation": "Bending the wrist so the palm approaches the forearm decreases the joint angle — wrist flexion."
+  },
+  {
+    "q": "Raising the arm forward and overhead is an example of shoulder:",
+    "options": [
+      "Extension",
+      "Flexion",
+      "Abduction",
+      "Medial rotation"
+    ],
+    "answer": 1,
+    "explanation": "Raising the arm forward, as in reaching overhead from the front, is shoulder flexion."
+  },
+  {
+    "q": "Moving the arm backward behind the body, past anatomical position, is an example of shoulder:",
+    "options": [
+      "Flexion",
+      "Hyperextension",
+      "Abduction",
+      "Adduction"
+    ],
+    "answer": 1,
+    "explanation": "Moving the arm behind the body beyond anatomical position is shoulder hyperextension."
+  },
+  {
+    "q": "Raising the arm out to the side, away from the body, is an example of shoulder:",
+    "options": [
+      "Flexion",
+      "Abduction",
+      "Adduction",
+      "Medial rotation"
+    ],
+    "answer": 1,
+    "explanation": "Raising the arm laterally away from the midline is abduction."
+  },
+  {
+    "q": "Moving the leg out to the side, away from the midline of the body, is an example of hip:",
+    "options": [
+      "Flexion",
+      "Adduction",
+      "Abduction",
+      "Lateral rotation"
+    ],
+    "answer": 2,
+    "explanation": "Moving the leg away from the midline is hip abduction."
+  },
+  {
+    "q": "Spreading the fingers apart is an example of finger:",
+    "options": [
+      "Adduction",
+      "Abduction",
+      "Flexion",
+      "Opposition"
+    ],
+    "answer": 1,
+    "explanation": "Spreading the fingers apart, away from the midline of the hand, is abduction."
+  },
+  {
+    "q": "Bringing the spread fingers back together is an example of finger:",
+    "options": [
+      "Abduction",
+      "Adduction",
+      "Extension",
+      "Opposition"
+    ],
+    "answer": 1,
+    "explanation": "Bringing the fingers back toward the midline of the hand is adduction."
+  },
+  {
+    "q": "Shrugging the shoulders up toward the ears is an example of scapular:",
+    "options": [
+      "Depression",
+      "Elevation",
+      "Protraction",
+      "Downward rotation"
+    ],
+    "answer": 1,
+    "explanation": "Raising the scapula, as in a shrug, is elevation."
+  },
+  {
+    "q": "Pulling the shoulders down away from the ears is an example of scapular:",
+    "options": [
+      "Elevation",
+      "Depression",
+      "Retraction",
+      "Upward rotation"
+    ],
+    "answer": 1,
+    "explanation": "Lowering the scapula is depression."
+  },
+  {
+    "q": "Bending the trunk sideways to touch the outside of the knee is an example of:",
+    "options": [
+      "Rotation",
+      "Lateral flexion",
+      "Flexion",
+      "Extension"
+    ],
+    "answer": 1,
+    "explanation": "Sideways bending of the trunk, away from midline, is lateral flexion."
+  },
+  {
+    "q": "Tilting the ear toward the shoulder without rotating the head is an example of:",
+    "options": [
+      "Rotation",
+      "Lateral flexion of the neck",
+      "Flexion of the neck",
+      "Extension of the neck"
+    ],
+    "answer": 1,
+    "explanation": "Tilting the ear toward the shoulder, bending sideways, is lateral flexion of the neck."
+  },
+  {
+    "q": "Turning the toes inward, rotating the thigh toward the midline, is an example of hip:",
+    "options": [
+      "Lateral rotation",
+      "Medial rotation",
+      "Abduction",
+      "Adduction"
+    ],
+    "answer": 1,
+    "explanation": "Rotating the thigh toward the midline (toes turning inward) is medial (internal) rotation."
+  },
+  {
+    "q": "Turning the toes outward, rotating the thigh away from the midline, is an example of hip:",
+    "options": [
+      "Medial rotation",
+      "Lateral rotation",
+      "Abduction",
+      "Adduction"
+    ],
+    "answer": 1,
+    "explanation": "Rotating the thigh away from the midline (toes turning outward) is lateral (external) rotation."
+  },
+  {
+    "q": "From anatomical position, rotating the arm inward so the palm faces backward is an example of shoulder:",
+    "options": [
+      "Lateral rotation",
+      "Medial rotation",
+      "Abduction",
+      "Extension"
+    ],
+    "answer": 1,
+    "explanation": "Rotating the arm so the palm turns to face posteriorly, toward the midline, is medial (internal) rotation."
+  },
+  {
+    "q": "A common teaching mnemonic for supination is imagining you are holding a bowl of:",
+    "options": [
+      "Cereal",
+      "Soup",
+      "Rice",
+      "Salad"
+    ],
+    "answer": 1,
+    "explanation": "The 'soup/supination' mnemonic reminds students that supination turns the palm upward, as if holding a bowl of soup."
+  },
+  {
+    "q": "Turning the sole of the foot to face medially (inward) is called:",
+    "options": [
+      "Eversion",
+      "Inversion",
+      "Dorsiflexion",
+      "Plantarflexion"
+    ],
+    "answer": 1,
+    "explanation": "Inversion turns the sole of the foot to face medially."
+  },
+  {
+    "q": "Turning the sole of the foot to face laterally (outward) is called:",
+    "options": [
+      "Inversion",
+      "Eversion",
+      "Dorsiflexion",
+      "Plantarflexion"
+    ],
+    "answer": 1,
+    "explanation": "Eversion turns the sole of the foot to face laterally."
+  },
+  {
+    "q": "Twisting the trunk to look behind oneself, without bending sideways, is an example of spinal:",
+    "options": [
+      "Lateral flexion",
+      "Rotation",
+      "Flexion",
+      "Extension"
+    ],
+    "answer": 1,
+    "explanation": "Twisting the trunk around its vertical axis is rotation."
+  },
+  {
+    "q": "Swinging the arm in a large circular arc that combines flexion, abduction, extension, and adduction is an example of shoulder:",
+    "options": [
+      "Medial rotation",
+      "Circumduction",
+      "Protraction",
+      "Retraction"
+    ],
+    "answer": 1,
+    "explanation": "This cone-shaped combined motion at the shoulder is circumduction."
+  },
+  {
+    "q": "Making a circular motion with the leg at the hip, combining flexion, abduction, extension, and adduction, is an example of:",
+    "options": [
+      "Circumduction",
+      "Rotation",
+      "Protraction",
+      "Elevation"
+    ],
+    "answer": 0,
+    "explanation": "This combined circular motion at the hip is circumduction."
+  },
+  {
+    "q": "Reaching an arm forward, causing the scapula to slide forward around the rib cage, illustrates scapular:",
+    "options": [
+      "Retraction",
+      "Protraction",
+      "Elevation",
+      "Downward rotation"
+    ],
+    "answer": 1,
+    "explanation": "This forward sliding of the scapula is protraction, also called scapular abduction."
+  },
+  {
+    "q": "Pulling the shoulder blades back and together, as in standing at attention, illustrates scapular:",
+    "options": [
+      "Protraction",
+      "Retraction",
+      "Depression",
+      "Upward rotation"
+    ],
+    "answer": 1,
+    "explanation": "Squeezing the shoulder blades together toward the spine is retraction, also called scapular adduction."
+  },
+  {
+    "q": "Scapular protraction is also referred to as scapular:",
+    "options": [
+      "Adduction",
+      "Abduction",
+      "Elevation",
+      "Upward rotation"
+    ],
+    "answer": 1,
+    "explanation": "Protraction is also called scapular abduction, since the scapula moves away from the spine."
+  },
+  {
+    "q": "Scapular retraction is also referred to as scapular:",
+    "options": [
+      "Abduction",
+      "Adduction",
+      "Depression",
+      "Downward rotation"
+    ],
+    "answer": 1,
+    "explanation": "Retraction is also called scapular adduction, since the scapula moves toward the spine."
+  },
+  {
+    "q": "Scapular upward rotation typically occurs during which activity?",
+    "options": [
+      "Lowering the arm back to the side",
+      "Raising the arm overhead",
+      "Shrugging the shoulders forward only",
+      "Squeezing the shoulder blades together"
+    ],
+    "answer": 1,
+    "explanation": "Upward rotation of the scapula, orienting the glenoid cavity upward, occurs as the arm is raised overhead."
+  },
+  {
+    "q": "Scapular downward rotation typically occurs during which activity?",
+    "options": [
+      "Raising the arm overhead",
+      "Returning the arm to the side from an overhead position",
+      "Rotating the head",
+      "Chewing"
+    ],
+    "answer": 1,
+    "explanation": "As the arm returns to the side from overhead, the scapula downwardly rotates."
+  },
+  {
+    "q": "Which of the following is NOT a sagittal-plane movement?",
+    "options": [
+      "Flexion",
+      "Extension",
+      "Abduction",
+      "Dorsiflexion"
+    ],
+    "answer": 2,
+    "explanation": "Abduction occurs in the frontal plane, not the sagittal plane."
+  },
+  {
+    "q": "Which of the following is NOT a transverse-plane movement?",
+    "options": [
+      "Medial rotation",
+      "Pronation",
+      "Elevation",
+      "Supination"
+    ],
+    "answer": 2,
+    "explanation": "Elevation is not a transverse-plane movement; medial/lateral rotation and pronation/supination occur in the transverse plane."
+  },
+  {
+    "q": "All of the following are frontal-plane movements EXCEPT:",
+    "options": [
+      "Abduction",
+      "Adduction",
+      "Flexion",
+      "Elevation"
+    ],
+    "answer": 2,
+    "explanation": "Flexion is a sagittal-plane movement, not a frontal-plane movement."
+  },
+  {
+    "q": "All of the following movements occur at the ankle EXCEPT:",
+    "options": [
+      "Dorsiflexion",
+      "Plantarflexion",
+      "Medial rotation",
+      "Inversion"
+    ],
+    "answer": 2,
+    "explanation": "The ankle does not perform medial/lateral rotation; that movement belongs to multiaxial joints like the hip and shoulder."
+  },
+  {
+    "q": "All of the following movements occur at the elbow EXCEPT:",
+    "options": [
+      "Flexion",
+      "Extension",
+      "Abduction",
+      "Both flexion and extension are correct, but not abduction"
+    ],
+    "answer": 2,
+    "explanation": "As a hinge joint, the elbow allows only flexion and extension, not abduction."
+  },
+  {
+    "q": "All of the following movements occur at the forearm (radioulnar joints) EXCEPT:",
+    "options": [
+      "Pronation",
+      "Supination",
+      "Flexion",
+      "Both pronation and supination are correct, but not flexion"
+    ],
+    "answer": 2,
+    "explanation": "The radioulnar joints allow only pronation and supination, not flexion."
+  },
+  {
+    "q": "Which of the following correctly pairs a movement with the plane in which it occurs?",
+    "options": [
+      "Adduction — sagittal plane",
+      "Medial rotation — transverse plane",
+      "Extension — frontal plane",
+      "Dorsiflexion — transverse plane"
+    ],
+    "answer": 1,
+    "explanation": "Medial rotation occurs in the transverse plane; the other pairings are mismatched."
+  },
+  {
+    "q": "A muscle-action table entry stating a muscle 'abducts the hip' means the muscle:",
+    "options": [
+      "Moves the thigh toward the midline",
+      "Moves the thigh away from the midline",
+      "Rotates the thigh internally",
+      "Bends the knee"
+    ],
+    "answer": 1,
+    "explanation": "Abduction moves a limb away from the midline of the body."
+  },
+  {
+    "q": "A muscle-action table entry stating a muscle 'medially rotates the shoulder' means the muscle:",
+    "options": [
+      "Rotates the arm toward the midline",
+      "Rotates the arm away from the midline",
+      "Raises the arm overhead",
+      "Lowers the arm to the side"
+    ],
+    "answer": 0,
+    "explanation": "Medial (internal) rotation turns a limb toward the midline of the body."
+  },
+  {
+    "q": "At the mandible, all of the following movements occur EXCEPT:",
+    "options": [
+      "Elevation",
+      "Depression",
+      "Protraction",
+      "Rotation"
+    ],
+    "answer": 3,
+    "explanation": "The jaw performs elevation, depression, protraction, and retraction, but true rotation is not part of its standard movement vocabulary in these notes."
+  },
+  {
+    "q": "Which of the following best distinguishes dorsiflexion from plantarflexion?",
+    "options": [
+      "Dorsiflexion points the toes down; plantarflexion pulls the foot up",
+      "Dorsiflexion pulls the foot/toes up toward the shin; plantarflexion points the toes down",
+      "They are two names for the identical movement",
+      "Both occur only at the knee"
+    ],
+    "answer": 1,
+    "explanation": "Dorsiflexion pulls the foot up toward the shin, while plantarflexion points the toes downward — opposite ankle movements."
+  },
+  {
+    "q": "Which of the following best distinguishes inversion from eversion?",
+    "options": [
+      "Inversion turns the sole outward; eversion turns it inward",
+      "Inversion turns the sole inward, toward the midline; eversion turns it outward, away from the midline",
+      "They both describe forearm rotation",
+      "They occur at the shoulder, not the foot"
+    ],
+    "answer": 1,
+    "explanation": "Inversion turns the sole of the foot inward (toward the midline); eversion turns it outward (away from the midline)."
+  },
+  {
+    "q": "Which of the following best distinguishes pronation from supination?",
+    "options": [
+      "Pronation turns the palm up; supination turns the palm down",
+      "Pronation turns the palm down/back; supination turns the palm up/forward",
+      "They are both foot movements",
+      "They both occur at the elbow's hinge motion"
+    ],
+    "answer": 1,
+    "explanation": "Pronation rotates the forearm so the palm faces down or back; supination rotates it so the palm faces up or forward."
   }
 ]

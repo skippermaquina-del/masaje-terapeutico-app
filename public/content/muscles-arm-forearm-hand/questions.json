@@ -1,122 +1,1102 @@
 [
   {
     "q": "Which muscle flexes the elbow, supinates the forearm, and assists shoulder flexion?",
-    "options": ["Brachialis", "Biceps brachii", "Triceps brachii", "Pronator teres"],
+    "options": [
+      "Brachialis",
+      "Biceps brachii",
+      "Triceps brachii",
+      "Pronator teres"
+    ],
     "answer": 1,
     "explanation": "Biceps brachii performs all three of these actions since it crosses both the shoulder and elbow."
   },
   {
     "q": "Which muscle is a 'pure' elbow flexor with no shoulder or forearm rotation action?",
-    "options": ["Biceps brachii", "Brachialis", "Brachioradialis", "Supinator"],
+    "options": [
+      "Biceps brachii",
+      "Brachialis",
+      "Brachioradialis",
+      "Supinator"
+    ],
     "answer": 1,
     "explanation": "Brachialis crosses only the elbow joint, making it a pure elbow flexor."
   },
   {
     "q": "Which muscle extends the elbow, with its long head also extending the shoulder?",
-    "options": ["Biceps brachii", "Brachialis", "Triceps brachii", "Brachioradialis"],
+    "options": [
+      "Biceps brachii",
+      "Brachialis",
+      "Triceps brachii",
+      "Brachioradialis"
+    ],
     "answer": 2,
     "explanation": "Triceps brachii extends the elbow; its long head crosses the shoulder and assists shoulder extension."
   },
   {
     "q": "Which muscle inserts on the styloid process of the radius and flexes the elbow especially in the neutral (thumb-up) position?",
-    "options": ["Brachialis", "Brachioradialis", "Supinator", "Pronator teres"],
+    "options": [
+      "Brachialis",
+      "Brachioradialis",
+      "Supinator",
+      "Pronator teres"
+    ],
     "answer": 1,
     "explanation": "Brachioradialis inserts on the radial styloid process and flexes the elbow in neutral position."
   },
   {
     "q": "Which muscle is actually the strongest forearm supinator, more powerful than the muscle literally named 'supinator'?",
-    "options": ["Pronator teres", "Biceps brachii", "Brachioradialis", "Pronator quadratus"],
+    "options": [
+      "Pronator teres",
+      "Biceps brachii",
+      "Brachioradialis",
+      "Pronator quadratus"
+    ],
     "answer": 1,
     "explanation": "Biceps brachii is the strongest supinator of the forearm in most positions."
   },
   {
     "q": "Which muscle is described as the 'fine-tuning' pronator, used for small/fast pronation movements?",
-    "options": ["Pronator teres", "Pronator quadratus", "Supinator", "Biceps brachii"],
+    "options": [
+      "Pronator teres",
+      "Pronator quadratus",
+      "Supinator",
+      "Biceps brachii"
+    ],
     "answer": 1,
     "explanation": "Pronator quadratus handles fine, fast pronation movements."
   },
   {
     "q": "Most wrist and finger flexor muscles share a common origin at the:",
-    "options": ["Lateral epicondyle", "Medial epicondyle", "Olecranon process", "Radial styloid"],
+    "options": [
+      "Lateral epicondyle",
+      "Medial epicondyle",
+      "Olecranon process",
+      "Radial styloid"
+    ],
     "answer": 1,
     "explanation": "Most flexors originate from the medial epicondyle of the humerus."
   },
   {
     "q": "Most wrist and finger extensor muscles share a common origin at the:",
-    "options": ["Medial epicondyle", "Lateral epicondyle", "Coronoid process", "Ulnar styloid"],
+    "options": [
+      "Medial epicondyle",
+      "Lateral epicondyle",
+      "Coronoid process",
+      "Ulnar styloid"
+    ],
     "answer": 1,
     "explanation": "Most extensors originate from the lateral epicondyle of the humerus."
   },
   {
     "q": "Golfer's elbow (medial epicondylitis) primarily irritates the origin of which muscle group?",
-    "options": ["Wrist extensors", "Wrist flexors", "Elbow flexors only", "Shoulder rotators"],
+    "options": [
+      "Wrist extensors",
+      "Wrist flexors",
+      "Elbow flexors only",
+      "Shoulder rotators"
+    ],
     "answer": 1,
     "explanation": "Golfer's elbow affects the medial epicondyle, the origin of the wrist flexor group."
   },
   {
     "q": "Tennis elbow (lateral epicondylitis) primarily irritates the origin of which muscle group?",
-    "options": ["Wrist flexors", "Wrist extensors", "Forearm pronators", "Shoulder abductors"],
+    "options": [
+      "Wrist flexors",
+      "Wrist extensors",
+      "Forearm pronators",
+      "Shoulder abductors"
+    ],
     "answer": 1,
     "explanation": "Tennis elbow affects the lateral epicondyle, the origin of the wrist extensor group."
   },
   {
     "q": "Flexor carpi radialis flexes and _____ the wrist.",
-    "options": ["Adducts", "Abducts", "Extends", "Rotates"],
+    "options": [
+      "Adducts",
+      "Abducts",
+      "Extends",
+      "Rotates"
+    ],
     "answer": 1,
     "explanation": "Flexor carpi radialis flexes and abducts the wrist."
   },
   {
     "q": "Flexor carpi ulnaris flexes and _____ the wrist.",
-    "options": ["Abducts", "Adducts", "Extends", "Circumducts"],
+    "options": [
+      "Abducts",
+      "Adducts",
+      "Extends",
+      "Circumducts"
+    ],
     "answer": 1,
     "explanation": "Flexor carpi ulnaris flexes and adducts the wrist."
   },
   {
     "q": "Which muscle flexes the wrist and tenses the palmar fascia?",
-    "options": ["Flexor carpi ulnaris", "Palmaris longus", "Extensor carpi radialis", "Flexor digitorum profundus"],
+    "options": [
+      "Flexor carpi ulnaris",
+      "Palmaris longus",
+      "Extensor carpi radialis",
+      "Flexor digitorum profundus"
+    ],
     "answer": 1,
     "explanation": "Palmaris longus flexes the wrist and tenses the palm."
   },
   {
     "q": "Which muscle flexes fingers 2-5 at the distal phalanges?",
-    "options": ["Extensor digitorum", "Flexor digitorum profundus", "Palmaris longus", "Opponens pollicis"],
+    "options": [
+      "Extensor digitorum",
+      "Flexor digitorum profundus",
+      "Palmaris longus",
+      "Opponens pollicis"
+    ],
     "answer": 1,
     "explanation": "Flexor digitorum profundus flexes the fingers, inserting on the distal phalanges of fingers 2-5."
   },
   {
     "q": "What is the primary action of opponens pollicis?",
-    "options": ["Extends the thumb", "Opposes the thumb across the palm", "Flexes the wrist", "Abducts the fingers"],
+    "options": [
+      "Extends the thumb",
+      "Opposes the thumb across the palm",
+      "Flexes the wrist",
+      "Abducts the fingers"
+    ],
     "answer": 1,
     "explanation": "Opponens pollicis brings the thumb across the palm to oppose the other fingers."
   },
   {
     "q": "Pronator teres originates near the medial epicondyle and, besides pronating the forearm, also assists:",
-    "options": ["Elbow extension", "Elbow flexion", "Wrist extension", "Shoulder abduction"],
+    "options": [
+      "Elbow extension",
+      "Elbow flexion",
+      "Wrist extension",
+      "Shoulder abduction"
+    ],
     "answer": 1,
     "explanation": "Pronator teres pronates the forearm and assists elbow flexion."
   },
   {
     "q": "Which forearm muscle's action is simply 'supinates the forearm,' with no other joint action?",
-    "options": ["Biceps brachii", "Supinator", "Pronator teres", "Brachioradialis"],
+    "options": [
+      "Biceps brachii",
+      "Supinator",
+      "Pronator teres",
+      "Brachioradialis"
+    ],
     "answer": 1,
     "explanation": "The supinator muscle's sole action is supinating the forearm."
   },
   {
     "q": "Extensor digitorum extends the fingers and also assists in extending the:",
-    "options": ["Elbow", "Wrist", "Shoulder", "Thumb only"],
+    "options": [
+      "Elbow",
+      "Wrist",
+      "Shoulder",
+      "Thumb only"
+    ],
     "answer": 1,
     "explanation": "Extensor digitorum extends both the fingers and the wrist."
   },
   {
     "q": "Which muscle group would be most involved in a repetitive gripping task like using hand tools all day?",
-    "options": ["Only shoulder rotator cuff muscles", "Wrist/finger flexors and extensors", "Only the biceps brachii", "Hip rotator muscles"],
+    "options": [
+      "Only shoulder rotator cuff muscles",
+      "Wrist/finger flexors and extensors",
+      "Only the biceps brachii",
+      "Hip rotator muscles"
+    ],
     "answer": 1,
     "explanation": "Repetitive gripping and manual tasks primarily stress the wrist/finger flexor and extensor groups."
   },
   {
     "q": "Which muscle's insertion is the radial tuberosity?",
-    "options": ["Brachialis", "Biceps brachii", "Triceps brachii", "Brachioradialis"],
+    "options": [
+      "Brachialis",
+      "Biceps brachii",
+      "Triceps brachii",
+      "Brachioradialis"
+    ],
     "answer": 1,
     "explanation": "Biceps brachii inserts on the radial tuberosity."
+  },
+  {
+    "q": "Biceps brachii has two proximal attachment points (heads) on the scapula. What are they?",
+    "options": [
+      "Supraglenoid tubercle and coracoid process",
+      "Infraglenoid tubercle and acromion",
+      "Coracoid process and glenoid fossa rim only",
+      "Supraglenoid tubercle and infraglenoid tubercle"
+    ],
+    "answer": 0,
+    "explanation": "Biceps brachii originates from the supraglenoid tubercle (long head) and the coracoid process (short head) of the scapula."
+  },
+  {
+    "q": "Because biceps brachii crosses both the shoulder and elbow joints, how many separate joint actions does it contribute to?",
+    "options": [
+      "One",
+      "Two",
+      "Three or more",
+      "None — it only stabilizes"
+    ],
+    "answer": 2,
+    "explanation": "Biceps brachii contributes to elbow flexion, forearm supination, and shoulder flexion — three separate actions across two joints."
+  },
+  {
+    "q": "Which nerve innervates the biceps brachii?",
+    "options": [
+      "Radial nerve",
+      "Musculocutaneous nerve",
+      "Median nerve",
+      "Axillary nerve"
+    ],
+    "answer": 1,
+    "explanation": "Biceps brachii is innervated by the musculocutaneous nerve, along with brachialis and coracobrachialis."
+  },
+  {
+    "q": "A client complains of anterior shoulder and elbow fatigue after repeated palm-up lifting (like carrying a tray). Which two-joint muscle is most likely overworked?",
+    "options": [
+      "Brachialis",
+      "Biceps brachii",
+      "Pronator teres",
+      "Extensor carpi ulnaris"
+    ],
+    "answer": 1,
+    "explanation": "Biceps brachii crosses both the shoulder and elbow and produces supination, so palm-up lifting/carrying loads it heavily at both joints."
+  },
+  {
+    "q": "Brachialis originates on the:",
+    "options": [
+      "Lateral supracondylar ridge of the humerus",
+      "Distal anterior shaft of the humerus",
+      "Medial epicondyle of the humerus",
+      "Infraglenoid tubercle of the scapula"
+    ],
+    "answer": 1,
+    "explanation": "Brachialis originates from the distal anterior surface of the humeral shaft."
+  },
+  {
+    "q": "Brachialis inserts on the:",
+    "options": [
+      "Radial tuberosity",
+      "Styloid process of the radius",
+      "Ulnar tuberosity",
+      "Olecranon process"
+    ],
+    "answer": 2,
+    "explanation": "Brachialis inserts on the ulnar tuberosity, distinguishing it from biceps brachii, which inserts on the radial tuberosity."
+  },
+  {
+    "q": "Why is brachialis considered the true 'workhorse' of elbow flexion regardless of forearm position?",
+    "options": [
+      "It inserts on the radius, so rotation doesn't matter",
+      "It inserts on the ulna, which doesn't rotate during pronation/supination",
+      "It crosses the shoulder joint too",
+      "It is innervated by the radial nerve"
+    ],
+    "answer": 1,
+    "explanation": "Because brachialis inserts on the ulna (which stays fixed during forearm rotation), its leverage for elbow flexion is unaffected by forearm position — unlike biceps brachii."
+  },
+  {
+    "q": "Which nerve primarily innervates brachialis?",
+    "options": [
+      "Musculocutaneous nerve",
+      "Radial nerve",
+      "Median nerve",
+      "Ulnar nerve"
+    ],
+    "answer": 0,
+    "explanation": "Brachialis is primarily innervated by the musculocutaneous nerve (it also receives a small sensory contribution from the radial nerve)."
+  },
+  {
+    "q": "Brachioradialis originates from the:",
+    "options": [
+      "Medial epicondyle of the humerus",
+      "Lateral supracondylar ridge of the humerus",
+      "Coronoid process of the ulna",
+      "Olecranon process"
+    ],
+    "answer": 1,
+    "explanation": "Brachioradialis originates from the lateral supracondylar ridge of the humerus."
+  },
+  {
+    "q": "Which muscle inserts near the wrist, on the styloid process of the radius, despite being an elbow flexor?",
+    "options": [
+      "Biceps brachii",
+      "Brachialis",
+      "Brachioradialis",
+      "Pronator teres"
+    ],
+    "answer": 2,
+    "explanation": "Brachioradialis has an unusually distal insertion at the radial styloid process for a muscle whose primary action is elbow flexion."
+  },
+  {
+    "q": "Which nerve innervates brachioradialis?",
+    "options": [
+      "Musculocutaneous nerve",
+      "Median nerve",
+      "Ulnar nerve",
+      "Radial nerve"
+    ],
+    "answer": 3,
+    "explanation": "Brachioradialis is unusual in that it is a flexor innervated by the radial nerve, which otherwise mainly supplies extensors."
+  },
+  {
+    "q": "Brachioradialis is most mechanically effective at flexing the elbow when the forearm is in which position?",
+    "options": [
+      "Full pronation",
+      "Full supination",
+      "Neutral (thumb-up)",
+      "It has no preferred position"
+    ],
+    "answer": 2,
+    "explanation": "Brachioradialis generates its greatest mechanical advantage for elbow flexion when the forearm is midway between pronation and supination (neutral/thumb-up)."
+  },
+  {
+    "q": "Triceps brachii's three heads are the long head, lateral head, and:",
+    "options": [
+      "Short head",
+      "Medial head",
+      "Deep head",
+      "Accessory head"
+    ],
+    "answer": 1,
+    "explanation": "Triceps brachii has long, lateral, and medial heads."
+  },
+  {
+    "q": "Which head of triceps brachii is the only one to cross the shoulder joint?",
+    "options": [
+      "Lateral head",
+      "Medial head",
+      "Long head",
+      "All three heads cross the shoulder"
+    ],
+    "answer": 2,
+    "explanation": "The long head originates from the infraglenoid tubercle of the scapula, so it crosses the shoulder joint and can assist shoulder extension."
+  },
+  {
+    "q": "The lateral and medial heads of triceps brachii originate from:",
+    "options": [
+      "The scapula",
+      "Two points on the humeral shaft",
+      "The radius and ulna",
+      "The clavicle"
+    ],
+    "answer": 1,
+    "explanation": "The lateral and medial heads originate from two separate points on the posterior humeral shaft, while the long head comes from the scapula."
+  },
+  {
+    "q": "All three heads of triceps brachii converge to insert on the:",
+    "options": [
+      "Radial tuberosity",
+      "Ulnar tuberosity",
+      "Olecranon process of the ulna",
+      "Coronoid process of the ulna"
+    ],
+    "answer": 2,
+    "explanation": "All three heads of triceps brachii share a common insertion on the olecranon process of the ulna."
+  },
+  {
+    "q": "Which nerve innervates triceps brachii?",
+    "options": [
+      "Musculocutaneous nerve",
+      "Axillary nerve",
+      "Radial nerve",
+      "Median nerve"
+    ],
+    "answer": 2,
+    "explanation": "Triceps brachii is innervated by the radial nerve, which runs along the posterior humerus in the radial groove."
+  },
+  {
+    "q": "Supinator originates from the lateral epicondyle of the humerus and also from the:",
+    "options": [
+      "Proximal radius",
+      "Proximal ulna",
+      "Coronoid process only",
+      "Olecranon process"
+    ],
+    "answer": 1,
+    "explanation": "Supinator has a dual origin from the lateral epicondyle of the humerus and the proximal ulna."
+  },
+  {
+    "q": "Supinator inserts on the:",
+    "options": [
+      "Distal anterior radius",
+      "Proximal lateral radius",
+      "Ulnar tuberosity",
+      "Radial tuberosity"
+    ],
+    "answer": 1,
+    "explanation": "Supinator wraps around and inserts on the proximal lateral surface of the radius."
+  },
+  {
+    "q": "Which nerve innervates the supinator muscle?",
+    "options": [
+      "Median nerve",
+      "Ulnar nerve",
+      "Radial nerve (posterior interosseous branch)",
+      "Musculocutaneous nerve"
+    ],
+    "answer": 2,
+    "explanation": "Supinator is innervated by the posterior interosseous branch of the radial nerve."
+  },
+  {
+    "q": "Compared to biceps brachii, the supinator muscle's supination action is:",
+    "options": [
+      "Stronger in all positions",
+      "Weaker overall, though it works regardless of elbow position",
+      "Identical in strength",
+      "Only active during pronation"
+    ],
+    "answer": 1,
+    "explanation": "Supinator is a weaker supinator than biceps brachii, but unlike biceps it can supinate effectively whether the elbow is flexed or extended."
+  },
+  {
+    "q": "Pronator teres originates from the medial epicondyle of the humerus and the:",
+    "options": [
+      "Coronoid process of the ulna",
+      "Olecranon process",
+      "Radial tuberosity",
+      "Lateral supracondylar ridge"
+    ],
+    "answer": 0,
+    "explanation": "Pronator teres has two heads: one from the medial epicondyle, one from the coronoid process of the ulna."
+  },
+  {
+    "q": "Pronator teres inserts on the:",
+    "options": [
+      "Distal anterior radius",
+      "Lateral proximal radius",
+      "Ulnar tuberosity",
+      "Base of metacarpal 2"
+    ],
+    "answer": 1,
+    "explanation": "Pronator teres inserts on the lateral surface of the proximal radius."
+  },
+  {
+    "q": "Which nerve innervates pronator teres?",
+    "options": [
+      "Median nerve",
+      "Radial nerve",
+      "Ulnar nerve",
+      "Musculocutaneous nerve"
+    ],
+    "answer": 0,
+    "explanation": "Pronator teres is innervated by the median nerve."
+  },
+  {
+    "q": "Pronator quadratus originates on the distal anterior ulna and inserts on the:",
+    "options": [
+      "Distal anterior radius",
+      "Proximal lateral radius",
+      "Radial styloid process",
+      "Base of metacarpal 3"
+    ],
+    "answer": 0,
+    "explanation": "Pronator quadratus is a flat, deep muscle spanning from the distal anterior ulna to the distal anterior radius."
+  },
+  {
+    "q": "Which nerve innervates pronator quadratus?",
+    "options": [
+      "Ulnar nerve",
+      "Radial nerve",
+      "Median nerve (anterior interosseous branch)",
+      "Axillary nerve"
+    ],
+    "answer": 2,
+    "explanation": "Pronator quadratus is innervated by the anterior interosseous branch of the median nerve."
+  },
+  {
+    "q": "Which two muscles work together to pronate the forearm, one for power/larger movements and one for fine control?",
+    "options": [
+      "Supinator and biceps brachii",
+      "Pronator teres and pronator quadratus",
+      "Brachialis and brachioradialis",
+      "Flexor carpi radialis and flexor carpi ulnaris"
+    ],
+    "answer": 1,
+    "explanation": "Pronator teres provides stronger, larger pronation movements while pronator quadratus fine-tunes fast, small pronation adjustments."
+  },
+  {
+    "q": "Flexor carpi radialis originates from the medial epicondyle and inserts on the:",
+    "options": [
+      "Base of metacarpal 5",
+      "Base of metacarpals 2-3",
+      "Palmar fascia",
+      "Distal phalanges 2-5"
+    ],
+    "answer": 1,
+    "explanation": "Flexor carpi radialis inserts at the base of the 2nd and 3rd metacarpals."
+  },
+  {
+    "q": "Which nerve innervates flexor carpi radialis?",
+    "options": [
+      "Ulnar nerve",
+      "Radial nerve",
+      "Median nerve",
+      "Musculocutaneous nerve"
+    ],
+    "answer": 2,
+    "explanation": "Flexor carpi radialis is innervated by the median nerve."
+  },
+  {
+    "q": "Flexor carpi ulnaris inserts on the:",
+    "options": [
+      "Base of metacarpal 5",
+      "Base of metacarpals 2-3",
+      "Palmar fascia",
+      "Radial styloid process"
+    ],
+    "answer": 0,
+    "explanation": "Flexor carpi ulnaris inserts at the base of the 5th metacarpal."
+  },
+  {
+    "q": "Which nerve innervates flexor carpi ulnaris?",
+    "options": [
+      "Median nerve",
+      "Ulnar nerve",
+      "Radial nerve",
+      "Axillary nerve"
+    ],
+    "answer": 1,
+    "explanation": "Flexor carpi ulnaris is innervated by the ulnar nerve, unlike most other wrist flexors, which are median-nerve innervated."
+  },
+  {
+    "q": "Palmaris longus originates from the medial epicondyle and inserts into the:",
+    "options": [
+      "Base of metacarpal 2",
+      "Palmar fascia",
+      "Distal phalanges",
+      "Olecranon process"
+    ],
+    "answer": 1,
+    "explanation": "Palmaris longus inserts broadly into the palmar fascia (aponeurosis) rather than a bone."
+  },
+  {
+    "q": "Which nerve innervates palmaris longus?",
+    "options": [
+      "Radial nerve",
+      "Ulnar nerve",
+      "Median nerve",
+      "Musculocutaneous nerve"
+    ],
+    "answer": 2,
+    "explanation": "Palmaris longus is innervated by the median nerve."
+  },
+  {
+    "q": "At the wrist, the tendon of palmaris longus (when present) is often used clinically as a landmark because it lies directly superficial to the:",
+    "options": [
+      "Radial artery",
+      "Median nerve",
+      "Ulnar nerve",
+      "Flexor pollicis longus tendon"
+    ],
+    "answer": 1,
+    "explanation": "The median nerve runs deep to the palmaris longus tendon at the wrist, making the tendon a useful surface landmark."
+  },
+  {
+    "q": "Flexor digitorum profundus originates from the proximal anterior ulna and flexes the fingers by inserting on the:",
+    "options": [
+      "Middle phalanges of fingers 2-5",
+      "Distal phalanges of fingers 2-5",
+      "Proximal phalanges of fingers 2-5",
+      "Metacarpals 2-5"
+    ],
+    "answer": 1,
+    "explanation": "Flexor digitorum profundus inserts on the distal phalanges, allowing it to flex the fingertips (DIP joints)."
+  },
+  {
+    "q": "Flexor digitorum profundus has a unique dual nerve supply. Which two nerves innervate it?",
+    "options": [
+      "Radial and axillary",
+      "Median and ulnar",
+      "Musculocutaneous and radial",
+      "Ulnar and axillary"
+    ],
+    "answer": 1,
+    "explanation": "The lateral half of flexor digitorum profundus (fingers 2-3) is supplied by the median nerve, and the medial half (fingers 4-5) by the ulnar nerve."
+  },
+  {
+    "q": "Extensor carpi radialis (longus and brevis) inserts on the:",
+    "options": [
+      "Base of metacarpal 5",
+      "Base of metacarpals 2-3",
+      "Distal phalanges",
+      "Palmar fascia"
+    ],
+    "answer": 1,
+    "explanation": "Extensor carpi radialis longus and brevis insert on the base of metacarpals 2 and 3, on the dorsal side."
+  },
+  {
+    "q": "Which nerve innervates extensor carpi radialis longus and brevis?",
+    "options": [
+      "Median nerve",
+      "Ulnar nerve",
+      "Radial nerve",
+      "Musculocutaneous nerve"
+    ],
+    "answer": 2,
+    "explanation": "Both extensor carpi radialis longus and brevis are innervated by the radial nerve."
+  },
+  {
+    "q": "Which forearm muscle originates from the lateral epicondyle and inserts on the base of metacarpal 5, extending and adducting the wrist?",
+    "options": [
+      "Extensor carpi radialis",
+      "Extensor carpi ulnaris",
+      "Flexor carpi ulnaris",
+      "Extensor digitorum"
+    ],
+    "answer": 1,
+    "explanation": "Extensor carpi ulnaris originates at the lateral epicondyle and inserts at the base of metacarpal 5, extending and adducting the wrist."
+  },
+  {
+    "q": "Which nerve innervates extensor carpi ulnaris?",
+    "options": [
+      "Ulnar nerve",
+      "Radial nerve (posterior interosseous branch)",
+      "Median nerve",
+      "Axillary nerve"
+    ],
+    "answer": 1,
+    "explanation": "Despite its name referencing the ulnar side, extensor carpi ulnaris is innervated by the posterior interosseous branch of the radial nerve, not the ulnar nerve."
+  },
+  {
+    "q": "Extensor digitorum inserts on the:",
+    "options": [
+      "Distal phalanges of the 4 fingers",
+      "Middle phalanges of the 4 fingers",
+      "Proximal phalanges only",
+      "Base of metacarpals 2-5"
+    ],
+    "answer": 1,
+    "explanation": "Extensor digitorum inserts on the middle phalanges of the four fingers via the extensor expansion."
+  },
+  {
+    "q": "Which nerve innervates extensor digitorum?",
+    "options": [
+      "Median nerve",
+      "Ulnar nerve",
+      "Radial nerve",
+      "Musculocutaneous nerve"
+    ],
+    "answer": 2,
+    "explanation": "Extensor digitorum is innervated by the radial nerve (posterior interosseous branch)."
+  },
+  {
+    "q": "Flexor pollicis longus and brevis both act to:",
+    "options": [
+      "Extend the thumb",
+      "Flex the thumb",
+      "Oppose the thumb only",
+      "Abduct the fingers"
+    ],
+    "answer": 1,
+    "explanation": "Flexor pollicis longus and brevis both flex the phalanges of the thumb."
+  },
+  {
+    "q": "Flexor pollicis brevis originates from the:",
+    "options": [
+      "Radius and ulna",
+      "Trapezium",
+      "Lateral epicondyle",
+      "Olecranon process"
+    ],
+    "answer": 1,
+    "explanation": "Flexor pollicis brevis originates from the trapezium, distinguishing it from flexor pollicis longus, which arises from the radius/ulna."
+  },
+  {
+    "q": "Which nerve innervates flexor pollicis longus?",
+    "options": [
+      "Ulnar nerve",
+      "Radial nerve",
+      "Median nerve (anterior interosseous branch)",
+      "Musculocutaneous nerve"
+    ],
+    "answer": 2,
+    "explanation": "Flexor pollicis longus is innervated by the anterior interosseous branch of the median nerve."
+  },
+  {
+    "q": "Extensor pollicis longus and brevis both act to:",
+    "options": [
+      "Flex the thumb",
+      "Extend the thumb",
+      "Oppose the thumb",
+      "Adduct the thumb"
+    ],
+    "answer": 1,
+    "explanation": "Extensor pollicis longus and brevis both extend the phalanges of the thumb."
+  },
+  {
+    "q": "Extensor pollicis longus and brevis originate, respectively, from the:",
+    "options": [
+      "Ulna/interosseous membrane and radius/interosseous membrane",
+      "Trapezium and medial epicondyle",
+      "Radial tuberosity and ulnar tuberosity",
+      "Lateral epicondyle and coronoid process"
+    ],
+    "answer": 0,
+    "explanation": "Extensor pollicis longus arises from the ulna and interosseous membrane, while extensor pollicis brevis arises from the radius and interosseous membrane."
+  },
+  {
+    "q": "Which nerve innervates extensor pollicis longus and brevis?",
+    "options": [
+      "Median nerve",
+      "Ulnar nerve",
+      "Radial nerve (posterior interosseous branch)",
+      "Axillary nerve"
+    ],
+    "answer": 2,
+    "explanation": "Both extensor pollicis longus and brevis are innervated by the posterior interosseous branch of the radial nerve."
+  },
+  {
+    "q": "The tendons of extensor pollicis longus and extensor pollicis brevis form the borders of which surface landmark at the wrist?",
+    "options": [
+      "Carpal tunnel",
+      "Anatomical snuffbox",
+      "Cubital fossa",
+      "Flexor retinaculum"
+    ],
+    "answer": 1,
+    "explanation": "The anatomical snuffbox is bordered by the tendons of extensor pollicis longus (medially/ulnarly) and extensor pollicis brevis (laterally/radially)."
+  },
+  {
+    "q": "Opponens pollicis originates from the trapezium and:",
+    "options": [
+      "Transverse carpal ligament",
+      "Radial styloid process",
+      "Coronoid process",
+      "Lateral epicondyle"
+    ],
+    "answer": 0,
+    "explanation": "Opponens pollicis originates from the trapezium and the transverse carpal ligament (flexor retinaculum)."
+  },
+  {
+    "q": "Which nerve innervates opponens pollicis?",
+    "options": [
+      "Ulnar nerve",
+      "Radial nerve",
+      "Median nerve (recurrent branch)",
+      "Musculocutaneous nerve"
+    ],
+    "answer": 2,
+    "explanation": "Opponens pollicis is innervated by the recurrent (thenar) branch of the median nerve."
+  },
+  {
+    "q": "Carpal tunnel syndrome results from compression of which nerve at the wrist, potentially weakening thenar muscles like opponens pollicis?",
+    "options": [
+      "Radial nerve",
+      "Ulnar nerve",
+      "Median nerve",
+      "Axillary nerve"
+    ],
+    "answer": 2,
+    "explanation": "Carpal tunnel syndrome involves compression of the median nerve as it passes under the transverse carpal ligament, which can weaken median-innervated thenar muscles."
+  },
+  {
+    "q": "Which muscle group runs through the carpal tunnel along with the median nerve, making it relevant to carpal tunnel syndrome?",
+    "options": [
+      "Wrist extensors",
+      "Finger flexor tendons (including flexor digitorum profundus)",
+      "Thumb extensors only",
+      "Forearm supinators"
+    ],
+    "answer": 1,
+    "explanation": "The finger flexor tendons, including flexor digitorum profundus and flexor digitorum superficialis, pass through the carpal tunnel alongside the median nerve."
+  },
+  {
+    "q": "A muscle that flexes the elbow but has no direct action on the forearm or shoulder is best classified as a:",
+    "options": [
+      "Two-joint muscle",
+      "Pure single-joint elbow flexor",
+      "Forearm rotator",
+      "Wrist stabilizer"
+    ],
+    "answer": 1,
+    "explanation": "Brachialis crosses only the elbow joint, making it a pure single-joint elbow flexor."
+  },
+  {
+    "q": "Which combination of muscles forms the primary group responsible for elbow flexion?",
+    "options": [
+      "Triceps brachii and anconeus",
+      "Biceps brachii, brachialis, and brachioradialis",
+      "Supinator and pronator teres",
+      "Extensor carpi radialis and ulnaris"
+    ],
+    "answer": 1,
+    "explanation": "Biceps brachii, brachialis, and brachioradialis are the three primary elbow flexors."
+  },
+  {
+    "q": "If a client's forearm is pronated (palm down) and then actively supinated against resistance, which two muscles are working hardest as agonists?",
+    "options": [
+      "Pronator teres and pronator quadratus",
+      "Biceps brachii and supinator",
+      "Extensor digitorum and extensor carpi ulnaris",
+      "Flexor carpi radialis and flexor carpi ulnaris"
+    ],
+    "answer": 1,
+    "explanation": "Biceps brachii and supinator are the primary agonists of forearm supination."
+  },
+  {
+    "q": "A therapist palpates tenderness at the medial epicondyle after a client reports pain from repetitive golf swings. Which structure's origin is being irritated?",
+    "options": [
+      "Common extensor origin",
+      "Common flexor-pronator origin",
+      "Triceps insertion",
+      "Supinator origin"
+    ],
+    "answer": 1,
+    "explanation": "The medial epicondyle is the common flexor-pronator origin (wrist/finger flexors and pronator teres), irritated in golfer's elbow."
+  },
+  {
+    "q": "A client with lateral epicondyle tenderness from repetitive backhand tennis strokes most likely has irritation at the origin of which muscles?",
+    "options": [
+      "Wrist and finger flexors",
+      "Wrist and finger extensors plus supinator",
+      "Biceps brachii and brachialis",
+      "Pronator teres and pronator quadratus"
+    ],
+    "answer": 1,
+    "explanation": "The lateral epicondyle is the common extensor origin, shared by the wrist/finger extensors and supinator, and is irritated in tennis elbow."
+  },
+  {
+    "q": "Which of the following muscles does NOT originate at or near the medial epicondyle of the humerus?",
+    "options": [
+      "Flexor carpi radialis",
+      "Pronator teres",
+      "Extensor carpi ulnaris",
+      "Flexor carpi ulnaris"
+    ],
+    "answer": 2,
+    "explanation": "Extensor carpi ulnaris originates at the lateral epicondyle, not the medial epicondyle."
+  },
+  {
+    "q": "Which of the following muscles does NOT originate at or near the lateral epicondyle of the humerus?",
+    "options": [
+      "Extensor carpi radialis brevis",
+      "Extensor digitorum",
+      "Palmaris longus",
+      "Supinator"
+    ],
+    "answer": 2,
+    "explanation": "Palmaris longus originates from the medial epicondyle, not the lateral epicondyle."
+  },
+  {
+    "q": "A trigger finger (stenosing tenosynovitis) most commonly involves catching/locking of which type of tendon?",
+    "options": [
+      "Wrist extensor tendons",
+      "Finger flexor tendons at the pulley system",
+      "Thumb extensor tendons",
+      "Forearm pronator tendons"
+    ],
+    "answer": 1,
+    "explanation": "Trigger finger involves the flexor digitorum tendons catching within their fibrous pulley system, usually at the A1 pulley near the MCP joint."
+  },
+  {
+    "q": "Which muscle abducts the wrist in addition to flexing it, working with flexor carpi ulnaris (which adducts) to keep the wrist balanced side-to-side?",
+    "options": [
+      "Flexor carpi radialis",
+      "Palmaris longus",
+      "Flexor digitorum profundus",
+      "Pronator teres"
+    ],
+    "answer": 0,
+    "explanation": "Flexor carpi radialis flexes and abducts the wrist, functioning as a counterbalance to flexor carpi ulnaris, which flexes and adducts."
+  },
+  {
+    "q": "Which muscle extends the wrist while also adducting it, mirroring the action pattern of flexor carpi ulnaris on the flexor side?",
+    "options": [
+      "Extensor carpi radialis",
+      "Extensor digitorum",
+      "Extensor carpi ulnaris",
+      "Supinator"
+    ],
+    "answer": 2,
+    "explanation": "Extensor carpi ulnaris extends and adducts the wrist, paralleling flexor carpi ulnaris's flex-and-adduct pattern on the anterior side."
+  },
+  {
+    "q": "A massage therapist wants to lengthen the wrist extensor group to help a client recovering from tennis elbow. Which movement would stretch this group?",
+    "options": [
+      "Wrist extension with forearm supinated",
+      "Wrist flexion with the fingers curled and forearm pronated",
+      "Elbow flexion with forearm neutral",
+      "Shoulder abduction"
+    ],
+    "answer": 1,
+    "explanation": "Flexing the wrist (and fingers) with the forearm pronated lengthens the extensor group originating at the lateral epicondyle."
+  },
+  {
+    "q": "Which of these muscles crosses only the elbow and radioulnar joints, having no direct action on the wrist?",
+    "options": [
+      "Flexor carpi ulnaris",
+      "Pronator teres",
+      "Extensor digitorum",
+      "Flexor digitorum profundus"
+    ],
+    "answer": 1,
+    "explanation": "Pronator teres acts on the elbow (assisting flexion) and forearm (pronation) but does not cross the wrist."
+  },
+  {
+    "q": "Between biceps brachii and brachioradialis, which one does NOT contribute to forearm rotation?",
+    "options": [
+      "Biceps brachii",
+      "Brachioradialis",
+      "Both contribute equally",
+      "Neither contributes to rotation"
+    ],
+    "answer": 1,
+    "explanation": "Brachioradialis flexes the elbow but does not produce forearm pronation or supination; biceps brachii does supinate the forearm."
+  },
+  {
+    "q": "A massage therapist working on a client's forearm needs to address chronic tightness contributing to a clenched-fist resting posture. Which muscle group is most likely overactive?",
+    "options": [
+      "Wrist and finger extensors",
+      "Wrist and finger flexors",
+      "Forearm supinators only",
+      "Elbow extensors only"
+    ],
+    "answer": 1,
+    "explanation": "A chronically clenched-fist resting posture points to overactivity/shortening in the wrist and finger flexor group."
+  },
+  {
+    "q": "A massage therapist notes that a client cannot fully turn their palm upward (supinate) after a radial nerve injury proximal to the elbow. Besides brachioradialis weakness, which muscle would still be able to partially supinate since it has a different nerve supply?",
+    "options": [
+      "Supinator (also radial nerve, so also affected)",
+      "Biceps brachii (musculocutaneous nerve)",
+      "Pronator teres (median nerve, does not supinate)",
+      "Extensor carpi radialis (radial nerve, also affected)"
+    ],
+    "answer": 1,
+    "explanation": "Biceps brachii is innervated by the musculocutaneous nerve, so it would be spared by a radial nerve injury and could still supinate the forearm."
+  },
+  {
+    "q": "Damage to the ulnar nerve at the wrist would most directly weaken which of the following muscles?",
+    "options": [
+      "Flexor carpi radialis",
+      "Flexor carpi ulnaris",
+      "Pronator teres",
+      "Flexor pollicis longus"
+    ],
+    "answer": 1,
+    "explanation": "Flexor carpi ulnaris is innervated by the ulnar nerve, unlike the other listed muscles, which are median-nerve innervated."
+  },
+  {
+    "q": "A client presents with weakness extending the wrist and fingers, plus a 'wrist drop,' following an injury near the mid-humerus. Which nerve is most likely involved?",
+    "options": [
+      "Median nerve",
+      "Ulnar nerve",
+      "Radial nerve",
+      "Musculocutaneous nerve"
+    ],
+    "answer": 2,
+    "explanation": "Radial nerve injury classically causes wrist drop, since the radial nerve innervates essentially all the wrist and finger extensors."
+  },
+  {
+    "q": "Which muscle's fibers run essentially straight from the distal ulna to the distal radius, making it the deepest and most distal of the forearm pronators?",
+    "options": [
+      "Pronator teres",
+      "Pronator quadratus",
+      "Supinator",
+      "Flexor digitorum profundus"
+    ],
+    "answer": 1,
+    "explanation": "Pronator quadratus is a flat, deep muscle connecting the distal ulna directly to the distal radius."
+  },
+  {
+    "q": "The thenar eminence (the fleshy mass at the base of the thumb) is largely formed by which type of muscles?",
+    "options": [
+      "Wrist extensors",
+      "Thumb intrinsic muscles like opponens pollicis and flexor pollicis brevis",
+      "Forearm pronators",
+      "Finger extensor tendons"
+    ],
+    "answer": 1,
+    "explanation": "The thenar eminence is formed by the short thumb muscles, including opponens pollicis and flexor pollicis brevis."
+  },
+  {
+    "q": "Which of the following muscle actions best describes opposition of the thumb?",
+    "options": [
+      "Extending the thumb away from the palm",
+      "Bringing the thumb across the palm to touch the other fingertips",
+      "Flexing the thumb only at the interphalangeal joint",
+      "Abducting the thumb away from the index finger"
+    ],
+    "answer": 1,
+    "explanation": "Opposition is the unique thumb movement that brings the thumb pad across the palm to meet the fingertips, produced mainly by opponens pollicis."
+  },
+  {
+    "q": "Repetitive typing and mousing primarily place chronic strain on which forearm muscle groups?",
+    "options": [
+      "Elbow flexors and extensors only",
+      "Wrist/finger flexors and extensors, plus thumb muscles",
+      "Forearm pronators only",
+      "Rotator cuff muscles"
+    ],
+    "answer": 1,
+    "explanation": "Typing and mousing repeatedly engage the wrist/finger flexor-extensor groups and thumb musculature, making them common sites of repetitive strain."
+  },
+  {
+    "q": "Which elbow flexor is the ONLY one of the three primary flexors that also crosses the shoulder joint?",
+    "options": [
+      "Brachialis",
+      "Brachioradialis",
+      "Biceps brachii",
+      "None of them cross the shoulder"
+    ],
+    "answer": 2,
+    "explanation": "Biceps brachii is the only one of the three primary elbow flexors (biceps brachii, brachialis, brachioradialis) that also crosses the shoulder joint."
+  },
+  {
+    "q": "Shoulder flexion, elbow flexion, and forearm supination are all performed by:",
+    "options": [
+      "Brachialis",
+      "Coracobrachialis",
+      "Brachioradialis",
+      "Biceps brachii"
+    ],
+    "answer": 3,
+    "explanation": "Biceps brachii is the only muscle that performs all three of these actions, since it crosses both the shoulder and elbow joints."
+  },
+  {
+    "q": "Which muscle acts as a synergist to biceps brachii during supination of the forearm?",
+    "options": [
+      "Coracobrachialis",
+      "Brachialis",
+      "Supinator",
+      "Triceps brachii"
+    ],
+    "answer": 2,
+    "explanation": "The supinator assists biceps brachii in supinating the forearm, though biceps brachii is the stronger of the two in most positions."
+  },
+  {
+    "q": "With the hand in neutral position, flexion of the elbow is most strongly accomplished by:",
+    "options": [
+      "Triceps brachii",
+      "Brachialis",
+      "Coracobrachialis",
+      "Brachioradialis"
+    ],
+    "answer": 3,
+    "explanation": "In the neutral (thumb-up) position, brachioradialis has its greatest mechanical advantage for elbow flexion."
+  },
+  {
+    "q": "Origination of brachialis:",
+    "options": [
+      "Ulnar tuberosity",
+      "Proximal medial shaft of humerus",
+      "Coronoid process",
+      "Distal anterior shaft of humerus"
+    ],
+    "answer": 3,
+    "explanation": "Brachialis originates on the distal anterior shaft of the humerus."
+  },
+  {
+    "q": "Golfer's elbow is also known as:",
+    "options": [
+      "Lateral epicondylitis",
+      "Medial epicondylitis",
+      "Tuberculitis",
+      "Olecranon bursitis"
+    ],
+    "answer": 1,
+    "explanation": "Golfer's elbow = medial epicondylitis (inner elbow). Tennis elbow = lateral epicondylitis."
   }
 ]

@@ -1,122 +1,1102 @@
 [
   {
     "q": "Which of the following is NOT one of the six basic nutrients?",
-    "options": ["Water", "Protein", "Fiber", "Minerals"],
+    "options": [
+      "Water",
+      "Protein",
+      "Fiber",
+      "Minerals"
+    ],
     "answer": 2,
     "explanation": "The six basic nutrients are water, protein, carbohydrates, fats, vitamins, and minerals — fiber isn't counted as a separate basic nutrient category."
   },
   {
     "q": "What actually builds muscle, according to standard nutrition guidance?",
-    "options": ["Protein alone", "Exercise (mechanical stress), with protein supplying repair material", "Carbohydrates alone", "Water intake"],
+    "options": [
+      "Protein alone",
+      "Exercise (mechanical stress), with protein supplying repair material",
+      "Carbohydrates alone",
+      "Water intake"
+    ],
     "answer": 1,
     "explanation": "Protein repairs and rebuilds tissue, but exercise is what actually builds muscle."
   },
   {
     "q": "Roughly what percentage of total diet should come from carbohydrates?",
-    "options": ["10-20%", "30-40%", "55-60%", "80-90%"],
+    "options": [
+      "10-20%",
+      "30-40%",
+      "55-60%",
+      "80-90%"
+    ],
     "answer": 2,
     "explanation": "Carbohydrates should make up roughly 55-60% of total diet in traditional guidance."
   },
   {
     "q": "High-glycemic foods are best consumed:",
-    "options": ["Right before a long bout of exercise", "After exercise, to replenish fuel", "Only at bedtime", "They should always be avoided"],
+    "options": [
+      "Right before a long bout of exercise",
+      "After exercise, to replenish fuel",
+      "Only at bedtime",
+      "They should always be avoided"
+    ],
     "answer": 1,
     "explanation": "High-glycemic foods raise blood sugar quickly, making them useful after exercise to replace burned fuel."
   },
   {
     "q": "Which fat category is generally considered less healthy and solid at room temperature?",
-    "options": ["Unsaturated fats", "Saturated fats", "Omega-3 fats", "HDL"],
+    "options": [
+      "Unsaturated fats",
+      "Saturated fats",
+      "Omega-3 fats",
+      "HDL"
+    ],
     "answer": 1,
     "explanation": "Saturated fats are solid at room temperature and considered the less healthy fat category."
   },
   {
     "q": "Which type of cholesterol is often called the 'good' cholesterol?",
-    "options": ["LDL", "HDL", "VLDL", "Triglycerides"],
+    "options": [
+      "LDL",
+      "HDL",
+      "VLDL",
+      "Triglycerides"
+    ],
     "answer": 1,
     "explanation": "HDL (high-density lipoprotein) is considered the 'good' cholesterol."
   },
   {
     "q": "Which vitamins are water-soluble, meaning excess is excreted in urine?",
-    "options": ["A and D", "E and K", "B and C", "All vitamins are water-soluble"],
+    "options": [
+      "A and D",
+      "E and K",
+      "B and C",
+      "All vitamins are water-soluble"
+    ],
     "answer": 2,
     "explanation": "Vitamins B and C are water-soluble and excreted when taken in excess."
   },
   {
     "q": "Which vitamins are fat-soluble and can build up to toxic levels if overconsumed?",
-    "options": ["B and C", "A, D, E, and K", "Only vitamin C", "None — no vitamins are toxic"],
+    "options": [
+      "B and C",
+      "A, D, E, and K",
+      "Only vitamin C",
+      "None — no vitamins are toxic"
+    ],
     "answer": 1,
     "explanation": "Fat-soluble vitamins A, D, E, and K are stored in body fat and can accumulate to toxic levels."
   },
   {
     "q": "Which mineral is especially relevant during a woman's menstrual years?",
-    "options": ["Calcium", "Iron", "Zinc", "Potassium"],
+    "options": [
+      "Calcium",
+      "Iron",
+      "Zinc",
+      "Potassium"
+    ],
     "answer": 1,
     "explanation": "Iron is particularly important during the menstrual years due to blood loss."
   },
   {
     "q": "Which mineral is especially important during peak bone-growing years and after menopause?",
-    "options": ["Iron", "Calcium", "Sodium", "Magnesium"],
+    "options": [
+      "Iron",
+      "Calcium",
+      "Sodium",
+      "Magnesium"
+    ],
     "answer": 1,
     "explanation": "Calcium is important for bone health, especially during growth years and postmenopause."
   },
   {
     "q": "One gram of fat provides approximately how many calories, compared to one gram of protein?",
-    "options": ["The same amount", "About half as many", "About twice as many (9 vs 4)", "About four times as many"],
+    "options": [
+      "The same amount",
+      "About half as many",
+      "About twice as many (9 vs 4)",
+      "About four times as many"
+    ],
     "answer": 2,
     "explanation": "Fat provides about 9 calories per gram, versus about 4 for protein or carbohydrate — roughly double."
   },
   {
     "q": "A client asks the therapist how much of a specific herbal supplement they should take. The appropriate response is to:",
-    "options": ["Suggest a dosage based on general knowledge", "Explain this is outside scope of practice and refer to a qualified provider", "Tell them to ask a friend who takes it", "Recommend doubling the dose if it isn't working"],
+    "options": [
+      "Suggest a dosage based on general knowledge",
+      "Explain this is outside scope of practice and refer to a qualified provider",
+      "Tell them to ask a friend who takes it",
+      "Recommend doubling the dose if it isn't working"
+    ],
     "answer": 1,
     "explanation": "Specific supplement dosing advice is outside a massage therapist's scope of practice."
   },
   {
     "q": "Complex carbohydrates, like whole grains and pasta, are generally considered:",
-    "options": ["Harmful and to be avoided entirely", "Beneficial, providing more sustained energy than simple sugars", "Equivalent to fats nutritionally", "Only relevant to athletes"],
+    "options": [
+      "Harmful and to be avoided entirely",
+      "Beneficial, providing more sustained energy than simple sugars",
+      "Equivalent to fats nutritionally",
+      "Only relevant to athletes"
+    ],
     "answer": 1,
     "explanation": "Complex carbohydrates provide more sustained, beneficial energy compared to simple refined sugars."
   },
   {
     "q": "Water is important because it's involved in:",
-    "options": ["No significant chemical processes", "Essentially all chemical processes in the body, including energy production", "Only digestion", "Only temperature regulation"],
+    "options": [
+      "No significant chemical processes",
+      "Essentially all chemical processes in the body, including energy production",
+      "Only digestion",
+      "Only temperature regulation"
+    ],
     "answer": 1,
     "explanation": "Water plays a role in nearly all of the body's chemical processes, and dehydration causes fatigue."
   },
   {
     "q": "For a client with congestive heart failure, water intake guidance should come from:",
-    "options": ["The massage therapist's general recommendation", "The client's physician", "A generic online calculator only", "No guidance is needed for this condition"],
+    "options": [
+      "The massage therapist's general recommendation",
+      "The client's physician",
+      "A generic online calculator only",
+      "No guidance is needed for this condition"
+    ],
     "answer": 1,
     "explanation": "Certain medical conditions like heart failure require physician-guided fluid intake, overriding general guidelines."
   },
   {
     "q": "Which best describes the massage therapist's appropriate role regarding nutrition?",
-    "options": ["Creating personalized meal plans for clients", "Providing basic nutrition information and referring specific needs to qualified professionals", "Prescribing supplements based on symptoms", "Diagnosing nutritional deficiencies"],
+    "options": [
+      "Creating personalized meal plans for clients",
+      "Providing basic nutrition information and referring specific needs to qualified professionals",
+      "Prescribing supplements based on symptoms",
+      "Diagnosing nutritional deficiencies"
+    ],
     "answer": 1,
     "explanation": "Massage therapists provide only general nutrition information and refer specific dietary needs elsewhere."
   },
   {
     "q": "Simple carbohydrates (refined sugars) should generally be:",
-    "options": ["The majority of dietary intake", "Limited in the diet", "Completely eliminated with no exceptions", "Increased for better energy"],
+    "options": [
+      "The majority of dietary intake",
+      "Limited in the diet",
+      "Completely eliminated with no exceptions",
+      "Increased for better energy"
+    ],
     "answer": 1,
     "explanation": "Simple carbohydrates should be limited, in favor of complex carbohydrates for sustained energy."
   },
   {
     "q": "Fats should generally make up no more than about what percentage of total diet?",
-    "options": ["10%", "30%", "50%", "70%"],
+    "options": [
+      "10%",
+      "30%",
+      "50%",
+      "70%"
+    ],
     "answer": 1,
     "explanation": "Fats should make up no more than roughly 30% of total diet."
   },
   {
     "q": "Minerals are needed in what general quantity compared to other nutrients?",
-    "options": ["Large amounts, similar to carbohydrates", "Trace (small) amounts", "No minerals are actually required", "Only during illness"],
+    "options": [
+      "Large amounts, similar to carbohydrates",
+      "Trace (small) amounts",
+      "No minerals are actually required",
+      "Only during illness"
+    ],
     "answer": 1,
     "explanation": "Minerals are generally needed only in small, trace amounts."
   },
   {
     "q": "Which statement best reflects appropriate guidance when a supplement 'isn't working quickly' for a client?",
-    "options": ["Advise them to increase the dose immediately", "Advise them to consult a physician rather than self-adjusting the dose", "Tell them to stop and try a different unregulated product", "Ignore the concern entirely"],
+    "options": [
+      "Advise them to increase the dose immediately",
+      "Advise them to consult a physician rather than self-adjusting the dose",
+      "Tell them to stop and try a different unregulated product",
+      "Ignore the concern entirely"
+    ],
     "answer": 1,
     "explanation": "Adjusting supplement dosages is a decision for a qualified provider, not something to self-manage or for a massage therapist to direct."
+  },
+  {
+    "q": "How many basic nutrient categories does standard nutrition guidance for massage therapists identify?",
+    "options": [
+      "Four",
+      "Five",
+      "Six",
+      "Eight"
+    ],
+    "answer": 2,
+    "explanation": "The six basic nutrients are water, protein, carbohydrates, fats, vitamins, and minerals."
+  },
+  {
+    "q": "Which nutrient is involved in essentially every chemical process in the body, including energy production?",
+    "options": [
+      "Protein",
+      "Water",
+      "Fat",
+      "Fiber"
+    ],
+    "answer": 1,
+    "explanation": "Water plays a role in nearly all of the body's chemical processes; dehydration causes fatigue."
+  },
+  {
+    "q": "A general (non-medical) daily water intake guideline sometimes cited is:",
+    "options": [
+      "Roughly half your body weight in ounces per day",
+      "Exactly one gallon regardless of body size",
+      "Only water consumed with meals counts",
+      "Two cups per day regardless of activity level"
+    ],
+    "answer": 0,
+    "explanation": "A commonly cited general guideline is roughly half of body weight (in pounds) in ounces of water per day, though individual needs vary."
+  },
+  {
+    "q": "For a client with a medical condition such as heart failure, fluid intake recommendations should come from:",
+    "options": [
+      "General population guidelines only",
+      "The client's physician, since medical conditions can change fluid needs",
+      "The massage therapist's best estimate",
+      "No guidance is needed"
+    ],
+    "answer": 1,
+    "explanation": "Certain medical conditions require individualized, physician-guided fluid intake that can differ from general guidelines."
+  },
+  {
+    "q": "Roughly what percentage of total diet should protein make up, according to general nutrition guidance?",
+    "options": [
+      "1-5%",
+      "12-20%",
+      "40-50%",
+      "70-80%"
+    ],
+    "answer": 1,
+    "explanation": "Protein typically makes up roughly 12-20% of total diet in standard nutrition guidance."
+  },
+  {
+    "q": "Protein's primary role in the body is to:",
+    "options": [
+      "Serve as the body's main fuel source",
+      "Repair and rebuild tissue",
+      "Regulate body temperature",
+      "Store excess energy long-term"
+    ],
+    "answer": 1,
+    "explanation": "Protein supplies the material for tissue repair and rebuilding, though it does not by itself build muscle."
+  },
+  {
+    "q": "What actually builds muscle mass, with protein supplying the repair material?",
+    "options": [
+      "Protein intake alone",
+      "Mechanical stress from exercise",
+      "Vitamin intake",
+      "Hydration alone"
+    ],
+    "answer": 1,
+    "explanation": "Exercise (mechanical stress) is what builds muscle; protein supplies the raw material for the repair process."
+  },
+  {
+    "q": "Which of these are common dietary sources of protein?",
+    "options": [
+      "Meat, poultry, beans, and legumes",
+      "Butter, oil, and lard",
+      "White bread and pasta",
+      "Table sugar and honey"
+    ],
+    "answer": 0,
+    "explanation": "Meat, poultry, beans, and legumes are common protein sources."
+  },
+  {
+    "q": "Which nutrient category is generally the body's primary fuel source?",
+    "options": [
+      "Protein",
+      "Carbohydrates",
+      "Vitamins",
+      "Minerals"
+    ],
+    "answer": 1,
+    "explanation": "Carbohydrates serve as the body's primary fuel source, with a large share used by the brain."
+  },
+  {
+    "q": "Roughly what percentage of total diet do traditional guidelines suggest for carbohydrates?",
+    "options": [
+      "10-15%",
+      "30-35%",
+      "55-60%",
+      "80-85%"
+    ],
+    "answer": 2,
+    "explanation": "Traditional guidance places carbohydrates at roughly 55-60% of total diet, with newer guidance sometimes using a 45-65% range."
+  },
+  {
+    "q": "Complex carbohydrates, such as whole grains and pasta, are generally valued because they:",
+    "options": [
+      "Cause rapid blood sugar spikes",
+      "Provide more sustained energy than simple sugars",
+      "Contain no calories",
+      "Are a source of fat-soluble vitamins"
+    ],
+    "answer": 1,
+    "explanation": "Complex carbohydrates break down more slowly, providing more sustained energy than simple sugars."
+  },
+  {
+    "q": "High-glycemic foods, which raise blood sugar quickly, are generally most useful:",
+    "options": [
+      "Immediately before a long endurance activity",
+      "After exercise, to help replenish fuel",
+      "Only at bedtime",
+      "They should never be consumed"
+    ],
+    "answer": 1,
+    "explanation": "High-glycemic foods can quickly replenish glycogen stores after exercise."
+  },
+  {
+    "q": "Low- or mid-glycemic foods are generally preferred before a long bout of exercise because they:",
+    "options": [
+      "Cause an immediate energy spike",
+      "Raise blood sugar more slowly, helping avoid an energy spike-and-crash",
+      "Contain no carbohydrates at all",
+      "Are higher in fat than high-glycemic foods"
+    ],
+    "answer": 1,
+    "explanation": "Slower-digesting, lower-glycemic foods provide steadier energy, avoiding a spike-and-crash pattern before sustained activity."
+  },
+  {
+    "q": "Fiber, though not one of the six basic nutrients, is generally classified as a type of:",
+    "options": [
+      "Protein",
+      "Complex carbohydrate",
+      "Fat-soluble vitamin",
+      "Mineral"
+    ],
+    "answer": 1,
+    "explanation": "Dietary fiber is a form of complex carbohydrate that the body cannot fully digest, and supports digestive health."
+  },
+  {
+    "q": "One gram of fat provides approximately how many calories?",
+    "options": [
+      "4",
+      "7",
+      "9",
+      "12"
+    ],
+    "answer": 2,
+    "explanation": "Fat provides about 9 calories per gram, more than double the calories per gram of protein or carbohydrate."
+  },
+  {
+    "q": "One gram of protein or carbohydrate provides approximately how many calories?",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "9"
+    ],
+    "answer": 1,
+    "explanation": "Protein and carbohydrates each provide about 4 calories per gram."
+  },
+  {
+    "q": "Saturated fats are generally described as:",
+    "options": [
+      "Liquid at room temperature and the healthier fat category",
+      "Solid at room temperature and the less healthy fat category",
+      "A type of vitamin",
+      "A type of protein"
+    ],
+    "answer": 1,
+    "explanation": "Saturated fats are solid at room temperature and considered the less healthy fat category, generally kept to about 10% or less of total diet."
+  },
+  {
+    "q": "Unsaturated fats, found in oils, are generally described as:",
+    "options": [
+      "Solid at room temperature and unhealthy",
+      "Liquid at room temperature and the healthier fat category",
+      "A source of protein",
+      "Calorie-free"
+    ],
+    "answer": 1,
+    "explanation": "Unsaturated fats are liquid at room temperature (oils) and considered the healthier fat category, up to roughly 20% of total diet."
+  },
+  {
+    "q": "Which type of cholesterol is often remembered with the phrase \"HDL = Happy\"?",
+    "options": [
+      "Low-density lipoprotein (LDL)",
+      "High-density lipoprotein (HDL)",
+      "Triglycerides",
+      "Very-low-density lipoprotein (VLDL)"
+    ],
+    "answer": 1,
+    "explanation": "HDL (high-density lipoprotein) is the 'good' cholesterol, sometimes remembered as 'HDL = Happy.'"
+  },
+  {
+    "q": "Which type of cholesterol is often remembered with the phrase \"LDL = Lousy\"?",
+    "options": [
+      "High-density lipoprotein (HDL)",
+      "Low-density lipoprotein (LDL)",
+      "Water-soluble vitamins",
+      "Fat-soluble vitamins"
+    ],
+    "answer": 1,
+    "explanation": "LDL (low-density lipoprotein) is the 'bad' cholesterol, sometimes remembered as 'LDL = Lousy.'"
+  },
+  {
+    "q": "Vitamins are best described as nutrients that:",
+    "options": [
+      "Provide significant caloric energy",
+      "Have no caloric value but are essential for many body processes",
+      "Are only needed by athletes",
+      "Should make up 30% of total diet"
+    ],
+    "answer": 1,
+    "explanation": "Vitamins have no caloric value but are essential for many body processes."
+  },
+  {
+    "q": "Which vitamins are water-soluble, meaning excess amounts are excreted in urine rather than stored?",
+    "options": [
+      "A and D",
+      "E and K",
+      "B and C",
+      "All vitamins are water-soluble"
+    ],
+    "answer": 2,
+    "explanation": "B and C vitamins are water-soluble; excess is excreted rather than stored, making them harder to overdose on."
+  },
+  {
+    "q": "Which vitamins are fat-soluble and can build up to toxic levels if consumed in excess over time?",
+    "options": [
+      "B and C",
+      "A, D, E, and K",
+      "Only vitamin C",
+      "None — no vitamins can build up to toxic levels"
+    ],
+    "answer": 1,
+    "explanation": "Fat-soluble vitamins (A, D, E, K) are stored in body fat and can accumulate to potentially toxic levels with chronic excess intake."
+  },
+  {
+    "q": "Minerals are generally needed by the body in what quantity?",
+    "options": [
+      "Large amounts, comparable to carbohydrates",
+      "Small (trace) amounts",
+      "No minerals are actually essential",
+      "Only during pregnancy"
+    ],
+    "answer": 1,
+    "explanation": "Minerals are needed only in small, trace amounts, despite being essential to many body functions."
+  },
+  {
+    "q": "Which mineral is especially relevant during a client's menstrual years, due to regular blood loss?",
+    "options": [
+      "Calcium",
+      "Iron",
+      "Sodium",
+      "Potassium"
+    ],
+    "answer": 1,
+    "explanation": "Iron is particularly important during the menstrual years due to regular blood loss."
+  },
+  {
+    "q": "Supplemental iron or calcium beyond what's obtained from food should generally be taken:",
+    "options": [
+      "In any amount the client prefers",
+      "Only under a physician's guidance",
+      "Only if recommended by a massage therapist",
+      "Only by athletes"
+    ],
+    "answer": 1,
+    "explanation": "Supplemental mineral intake should be guided by a physician, since excess amounts can also cause problems."
+  },
+  {
+    "q": "A massage therapist's appropriate role regarding client nutrition questions is to:",
+    "options": [
+      "Create a personalized meal plan",
+      "Provide general nutrition information and refer specific needs to a qualified provider",
+      "Prescribe supplement dosages",
+      "Diagnose nutritional deficiencies"
+    ],
+    "answer": 1,
+    "explanation": "Massage therapists provide general nutrition information only, referring specific dietary or medical needs to qualified professionals like a registered dietitian or physician."
+  },
+  {
+    "q": "If a client asks a massage therapist for a specific herbal supplement dosage, the appropriate response is to:",
+    "options": [
+      "Recommend a dose based on common practice",
+      "Explain this is outside scope of practice and refer to a qualified provider",
+      "Suggest a friend's dosage as a starting point",
+      "Recommend increasing the dose if unsure"
+    ],
+    "answer": 1,
+    "explanation": "Specific supplement dosing advice is outside a massage therapist's scope of practice."
+  },
+  {
+    "q": "If a client reports that a supplement \"isn't working quickly enough,\" the appropriate response is to:",
+    "options": [
+      "Recommend they double the dose",
+      "Advise them to consult a physician rather than self-adjusting the dose",
+      "Tell them to switch to a stronger, unregulated product",
+      "Ignore the comment"
+    ],
+    "answer": 1,
+    "explanation": "Adjusting supplement dosing is a decision for a qualified provider, not something to self-manage or for a massage therapist to direct."
+  },
+  {
+    "q": "The general principle \"more is not necessarily better\" is most relevant when discussing:",
+    "options": [
+      "Water intake for a healthy adult",
+      "Herbal supplement or vitamin dosing",
+      "The number of massage sessions per month",
+      "Table linen changes"
+    ],
+    "answer": 1,
+    "explanation": "With supplements and vitamins, more is not automatically safer or more effective — dosing should be treated seriously, like medication."
+  },
+  {
+    "q": "Why do nutrition questions appear on a massage therapy licensing exam?",
+    "options": [
+      "To test the ability to create meal plans",
+      "To test baseline health literacy and recognition of scope-of-practice boundaries",
+      "To test knowledge of medical nutrition therapy for disease",
+      "To test calorie-counting speed"
+    ],
+    "answer": 1,
+    "explanation": "Nutrition content tests general categories and, importantly, whether the therapist recognizes when nutrition advice goes outside scope of practice."
+  },
+  {
+    "q": "The USDA MyPlate model generally recommends filling what portion of the plate with fruits and vegetables?",
+    "options": [
+      "About one-tenth",
+      "About one-quarter",
+      "About half",
+      "The entire plate"
+    ],
+    "answer": 2,
+    "explanation": "The USDA MyPlate model generally recommends filling about half the plate with a combination of fruits and vegetables."
+  },
+  {
+    "q": "According to general USDA MyPlate guidance, which food groups are represented on the plate?",
+    "options": [
+      "Fruits, vegetables, grains, protein, and dairy",
+      "Only protein and fat",
+      "Only carbohydrates and water",
+      "Vitamins, minerals, and supplements"
+    ],
+    "answer": 0,
+    "explanation": "The MyPlate model represents five general food groups: fruits, vegetables, grains, protein, and dairy."
+  },
+  {
+    "q": "According to general dietary guidance, at least how much of daily grain intake should be whole grains rather than refined grains?",
+    "options": [
+      "None — refined grains are preferred",
+      "About half",
+      "All grains must be refined",
+      "Whole grains should be avoided entirely"
+    ],
+    "answer": 1,
+    "explanation": "General guidance suggests making at least about half of grain intake whole grains rather than refined grains."
+  },
+  {
+    "q": "Which of the following is generally considered a sign of dehydration?",
+    "options": [
+      "Increased energy and alertness",
+      "Fatigue",
+      "Slower heart rate at rest",
+      "Improved concentration"
+    ],
+    "answer": 1,
+    "explanation": "Fatigue is a common early sign of dehydration, since water is involved in essentially all of the body's chemical processes."
+  },
+  {
+    "q": "For a massage therapist seeing multiple clients throughout a workday, adequate hydration is relevant primarily because:",
+    "options": [
+      "It has no bearing on job performance",
+      "Dehydration can contribute to fatigue, which can affect focus and physical performance",
+      "Only clients need to stay hydrated, not therapists",
+      "Hydration only matters during exercise"
+    ],
+    "answer": 1,
+    "explanation": "Like anyone doing sustained physical work, a massage therapist benefits from staying hydrated to help maintain energy and focus."
+  },
+  {
+    "q": "Which combination of foods would generally align with complex-carbohydrate guidance for sustained energy before a physically demanding workday?",
+    "options": [
+      "Candy and soda",
+      "Whole grains and vegetables",
+      "Only black coffee",
+      "Only high-fat fried foods"
+    ],
+    "answer": 1,
+    "explanation": "Whole grains and vegetables are complex carbohydrate sources that provide more sustained energy than simple sugars."
+  },
+  {
+    "q": "Which nutrient category, though calorie-free, plays an essential role as a coenzyme in many body processes?",
+    "options": [
+      "Fats",
+      "Carbohydrates",
+      "Vitamins",
+      "Protein"
+    ],
+    "answer": 2,
+    "explanation": "Vitamins provide no calories but function as essential coenzymes and cofactors in numerous body processes."
+  },
+  {
+    "q": "Vitamin D is an example of which category of vitamin?",
+    "options": [
+      "Water-soluble",
+      "Fat-soluble",
+      "Mineral",
+      "Protein"
+    ],
+    "answer": 1,
+    "explanation": "Vitamin D is one of the fat-soluble vitamins (A, D, E, K), which are stored in body fat."
+  },
+  {
+    "q": "Vitamin C is an example of which category of vitamin?",
+    "options": [
+      "Fat-soluble",
+      "Water-soluble",
+      "Mineral",
+      "Amino acid"
+    ],
+    "answer": 1,
+    "explanation": "Vitamin C is a water-soluble vitamin; excess amounts are excreted in urine rather than stored."
+  },
+  {
+    "q": "Why is it generally harder to reach toxic levels of water-soluble vitamins compared to fat-soluble vitamins?",
+    "options": [
+      "Water-soluble vitamins are not absorbed at all",
+      "Excess water-soluble vitamins are excreted in urine rather than stored in the body",
+      "Water-soluble vitamins have no biological function",
+      "Fat-soluble vitamins are always excreted immediately"
+    ],
+    "answer": 1,
+    "explanation": "Water-soluble vitamins that exceed the body's needs are generally excreted in urine, unlike fat-soluble vitamins, which can accumulate in fat tissue."
+  },
+  {
+    "q": "Because fat-soluble vitamins are stored in body fat, a client taking high-dose fat-soluble vitamin supplements over a long period should be aware of:",
+    "options": [
+      "No risk at all, since vitamins are always safe in any amount",
+      "A potential risk of toxic buildup over time",
+      "A guaranteed benefit with no downside",
+      "A requirement to also increase water intake proportionally"
+    ],
+    "answer": 1,
+    "explanation": "Because fat-soluble vitamins accumulate in fat tissue, chronic high-dose supplementation carries a risk of toxic buildup — a matter for a physician to guide."
+  },
+  {
+    "q": "Which of the following would be considered outside a massage therapist's scope of practice regarding nutrition?",
+    "options": [
+      "Mentioning general hydration guidelines",
+      "Prescribing a specific weight-loss diet plan for a client",
+      "Referring a client with specific dietary questions to a registered dietitian",
+      "Describing the six basic nutrient categories in general terms"
+    ],
+    "answer": 1,
+    "explanation": "Prescribing an individualized diet plan is a medical/dietetic function outside a massage therapist's scope of practice."
+  },
+  {
+    "q": "A client asks a massage therapist whether they should stop eating a certain food group entirely for health reasons. The appropriate response is to:",
+    "options": [
+      "Give a firm yes/no recommendation based on general impressions",
+      "Explain that individualized dietary decisions should be made with a physician or registered dietitian",
+      "Recommend an online diet plan",
+      "Ignore the question entirely without any response"
+    ],
+    "answer": 1,
+    "explanation": "Individualized dietary recommendations are outside scope; the appropriate response acknowledges the question but refers it to a qualified provider."
+  },
+  {
+    "q": "Which of the following best reflects a massage therapist staying within scope when discussing nutrition with a client?",
+    "options": [
+      "\"Based on your symptoms, you likely have a vitamin deficiency.\"",
+      "\"General guidance suggests staying hydrated and eating a balanced diet; for specific concerns, a registered dietitian could help.\"",
+      "\"Stop taking your prescribed medication and try this supplement instead.\"",
+      "\"I can design a personalized weekly meal plan for you.\""
+    ],
+    "answer": 1,
+    "explanation": "Offering general wellness information while referring specific or medical nutrition questions elsewhere stays within scope of practice."
+  },
+  {
+    "q": "Electrolytes such as sodium and potassium are examples of which basic nutrient category?",
+    "options": [
+      "Vitamins",
+      "Minerals",
+      "Proteins",
+      "Fats"
+    ],
+    "answer": 1,
+    "explanation": "Sodium and potassium are minerals that function as electrolytes, important for processes such as muscle contraction and fluid balance."
+  },
+  {
+    "q": "Adequate electrolyte and fluid balance is particularly relevant to muscle function because:",
+    "options": [
+      "Electrolytes have no role in muscle activity",
+      "Electrolytes are involved in muscle contraction, and imbalance can contribute to cramping",
+      "Only carbohydrates affect muscle contraction",
+      "Electrolytes only matter for cardiac tissue"
+    ],
+    "answer": 1,
+    "explanation": "Electrolytes such as sodium, potassium, and calcium play a role in muscle contraction; imbalances can contribute to cramping."
+  },
+  {
+    "q": "Omega-3 fatty acids, found in foods like fish, are an example of:",
+    "options": [
+      "Saturated fat",
+      "A type of unsaturated fat generally considered heart-healthy",
+      "A water-soluble vitamin",
+      "A mineral"
+    ],
+    "answer": 1,
+    "explanation": "Omega-3 fatty acids are unsaturated fats generally associated with cardiovascular health benefits."
+  },
+  {
+    "q": "Trans fats, often found in some processed and fried foods, are generally considered:",
+    "options": [
+      "The healthiest category of fat",
+      "A type of fat that health guidance recommends minimizing",
+      "Equivalent to water-soluble vitamins",
+      "A primary source of dietary fiber"
+    ],
+    "answer": 1,
+    "explanation": "Trans fats are generally recommended to be minimized due to their association with negative cardiovascular effects."
+  },
+  {
+    "q": "Which of these would generally be considered an \"empty calorie\" beverage, providing calories with minimal nutritional value?",
+    "options": [
+      "Water",
+      "Regular soda",
+      "Low-fat milk",
+      "Unsweetened tea"
+    ],
+    "answer": 1,
+    "explanation": "Regular soda provides calories primarily from added sugar with little additional nutritional value — an example of 'empty calories.'"
+  },
+  {
+    "q": "Vitamin B12 is primarily found in which type of food sources?",
+    "options": [
+      "Animal products (meat, dairy, eggs)",
+      "Only citrus fruits",
+      "Only leafy green vegetables",
+      "Only whole grains"
+    ],
+    "answer": 0,
+    "explanation": "Vitamin B12 is primarily found in animal products, which is relevant general knowledge for clients following vegetarian or vegan diets."
+  },
+  {
+    "q": "A massage therapist noting that a vegetarian client may want to be mindful of protein and B12 sources is an example of:",
+    "options": [
+      "Prescribing a medical diet",
+      "Providing general wellness information within scope of practice",
+      "Diagnosing a nutrient deficiency",
+      "Practicing as a registered dietitian"
+    ],
+    "answer": 1,
+    "explanation": "Sharing general food-source awareness is within scope, as long as it stops short of diagnosis or prescription."
+  },
+  {
+    "q": "Which best describes the difference between a massage therapist and a registered dietitian regarding nutrition guidance?",
+    "options": [
+      "There is no meaningful difference",
+      "A registered dietitian is trained and licensed to provide individualized medical nutrition therapy, which is outside a massage therapist's scope",
+      "Massage therapists have broader nutrition authority than dietitians",
+      "Only registered dietitians can discuss the six basic nutrients"
+    ],
+    "answer": 1,
+    "explanation": "Registered dietitians are specifically trained and licensed for individualized nutrition therapy, which goes beyond a massage therapist's general wellness role."
+  },
+  {
+    "q": "Why might a massage therapist reasonably discuss general hydration habits with a client experiencing frequent muscle cramping?",
+    "options": [
+      "Because hydration is entirely unrelated to muscle function",
+      "Because general hydration is common wellness knowledge, while diagnosing the cause of cramping is outside scope",
+      "Because the therapist should diagnose an electrolyte disorder",
+      "Because it replaces the need for any medical referral"
+    ],
+    "answer": 1,
+    "explanation": "General hydration guidance is appropriate wellness information; diagnosing the underlying cause of symptoms is outside scope and should be referred appropriately."
+  },
+  {
+    "q": "A client mentions they rarely eat vegetables and mostly eat processed, high-sugar foods. Within scope, a massage therapist could appropriately:",
+    "options": [
+      "Design a structured diet plan to correct the pattern",
+      "Mention general, widely recognized wellness guidance (e.g., MyPlate's produce recommendations) without prescribing a specific plan",
+      "Diagnose a nutritional deficiency based on the description",
+      "Recommend specific supplement brands"
+    ],
+    "answer": 1,
+    "explanation": "Sharing general, widely known wellness guidance is within scope; creating an individualized plan or diagnosing is not."
+  },
+  {
+    "q": "Which best reflects the relationship between carbohydrate intake timing and exercise, per general glycemic guidance?",
+    "options": [
+      "Glycemic index has no relevance to exercise timing",
+      "High-glycemic carbohydrates are useful after exercise; low/mid-glycemic carbohydrates are useful before sustained activity",
+      "All carbohydrates should be avoided around exercise",
+      "Only fats should be consumed around exercise"
+    ],
+    "answer": 1,
+    "explanation": "High-glycemic foods help replenish glycogen quickly after exercise, while low/mid-glycemic foods provide steadier energy beforehand."
+  },
+  {
+    "q": "The primary reason carbohydrates are described as especially important for brain function is that:",
+    "options": [
+      "The brain stores large amounts of fat for fuel",
+      "The brain relies heavily on circulating carbohydrate (glucose) to function",
+      "The brain does not require any fuel source",
+      "The brain primarily uses protein for energy"
+    ],
+    "answer": 1,
+    "explanation": "The brain relies heavily on circulating glucose from carbohydrates to function, using a disproportionately large share of it."
+  },
+  {
+    "q": "A well-rounded understanding of nutrition helps a massage therapist primarily by:",
+    "options": [
+      "Allowing them to replace physicians and dietitians",
+      "Supporting informed, general conversations with clients while recognizing when to refer out",
+      "Qualifying them to prescribe supplements",
+      "Making dietary advice a required part of every session"
+    ],
+    "answer": 1,
+    "explanation": "General nutrition literacy supports informed conversation and appropriate referral, not clinical nutrition practice."
+  },
+  {
+    "q": "Which best distinguishes \"macronutrients\" from \"micronutrients\"?",
+    "options": [
+      "Macronutrients (protein, carbohydrate, fat) are needed in larger amounts; micronutrients (vitamins, minerals) are needed in smaller amounts",
+      "Macronutrients are only vitamins",
+      "Micronutrients provide the most calories",
+      "There is no meaningful distinction"
+    ],
+    "answer": 0,
+    "explanation": "Macronutrients (protein, carbohydrate, fat) are needed in relatively large amounts and provide calories; micronutrients (vitamins, minerals) are needed in smaller amounts and generally don't provide calories."
+  },
+  {
+    "q": "Which nutrient category provides zero calories per gram?",
+    "options": [
+      "Carbohydrates",
+      "Protein",
+      "Fat",
+      "Vitamins and minerals"
+    ],
+    "answer": 3,
+    "explanation": "Vitamins and minerals provide no caloric energy, unlike protein, carbohydrates, and fat."
+  },
+  {
+    "q": "Cholesterol is best classified as a type of:",
+    "options": [
+      "Protein",
+      "Carbohydrate",
+      "Fat",
+      "Vitamin"
+    ],
+    "answer": 2,
+    "explanation": "Cholesterol is a lipid (fat-related) substance, with HDL and LDL being its two commonly discussed forms."
+  },
+  {
+    "q": "Which of the following is an example of a fat-soluble vitamin that supports vision and immune function?",
+    "options": [
+      "Vitamin C",
+      "Vitamin B6",
+      "Vitamin A",
+      "Vitamin B12"
+    ],
+    "answer": 2,
+    "explanation": "Vitamin A is fat-soluble and supports functions including vision and immune health."
+  },
+  {
+    "q": "Which of the following is an example of a mineral important for oxygen transport in the blood?",
+    "options": [
+      "Iron",
+      "Vitamin C",
+      "Fiber",
+      "Vitamin A"
+    ],
+    "answer": 0,
+    "explanation": "Iron is a key component of hemoglobin, which transports oxygen in red blood cells."
+  },
+  {
+    "q": "General wellness advice a massage therapist could appropriately offer includes:",
+    "options": [
+      "\"You should take 500mg of this specific supplement daily.\"",
+      "\"Staying hydrated and eating a variety of whole foods generally supports overall health.\"",
+      "\"Your fatigue is definitely caused by an iron deficiency.\"",
+      "\"You should follow this specific 1,200-calorie meal plan.\""
+    ],
+    "answer": 1,
+    "explanation": "General, non-prescriptive wellness statements are appropriate; specific dosing, diagnosis, and individualized meal plans are not."
+  },
+  {
+    "q": "Which best describes why a massage therapist should avoid recommending a specific weight-loss supplement to a client?",
+    "options": [
+      "Weight-loss supplements are always effective and safe",
+      "Recommending specific supplements is outside scope of practice and can carry health risks the therapist isn't trained to assess",
+      "Massage therapists are legally required to recommend supplements",
+      "There is no concern as long as the client asks first"
+    ],
+    "answer": 1,
+    "explanation": "Specific supplement recommendations require training the massage therapist doesn't have and fall outside scope of practice."
+  },
+  {
+    "q": "In general nutrition guidance, which of these is considered a good source of unsaturated fat?",
+    "options": [
+      "Olive oil",
+      "Butter",
+      "Lard",
+      "Coconut solid shortening"
+    ],
+    "answer": 0,
+    "explanation": "Olive oil is a commonly cited source of unsaturated (healthier) fat, unlike solid fats like butter or lard."
+  },
+  {
+    "q": "A massage therapist who feels fatigued and low-energy by midday, after skipping breakfast and relying on sugary snacks, is experiencing an effect most closely related to:",
+    "options": [
+      "Fat-soluble vitamin toxicity",
+      "Blood sugar fluctuations from simple carbohydrate intake without sustained energy sources",
+      "Excess water intake",
+      "Excess protein intake"
+    ],
+    "answer": 1,
+    "explanation": "Relying on simple sugars without complex carbohydrates or protein can cause blood sugar spikes followed by an energy crash."
+  },
+  {
+    "q": "Which best reflects appropriate general guidance for sodium (salt) intake, per widely recognized dietary guidelines?",
+    "options": [
+      "Unlimited sodium intake is recommended",
+      "Moderating sodium intake is generally recommended for overall health",
+      "Sodium should be eliminated completely from the diet",
+      "Sodium has no relevance to health"
+    ],
+    "answer": 1,
+    "explanation": "General dietary guidance recommends moderating sodium intake, as excess is associated with health concerns such as high blood pressure."
+  },
+  {
+    "q": "Which of the following best reflects the role of dietary fat beyond providing energy?",
+    "options": [
+      "Fat has no functions besides energy storage",
+      "Fat assists in the absorption of fat-soluble vitamins",
+      "Fat is the primary source of hydration",
+      "Fat is only relevant to muscle repair"
+    ],
+    "answer": 1,
+    "explanation": "Dietary fat helps the body absorb fat-soluble vitamins (A, D, E, K), among other roles."
+  },
+  {
+    "q": "A therapist explaining to a client that whole fruit is generally preferred over fruit juice for daily fruit intake is providing an example of:",
+    "options": [
+      "Medical nutrition therapy",
+      "General, widely accepted wellness information within scope",
+      "A supplement recommendation",
+      "A diagnosis"
+    ],
+    "answer": 1,
+    "explanation": "This reflects commonly known general dietary guidance (whole fruit retains more fiber than juice) and stays within general wellness information."
+  },
+  {
+    "q": "Which best summarizes the exam's general expectation about a massage therapist's nutrition knowledge?",
+    "options": [
+      "Deep clinical expertise equivalent to a dietitian",
+      "General category knowledge (six nutrients, macronutrient ranges, water/fat-soluble vitamins) plus awareness of scope limits",
+      "No knowledge of nutrition is expected at all",
+      "Only knowledge of supplement brands"
+    ],
+    "answer": 1,
+    "explanation": "The exam expects general category-level nutrition literacy and clear recognition of scope-of-practice boundaries, not clinical dietetics expertise."
+  },
+  {
+    "q": "Which of these dietary patterns best aligns with general MyPlate-style guidance for a balanced meal?",
+    "options": [
+      "A plate that is mostly refined starches with no vegetables",
+      "A plate with roughly half fruits/vegetables, a portion of whole grains, and a portion of lean protein",
+      "A plate consisting only of protein",
+      "A plate consisting only of dairy products"
+    ],
+    "answer": 1,
+    "explanation": "MyPlate-style guidance suggests balancing fruits/vegetables, whole grains, and protein rather than favoring one category exclusively."
+  },
+  {
+    "q": "Which of the following would be an inappropriate statement for a massage therapist to make to a client, given scope-of-practice limits?",
+    "options": [
+      "\"General guidelines suggest staying hydrated throughout the day.\"",
+      "\"I recommend you take this specific dose of vitamin D based on your symptoms.\"",
+      "\"A registered dietitian could help with more specific dietary questions.\"",
+      "\"Whole grains are generally considered part of a balanced diet.\""
+    ],
+    "answer": 1,
+    "explanation": "Recommending a specific supplement dose based on symptoms crosses into diagnosis and prescription, which is outside scope of practice."
+  },
+  {
+    "q": "Which best describes the relationship between hydration and muscle tissue health, as relevant to massage therapy?",
+    "options": [
+      "Hydration has no bearing on muscle tissue",
+      "Adequate hydration supports tissue pliability and function, while dehydration can contribute to fatigue and stiffness",
+      "Only protein intake affects muscle tissue",
+      "Dehydration only affects the digestive system"
+    ],
+    "answer": 1,
+    "explanation": "Adequate hydration supports overall tissue health and function; dehydration can contribute to fatigue and reduced tissue pliability, relevant to a massage therapist's general wellness knowledge."
+  },
+  {
+    "q": "A therapist wants to explain general nutrition categories to a curious client without overstepping scope. Which approach is most appropriate?",
+    "options": [
+      "Describing the six basic nutrient categories in general terms and referring specific questions to a qualified provider",
+      "Providing a detailed clinical nutrition assessment",
+      "Prescribing a supplement regimen",
+      "Declining to discuss nutrition in any way, even in general terms"
+    ],
+    "answer": 0,
+    "explanation": "General category-level information is appropriate; anything resembling individualized assessment or prescription is not."
+  },
+  {
+    "q": "Which of the following nutrients would generally NOT be a primary concern in a typical general wellness conversation about hydration?",
+    "options": [
+      "Water",
+      "Electrolytes",
+      "Fat-soluble vitamin toxicity",
+      "General fluid balance"
+    ],
+    "answer": 2,
+    "explanation": "Fat-soluble vitamin toxicity relates to vitamin intake, not hydration/electrolyte balance, making it the outlier in a hydration-focused discussion."
+  },
+  {
+    "q": "Which best reflects sound general guidance for someone trying to reduce added sugar intake?",
+    "options": [
+      "Replace regular soda with water or unsweetened beverages more often",
+      "Add more refined sugar to compensate for other dietary changes",
+      "Avoid all carbohydrates, including whole grains",
+      "Increase saturated fat intake instead"
+    ],
+    "answer": 0,
+    "explanation": "Replacing sugary beverages with water or unsweetened options is a widely recognized, general way to reduce added sugar intake."
+  },
+  {
+    "q": "A client with diagnosed diabetes asks a massage therapist for specific dietary carbohydrate targets. The appropriate response is to:",
+    "options": [
+      "Provide specific gram targets based on general guidelines",
+      "Explain this requires individualized guidance from their physician or a registered dietitian",
+      "Recommend they stop eating carbohydrates entirely",
+      "Ignore the question since diabetes is unrelated to massage"
+    ],
+    "answer": 1,
+    "explanation": "Specific dietary management of a diagnosed medical condition like diabetes is outside scope and should be referred to a qualified provider."
+  },
+  {
+    "q": "Which best reflects the general role of dairy products in the MyPlate model?",
+    "options": [
+      "Dairy is excluded from the MyPlate model entirely",
+      "Dairy is one of the five general food groups represented in MyPlate",
+      "Dairy is classified only as a fat source",
+      "Dairy replaces the need for the protein group"
+    ],
+    "answer": 1,
+    "explanation": "Dairy is one of the five general food groups in the USDA MyPlate model, alongside fruits, vegetables, grains, and protein."
+  },
+  {
+    "q": "Which best explains why a massage therapist would refer a client with a suspected eating disorder to an appropriate specialist rather than offering nutrition advice directly?",
+    "options": [
+      "Eating disorders are outside the general wellness scope and require specialized medical/mental health care",
+      "Nutrition advice is always appropriate for any concern",
+      "Massage therapists are trained to treat eating disorders",
+      "There is no need for referral in this situation"
+    ],
+    "answer": 0,
+    "explanation": "Suspected eating disorders require specialized medical and mental health care beyond general wellness nutrition information, making referral the appropriate response."
   }
 ]

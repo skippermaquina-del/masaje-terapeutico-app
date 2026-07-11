@@ -1,122 +1,1102 @@
 [
   {
     "q": "Which muscle plantarflexes the ankle AND flexes the knee, since it crosses both joints?",
-    "options": ["Soleus", "Gastrocnemius", "Tibialis posterior", "Peroneus longus"],
+    "options": [
+      "Soleus",
+      "Gastrocnemius",
+      "Tibialis posterior",
+      "Peroneus longus"
+    ],
     "answer": 1,
     "explanation": "Gastrocnemius originates above the knee, so it crosses and acts on both the knee and ankle."
   },
   {
     "q": "Which muscle plantarflexes the ankle but does NOT cross the knee?",
-    "options": ["Gastrocnemius", "Soleus", "Flexor hallucis longus", "Extensor digitorum longus"],
+    "options": [
+      "Gastrocnemius",
+      "Soleus",
+      "Flexor hallucis longus",
+      "Extensor digitorum longus"
+    ],
     "answer": 1,
     "explanation": "Soleus originates below the knee and only acts on the ankle."
   },
   {
     "q": "Gastrocnemius and soleus share which tendon insertion?",
-    "options": ["Patellar tendon", "Achilles tendon", "Plantar fascia", "Iliotibial band"],
+    "options": [
+      "Patellar tendon",
+      "Achilles tendon",
+      "Plantar fascia",
+      "Iliotibial band"
+    ],
     "answer": 1,
     "explanation": "Both muscles insert into the calcaneus via the shared Achilles tendon."
   },
   {
     "q": "A bent-knee calf stretch targets which muscle more specifically?",
-    "options": ["Gastrocnemius", "Soleus", "Tibialis anterior", "Peroneus brevis"],
+    "options": [
+      "Gastrocnemius",
+      "Soleus",
+      "Tibialis anterior",
+      "Peroneus brevis"
+    ],
     "answer": 1,
     "explanation": "Bending the knee slackens gastrocnemius, shifting stretch emphasis to soleus."
   },
   {
     "q": "Which muscle is the primary dorsiflexor of the ankle?",
-    "options": ["Gastrocnemius", "Soleus", "Tibialis anterior", "Peroneus longus"],
+    "options": [
+      "Gastrocnemius",
+      "Soleus",
+      "Tibialis anterior",
+      "Peroneus longus"
+    ],
     "answer": 2,
     "explanation": "Tibialis anterior is the primary ankle dorsiflexor."
   },
   {
     "q": "Which muscles are the primary evertors of the foot?",
-    "options": ["Tibialis anterior and posterior", "Peroneus longus and brevis", "Gastrocnemius and soleus", "Extensor and flexor hallucis longus"],
+    "options": [
+      "Tibialis anterior and posterior",
+      "Peroneus longus and brevis",
+      "Gastrocnemius and soleus",
+      "Extensor and flexor hallucis longus"
+    ],
     "answer": 1,
     "explanation": "Peroneus (fibularis) longus and brevis are the primary evertors."
   },
   {
     "q": "Which muscles are the primary invertors of the foot?",
-    "options": ["Peroneus longus and brevis", "Tibialis anterior and tibialis posterior", "Gastrocnemius and flexor hallucis longus", "Extensor digitorum longus and soleus"],
+    "options": [
+      "Peroneus longus and brevis",
+      "Tibialis anterior and tibialis posterior",
+      "Gastrocnemius and flexor hallucis longus",
+      "Extensor digitorum longus and soleus"
+    ],
     "answer": 1,
     "explanation": "Tibialis anterior and tibialis posterior both invert the foot."
   },
   {
     "q": "Tibialis anterior and peroneus longus share a near-identical insertion point at the:",
-    "options": ["Calcaneus", "Base of the 1st metatarsal/medial cuneiform", "Fibular head", "Navicular bone only"],
+    "options": [
+      "Calcaneus",
+      "Base of the 1st metatarsal/medial cuneiform",
+      "Fibular head",
+      "Navicular bone only"
+    ],
     "answer": 1,
     "explanation": "Both insert near the base of the 1st metatarsal and medial cuneiform, forming a functional 'stirrup.'"
   },
   {
     "q": "'Drop foot,' the inability to dorsiflex the foot, is most associated with a problem in:",
-    "options": ["Gastrocnemius", "Tibialis anterior or its nerve supply", "Peroneus brevis", "Flexor digitorum longus"],
+    "options": [
+      "Gastrocnemius",
+      "Tibialis anterior or its nerve supply",
+      "Peroneus brevis",
+      "Flexor digitorum longus"
+    ],
     "answer": 1,
     "explanation": "Drop foot results from weakness/damage affecting tibialis anterior or its innervation."
   },
   {
     "q": "After an inversion ankle sprain, strengthening which muscle group is typically part of rehab?",
-    "options": ["Invertors (tibialis anterior/posterior)", "Evertors (peroneals)", "Hip flexors", "Knee extensors"],
+    "options": [
+      "Invertors (tibialis anterior/posterior)",
+      "Evertors (peroneals)",
+      "Hip flexors",
+      "Knee extensors"
+    ],
     "answer": 1,
     "explanation": "Peroneals (evertors) resist the inward-rolling motion responsible for inversion sprains."
   },
   {
     "q": "Which muscle flexes the big toe and also supports the arch of the foot?",
-    "options": ["Extensor hallucis longus", "Flexor hallucis longus", "Tibialis anterior", "Peroneus brevis"],
+    "options": [
+      "Extensor hallucis longus",
+      "Flexor hallucis longus",
+      "Tibialis anterior",
+      "Peroneus brevis"
+    ],
     "answer": 1,
     "explanation": "Flexor hallucis longus flexes the big toe and supports the longitudinal arch."
   },
   {
     "q": "Tibialis posterior's actions include:",
-    "options": ["Dorsiflexion and eversion", "Inversion and plantarflexion", "Extension of toes", "Knee flexion"],
+    "options": [
+      "Dorsiflexion and eversion",
+      "Inversion and plantarflexion",
+      "Extension of toes",
+      "Knee flexion"
+    ],
     "answer": 1,
     "explanation": "Tibialis posterior inverts the foot and plantarflexes the ankle."
   },
   {
     "q": "Which muscle extends toes 2-5 and assists dorsiflexion?",
-    "options": ["Flexor digitorum longus", "Extensor digitorum longus", "Flexor hallucis longus", "Peroneus longus"],
+    "options": [
+      "Flexor digitorum longus",
+      "Extensor digitorum longus",
+      "Flexor hallucis longus",
+      "Peroneus longus"
+    ],
     "answer": 1,
     "explanation": "Extensor digitorum longus extends toes 2-5 and assists dorsiflexion."
   },
   {
     "q": "Which muscle inserts on the base of the 5th metatarsal and everts the foot?",
-    "options": ["Peroneus longus", "Peroneus brevis", "Tibialis posterior", "Flexor digitorum longus"],
+    "options": [
+      "Peroneus longus",
+      "Peroneus brevis",
+      "Tibialis posterior",
+      "Flexor digitorum longus"
+    ],
     "answer": 1,
     "explanation": "Peroneus brevis inserts at the base of the 5th metatarsal and everts the foot."
   },
   {
     "q": "Both gastrocnemius and soleus are sometimes collectively referred to as the:",
-    "options": ["Quadriceps group", "Triceps surae", "Hamstrings", "Deep six rotators"],
+    "options": [
+      "Quadriceps group",
+      "Triceps surae",
+      "Hamstrings",
+      "Deep six rotators"
+    ],
     "answer": 1,
     "explanation": "Gastrocnemius and soleus together are called the triceps surae."
   },
   {
     "q": "Which muscle's origin is the posterior tibial shaft, inserting on the distal phalanges of toes 2-5?",
-    "options": ["Extensor digitorum longus", "Flexor digitorum longus", "Tibialis anterior", "Peroneus brevis"],
+    "options": [
+      "Extensor digitorum longus",
+      "Flexor digitorum longus",
+      "Tibialis anterior",
+      "Peroneus brevis"
+    ],
     "answer": 1,
     "explanation": "Flexor digitorum longus flexes toes 2-5, originating from the posterior tibia."
   },
   {
     "q": "Assessing knee position (bent vs. straight) during a calf stretch/test helps differentiate involvement of which two muscles?",
-    "options": ["Tibialis anterior and posterior", "Gastrocnemius and soleus", "Peroneus longus and brevis", "Flexor and extensor hallucis longus"],
+    "options": [
+      "Tibialis anterior and posterior",
+      "Gastrocnemius and soleus",
+      "Peroneus longus and brevis",
+      "Flexor and extensor hallucis longus"
+    ],
     "answer": 1,
     "explanation": "Since gastrocnemius crosses the knee and soleus doesn't, knee position changes which muscle is more stretched/tested."
   },
   {
     "q": "Extensor hallucis longus's primary actions are:",
-    "options": ["Flexing the big toe and inverting the foot", "Extending the big toe and assisting dorsiflexion", "Everting the foot only", "Plantarflexing the ankle"],
+    "options": [
+      "Flexing the big toe and inverting the foot",
+      "Extending the big toe and assisting dorsiflexion",
+      "Everting the foot only",
+      "Plantarflexing the ankle"
+    ],
     "answer": 1,
     "explanation": "Extensor hallucis longus extends the big toe and assists ankle dorsiflexion."
   },
   {
     "q": "Which muscle group would be most directly involved in someone who habitually walks on their toes (plantarflexed)?",
-    "options": ["Tibialis anterior and extensor digitorum longus", "Gastrocnemius and soleus", "Peroneus longus and brevis only", "Hamstrings"],
+    "options": [
+      "Tibialis anterior and extensor digitorum longus",
+      "Gastrocnemius and soleus",
+      "Peroneus longus and brevis only",
+      "Hamstrings"
+    ],
     "answer": 1,
     "explanation": "Gastrocnemius and soleus are the primary plantarflexors involved in toe-walking."
   },
   {
     "q": "Which of the following muscles assists plantarflexion in addition to its primary eversion action?",
-    "options": ["Tibialis anterior", "Peroneus longus", "Extensor digitorum longus", "Flexor hallucis longus is unrelated to plantarflexion"],
+    "options": [
+      "Tibialis anterior",
+      "Peroneus longus",
+      "Extensor digitorum longus",
+      "Flexor hallucis longus is unrelated to plantarflexion"
+    ],
     "answer": 1,
     "explanation": "Peroneus longus everts the foot and also assists plantarflexion."
+  },
+  {
+    "q": "Gastrocnemius originates from which structure(s)?",
+    "options": [
+      "Posterior tibia and fibula",
+      "Medial and lateral condyles of the femur",
+      "Calcaneus",
+      "Fibular head"
+    ],
+    "answer": 1,
+    "explanation": "Gastrocnemius has two heads originating from the medial and lateral femoral condyles."
+  },
+  {
+    "q": "Which nerve innervates the gastrocnemius?",
+    "options": [
+      "Deep fibular (peroneal) nerve",
+      "Tibial nerve",
+      "Femoral nerve",
+      "Superficial fibular (peroneal) nerve"
+    ],
+    "answer": 1,
+    "explanation": "Gastrocnemius, like the rest of the posterior leg, is innervated by the tibial nerve."
+  },
+  {
+    "q": "Which muscle acts as the primary antagonist to gastrocnemius and soleus at the ankle?",
+    "options": [
+      "Tibialis posterior",
+      "Tibialis anterior",
+      "Peroneus longus",
+      "Flexor hallucis longus"
+    ],
+    "answer": 1,
+    "explanation": "Tibialis anterior dorsiflexes the ankle, opposing the plantarflexion produced by gastrocnemius/soleus."
+  },
+  {
+    "q": "Gastrocnemius has how many heads, and where do they attach?",
+    "options": [
+      "One head, from the calcaneus",
+      "Two heads, from the medial and lateral femoral condyles",
+      "Three heads, from the tibia and fibula",
+      "Two heads, from the tibial tuberosity"
+    ],
+    "answer": 1,
+    "explanation": "Its medial and lateral heads both arise from the corresponding femoral condyles, just above the knee."
+  },
+  {
+    "q": "Overuse or sudden strain of the gastrocnemius commonly produces which symptom familiar to massage therapists?",
+    "options": [
+      "Calf cramping or a 'pulled calf muscle'",
+      "Numbness of the sole only",
+      "Big toe extension weakness",
+      "Lateral ankle instability"
+    ],
+    "answer": 0,
+    "explanation": "Gastrocnemius is a frequent site of cramping and strain, especially during push-off activities."
+  },
+  {
+    "q": "Because gastrocnemius has a higher proportion of fast-twitch muscle fibers, it is especially active during:",
+    "options": [
+      "Sustained quiet standing",
+      "Explosive movements like jumping and sprinting",
+      "Toe flexion only",
+      "Passive stretching"
+    ],
+    "answer": 1,
+    "explanation": "Gastrocnemius is built for powerful, quick movements, unlike the more postural soleus."
+  },
+  {
+    "q": "Soleus originates from which structure?",
+    "options": [
+      "Medial and lateral femoral condyles",
+      "Posterior tibia and fibula (soleal line)",
+      "Calcaneus",
+      "Fibular head only"
+    ],
+    "answer": 1,
+    "explanation": "Soleus arises below the knee, from the posterior tibia and fibula."
+  },
+  {
+    "q": "Which nerve innervates the soleus?",
+    "options": [
+      "Tibial nerve",
+      "Deep fibular nerve",
+      "Superficial fibular nerve",
+      "Sural nerve"
+    ],
+    "answer": 0,
+    "explanation": "Soleus shares tibial nerve innervation with the rest of the deep and superficial posterior compartment."
+  },
+  {
+    "q": "The soleus is sometimes called the 'second heart' because its contractions help:",
+    "options": [
+      "Increase heart rate",
+      "Pump venous blood back toward the heart",
+      "Regulate blood pressure directly",
+      "Filter lymphatic fluid"
+    ],
+    "answer": 1,
+    "explanation": "The soleus muscle pump assists venous return from the lower leg; this is also why therapists use caution with deep calf work if a clot (DVT) is suspected."
+  },
+  {
+    "q": "Compared to gastrocnemius, soleus is predominantly composed of which fiber type, suiting its postural role?",
+    "options": [
+      "Fast-twitch (Type II) fibers",
+      "Slow-twitch (Type I) fibers",
+      "Cardiac-type fibers",
+      "Fibers identical to gastrocnemius"
+    ],
+    "answer": 1,
+    "explanation": "Soleus is slow-twitch dominant, well-suited to sustained postural activity like quiet standing."
+  },
+  {
+    "q": "Because soleus does not cross the knee, its length and degree of stretch during a calf stretch are unaffected by:",
+    "options": [
+      "Ankle joint position",
+      "Knee joint position",
+      "Hip joint position",
+      "Foot inversion"
+    ],
+    "answer": 1,
+    "explanation": "Only muscles crossing the knee are affected by knee position; soleus is unaffected since it originates below the knee."
+  },
+  {
+    "q": "Trigger points in the soleus classically refer pain toward the:",
+    "options": [
+      "Anterior thigh",
+      "Heel and Achilles region",
+      "Top of the head",
+      "Palm of the hand"
+    ],
+    "answer": 1,
+    "explanation": "Soleus trigger points are a common source of heel and posterior ankle pain in massage practice."
+  },
+  {
+    "q": "Flexor digitorum longus originates from the:",
+    "options": [
+      "Posterior tibial shaft",
+      "Anterior fibula",
+      "Fibular head",
+      "Lateral tibial condyle"
+    ],
+    "answer": 0,
+    "explanation": "Flexor digitorum longus arises from the posterior surface of the tibial shaft."
+  },
+  {
+    "q": "Which nerve innervates flexor digitorum longus?",
+    "options": [
+      "Deep fibular nerve",
+      "Tibial nerve",
+      "Superficial fibular nerve",
+      "Femoral nerve"
+    ],
+    "answer": 1,
+    "explanation": "As a deep posterior compartment muscle, flexor digitorum longus is supplied by the tibial nerve."
+  },
+  {
+    "q": "The primary action of flexor digitorum longus on the toes is:",
+    "options": [
+      "Extension of toes 2–5",
+      "Flexion of toes 2–5",
+      "Abduction of the toes",
+      "Flexion of the big toe only"
+    ],
+    "answer": 1,
+    "explanation": "Flexor digitorum longus flexes the lateral four toes and assists plantarflexion."
+  },
+  {
+    "q": "The tendon of flexor digitorum longus passes posterior to which bony landmark on its way to the sole of the foot?",
+    "options": [
+      "Lateral malleolus",
+      "Medial malleolus",
+      "Fibular head",
+      "Calcaneal tuberosity"
+    ],
+    "answer": 1,
+    "explanation": "All deep posterior compartment tendons, including flexor digitorum longus, pass behind the medial malleolus."
+  },
+  {
+    "q": "Flexor digitorum longus is located in which compartment of the leg?",
+    "options": [
+      "Anterior compartment",
+      "Lateral compartment",
+      "Deep posterior compartment",
+      "Superficial posterior compartment"
+    ],
+    "answer": 2,
+    "explanation": "Along with tibialis posterior and flexor hallucis longus, it forms the deep posterior compartment."
+  },
+  {
+    "q": "During toe-off/push-off in gait, flexor digitorum longus works synergistically with which other muscles to stabilize the toes and arch?",
+    "options": [
+      "Tibialis anterior and extensor digitorum longus",
+      "Flexor hallucis longus and tibialis posterior",
+      "Peroneus longus and brevis only",
+      "Gluteus medius and minimus"
+    ],
+    "answer": 1,
+    "explanation": "These deep posterior compartment muscles work together to flex the toes and support the arch during push-off."
+  },
+  {
+    "q": "Flexor hallucis longus originates from the:",
+    "options": [
+      "Posterior fibula",
+      "Posterior tibial shaft",
+      "Anterior tibia",
+      "Fibular head"
+    ],
+    "answer": 0,
+    "explanation": "Flexor hallucis longus arises from the posterior surface of the fibula."
+  },
+  {
+    "q": "Which nerve innervates flexor hallucis longus?",
+    "options": [
+      "Superficial fibular nerve",
+      "Deep fibular nerve",
+      "Tibial nerve",
+      "Obturator nerve"
+    ],
+    "answer": 2,
+    "explanation": "Flexor hallucis longus is part of the deep posterior compartment and is innervated by the tibial nerve."
+  },
+  {
+    "q": "Tendinitis of which muscle is a common overuse injury among ballet dancers, sometimes called 'dancer's tendinitis'?",
+    "options": [
+      "Extensor hallucis longus",
+      "Peroneus brevis",
+      "Flexor hallucis longus",
+      "Tibialis anterior"
+    ],
+    "answer": 2,
+    "explanation": "Repeated demi-pointe/relevé positions stress the flexor hallucis longus tendon behind the ankle."
+  },
+  {
+    "q": "Flexor hallucis longus's primary toe action is flexion of the:",
+    "options": [
+      "Distal phalanx of the big toe",
+      "Middle phalanges of toes 2–5",
+      "Distal phalanges of toes 2–5",
+      "Proximal phalanx of the little toe"
+    ],
+    "answer": 0,
+    "explanation": "Flexor hallucis longus flexes the big toe at its distal phalanx."
+  },
+  {
+    "q": "Flexor hallucis longus is located in which compartment of the leg?",
+    "options": [
+      "Lateral compartment",
+      "Anterior compartment",
+      "Superficial posterior compartment",
+      "Deep posterior compartment"
+    ],
+    "answer": 3,
+    "explanation": "It sits deep in the posterior leg alongside tibialis posterior and flexor digitorum longus."
+  },
+  {
+    "q": "Flexor hallucis longus assists in supporting the medial longitudinal arch, particularly during:",
+    "options": [
+      "Heel strike",
+      "Push-off/toe-off",
+      "Mid-swing of the leg",
+      "Sitting with feet elevated"
+    ],
+    "answer": 1,
+    "explanation": "As the big toe flexors engage during push-off, flexor hallucis longus helps stabilize the medial arch."
+  },
+  {
+    "q": "Tibialis posterior originates from the:",
+    "options": [
+      "Posterior tibia and fibula, interosseous membrane",
+      "Lateral tibia only",
+      "Fibular head",
+      "Anterior fibula"
+    ],
+    "answer": 0,
+    "explanation": "Tibialis posterior arises broadly from the posterior tibia, fibula, and interosseous membrane."
+  },
+  {
+    "q": "Which nerve innervates tibialis posterior?",
+    "options": [
+      "Deep fibular nerve",
+      "Superficial fibular nerve",
+      "Tibial nerve",
+      "Femoral nerve"
+    ],
+    "answer": 2,
+    "explanation": "Tibialis posterior is part of the deep posterior compartment, supplied by the tibial nerve."
+  },
+  {
+    "q": "Tibialis posterior inserts primarily onto the:",
+    "options": [
+      "Base of the 5th metatarsal",
+      "Navicular, cuneiforms, and metatarsals 2–4",
+      "Calcaneus",
+      "Distal phalanx of the big toe"
+    ],
+    "answer": 1,
+    "explanation": "Its broad insertion onto the navicular, cuneiforms, and metatarsals 2–4 lets it strongly support the arch while inverting the foot."
+  },
+  {
+    "q": "Dysfunction or degeneration of which tendon is a leading cause of acquired adult flatfoot (pes planus)?",
+    "options": [
+      "Tibialis anterior",
+      "Peroneus brevis",
+      "Tibialis posterior",
+      "Extensor digitorum longus"
+    ],
+    "answer": 2,
+    "explanation": "Posterior tibial tendon dysfunction (PTTD) causes progressive collapse of the medial longitudinal arch."
+  },
+  {
+    "q": "Medial tibial stress syndrome ('shin splints' along the inner shin) most often involves overuse of:",
+    "options": [
+      "Tibialis anterior",
+      "Tibialis posterior and soleus",
+      "Peroneus longus",
+      "Extensor hallucis longus"
+    ],
+    "answer": 1,
+    "explanation": "Repetitive traction at the medial tibial border by tibialis posterior and soleus is a common cause of medial shin splints."
+  },
+  {
+    "q": "Among the invertors of the foot, tibialis posterior is generally considered:",
+    "options": [
+      "A weaker invertor than tibialis anterior",
+      "The strongest invertor of the foot",
+      "Unable to invert the foot at all",
+      "Only active during eversion"
+    ],
+    "answer": 1,
+    "explanation": "Tibialis posterior's mechanical advantage and broad insertion make it the primary/strongest invertor."
+  },
+  {
+    "q": "Tibialis anterior originates from the:",
+    "options": [
+      "Lateral tibia and interosseous membrane",
+      "Posterior tibia and fibula",
+      "Fibular head only",
+      "Anterior fibula"
+    ],
+    "answer": 0,
+    "explanation": "Tibialis anterior arises from the lateral tibial surface and the interosseous membrane."
+  },
+  {
+    "q": "Tibialis anterior inserts onto the:",
+    "options": [
+      "Base of the 5th metatarsal",
+      "Calcaneus",
+      "Base of the 1st metatarsal and medial cuneiform",
+      "Navicular only"
+    ],
+    "answer": 2,
+    "explanation": "Tibialis anterior's tendon crosses to insert at the base of the 1st metatarsal and medial cuneiform."
+  },
+  {
+    "q": "Which nerve innervates tibialis anterior?",
+    "options": [
+      "Tibial nerve",
+      "Deep fibular (peroneal) nerve",
+      "Superficial fibular (peroneal) nerve",
+      "Sural nerve"
+    ],
+    "answer": 1,
+    "explanation": "Tibialis anterior is in the anterior compartment, innervated by the deep fibular nerve."
+  },
+  {
+    "q": "'Anterior shin splints,' pain along the outer front of the shin from overuse, most often involves:",
+    "options": [
+      "Peroneus longus",
+      "Tibialis posterior",
+      "Tibialis anterior",
+      "Gastrocnemius"
+    ],
+    "answer": 2,
+    "explanation": "Repetitive eccentric loading of tibialis anterior (as in downhill running) can produce anterior shin pain."
+  },
+  {
+    "q": "Following a tibial shaft fracture, acute compartment syndrome most classically develops in the:",
+    "options": [
+      "Superficial posterior compartment",
+      "Anterior compartment",
+      "Lateral compartment",
+      "Compartment syndrome does not occur in the leg"
+    ],
+    "answer": 1,
+    "explanation": "The anterior compartment, containing tibialis anterior, is the most common site for acute compartment syndrome after tibial trauma."
+  },
+  {
+    "q": "Which muscle is the primary antagonist to tibialis anterior?",
+    "options": [
+      "Extensor digitorum longus",
+      "Peroneus brevis",
+      "Gastrocnemius/soleus",
+      "Tibialis posterior"
+    ],
+    "answer": 2,
+    "explanation": "Gastrocnemius and soleus plantarflex the ankle, opposing tibialis anterior's dorsiflexion."
+  },
+  {
+    "q": "Extensor digitorum longus originates from the:",
+    "options": [
+      "Fibula and lateral tibial condyle",
+      "Posterior tibial shaft",
+      "Fibular head only",
+      "Medial malleolus"
+    ],
+    "answer": 0,
+    "explanation": "Extensor digitorum longus arises from the fibula and the lateral condyle of the tibia."
+  },
+  {
+    "q": "Extensor digitorum longus inserts, via extensor expansions, onto the:",
+    "options": [
+      "Distal phalanx of the big toe only",
+      "Middle and distal phalanges of toes 2–5",
+      "Base of the 5th metatarsal",
+      "Calcaneus"
+    ],
+    "answer": 1,
+    "explanation": "Its tendons split into extensor expansions attaching to the middle and distal phalanges of the lateral four toes."
+  },
+  {
+    "q": "Which nerve innervates extensor digitorum longus?",
+    "options": [
+      "Deep fibular nerve",
+      "Superficial fibular nerve",
+      "Tibial nerve",
+      "Obturator nerve"
+    ],
+    "answer": 0,
+    "explanation": "As an anterior compartment muscle, it is innervated by the deep fibular nerve."
+  },
+  {
+    "q": "Extensor digitorum longus is located in which compartment of the leg?",
+    "options": [
+      "Lateral compartment",
+      "Deep posterior compartment",
+      "Anterior compartment",
+      "Superficial posterior compartment"
+    ],
+    "answer": 2,
+    "explanation": "It lies in the anterior compartment alongside tibialis anterior and extensor hallucis longus."
+  },
+  {
+    "q": "The primary toe action of extensor digitorum longus is:",
+    "options": [
+      "Flexion of toes 2–5",
+      "Extension of toes 2–5",
+      "Abduction of the big toe",
+      "Flexion of the big toe"
+    ],
+    "answer": 1,
+    "explanation": "Extensor digitorum longus extends the lateral four toes."
+  },
+  {
+    "q": "During dorsiflexion of the ankle, extensor digitorum longus acts as a synergist to which primary mover?",
+    "options": [
+      "Tibialis posterior",
+      "Peroneus brevis",
+      "Tibialis anterior",
+      "Flexor hallucis longus"
+    ],
+    "answer": 2,
+    "explanation": "Extensor digitorum longus assists tibialis anterior in dorsiflexing the ankle."
+  },
+  {
+    "q": "Extensor hallucis longus originates from the:",
+    "options": [
+      "Anterior fibula and interosseous membrane",
+      "Posterior tibia",
+      "Calcaneus",
+      "Medial cuneiform"
+    ],
+    "answer": 0,
+    "explanation": "Extensor hallucis longus arises from the anterior surface of the fibula and the interosseous membrane."
+  },
+  {
+    "q": "Extensor hallucis longus inserts onto the:",
+    "options": [
+      "Base of the 1st metatarsal",
+      "Navicular",
+      "Distal phalanx of the big toe",
+      "Base of the 5th metatarsal"
+    ],
+    "answer": 2,
+    "explanation": "Extensor hallucis longus extends the big toe by inserting at its distal phalanx."
+  },
+  {
+    "q": "Which nerve innervates extensor hallucis longus?",
+    "options": [
+      "Superficial fibular nerve",
+      "Deep fibular nerve",
+      "Tibial nerve",
+      "Sural nerve"
+    ],
+    "answer": 1,
+    "explanation": "It shares deep fibular nerve innervation with the rest of the anterior compartment."
+  },
+  {
+    "q": "Extensor hallucis longus is located in which compartment of the leg?",
+    "options": [
+      "Deep posterior compartment",
+      "Lateral compartment",
+      "Anterior compartment",
+      "Superficial posterior compartment"
+    ],
+    "answer": 2,
+    "explanation": "It lies in the anterior compartment with tibialis anterior and extensor digitorum longus."
+  },
+  {
+    "q": "To help palpate the extensor hallucis longus tendon on the dorsum of the foot, a therapist would ask the client to:",
+    "options": [
+      "Curl all the toes downward",
+      "Extend (lift) the big toe",
+      "Evert the foot",
+      "Point the foot down"
+    ],
+    "answer": 1,
+    "explanation": "Actively extending the big toe makes the extensor hallucis longus tendon prominent and easy to palpate."
+  },
+  {
+    "q": "Which of these muscles is NOT a plantarflexor of the ankle, unlike the others listed?",
+    "options": [
+      "Gastrocnemius",
+      "Soleus",
+      "Extensor hallucis longus",
+      "Flexor hallucis longus"
+    ],
+    "answer": 2,
+    "explanation": "Extensor hallucis longus assists dorsiflexion, not plantarflexion, distinguishing it from the other three."
+  },
+  {
+    "q": "Peroneus (fibularis) longus originates from the:",
+    "options": [
+      "Fibular head and proximal fibula",
+      "Distal fibula",
+      "Posterior tibia",
+      "Lateral femoral condyle"
+    ],
+    "answer": 0,
+    "explanation": "Peroneus longus arises from the fibular head and the upper portion of the fibula."
+  },
+  {
+    "q": "Peroneus longus inserts onto the:",
+    "options": [
+      "Base of the 5th metatarsal",
+      "Base of the 1st metatarsal and medial cuneiform",
+      "Calcaneus",
+      "Distal phalanx of the big toe"
+    ],
+    "answer": 1,
+    "explanation": "Its tendon crosses under the sole of the foot to insert at the base of the 1st metatarsal and medial cuneiform."
+  },
+  {
+    "q": "Which nerve innervates peroneus longus?",
+    "options": [
+      "Deep fibular nerve",
+      "Tibial nerve",
+      "Superficial fibular nerve",
+      "Femoral nerve"
+    ],
+    "answer": 2,
+    "explanation": "Peroneus longus, in the lateral compartment, is innervated by the superficial fibular nerve."
+  },
+  {
+    "q": "In addition to everting the foot, peroneus longus helps support which arch of the foot as its tendon crosses the sole?",
+    "options": [
+      "Transverse arch",
+      "Longitudinal arch of the spine (not a foot arch)",
+      "It provides no arch support",
+      "Posterior heel arch"
+    ],
+    "answer": 0,
+    "explanation": "Because its tendon runs across the plantar surface to the 1st metatarsal, peroneus longus helps support the transverse arch."
+  },
+  {
+    "q": "Peroneus longus is located in which compartment of the leg?",
+    "options": [
+      "Anterior compartment",
+      "Lateral compartment",
+      "Deep posterior compartment",
+      "Superficial posterior compartment"
+    ],
+    "answer": 1,
+    "explanation": "Peroneus longus and brevis together make up the lateral compartment of the leg."
+  },
+  {
+    "q": "Compared to peroneus brevis, peroneus longus originates more proximally, from the:",
+    "options": [
+      "Distal fibula",
+      "Fibular head",
+      "Lateral malleolus",
+      "Posterior tibia"
+    ],
+    "answer": 1,
+    "explanation": "Peroneus longus starts higher, at the fibular head, while brevis arises from the distal fibula."
+  },
+  {
+    "q": "Peroneus (fibularis) brevis originates from the:",
+    "options": [
+      "Fibular head",
+      "Distal fibula",
+      "Posterior tibial shaft",
+      "Lateral femoral condyle"
+    ],
+    "answer": 1,
+    "explanation": "Peroneus brevis arises from the lower (distal) portion of the fibula, deep to peroneus longus."
+  },
+  {
+    "q": "Which nerve innervates peroneus brevis?",
+    "options": [
+      "Tibial nerve",
+      "Deep fibular nerve",
+      "Superficial fibular nerve",
+      "Obturator nerve"
+    ],
+    "answer": 2,
+    "explanation": "Like peroneus longus, peroneus brevis is innervated by the superficial fibular nerve."
+  },
+  {
+    "q": "A forceful inversion ankle injury can avulse a fragment of bone at the base of the 5th metatarsal due to sudden traction on the:",
+    "options": [
+      "Peroneus brevis tendon",
+      "Peroneus longus tendon",
+      "Tibialis anterior tendon",
+      "Achilles tendon"
+    ],
+    "answer": 0,
+    "explanation": "Peroneus brevis inserts at the base of the 5th metatarsal, and forceful inversion can avulse this attachment."
+  },
+  {
+    "q": "Peroneus brevis is located in which compartment of the leg?",
+    "options": [
+      "Deep posterior compartment",
+      "Anterior compartment",
+      "Lateral compartment",
+      "Superficial posterior compartment"
+    ],
+    "answer": 2,
+    "explanation": "Peroneus brevis shares the lateral compartment with peroneus longus."
+  },
+  {
+    "q": "Peroneus brevis works together with peroneus longus as a synergist primarily to produce:",
+    "options": [
+      "Inversion of the foot",
+      "Eversion of the foot",
+      "Flexion of the toes",
+      "Extension of the knee"
+    ],
+    "answer": 1,
+    "explanation": "Both peroneals are the principal evertors of the foot, acting as synergists."
+  },
+  {
+    "q": "The tendons of both peroneus longus and peroneus brevis pass behind which bony landmark before reaching the foot?",
+    "options": [
+      "Medial malleolus",
+      "Lateral malleolus",
+      "Tibial tuberosity",
+      "Calcaneal tuberosity"
+    ],
+    "answer": 1,
+    "explanation": "Both peroneal tendons travel posterior to the lateral malleolus, held in place by the peroneal retinaculum."
+  },
+  {
+    "q": "The tarsal tunnel, located behind the medial malleolus, transmits the tibial nerve along with the tendons of:",
+    "options": [
+      "Tibialis anterior and extensor digitorum longus",
+      "Tibialis posterior, flexor digitorum longus, and flexor hallucis longus",
+      "Peroneus longus and peroneus brevis",
+      "Gastrocnemius and soleus"
+    ],
+    "answer": 1,
+    "explanation": "The mnemonic 'Tom, Dick, and (very nervous) Harry' recalls Tibialis posterior, flexor Digitorum longus, tibial Artery, tibial Nerve, and flexor Hallucis longus, all passing through the tarsal tunnel."
+  },
+  {
+    "q": "Drop foot caused by trauma near the fibular neck is most often due to injury of the:",
+    "options": [
+      "Tibial nerve",
+      "Common fibular (peroneal) nerve",
+      "Sural nerve",
+      "Saphenous nerve"
+    ],
+    "answer": 1,
+    "explanation": "The common fibular nerve wraps superficially around the fibular neck, making it vulnerable to compression or trauma there."
+  },
+  {
+    "q": "A high-stepping gait pattern used to compensate for drop foot, lifting the knee higher so the toes clear the ground, is called:",
+    "options": [
+      "Antalgic gait",
+      "Trendelenburg gait",
+      "Steppage gait",
+      "Waddling gait"
+    ],
+    "answer": 2,
+    "explanation": "Steppage gait describes the exaggerated hip/knee flexion used to prevent the dragging toes of foot drop from catching the ground."
+  },
+  {
+    "q": "A less common ankle sprain caused by forced eversion primarily stresses the:",
+    "options": [
+      "Lateral ligament complex",
+      "Deltoid (medial) ligament",
+      "Achilles tendon",
+      "Plantar fascia"
+    ],
+    "answer": 1,
+    "explanation": "Eversion sprains stretch/damage the medial deltoid ligament, the opposite mechanism from the far more common inversion sprain."
+  },
+  {
+    "q": "A sudden 'pop' in the calf followed by an inability to plantarflex forcefully during push-off is characteristic of:",
+    "options": [
+      "Anterior compartment syndrome",
+      "Achilles tendon rupture",
+      "Peroneal tendon subluxation",
+      "Plantar fasciitis"
+    ],
+    "answer": 1,
+    "explanation": "Rupture of the shared gastrocnemius/soleus (Achilles) tendon classically presents this way, often during explosive push-off."
+  },
+  {
+    "q": "Which three muscles make up the anterior compartment of the leg?",
+    "options": [
+      "Tibialis anterior, extensor digitorum longus, extensor hallucis longus",
+      "Gastrocnemius, soleus, plantaris",
+      "Tibialis posterior, flexor digitorum longus, flexor hallucis longus",
+      "Peroneus longus, peroneus brevis, tibialis anterior"
+    ],
+    "answer": 0,
+    "explanation": "These three dorsiflexor/toe-extensor muscles, all innervated by the deep fibular nerve, form the anterior compartment."
+  },
+  {
+    "q": "Which two muscles make up the lateral compartment of the leg?",
+    "options": [
+      "Tibialis anterior and extensor digitorum longus",
+      "Peroneus longus and peroneus brevis",
+      "Gastrocnemius and soleus",
+      "Tibialis posterior and flexor hallucis longus"
+    ],
+    "answer": 1,
+    "explanation": "Peroneus longus and brevis, innervated by the superficial fibular nerve, occupy the lateral compartment."
+  },
+  {
+    "q": "Which three muscles make up the deep posterior compartment of the leg?",
+    "options": [
+      "Gastrocnemius, soleus, plantaris",
+      "Tibialis anterior, extensor digitorum longus, extensor hallucis longus",
+      "Tibialis posterior, flexor digitorum longus, flexor hallucis longus",
+      "Peroneus longus, brevis, tertius"
+    ],
+    "answer": 2,
+    "explanation": "These three muscles, all innervated by the tibial nerve, form the deep posterior compartment."
+  },
+  {
+    "q": "The superficial posterior compartment of the leg consists mainly of:",
+    "options": [
+      "Gastrocnemius and soleus",
+      "Tibialis posterior and flexor digitorum longus",
+      "Tibialis anterior and extensor hallucis longus",
+      "Peroneus longus and brevis"
+    ],
+    "answer": 0,
+    "explanation": "Gastrocnemius and soleus (the triceps surae) form the bulk of the superficial posterior compartment."
+  },
+  {
+    "q": "Walking on the heels with the toes and forefoot lifted off the ground primarily requires strong contraction of:",
+    "options": [
+      "Plantarflexors (gastrocnemius, soleus)",
+      "Dorsiflexors (tibialis anterior, extensor digitorum longus, extensor hallucis longus)",
+      "Invertors only",
+      "Evertors only"
+    ],
+    "answer": 1,
+    "explanation": "Heel walking requires the dorsiflexor group to hold the forefoot up against gravity."
+  },
+  {
+    "q": "The push-off (toe-off) phase of gait relies most heavily on powerful contraction of the:",
+    "options": [
+      "Triceps surae (gastrocnemius and soleus)",
+      "Tibialis anterior and extensor digitorum longus",
+      "Deep hip rotators",
+      "Peroneus brevis alone"
+    ],
+    "answer": 0,
+    "explanation": "Strong plantarflexion from the triceps surae propels the body forward during push-off."
+  },
+  {
+    "q": "Which of the following muscles is an evertor rather than an invertor of the foot?",
+    "options": [
+      "Tibialis anterior",
+      "Tibialis posterior",
+      "Peroneus brevis",
+      "Flexor digitorum longus"
+    ],
+    "answer": 2,
+    "explanation": "Peroneus brevis, unlike the other three listed, everts the foot rather than inverting it."
+  },
+  {
+    "q": "The dorsalis pedis pulse is classically palpated on the dorsum of the foot between the tendons of:",
+    "options": [
+      "Tibialis anterior and tibialis posterior",
+      "Extensor hallucis longus and extensor digitorum longus",
+      "Peroneus longus and peroneus brevis",
+      "Flexor hallucis longus and flexor digitorum longus"
+    ],
+    "answer": 1,
+    "explanation": "This palpation landmark lies between the EHL and EDL tendons on the dorsum of the foot."
+  },
+  {
+    "q": "The Achilles tendon anchors the triceps surae (gastrocnemius and soleus) onto the:",
+    "options": [
+      "Talus",
+      "Navicular",
+      "Calcaneus",
+      "Cuboid"
+    ],
+    "answer": 2,
+    "explanation": "The Achilles tendon inserts on the posterior calcaneus (heel bone)."
+  },
+  {
+    "q": "Together, tibialis posterior, flexor hallucis longus, and peroneus longus help form a supportive 'sling' beneath the foot mainly to support the:",
+    "options": [
+      "Arches of the foot",
+      "Achilles tendon",
+      "Ankle mortise joint capsule",
+      "Tibiofibular joint"
+    ],
+    "answer": 0,
+    "explanation": "These tendons crossing under and around the foot help maintain the longitudinal and transverse arches."
+  },
+  {
+    "q": "Sudden forceful dorsiflexion combined with eversion can cause the peroneal tendons to sublux (pop out of their groove) from behind the:",
+    "options": [
+      "Medial malleolus",
+      "Lateral malleolus",
+      "Calcaneus",
+      "Talus"
+    ],
+    "answer": 1,
+    "explanation": "Peroneal tendon subluxation occurs when the retinaculum behind the lateral malleolus is disrupted."
+  },
+  {
+    "q": "A client with weak tibialis anterior would most likely show which gait deviation, while a client with weak tibialis posterior would more likely show:",
+    "options": [
+      "Drop foot; progressive flattening of the medial arch",
+      "Flattening of the arch; drop foot",
+      "Both produce identical drop foot symptoms",
+      "Neither muscle affects gait"
+    ],
+    "answer": 0,
+    "explanation": "Tibialis anterior weakness impairs dorsiflexion (drop foot), while tibialis posterior weakness/dysfunction leads to arch collapse (acquired flatfoot)."
+  },
+  {
+    "q": "The superficial fibular nerve supplies sensation to most of the dorsum of the foot, while the deep fibular nerve supplies sensation only to the:",
+    "options": [
+      "Entire sole of the foot",
+      "Web space between the 1st and 2nd toes",
+      "Heel",
+      "Lateral border of the foot"
+    ],
+    "answer": 1,
+    "explanation": "The deep fibular nerve's cutaneous territory is limited to the first dorsal web space; the superficial fibular nerve covers the rest of the dorsum."
+  },
+  {
+    "q": "A client with weakness in everting the foot after a fibular head injury most likely has damage to the:",
+    "options": [
+      "Tibial nerve",
+      "Superficial fibular (peroneal) nerve",
+      "Femoral nerve",
+      "Sural nerve"
+    ],
+    "answer": 1,
+    "explanation": "The superficial fibular nerve innervates peroneus longus and brevis, the primary evertors."
+  },
+  {
+    "q": "During an inversion ankle sprain, which muscle group contracts eccentrically in an attempt to resist and slow the excessive inward rolling of the foot?",
+    "options": [
+      "Tibialis anterior and posterior",
+      "Peroneus longus and brevis",
+      "Gastrocnemius and soleus",
+      "Flexor and extensor hallucis longus"
+    ],
+    "answer": 1,
+    "explanation": "The peroneals (evertors) act eccentrically to control/resist the inversion motion, which is why they're often strained during these sprains."
   }
 ]
