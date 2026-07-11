@@ -23,7 +23,7 @@ export function getTopics(): Promise<TopicMeta[]> {
   return fetchJson<TopicMeta[]>("data/topics.json");
 }
 
-export function getTopicNotes(slug: string, lang: "en" | "es"): Promise<string> {
+export function getTopicNotes(slug: string, lang: "en" | "es" | "ru"): Promise<string> {
   return fetchText(`content/${slug}/${lang}.md`);
 }
 

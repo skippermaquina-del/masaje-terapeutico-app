@@ -123,21 +123,22 @@ async function renderTopicView(slug: string, tab: Tab): Promise<void> {
   const langToggleEl = app.querySelector<HTMLElement>("#lang-toggle")!;
 
   if (tab === "notes") {
-    let lang: "en" | "es" = "en";
+    const LANGS: { code: "en" | "es" | "ru"; label: string }[] = [
+      { code: "en", label: "EN" },
+      { code: "es", label: "ES" },
+      { code: "ru", label: "RU" },
+    ];
+    let lang: "en" | "es" | "ru" = "en";
     const drawLangToggle = () => {
-      langToggleEl.innerHTML = `
-        <button class="btn${lang === "en" ? " active" : ""}" id="lang-en">EN</button>
-        <button class="btn${lang === "es" ? " active" : ""}" id="lang-es">ES</button>
-      `;
-      langToggleEl.querySelector("#lang-en")?.addEventListener("click", () => {
-        lang = "en";
-        drawLangToggle();
-        loadNotes();
-      });
-      langToggleEl.querySelector("#lang-es")?.addEventListener("click", () => {
-        lang = "es";
-        drawLangToggle();
-        loadNotes();
+      langToggleEl.innerHTML = LANGS.map(
+        (l) => `<button class="btn${lang === l.code ? " active" : ""}" data-lang="${l.code}">${l.label}</button>`
+      ).join("");
+      langToggleEl.querySelectorAll<HTMLButtonElement>("button[data-lang]").forEach((btn) => {
+        btn.addEventListener("click", () => {
+          lang = btn.dataset.lang as "en" | "es" | "ru";
+          drawLangToggle();
+          loadNotes();
+        });
       });
     };
     const loadNotes = async () => {
