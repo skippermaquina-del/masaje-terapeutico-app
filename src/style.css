@@ -299,6 +299,14 @@ audio {
   border: 1px solid var(--border);
 }
 
+.chat-bubble-assistant :first-child {
+  margin-top: 0;
+}
+
+.chat-bubble-assistant :last-child {
+  margin-bottom: 0;
+}
+
 .chat-bubble-error {
   align-self: flex-start;
   background: rgba(255, 107, 107, 0.15);

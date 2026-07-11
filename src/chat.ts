@@ -1,4 +1,5 @@
 import { getTopicNotes } from "./lib/data";
+import { renderMarkdown } from "./lib/markdown";
 import { supabase } from "./lib/supabase";
 
 interface ChatMessage {
@@ -40,7 +41,11 @@ export function renderChat(container: HTMLElement, slug: string, topicTitle: str
   function appendMessage(role: "user" | "assistant" | "error", text: string): void {
     const bubble = document.createElement("div");
     bubble.className = `chat-bubble chat-bubble-${role}`;
-    bubble.textContent = text;
+    if (role === "assistant") {
+      bubble.innerHTML = renderMarkdown(text);
+    } else {
+      bubble.textContent = text;
+    }
     logEl.appendChild(bubble);
     logEl.scrollTop = logEl.scrollHeight;
   }
