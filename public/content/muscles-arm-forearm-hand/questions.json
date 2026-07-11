@@ -319,15 +319,15 @@
     "explanation": "Brachioradialis originates from the lateral supracondylar ridge of the humerus."
   },
   {
-    "q": "Which muscle inserts near the wrist, on the styloid process of the radius, despite being an elbow flexor?",
+    "q": "Which muscle is a synergist to brachioradialis during elbow flexion, especially when the forearm starts in a pronated position?",
     "options": [
-      "Biceps brachii",
+      "Triceps brachii",
       "Brachialis",
-      "Brachioradialis",
-      "Pronator teres"
+      "Anconeus",
+      "Extensor carpi radialis longus"
     ],
-    "answer": 2,
-    "explanation": "Brachioradialis has an unusually distal insertion at the radial styloid process for a muscle whose primary action is elbow flexion."
+    "answer": 1,
+    "explanation": "Brachialis is a strong elbow flexor across all forearm positions and works alongside brachioradialis, which is most active from neutral/pronated starting positions."
   },
   {
     "q": "Which nerve innervates brachioradialis?",
