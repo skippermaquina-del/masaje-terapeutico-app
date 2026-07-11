@@ -1,122 +1,1102 @@
 [
   {
     "q": "A client tells you mid-session that a new area (the feet) makes them uncomfortable to have touched, even though they agreed to full-body work at intake. What should you do?",
-    "options": ["Continue since it was already agreed to at intake", "Stop working that area and honor the client's current wishes", "Explain why it's beneficial and continue", "Finish the session quickly and skip future bookings"],
+    "options": [
+      "Continue since it was already agreed to at intake",
+      "Stop working that area and honor the client's current wishes",
+      "Explain why it's beneficial and continue",
+      "Finish the session quickly and skip future bookings"
+    ],
     "answer": 1,
     "explanation": "Consent is ongoing and can be withdrawn or modified at any time, even if something different was agreed to earlier."
   },
   {
     "q": "Which of these best describes 'nonmaleficence'?",
-    "options": ["Doing good for the client", "Treating all clients fairly", "Avoiding actions that could harm the client", "Being honest with the client"],
+    "options": [
+      "Doing good for the client",
+      "Treating all clients fairly",
+      "Avoiding actions that could harm the client",
+      "Being honest with the client"
+    ],
     "answer": 2,
     "explanation": "Nonmaleficence is the principle of 'do no harm.'"
   },
   {
     "q": "A regular client starts confiding romantic feelings toward the therapist during sessions. What is the most appropriate response?",
-    "options": ["Gently redirect and reinforce professional boundaries", "Ignore it and hope it stops", "Reciprocate to keep the client comfortable", "End the therapeutic relationship immediately without discussion"],
+    "options": [
+      "Gently redirect and reinforce professional boundaries",
+      "Ignore it and hope it stops",
+      "Reciprocate to keep the client comfortable",
+      "End the therapeutic relationship immediately without discussion"
+    ],
     "answer": 0,
     "explanation": "The therapist is responsible for maintaining boundaries; redirecting the conversation professionally is the appropriate response."
   },
   {
     "q": "A client asks the therapist to recommend whether they should stop taking a prescribed medication. What should the therapist do?",
-    "options": ["Give an opinion based on general knowledge", "Say scope of practice doesn't allow that and refer them to their physician", "Ask the client to research it themselves", "Suggest an herbal alternative instead"],
+    "options": [
+      "Give an opinion based on general knowledge",
+      "Say scope of practice doesn't allow that and refer them to their physician",
+      "Ask the client to research it themselves",
+      "Suggest an herbal alternative instead"
+    ],
     "answer": 1,
     "explanation": "Advising on medication is outside a massage therapist's scope of practice; the correct response is to refer to a licensed provider."
   },
   {
     "q": "Which scenario best illustrates a 'dual relationship' risk?",
-    "options": ["A therapist takes a detailed health history at intake", "A therapist also employs the client at their side business", "A therapist documents the session using SOAP notes", "A therapist asks a client to sign an intake form"],
+    "options": [
+      "A therapist takes a detailed health history at intake",
+      "A therapist also employs the client at their side business",
+      "A therapist documents the session using SOAP notes",
+      "A therapist asks a client to sign an intake form"
+    ],
     "answer": 1,
     "explanation": "Having more than one role with the same person (therapist and employer) is a dual relationship that can create conflicts of interest."
   },
   {
     "q": "A client discloses that a minor in their household may be experiencing neglect. What governs the therapist's response?",
-    "options": ["Client confidentiality, which cannot be broken", "Mandatory reporting laws, which override confidentiality here", "The therapist's personal judgment only", "Nothing — this is outside the therapist's concern"],
+    "options": [
+      "Client confidentiality, which cannot be broken",
+      "Mandatory reporting laws, which override confidentiality here",
+      "The therapist's personal judgment only",
+      "Nothing — this is outside the therapist's concern"
+    ],
     "answer": 1,
     "explanation": "Mandatory reporting requirements for suspected abuse/neglect of a vulnerable person override standard confidentiality."
   },
   {
     "q": "What is the best description of 'veracity' as an ethical principle?",
-    "options": ["Loyalty to commitments", "Fair treatment of all clients", "Truthfulness with clients", "Avoiding harm"],
+    "options": [
+      "Loyalty to commitments",
+      "Fair treatment of all clients",
+      "Truthfulness with clients",
+      "Avoiding harm"
+    ],
     "answer": 2,
     "explanation": "Veracity means being truthful and honest with clients."
   },
   {
     "q": "During a session, a therapist notices their own strong personal feelings toward a client are affecting how they interact professionally. This is an example of:",
-    "options": ["Transference", "Countertransference", "Boundary crossing", "Informed consent"],
+    "options": [
+      "Transference",
+      "Countertransference",
+      "Boundary crossing",
+      "Informed consent"
+    ],
     "answer": 1,
     "explanation": "Countertransference is when the therapist's own feelings toward the client influence their professional judgment."
   },
   {
     "q": "Which action is an example of appropriate documentation?",
-    "options": ["Writing 'client seems anxious and probably has a panic disorder'", "Writing 'client reported tightness in the upper trapezius bilaterally'", "Leaving the chart blank when nothing unusual happened", "Documenting only if the client asks for a copy"],
+    "options": [
+      "Writing 'client seems anxious and probably has a panic disorder'",
+      "Writing 'client reported tightness in the upper trapezius bilaterally'",
+      "Leaving the chart blank when nothing unusual happened",
+      "Documenting only if the client asks for a copy"
+    ],
     "answer": 1,
     "explanation": "Good documentation is factual and objective, avoiding diagnostic language or personal opinions."
   },
   {
     "q": "A new client offers the therapist an expensive gift after their first session. What is the most professionally sound response?",
-    "options": ["Accept it immediately to build rapport", "Politely decline or set a clear, consistent gift policy", "Accept only if no one else is around", "Ask for something of equal value in return"],
+    "options": [
+      "Accept it immediately to build rapport",
+      "Politely decline or set a clear, consistent gift policy",
+      "Accept only if no one else is around",
+      "Ask for something of equal value in return"
+    ],
     "answer": 1,
     "explanation": "Accepting gifts, especially significant ones, can blur professional boundaries; a clear and consistent policy protects both parties."
   },
   {
     "q": "Which best describes the concept of 'autonomy' in client care?",
-    "options": ["The therapist's authority to make treatment decisions", "The client's right to make their own decisions about their body and care", "The clinic's right to set policies", "The insurance company's role in approving treatment"],
+    "options": [
+      "The therapist's authority to make treatment decisions",
+      "The client's right to make their own decisions about their body and care",
+      "The clinic's right to set policies",
+      "The insurance company's role in approving treatment"
+    ],
     "answer": 1,
     "explanation": "Autonomy refers to the client's right to self-determination regarding their own body and care."
   },
   {
     "q": "A client asks the therapist to diagnose the cause of persistent lower back pain. The best response is to:",
-    "options": ["Offer a likely diagnosis based on symptoms described", "Explain that diagnosis is outside scope of practice and suggest medical evaluation", "Avoid answering and change the subject", "Recommend a specific over-the-counter medication"],
+    "options": [
+      "Offer a likely diagnosis based on symptoms described",
+      "Explain that diagnosis is outside scope of practice and suggest medical evaluation",
+      "Avoid answering and change the subject",
+      "Recommend a specific over-the-counter medication"
+    ],
     "answer": 1,
     "explanation": "Diagnosing is outside a massage therapist's legal scope of practice, regardless of clinical intuition."
   },
   {
     "q": "Which of the following is considered a minor 'boundary crossing' rather than a serious violation?",
-    "options": ["Extending a session by a few minutes with client agreement", "Initiating a romantic relationship with a client", "Sharing confidential client information publicly", "Accepting money to give a false referral"],
+    "options": [
+      "Extending a session by a few minutes with client agreement",
+      "Initiating a romantic relationship with a client",
+      "Sharing confidential client information publicly",
+      "Accepting money to give a false referral"
+    ],
     "answer": 0,
     "explanation": "A small, mutually agreed adjustment like a slightly extended session is a minor crossing, not a serious ethical violation."
   },
   {
     "q": "In SOAP documentation, which section records what the therapist physically observes or measures?",
-    "options": ["Subjective", "Objective", "Assessment", "Plan"],
+    "options": [
+      "Subjective",
+      "Objective",
+      "Assessment",
+      "Plan"
+    ],
     "answer": 1,
     "explanation": "The Objective section records the therapist's own observations and measurements, as opposed to what the client reports (Subjective)."
   },
   {
     "q": "A client says they no longer want deep pressure on their shoulders, though they consented to it earlier in the session. The therapist should:",
-    "options": ["Continue since consent was already given", "Reduce pressure immediately and honor the new request", "Ask the client to explain their reasoning before adjusting", "Finish the current stroke before changing anything"],
+    "options": [
+      "Continue since consent was already given",
+      "Reduce pressure immediately and honor the new request",
+      "Ask the client to explain their reasoning before adjusting",
+      "Finish the current stroke before changing anything"
+    ],
     "answer": 1,
     "explanation": "Consent can be withdrawn or modified at any time during a session, and the therapist must respond immediately."
   },
   {
     "q": "Which best summarizes how scope of practice should be determined?",
-    "options": ["By what the therapist feels confident doing", "By what the client requests", "By applicable state/jurisdictional law", "By what was taught in any training program, regardless of licensure"],
+    "options": [
+      "By what the therapist feels confident doing",
+      "By what the client requests",
+      "By applicable state/jurisdictional law",
+      "By what was taught in any training program, regardless of licensure"
+    ],
     "answer": 2,
     "explanation": "Scope of practice is a legal boundary defined by law, not by personal training or client requests."
   },
   {
     "q": "When facing an ethically ambiguous situation, which factor should a therapist weigh FIRST?",
-    "options": ["Whether the client will be happy with the outcome", "Whether the client is safe right now", "Whether it will affect future bookings", "Whether a colleague would approve"],
+    "options": [
+      "Whether the client will be happy with the outcome",
+      "Whether the client is safe right now",
+      "Whether it will affect future bookings",
+      "Whether a colleague would approve"
+    ],
     "answer": 1,
     "explanation": "Client safety is evaluated first in the ethical decision-making order, before scope, consent, and boundaries."
   },
   {
     "q": "A therapist starts giving a long-term client free sessions because they've become close friends outside of work. This is best understood as:",
-    "options": ["Good customer service", "A dual relationship that risks compromising objectivity", "A normal part of building loyalty", "Required under fidelity"],
+    "options": [
+      "Good customer service",
+      "A dual relationship that risks compromising objectivity",
+      "A normal part of building loyalty",
+      "Required under fidelity"
+    ],
     "answer": 1,
     "explanation": "Blending a friendship with the professional relationship is a dual relationship, which can compromise objective, professional care."
   },
   {
     "q": "Which of the following is an example of 'fidelity' in professional ethics?",
-    "options": ["Charging the same rate to all clients", "Keeping an appointment commitment made to a client", "Avoiding painful pressure during massage", "Explaining a technique before performing it"],
+    "options": [
+      "Charging the same rate to all clients",
+      "Keeping an appointment commitment made to a client",
+      "Avoiding painful pressure during massage",
+      "Explaining a technique before performing it"
+    ],
     "answer": 1,
     "explanation": "Fidelity means being reliable and keeping one's professional commitments."
   },
   {
     "q": "A client's chart shows no notes were taken after a session where the client reported new numbness in their arm. What is the risk?",
-    "options": ["None — verbal notice to the client is sufficient", "Legally and clinically, if it isn't documented, there's no record it happened", "Documentation is optional for minor complaints", "Only physicians need to document symptoms"],
+    "options": [
+      "None — verbal notice to the client is sufficient",
+      "Legally and clinically, if it isn't documented, there's no record it happened",
+      "Documentation is optional for minor complaints",
+      "Only physicians need to document symptoms"
+    ],
     "answer": 1,
     "explanation": "Thorough documentation is both a clinical and legal safeguard; undocumented findings are effectively unaddressed."
+  },
+  {
+    "q": "Confidentiality is best described as:",
+    "options": [
+      "Protecting client information from unauthorized disclosure",
+      "Allowing only a client's spouse to view their information",
+      "Disregarding a client's right to privacy",
+      "Allowing a client to discuss another client's treatment"
+    ],
+    "answer": 0,
+    "explanation": "Confidentiality means protecting all client information from unauthorized disclosure."
+  },
+  {
+    "q": "In a business setting, a massage therapist's professional credentials must generally be:",
+    "options": [
+      "Posted in visibility of all clients",
+      "Kept in a secure location away from sight",
+      "Kept in a drawer in the massage room",
+      "Posted beneath the massage table"
+    ],
+    "answer": 0,
+    "explanation": "Credentials are typically required to be posted and visible to clients as a professional and legal standard."
+  },
+  {
+    "q": "A client experiences an emotional release during a massage session. The appropriate response is to:",
+    "options": [
+      "Stop massaging and check in with the client before deciding whether to continue",
+      "Keep massaging and encourage the release without pausing",
+      "Keep massaging and ignore the release entirely",
+      "Stop massaging and ask the client to leave"
+    ],
+    "answer": 0,
+    "explanation": "Pausing to check in and obtain the client's wishes before continuing respects client autonomy and comfort."
+  },
+  {
+    "q": "A massage therapist who knowingly performs a technique they are not properly trained for, and it results in harm, may face which type of legal action?",
+    "options": [
+      "Copyright infringement",
+      "Malpractice",
+      "Trespassing",
+      "Breach of contract only"
+    ],
+    "answer": 1,
+    "explanation": "Malpractice involves professional negligence, such as knowingly practicing outside one's scope or training."
+  },
+  {
+    "q": "What must an independent contractor generally do to legally work for a massage business or client?",
+    "options": [
+      "Agree to commission-based pay only",
+      "Rent a massage room exclusively",
+      "Sign a contract that defines the working relationship and terms",
+      "Own their own separate business entity"
+    ],
+    "answer": 2,
+    "explanation": "Independent contractors typically must sign a contract that clearly defines the terms of the working relationship."
+  },
+  {
+    "q": "Which ethical principle refers to acting in ways that actively benefit the client, beyond simply avoiding harm?",
+    "options": [
+      "Nonmaleficence",
+      "Beneficence",
+      "Autonomy",
+      "Justice"
+    ],
+    "answer": 1,
+    "explanation": "Beneficence means actively promoting the client's well-being, distinct from nonmaleficence (avoiding harm)."
+  },
+  {
+    "q": "Which ethical principle requires treating all clients fairly, without discrimination based on race, gender, religion, or other personal characteristics?",
+    "options": [
+      "Justice",
+      "Veracity",
+      "Fidelity",
+      "Beneficence"
+    ],
+    "answer": 0,
+    "explanation": "Justice requires fair, equal treatment of all clients."
+  },
+  {
+    "q": "A therapist consistently arrives on time, honors scheduled appointments, and follows through on commitments made to clients. This demonstrates which ethical principle?",
+    "options": [
+      "Autonomy",
+      "Fidelity",
+      "Justice",
+      "Nonmaleficence"
+    ],
+    "answer": 1,
+    "explanation": "Fidelity means keeping commitments and being trustworthy and reliable."
+  },
+  {
+    "q": "Informed consent is best described as:",
+    "options": [
+      "A one-time signature obtained before the very first session",
+      "An ongoing conversation and agreement that must be re-established whenever something changes",
+      "A legal formality with no bearing on the actual session",
+      "Something only required for new clients"
+    ],
+    "answer": 1,
+    "explanation": "Consent is ongoing — it must be revisited whenever the technique, area, or pressure changes."
+  },
+  {
+    "q": "Before beginning a new technique not discussed at intake, the therapist should:",
+    "options": [
+      "Proceed silently, assuming implied consent",
+      "Pause and explain the technique, obtaining the client's consent before continuing",
+      "Only ask if the client seems uncomfortable",
+      "Ask for consent only at the end of the session"
+    ],
+    "answer": 1,
+    "explanation": "New techniques or areas require explicit consent before they are performed, not after."
+  },
+  {
+    "q": "A client can withdraw consent to a treatment technique:",
+    "options": [
+      "Only before the session begins",
+      "Only if they provide a medical reason",
+      "At any point during the session, for any reason",
+      "Never, once they've agreed at intake"
+    ],
+    "answer": 2,
+    "explanation": "Consent can be withdrawn at any time, without needing to justify the reason."
+  },
+  {
+    "q": "Which best defines a \"boundary crossing\"?",
+    "options": [
+      "A serious, harmful breach of the therapeutic relationship",
+      "A minor, often unintentional departure from the usual professional frame that doesn't cause harm",
+      "Any sexual conduct with a client",
+      "A criminal act"
+    ],
+    "answer": 1,
+    "explanation": "A boundary crossing is a minor deviation (e.g., a session running a few minutes over) that typically causes no harm."
+  },
+  {
+    "q": "Which best defines a \"boundary violation\"?",
+    "options": [
+      "A minor scheduling inconvenience",
+      "A serious breach that harms the client or exploits the therapeutic relationship",
+      "Any conversation with a client about their day",
+      "A typo in a client's chart"
+    ],
+    "answer": 1,
+    "explanation": "A boundary violation is a serious, harmful breach — such as exploiting a client financially, emotionally, or sexually."
+  },
+  {
+    "q": "Which of the following best describes \"transference\" in the therapeutic relationship?",
+    "options": [
+      "The therapist's feelings toward the client affecting their judgment",
+      "The client projecting feelings that actually belong to another relationship onto the therapist",
+      "A physical technique used to release tension from tissue",
+      "A form of informed consent"
+    ],
+    "answer": 1,
+    "explanation": "Transference occurs when the client redirects feelings from another relationship onto the therapist."
+  },
+  {
+    "q": "Which of the following best describes \"countertransference\"?",
+    "options": [
+      "The client's feelings about a past relationship",
+      "The therapist's own feelings toward the client beginning to influence their professional judgment",
+      "A billing arrangement between therapist and client",
+      "A type of dual relationship"
+    ],
+    "answer": 1,
+    "explanation": "Countertransference is when the therapist's personal feelings toward the client start to affect their professionalism."
+  },
+  {
+    "q": "Is romantic or sexual involvement with a current client ever considered ethical, even if the client initiates it and consents?",
+    "options": [
+      "Yes, if both parties consent",
+      "Yes, if the client initiated it",
+      "No — it is always considered unethical, regardless of who initiates it or consent",
+      "Only if it occurs outside the treatment room"
+    ],
+    "answer": 2,
+    "explanation": "Due to the inherent power imbalance, romantic or sexual involvement with a client is always unethical."
+  },
+  {
+    "q": "A dual relationship exists when:",
+    "options": [
+      "A therapist works with two different clients on the same day",
+      "A therapist and client interact in more than one role, such as also being neighbors or business partners",
+      "A client sees two different massage therapists",
+      "A therapist has two different specialties"
+    ],
+    "answer": 1,
+    "explanation": "A dual relationship involves multiple, overlapping roles between therapist and client, which can create conflicts of interest."
+  },
+  {
+    "q": "Why are dual relationships considered an ethical risk?",
+    "options": [
+      "They are illegal in every jurisdiction",
+      "They can create a conflict of interest and cloud professional judgment",
+      "They always improve the quality of care",
+      "They have no real impact on treatment"
+    ],
+    "answer": 1,
+    "explanation": "Overlapping roles can compromise objectivity and lead to decisions that favor the therapist over the client's best interest."
+  },
+  {
+    "q": "A useful test for evaluating whether a situation is an ethical risk is to ask:",
+    "options": [
+      "Does this situation benefit the therapist more than the client?",
+      "Does this situation take extra time?",
+      "Is this situation enjoyable for the therapist?",
+      "Would a stranger find this situation interesting?"
+    ],
+    "answer": 0,
+    "explanation": "If a situation primarily benefits the therapist rather than the client, it should be treated as an ethical risk."
+  },
+  {
+    "q": "How should a massage therapist generally handle a client offering an expensive personal gift?",
+    "options": [
+      "Accept it enthusiastically without further thought",
+      "Approach it cautiously, since accepting valuable gifts can blur professional boundaries",
+      "Always refuse any gift of any kind, including a thank-you card",
+      "Ask the client for an even more expensive gift next time"
+    ],
+    "answer": 1,
+    "explanation": "Accepting significant gifts can create obligation or blur the professional relationship and should be handled with caution."
+  },
+  {
+    "q": "Scope of practice for massage therapists is legally defined by:",
+    "options": [
+      "Each individual therapist's personal training and confidence level",
+      "State or jurisdictional law and regulation",
+      "The client's preferences",
+      "The therapist's years of experience alone"
+    ],
+    "answer": 1,
+    "explanation": "Scope of practice is set by law, not by a therapist's personal skill level or experience."
+  },
+  {
+    "q": "A client asks the massage therapist what medical condition is causing their symptoms. The appropriate response is to:",
+    "options": [
+      "Provide a diagnosis based on the therapist's best guess",
+      "Explain that diagnosis is outside the massage therapist's scope of practice and refer them to a physician",
+      "Ignore the question entirely",
+      "Tell the client to look it up online"
+    ],
+    "answer": 1,
+    "explanation": "Diagnosing disease is outside a massage therapist's legal scope, regardless of how confident the therapist feels."
+  },
+  {
+    "q": "A client asks the therapist whether they should stop taking a prescribed blood pressure medication. The therapist should:",
+    "options": [
+      "Give their opinion, since they've seen many similar cases",
+      "Explain that medication decisions are outside their scope and refer the client to their prescribing physician",
+      "Tell the client to stop the medication immediately",
+      "Change the topic without addressing the question"
+    ],
+    "answer": 1,
+    "explanation": "Advising on medication is outside scope of practice — the client should be referred to their prescriber."
+  },
+  {
+    "q": "Which of the following would be considered practicing outside a massage therapist's scope of practice?",
+    "options": [
+      "Documenting objective findings from palpation",
+      "Recommending stretches for a client's home care",
+      "Adjusting a client's spine with a high-velocity thrust",
+      "Explaining the general benefits of massage for stress"
+    ],
+    "answer": 2,
+    "explanation": "High-velocity spinal adjustments are a chiropractic technique, outside a massage therapist's scope unless separately licensed."
+  },
+  {
+    "q": "Mandatory reporting laws generally require a massage therapist to report which of the following?",
+    "options": [
+      "A client's mild seasonal allergies",
+      "Suspected abuse or neglect of a child, elder, or dependent adult",
+      "A client's preference for lighter pressure",
+      "A client running a few minutes late"
+    ],
+    "answer": 1,
+    "explanation": "Mandatory reporting duties typically cover suspected abuse or neglect of vulnerable populations."
+  },
+  {
+    "q": "When a mandatory reporting obligation applies, it:",
+    "options": [
+      "Is always optional, at the therapist's discretion",
+      "Overrides normal client confidentiality obligations",
+      "Only applies to licensed physicians, not massage therapists",
+      "Requires the client's permission before reporting"
+    ],
+    "answer": 1,
+    "explanation": "Mandatory reporting duties override standard confidentiality when there's a legal obligation to report suspected harm."
+  },
+  {
+    "q": "If a client discloses information suggesting an imminent risk of harm to themselves or another person, the therapist should:",
+    "options": [
+      "Keep the information strictly confidential no matter what",
+      "Take appropriate action, which may include breaking confidentiality to protect safety",
+      "Immediately end the therapeutic relationship without further action",
+      "Ignore the disclosure since it's not medical in nature"
+    ],
+    "answer": 1,
+    "explanation": "Imminent risk of harm generally justifies breaking confidentiality to protect the client or others."
+  },
+  {
+    "q": "Which of the following best describes client confidentiality in massage practice?",
+    "options": [
+      "Client information may be freely shared with friends and family of the therapist",
+      "Client information should be protected and only shared with consent or legal obligation (e.g., mandatory reporting)",
+      "Confidentiality only applies to written records, not verbal conversations",
+      "Confidentiality is not legally required for massage therapists"
+    ],
+    "answer": 1,
+    "explanation": "Client information is protected and only disclosed with consent or when legally required, such as mandatory reporting."
+  },
+  {
+    "q": "In SOAP documentation, the \"S\" (Subjective) section records:",
+    "options": [
+      "The therapist's measurements of range of motion",
+      "What the client reports in their own words",
+      "The therapist's treatment plan for future sessions",
+      "The therapist's clinical interpretation"
+    ],
+    "answer": 1,
+    "explanation": "Subjective data is what the client reports — their own words and self-described experience."
+  },
+  {
+    "q": "In SOAP documentation, the \"A\" (Assessment) section records:",
+    "options": [
+      "The client's own words describing their symptoms",
+      "The therapist's clinical interpretation of the subjective and objective findings, within scope of practice",
+      "A diagnosis of the client's underlying disease",
+      "The billing information for the session"
+    ],
+    "answer": 1,
+    "explanation": "The Assessment is the therapist's professional interpretation of findings — not a medical diagnosis, but a scope-appropriate clinical impression."
+  },
+  {
+    "q": "In SOAP documentation, the \"P\" (Plan) section records:",
+    "options": [
+      "What the client reported feeling",
+      "What the therapist observed during palpation",
+      "The next steps or recommendations for future treatment",
+      "The client's personal contact information"
+    ],
+    "answer": 2,
+    "explanation": "The Plan outlines what comes next — future treatment goals, frequency, or referrals."
+  },
+  {
+    "q": "Which best describes the general standard for documentation language in massage therapy records?",
+    "options": [
+      "Documentation should include the therapist's personal opinions about the client",
+      "Documentation should be factual, objective, and free of diagnostic language",
+      "Documentation should be written in vague, general terms to save time",
+      "Documentation is optional if the client seems satisfied"
+    ],
+    "answer": 1,
+    "explanation": "Good documentation is factual and objective, avoiding personal opinion or language that implies a medical diagnosis."
+  },
+  {
+    "q": "Why is thorough documentation considered an important legal safeguard for the therapist?",
+    "options": [
+      "It has no legal significance",
+      "If something was not written down, it may be treated as if it did not happen, which can affect liability",
+      "It is only useful for billing purposes",
+      "It replaces the need for informed consent"
+    ],
+    "answer": 1,
+    "explanation": "Clear documentation provides evidence of what occurred and what precautions were taken, protecting the therapist legally."
+  },
+  {
+    "q": "A therapist notices a client has new, unexplained numbness in their arm but fails to document it after the session. What is the primary risk?",
+    "options": [
+      "No risk at all, since the client will remember it themselves",
+      "Loss of important clinical information and reduced legal protection if a problem is later linked to the session",
+      "The client will be charged extra for the oversight",
+      "The session will need to be repeated"
+    ],
+    "answer": 1,
+    "explanation": "Undocumented findings can be lost to follow-up and weaken the therapist's legal position if a complication arises later."
+  },
+  {
+    "q": "Which of the following is an example of a code of ethics violation?",
+    "options": [
+      "Referring a client to a physician for a condition outside scope of practice",
+      "Billing a client accurately for services rendered",
+      "Making false claims about the ability of massage to cure a serious disease",
+      "Declining to work on a client with a contraindicated condition"
+    ],
+    "answer": 2,
+    "explanation": "Making false or exaggerated claims about massage's ability to cure disease is a common ethics violation and often illegal advertising."
+  },
+  {
+    "q": "Practicing massage therapy without a valid, current license is best described as:",
+    "options": [
+      "A minor administrative oversight with no consequences",
+      "A serious legal violation that can result in fines, legal action, or criminal charges",
+      "Acceptable as long as the therapist has informal training",
+      "Only a concern in certain states"
+    ],
+    "answer": 1,
+    "explanation": "Practicing without a valid license is illegal in licensed jurisdictions and carries serious legal consequences."
+  },
+  {
+    "q": "Continuing education requirements for license renewal exist primarily to:",
+    "options": [
+      "Generate revenue for course providers only",
+      "Help ensure practitioners maintain current, competent knowledge and skills over time",
+      "Punish therapists who have been practicing a long time",
+      "Replace the need for an initial license exam"
+    ],
+    "answer": 1,
+    "explanation": "Continuing education helps ensure therapists stay current with evolving best practices and safety standards."
+  },
+  {
+    "q": "If a client files a complaint against a massage therapist with the state licensing board, the board's role is typically to:",
+    "options": [
+      "Ignore the complaint unless it involves a felony",
+      "Investigate the complaint and determine if disciplinary action against the license is warranted",
+      "Automatically revoke the therapist's license without investigation",
+      "Refer the matter to the client's insurance company only"
+    ],
+    "answer": 1,
+    "explanation": "State boards investigate complaints and can take disciplinary action, ranging from warnings to license suspension or revocation."
+  },
+  {
+    "q": "Which best describes \"malpractice\" in the context of massage therapy?",
+    "options": [
+      "Any dissatisfaction a client has with their session",
+      "Professional negligence, such as performing outside one's training or scope, that causes harm",
+      "A minor scheduling error",
+      "A disagreement about payment"
+    ],
+    "answer": 1,
+    "explanation": "Malpractice involves professional negligence — practicing outside scope or training in a way that causes harm."
+  },
+  {
+    "q": "Which best describes \"negligence\" as distinct from intentional misconduct?",
+    "options": [
+      "Failing to exercise the standard of care a reasonably prudent therapist would use, without intent to cause harm",
+      "Deliberately harming a client on purpose",
+      "A criminal act committed with premeditation",
+      "The same thing as a boundary violation"
+    ],
+    "answer": 0,
+    "explanation": "Negligence is a failure to meet the expected standard of care, distinct from intentional wrongdoing."
+  },
+  {
+    "q": "Why is draping considered an important professional and ethical practice?",
+    "options": [
+      "It is purely a matter of comfort and has no ethical significance",
+      "It protects client dignity, maintains professional boundaries, and is often a legal requirement",
+      "It has no effect on client trust",
+      "It is optional based on therapist preference"
+    ],
+    "answer": 1,
+    "explanation": "Proper draping protects client privacy and dignity and is typically a legal and ethical requirement, not optional."
+  },
+  {
+    "q": "If a client's draping shifts and exposes an area that should remain covered, the therapist should:",
+    "options": [
+      "Ignore it and continue the treatment",
+      "Promptly and professionally re-drape the area",
+      "Ask the client to fix it themselves without pausing the session",
+      "Take a photo to document the incident"
+    ],
+    "answer": 1,
+    "explanation": "The therapist is responsible for maintaining proper draping throughout the session and should correct it promptly."
+  },
+  {
+    "q": "Which of the following is considered sexual misconduct in a massage therapy context?",
+    "options": [
+      "Explaining a technique before applying it",
+      "Draping the client appropriately throughout the session",
+      "Any sexualized touch, comment, or behavior directed at a client",
+      "Asking the client about their pressure preference"
+    ],
+    "answer": 2,
+    "explanation": "Any sexualized conduct toward a client — touch, comment, or behavior — constitutes sexual misconduct."
+  },
+  {
+    "q": "If a client makes a sexually inappropriate comment or request during a session, the therapist should:",
+    "options": [
+      "Comply with the request to avoid conflict",
+      "Firmly and professionally address the behavior and, if necessary, end the session",
+      "Ignore it and hope it doesn't happen again",
+      "Report the client to their employer without addressing it directly"
+    ],
+    "answer": 1,
+    "explanation": "Inappropriate client behavior should be addressed directly and professionally, with the session ended if necessary."
+  },
+  {
+    "q": "Professional communication with clients should generally:",
+    "options": [
+      "Include diagnostic language about the client's condition",
+      "Use clear, respectful, and scope-appropriate language, avoiding diagnosis or medical claims",
+      "Avoid any explanation of what the therapist is doing",
+      "Include personal opinions about the client's lifestyle"
+    ],
+    "answer": 1,
+    "explanation": "Professional communication is clear and respectful while staying within the bounds of scope of practice."
+  },
+  {
+    "q": "Which is the most appropriate way to check in with a client about pressure during a session?",
+    "options": [
+      "Assume the pressure is fine unless the client complains loudly",
+      "Periodically ask about comfort and pressure preference throughout the session",
+      "Only ask once, at the very beginning",
+      "Never ask, to avoid interrupting the flow of the massage"
+    ],
+    "answer": 1,
+    "explanation": "Ongoing check-ins support informed, current consent and client comfort throughout the session."
+  },
+  {
+    "q": "Which of the following best reflects the principle of client autonomy?",
+    "options": [
+      "The therapist decides what is best for the client without discussion",
+      "The client has the right to make informed decisions about their own body and care",
+      "The therapist can proceed with any technique as long as it seems beneficial",
+      "Autonomy only applies to major medical decisions, not massage"
+    ],
+    "answer": 1,
+    "explanation": "Autonomy centers the client's right to informed decision-making about their own body and treatment."
+  },
+  {
+    "q": "A client from a different cultural background requests modifications to typical draping practices for religious reasons. The most ethical response is to:",
+    "options": [
+      "Refuse any modification to standard protocol",
+      "Respectfully accommodate reasonable requests while maintaining professional and safety standards",
+      "Cancel the appointment",
+      "Ignore the request and proceed as usual"
+    ],
+    "answer": 1,
+    "explanation": "Respecting client autonomy and cultural needs, within safety and professional standards, reflects ethical, client-centered care."
+  },
+  {
+    "q": "Which of the following is an example of the ethical principle of justice in practice?",
+    "options": [
+      "Charging different clients different prices based on race",
+      "Providing consistent quality of care to all clients regardless of background",
+      "Prioritizing wealthy clients over others",
+      "Refusing service based on personal bias"
+    ],
+    "answer": 1,
+    "explanation": "Justice requires fair, unbiased treatment for all clients."
+  },
+  {
+    "q": "Which best describes the therapist's responsibility regarding professional boundaries?",
+    "options": [
+      "The client is primarily responsible for maintaining boundaries",
+      "The therapist is always responsible for maintaining boundaries, due to the inherent power differential",
+      "Boundaries are the responsibility of the clinic owner only",
+      "Boundaries are not a professional concern in massage therapy"
+    ],
+    "answer": 1,
+    "explanation": "Because of the power imbalance in the therapeutic relationship, the therapist bears primary responsibility for maintaining boundaries."
+  },
+  {
+    "q": "Why does a power differential exist in the therapeutic relationship?",
+    "options": [
+      "Because the client is always older than the therapist",
+      "Because the client is often vulnerable (undressed, relaxed, touched) while the therapist holds professional authority",
+      "Because the therapist is always more educated",
+      "Because massage is inherently a medical procedure"
+    ],
+    "answer": 1,
+    "explanation": "The client's vulnerable position, combined with the therapist's professional role, creates a power imbalance."
+  },
+  {
+    "q": "A therapist begins giving a long-standing client free sessions because they have become close personal friends. This scenario best illustrates:",
+    "options": [
+      "A clear, appropriate professional boundary",
+      "A dual relationship that blurs the professional and personal line",
+      "Standard business practice with no ethical concern",
+      "An example of beneficence"
+    ],
+    "answer": 1,
+    "explanation": "The overlapping friend and client roles, combined with special treatment, exemplify a risky dual relationship."
+  },
+  {
+    "q": "Which of the following situations most clearly represents a conflict of interest?",
+    "options": [
+      "A therapist recommending a client return for a follow-up session",
+      "A therapist steering a client toward a product they personally profit from, regardless of client benefit",
+      "A therapist referring a client to a physician for evaluation",
+      "A therapist documenting a session accurately"
+    ],
+    "answer": 1,
+    "explanation": "Prioritizing personal financial gain over client benefit is a classic conflict of interest."
+  },
+  {
+    "q": "Which best describes \"veracity\" as an ethical principle in massage practice?",
+    "options": [
+      "Being truthful with clients, including about the limits of what massage can do",
+      "Following through on scheduled appointments",
+      "Treating all clients equally",
+      "Avoiding harm to clients"
+    ],
+    "answer": 0,
+    "explanation": "Veracity means being honest, including honestly describing what massage can and cannot achieve."
+  },
+  {
+    "q": "A therapist tells a client that massage will \"cure\" their diagnosed autoimmune disease. This is a violation of which principle?",
+    "options": [
+      "Autonomy",
+      "Veracity",
+      "Fidelity",
+      "Justice"
+    ],
+    "answer": 1,
+    "explanation": "Making a false or exaggerated therapeutic claim violates veracity (truthfulness)."
+  },
+  {
+    "q": "Which best describes appropriate use of touch during a massage session?",
+    "options": [
+      "Touch limited to what is necessary for, and consistent with, the consented technique and scope of practice",
+      "Any touch the therapist feels is appropriate, without discussion",
+      "Touch should always avoid the torso entirely",
+      "Touch decisions are made solely by the client during the session with no input from the therapist"
+    ],
+    "answer": 0,
+    "explanation": "Touch should stay within the bounds of the technique the client consented to and the therapist's legal scope of practice."
+  },
+  {
+    "q": "If a client appears to be uncomfortable but has not verbally objected, the therapist should:",
+    "options": [
+      "Continue as planned, since silence implies consent",
+      "Check in verbally to confirm comfort and consent",
+      "Ignore nonverbal cues entirely",
+      "Increase pressure to test their limits"
+    ],
+    "answer": 1,
+    "explanation": "Nonverbal discomfort should prompt a direct check-in — silence doesn't guarantee ongoing consent."
+  },
+  {
+    "q": "Which best describes the relationship between local massage laws/regulations and a therapist's personal judgment?",
+    "options": [
+      "Personal judgment always overrides legal requirements",
+      "Laws and regulations set the minimum legal standard the therapist must follow, regardless of personal opinion",
+      "Laws only apply to therapists in large cities",
+      "Regulations are optional if the client agrees"
+    ],
+    "answer": 1,
+    "explanation": "Legal requirements set a mandatory baseline that personal opinion cannot override."
+  },
+  {
+    "q": "Which of the following best represents an appropriate professional response when a therapist feels unable to remain objective with a particular client?",
+    "options": [
+      "Continue treating the client without addressing the issue",
+      "Consider referring the client to another qualified therapist",
+      "End the therapeutic relationship abruptly without explanation",
+      "Ignore the feelings since they are private"
+    ],
+    "answer": 1,
+    "explanation": "When objectivity is compromised, such as due to countertransference, referring the client elsewhere protects both parties."
+  },
+  {
+    "q": "Which of the following is NOT one of the six core ethical principles commonly referenced in massage therapy?",
+    "options": [
+      "Autonomy",
+      "Beneficence",
+      "Confidentiality",
+      "Justice"
+    ],
+    "answer": 2,
+    "explanation": "Confidentiality is an important professional duty but is not one of the six core ethical principles (autonomy, beneficence, nonmaleficence, justice, veracity, fidelity)."
+  },
+  {
+    "q": "Which best describes the purpose of a professional code of ethics?",
+    "options": [
+      "A voluntary suggestion with no real consequences",
+      "A formal set of standards guiding professional conduct, with violations subject to disciplinary action",
+      "A marketing tool for massage schools",
+      "A document only relevant during initial licensing"
+    ],
+    "answer": 1,
+    "explanation": "A code of ethics establishes binding standards of professional conduct, and violations can lead to disciplinary consequences."
+  },
+  {
+    "q": "When two possible answer choices on an ethics question both seem reasonable, which is generally the better choice?",
+    "options": [
+      "The option most convenient for the therapist",
+      "The option that better protects the client and, secondarily, the profession",
+      "The option that takes the least time",
+      "The option the client explicitly requests, regardless of safety"
+    ],
+    "answer": 1,
+    "explanation": "When in doubt, prioritizing client safety and protection of the profession is the standard approach to ethics questions."
+  },
+  {
+    "q": "In an ambiguous ethical scenario, which question should be addressed FIRST, according to a structured decision-making approach?",
+    "options": [
+      "Is this within my scope of practice?",
+      "Is the client safe right now?",
+      "Does this benefit the client?",
+      "Are boundaries intact?"
+    ],
+    "answer": 1,
+    "explanation": "Client safety takes priority before considering scope, consent, or boundaries."
+  },
+  {
+    "q": "Which best describes the relationship between scope of practice and personal skill level?",
+    "options": [
+      "A highly skilled therapist may legally exceed their scope of practice",
+      "Scope of practice is a legal boundary that applies regardless of personal skill or confidence",
+      "Scope of practice only applies to less experienced therapists",
+      "There is no meaningful distinction between the two"
+    ],
+    "answer": 1,
+    "explanation": "Scope of practice is a legal limit, not a reflection of individual skill — even a highly trained therapist must stay within it."
+  },
+  {
+    "q": "Which of the following would be an appropriate way for a massage therapist to respond to a client asking for a diagnosis of a skin lesion?",
+    "options": [
+      "Provide a diagnosis if it seems obvious",
+      "Explain this is outside scope of practice and recommend the client see a physician or dermatologist",
+      "Ignore the request",
+      "Offer to treat the lesion directly with massage"
+    ],
+    "answer": 1,
+    "explanation": "Diagnosing skin conditions is outside a massage therapist's scope — referral to an appropriate medical provider is correct."
+  },
+  {
+    "q": "Which best describes the professional standard for a therapist discussing a client's case with a colleague for consultation purposes?",
+    "options": [
+      "It is never permitted under any circumstances",
+      "It may be appropriate if done professionally, without violating client confidentiality (e.g., de-identified details)",
+      "It requires no consideration of confidentiality",
+      "It should always include the client's full name and contact information"
+    ],
+    "answer": 1,
+    "explanation": "Professional consultation can occur, but confidentiality principles still apply — details should be handled carefully."
+  },
+  {
+    "q": "Which best describes an ethical concern with a therapist posting client details or photos on social media without consent?",
+    "options": [
+      "There is no ethical concern as long as the post is complimentary",
+      "It is a breach of confidentiality and requires explicit client consent beforehand",
+      "It is always acceptable if the client is a public figure",
+      "It only matters if the photo shows the client's face"
+    ],
+    "answer": 1,
+    "explanation": "Sharing identifiable client information or images without explicit consent violates confidentiality."
+  },
+  {
+    "q": "Which of the following best reflects appropriate handling of a former client's records after the therapeutic relationship ends?",
+    "options": [
+      "Records may be discarded immediately",
+      "Records should be securely retained and protected according to applicable legal requirements",
+      "Records should be given to the client's employer",
+      "Records have no further relevance once treatment ends"
+    ],
+    "answer": 1,
+    "explanation": "Client records must be securely retained per legal and regulatory requirements and kept confidential even after treatment ends."
+  },
+  {
+    "q": "A therapist who consistently performs techniques far beyond their training, believing they are helping the client, is most at risk of:",
+    "options": [
+      "Improving client outcomes with no downside",
+      "Malpractice, due to practicing outside their scope and competence",
+      "Strengthening the therapeutic relationship",
+      "Meeting continuing education requirements"
+    ],
+    "answer": 1,
+    "explanation": "Good intentions don't excuse practicing outside scope — doing so still creates malpractice risk if it causes harm."
+  },
+  {
+    "q": "Which best explains why exaggerated advertising claims about massage curing serious diseases are an ethical and legal problem?",
+    "options": [
+      "They are always technically true",
+      "They can mislead clients into delaying necessary medical care and violate truthful-advertising standards",
+      "They have no effect on client decision-making",
+      "They are only a marketing concern, not an ethical one"
+    ],
+    "answer": 1,
+    "explanation": "False claims can cause real harm by delaying appropriate medical care, and they violate both ethical veracity and often advertising law."
+  },
+  {
+    "q": "Which of the following best reflects appropriate professional conduct regarding a client's tip or gratuity?",
+    "options": [
+      "Tips are inherently unethical and should always be refused",
+      "Accepting a reasonable, voluntary tip is generally acceptable and distinct from accepting an expensive personal gift",
+      "Tips must always be reported to the state licensing board",
+      "Only cash tips are considered ethical"
+    ],
+    "answer": 1,
+    "explanation": "A standard gratuity is generally acceptable, unlike a large personal gift, which raises different boundary concerns."
+  },
+  {
+    "q": "Which best describes the therapist's ethical obligation when they are not competent to treat a particular client's condition?",
+    "options": [
+      "Attempt the treatment anyway to gain experience",
+      "Refer the client to a more qualified or appropriately licensed provider",
+      "Refuse to explain the referral to the client",
+      "Charge full price regardless of the outcome"
+    ],
+    "answer": 1,
+    "explanation": "Recognizing the limits of one's own competence and referring appropriately is an ethical obligation."
+  },
+  {
+    "q": "Which best describes the ethical importance of maintaining accurate business records (e.g., billing, appointment logs)?",
+    "options": [
+      "Business records have no ethical significance",
+      "Accurate records support honesty, accountability, and legal compliance in practice",
+      "Business records are only relevant to accountants",
+      "Business records may be falsified if it benefits the client"
+    ],
+    "answer": 1,
+    "explanation": "Accurate business records reflect professional honesty and accountability and are often a legal requirement."
+  },
+  {
+    "q": "Which of the following best illustrates appropriate professional communication when a client's expectations exceed what massage can realistically provide?",
+    "options": [
+      "Agreeing with unrealistic expectations to avoid disappointing the client",
+      "Honestly and respectfully clarifying what massage can and cannot achieve",
+      "Ending the therapeutic relationship immediately",
+      "Avoiding the topic altogether"
+    ],
+    "answer": 1,
+    "explanation": "Honest, respectful communication about realistic outcomes reflects veracity and professionalism."
+  },
+  {
+    "q": "A therapist is asked by a client's family member for details about the client's treatment. The appropriate response is to:",
+    "options": [
+      "Share the requested information freely",
+      "Decline to share details without the client's explicit consent, citing confidentiality",
+      "Share only positive details",
+      "Ask the family member to pay for the information"
+    ],
+    "answer": 1,
+    "explanation": "Client information is confidential and should not be shared with third parties, including family, without the client's consent."
+  },
+  {
+    "q": "Which of the following best distinguishes an ethical dilemma from a simple rule violation?",
+    "options": [
+      "An ethical dilemma always has an obvious, single correct answer",
+      "An ethical dilemma involves competing values or principles where the right course of action is not immediately obvious",
+      "A rule violation is always more serious than an ethical dilemma",
+      "There is no meaningful distinction between the two"
+    ],
+    "answer": 1,
+    "explanation": "Ethical dilemmas involve weighing competing principles, such as client autonomy versus safety, unlike a straightforward rule violation."
+  },
+  {
+    "q": "Which best reflects the relationship between state regulations and national certifications (e.g., passing the MBLEx) for practicing massage therapy?",
+    "options": [
+      "A national certification alone is sufficient in every state",
+      "Practicing legally generally requires meeting the specific licensing requirements of the state where the therapist practices, in addition to any exam",
+      "National certification replaces the need for any state requirements",
+      "States have no authority over massage therapy licensing"
+    ],
+    "answer": 1,
+    "explanation": "Individual states set their own licensing requirements; passing the MBLEx is typically one part of a broader state licensure process."
+  },
+  {
+    "q": "Which of the following best reflects appropriate conduct if a therapist witnesses a colleague engaging in a serious boundary violation?",
+    "options": [
+      "Ignore it, since it's not the observing therapist's business",
+      "Address it appropriately, which may include reporting to the appropriate supervisor or licensing board",
+      "Confront the colleague publicly in front of clients",
+      "Only discuss it with unrelated friends"
+    ],
+    "answer": 1,
+    "explanation": "Professional ethics generally call for appropriately reporting serious violations through proper channels to protect clients and the profession."
+  },
+  {
+    "q": "Which best describes why maintaining professional boundaries also protects the therapist, not just the client?",
+    "options": [
+      "It doesn't protect the therapist at all",
+      "Clear boundaries reduce the risk of misunderstandings, complaints, and legal or licensing consequences for the therapist",
+      "It only matters for client comfort",
+      "Boundaries are solely a marketing strategy"
+    ],
+    "answer": 1,
+    "explanation": "Well-maintained boundaries reduce ambiguity that could lead to complaints, legal claims, or licensing action against the therapist."
+  },
+  {
+    "q": "Overall, which best summarizes the purpose of ethics, boundaries, and consent standards in massage therapy practice?",
+    "options": [
+      "To create unnecessary bureaucracy",
+      "To protect clients from harm and exploitation while supporting a trustworthy, professional therapeutic relationship",
+      "To limit the number of clients a therapist can see",
+      "To give the state government more control over small businesses"
+    ],
+    "answer": 1,
+    "explanation": "These standards exist fundamentally to protect clients and preserve trust in the therapeutic relationship and the profession."
   }
 ]

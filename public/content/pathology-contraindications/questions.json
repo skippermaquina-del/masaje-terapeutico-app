@@ -1,122 +1,1102 @@
 [
   {
     "q": "A client mentions their doctor recently diagnosed a blood clot in their calf. What should the therapist do?",
-    "options": ["Massage lightly around the clot", "Avoid massaging that limb entirely and refer to a physician", "Use deep pressure to help break it up", "Proceed normally since it's just one leg"],
+    "options": [
+      "Massage lightly around the clot",
+      "Avoid massaging that limb entirely and refer to a physician",
+      "Use deep pressure to help break it up",
+      "Proceed normally since it's just one leg"
+    ],
     "answer": 1,
     "explanation": "DVT is an absolute contraindication for massage on that limb due to embolism risk."
   },
   {
     "q": "Which best distinguishes a 'sign' from a 'symptom'?",
-    "options": ["Signs are subjective, symptoms are objective", "Signs are objective/observable, symptoms are subjective/reported", "There is no difference", "Signs only apply to skin conditions"],
+    "options": [
+      "Signs are subjective, symptoms are objective",
+      "Signs are objective/observable, symptoms are subjective/reported",
+      "There is no difference",
+      "Signs only apply to skin conditions"
+    ],
     "answer": 1,
     "explanation": "A sign can be observed or measured by the therapist; a symptom is something only the client can report."
   },
   {
     "q": "A client has a small bruise on their forearm but is otherwise healthy. This is an example of:",
-    "options": ["A systemic contraindication", "A local contraindication", "No contraindication at all", "An absolute contraindication"],
+    "options": [
+      "A systemic contraindication",
+      "A local contraindication",
+      "No contraindication at all",
+      "An absolute contraindication"
+    ],
     "answer": 1,
     "explanation": "A localized issue like a bruise means avoiding that specific area while proceeding with the rest of the session."
   },
   {
     "q": "Which client should NOT receive massage until medically cleared?",
-    "options": ["A client with well-controlled hypertension", "A client with a current fever", "A client with mild osteoarthritis", "A client with controlled diabetes"],
+    "options": [
+      "A client with well-controlled hypertension",
+      "A client with a current fever",
+      "A client with mild osteoarthritis",
+      "A client with controlled diabetes"
+    ],
     "answer": 1,
     "explanation": "Fever is a systemic sign of illness and an absolute contraindication until resolved."
   },
   {
     "q": "Why is active cellulitis considered a contraindication?",
-    "options": ["It causes cosmetic concerns only", "It's a contagious bacterial skin infection that massage could spread", "It only affects bone tissue", "It has no relation to circulation"],
+    "options": [
+      "It causes cosmetic concerns only",
+      "It's a contagious bacterial skin infection that massage could spread",
+      "It only affects bone tissue",
+      "It has no relation to circulation"
+    ],
     "answer": 1,
     "explanation": "Cellulitis is an active bacterial infection; massage risks spreading it further in the body or to the therapist."
   },
   {
     "q": "A client with osteoporosis wants a massage. What's the appropriate approach?",
-    "options": ["Refuse the session entirely", "Use only gentle pressure, avoiding strong compression", "Use maximum pressure since bones need stimulation", "Treat it exactly like a healthy client"],
+    "options": [
+      "Refuse the session entirely",
+      "Use only gentle pressure, avoiding strong compression",
+      "Use maximum pressure since bones need stimulation",
+      "Treat it exactly like a healthy client"
+    ],
     "answer": 1,
     "explanation": "Osteoporosis requires pressure modification (gentle, light), not full avoidance."
   },
   {
     "q": "Which condition is generally indicated for massage, often benefiting from gentle work?",
-    "options": ["Active tuberculosis", "Sepsis", "Fibromyalgia", "Deep vein thrombosis"],
+    "options": [
+      "Active tuberculosis",
+      "Sepsis",
+      "Fibromyalgia",
+      "Deep vein thrombosis"
+    ],
     "answer": 2,
     "explanation": "Fibromyalgia is a chronic pain condition generally indicated for gentle massage, unlike the other options which are absolute contraindications."
   },
   {
     "q": "A client reports being recently diagnosed with active hepatitis. The appropriate action is to:",
-    "options": ["Proceed with massage using gloves", "Decline the session and refer for medical clearance", "Only avoid the abdomen area", "Proceed as normal since hepatitis doesn't affect muscles"],
+    "options": [
+      "Proceed with massage using gloves",
+      "Decline the session and refer for medical clearance",
+      "Only avoid the abdomen area",
+      "Proceed as normal since hepatitis doesn't affect muscles"
+    ],
     "answer": 1,
     "explanation": "Active hepatitis is a systemic contraindication requiring medical clearance before any massage."
   },
   {
     "q": "What is the primary reasoning behind avoiding massage during an active systemic infection?",
-    "options": ["It may be uncomfortable for the client", "Massage could help spread the pathogen through the body", "It has no real risk, it's just a precaution", "It only matters for skin infections"],
+    "options": [
+      "It may be uncomfortable for the client",
+      "Massage could help spread the pathogen through the body",
+      "It has no real risk, it's just a precaution",
+      "It only matters for skin infections"
+    ],
     "answer": 1,
     "explanation": "Systemic infections carry a risk of the pathogen spreading further via increased circulation from massage."
   },
   {
     "q": "A client with multiple sclerosis wants regular massage sessions. What's the best approach?",
-    "options": ["Refuse due to neurological risk", "Proceed with caution, considering fatigue and altered sensation", "Treat exactly like any client with no adjustments", "Only work superficially on the scalp"],
+    "options": [
+      "Refuse due to neurological risk",
+      "Proceed with caution, considering fatigue and altered sensation",
+      "Treat exactly like any client with no adjustments",
+      "Only work superficially on the scalp"
+    ],
     "answer": 1,
     "explanation": "MS is generally indicated for massage but requires caution due to possible fatigue and sensory changes."
   },
   {
     "q": "Which of the following is an example of a systemic (not local) contraindication?",
-    "options": ["Recent tattoo on the arm", "Sepsis", "A healing scar", "Mild sunburn on one shoulder"],
+    "options": [
+      "Recent tattoo on the arm",
+      "Sepsis",
+      "A healing scar",
+      "Mild sunburn on one shoulder"
+    ],
     "answer": 1,
     "explanation": "Sepsis is a body-wide infection affecting the whole session, unlike the other localized examples."
   },
   {
     "q": "A client has controlled type 2 diabetes. What consideration is most relevant during massage?",
-    "options": ["Complete avoidance of massage", "Monitoring skin condition and sensation", "Using ice on all extremities", "Avoiding any pressure below the knee"],
+    "options": [
+      "Complete avoidance of massage",
+      "Monitoring skin condition and sensation",
+      "Using ice on all extremities",
+      "Avoiding any pressure below the knee"
+    ],
     "answer": 1,
     "explanation": "Diabetes can affect skin integrity and sensation, so monitoring these is important, though massage is generally indicated when controlled."
   },
   {
     "q": "Lymphedema in a limb generally requires:",
-    "options": ["Standard Swedish massage with firm pressure", "Specialized lymphatic technique, not general massage", "Complete avoidance of any therapist contact", "Deep tissue stripping to reduce swelling"],
+    "options": [
+      "Standard Swedish massage with firm pressure",
+      "Specialized lymphatic technique, not general massage",
+      "Complete avoidance of any therapist contact",
+      "Deep tissue stripping to reduce swelling"
+    ],
     "answer": 1,
     "explanation": "Lymphedema requires specialized manual lymphatic drainage technique rather than general massage."
   },
   {
     "q": "Which best describes 'etiology'?",
-    "options": ["The study of disease in general", "The cause or origin of a disease", "A sudden onset condition", "A chronic, long-lasting condition"],
+    "options": [
+      "The study of disease in general",
+      "The cause or origin of a disease",
+      "A sudden onset condition",
+      "A chronic, long-lasting condition"
+    ],
     "answer": 1,
     "explanation": "Etiology refers specifically to the cause or origin of a disease."
   },
   {
     "q": "A client recently had a heart attack two weeks ago and wants a full-body massage. What's appropriate?",
-    "options": ["Proceed normally, it's been two weeks", "Decline until receiving physician clearance", "Only avoid the chest area", "Use only light effleurage on the legs"],
+    "options": [
+      "Proceed normally, it's been two weeks",
+      "Decline until receiving physician clearance",
+      "Only avoid the chest area",
+      "Use only light effleurage on the legs"
+    ],
     "answer": 1,
     "explanation": "Recent myocardial infarction is an absolute contraindication requiring physician clearance before massage."
   },
   {
     "q": "Edema is best defined as:",
-    "options": ["A bacterial skin infection", "Excess fluid accumulation in tissue", "A type of autoimmune disease", "A sudden, short-duration condition"],
+    "options": [
+      "A bacterial skin infection",
+      "Excess fluid accumulation in tissue",
+      "A type of autoimmune disease",
+      "A sudden, short-duration condition"
+    ],
     "answer": 1,
     "explanation": "Edema refers to abnormal fluid buildup in body tissue."
   },
   {
     "q": "A client with active, untreated tuberculosis requests a massage session. The correct response is:",
-    "options": ["Proceed with a mask for the therapist", "Decline the session entirely due to contagion risk", "Only work on unaffected limbs", "Proceed if the client feels well enough"],
+    "options": [
+      "Proceed with a mask for the therapist",
+      "Decline the session entirely due to contagion risk",
+      "Only work on unaffected limbs",
+      "Proceed if the client feels well enough"
+    ],
     "answer": 1,
     "explanation": "Active TB is a highly contagious systemic condition and an absolute contraindication."
   },
   {
     "q": "Rheumatoid arthritis differs from osteoarthritis mainly in that RA is:",
-    "options": ["A degenerative wear-and-tear condition", "An autoimmune inflammatory joint disease", "Caused by bacterial infection", "Never associated with joint pain"],
+    "options": [
+      "A degenerative wear-and-tear condition",
+      "An autoimmune inflammatory joint disease",
+      "Caused by bacterial infection",
+      "Never associated with joint pain"
+    ],
     "answer": 1,
     "explanation": "RA is an autoimmune condition causing inflammation, while OA is primarily a degenerative joint disease."
   },
   {
     "q": "Which is the best reason chronic conditions like fibromyalgia and osteoarthritis are usually still indicated for massage?",
-    "options": ["They involve no inflammation at all", "They are not infectious and not clot-related, so gentle work is generally safe and can help symptoms", "They always resolve completely with massage", "They require no adaptation of technique"],
+    "options": [
+      "They involve no inflammation at all",
+      "They are not infectious and not clot-related, so gentle work is generally safe and can help symptoms",
+      "They always resolve completely with massage",
+      "They require no adaptation of technique"
+    ],
     "answer": 1,
     "explanation": "Since these conditions don't involve infection or clot risk, massage (often adapted in pressure) is typically indicated and can be beneficial."
   },
   {
     "q": "A client has psoriasis with several active, open lesions. The best approach is:",
-    "options": ["Avoid the open lesions but proceed with the rest of the session as normal", "Cancel the session entirely", "Massage directly over the lesions to promote healing", "Ignore the lesions since psoriasis isn't contagious"],
+    "options": [
+      "Avoid the open lesions but proceed with the rest of the session as normal",
+      "Cancel the session entirely",
+      "Massage directly over the lesions to promote healing",
+      "Ignore the lesions since psoriasis isn't contagious"
+    ],
     "answer": 0,
     "explanation": "Psoriasis is generally indicated except over active/open lesions, which should be avoided locally."
+  },
+  {
+    "q": "A client mentions their doctor recently diagnosed pitting edema in their legs. Which specialist would most appropriately be involved in evaluating this?",
+    "options": [
+      "Dermatologist",
+      "Nephrologist",
+      "Cardiologist",
+      "Gastroenterologist"
+    ],
+    "answer": 1,
+    "explanation": "Pitting edema frequently relates to kidney function — a nephrology referral is a common consideration."
+  },
+  {
+    "q": "Which condition describes long-term inflammation of the bronchial tubes, often caused by smoking?",
+    "options": [
+      "Asthma",
+      "Chronic bronchitis",
+      "Pneumonia",
+      "Emphysema"
+    ],
+    "answer": 1,
+    "explanation": "Chronic bronchitis is long-term bronchial tube inflammation, typically linked to smoking."
+  },
+  {
+    "q": "Osteoarthritis is best described as:",
+    "options": [
+      "Inflammation of a joint caused by increased uric acid",
+      "An autoimmune destruction of the synovial membrane",
+      "Progressive degeneration of articular cartilage, increasing bone-on-bone friction",
+      "Inflammation of the periosteum surrounding the diaphysis"
+    ],
+    "answer": 2,
+    "explanation": "Osteoarthritis is degenerative wear of articular cartilage, increasing friction between bone ends."
+  },
+  {
+    "q": "A client presents with active acne. Which specialist is most appropriate for referral?",
+    "options": [
+      "Nephrologist",
+      "Dermatologist",
+      "Cardiologist",
+      "Gastroenterologist"
+    ],
+    "answer": 1,
+    "explanation": "Acne is a skin condition, appropriately referred to a dermatologist."
+  },
+  {
+    "q": "Which of the following is a highly contagious bacterial skin infection common in children, often producing yellow, crusted sores?",
+    "options": [
+      "Impetigo",
+      "Herpes simplex",
+      "Psoriasis",
+      "A boil (furuncle)"
+    ],
+    "answer": 0,
+    "explanation": "Impetigo is a highly contagious bacterial skin infection common in children."
+  },
+  {
+    "q": "Which of the following conditions is contagious and would require postponing a massage session?",
+    "options": [
+      "Influenza",
+      "Osteoarthritis",
+      "Raynaud's phenomenon",
+      "A sebaceous cyst"
+    ],
+    "answer": 0,
+    "explanation": "Influenza is a contagious viral infection; the others are non-contagious conditions."
+  },
+  {
+    "q": "A migraine headache is best classified as a:",
+    "options": [
+      "Tension headache caused by muscular contraction",
+      "Vascular headache involving dilation of cranial blood vessels",
+      "Headache caused by low blood sugar",
+      "Headache caused by inadequate oxygen delivery"
+    ],
+    "answer": 1,
+    "explanation": "Migraines involve vasodilation of cranial blood vessels, producing intense throbbing pain."
+  },
+  {
+    "q": "A client with active impetigo arrives for a scheduled massage. What is the appropriate response?",
+    "options": [
+      "Perform the massage, applying heat to the affected patches",
+      "Perform the massage, avoiding only the affected area",
+      "Perform the massage as normal, since impetigo is not contagious",
+      "Reschedule the appointment until the impetigo has fully cleared"
+    ],
+    "answer": 3,
+    "explanation": "Impetigo is highly contagious — the session should be postponed until it has cleared."
+  },
+  {
+    "q": "Which of the following is NOT a contagious condition?",
+    "options": [
+      "Mononucleosis",
+      "Cellulitis",
+      "Psoriasis",
+      "Osteomyelitis"
+    ],
+    "answer": 2,
+    "explanation": "Psoriasis is an autoimmune condition, not contagious; the others involve infection."
+  },
+  {
+    "q": "Ringworm is best described as a:",
+    "options": [
+      "Parasitic infection causing severe weight loss",
+      "Bacterial infection producing yellow scabs",
+      "Viral infection causing circular ulcers",
+      "Fungal infection producing a circular rash"
+    ],
+    "answer": 3,
+    "explanation": "Ringworm (tinea) is a fungal infection, despite its name, producing a circular rash."
+  },
+  {
+    "q": "Inflammation of a vein, which may result from immobilization or trauma, is called:",
+    "options": [
+      "Hepatitis",
+      "Arteriosclerosis",
+      "Phlebitis",
+      "Nephritis"
+    ],
+    "answer": 2,
+    "explanation": "Phlebitis is inflammation of a vein, often from prolonged immobilization or trauma."
+  },
+  {
+    "q": "A client reports being diagnosed with active shingles (herpes zoster). What is the appropriate response?",
+    "options": [
+      "Massage normally, since shingles is not contagious once the rash appears",
+      "Avoid the affected area only, since the rest of the body is unaffected",
+      "Reschedule the massage until the shingles has fully resolved and is no longer contagious",
+      "Apply direct pressure to the blisters to relieve pain"
+    ],
+    "answer": 2,
+    "explanation": "Shingles is contagious to anyone who hasn't had chickenpox until lesions fully crust over — the session should be postponed."
+  },
+  {
+    "q": "Which skin condition is caused by a parasitic mite and is highly contagious through skin-to-skin contact?",
+    "options": [
+      "Psoriasis",
+      "Scabies",
+      "Eczema",
+      "Rosacea"
+    ],
+    "answer": 1,
+    "explanation": "Scabies is caused by the Sarcoptes scabiei mite and spreads easily through close contact — massage is contraindicated until treated."
+  },
+  {
+    "q": "A boil (furuncle) is best described as:",
+    "options": [
+      "A viral skin eruption",
+      "A localized bacterial infection of a hair follicle",
+      "A fungal infection of the nail bed",
+      "An autoimmune skin reaction"
+    ],
+    "answer": 1,
+    "explanation": "A furuncle is a bacterial (typically staph) infection centered on a hair follicle — the area should be avoided."
+  },
+  {
+    "q": "Which of the following is a chronic autoimmune skin condition, NOT contagious, that produces thick, scaly, silvery patches?",
+    "options": [
+      "Psoriasis",
+      "Impetigo",
+      "Scabies",
+      "Cellulitis"
+    ],
+    "answer": 0,
+    "explanation": "Psoriasis is autoimmune, not infectious — active lesions are still avoided locally due to fragile, inflamed skin."
+  },
+  {
+    "q": "Eczema (atopic dermatitis) is best classified as:",
+    "options": [
+      "A contagious fungal infection",
+      "A non-contagious inflammatory skin condition",
+      "A bacterial infection of the dermis",
+      "A parasitic skin infestation"
+    ],
+    "answer": 1,
+    "explanation": "Eczema is non-contagious and inflammatory; active, weeping lesions are still avoided locally to prevent irritation."
+  },
+  {
+    "q": "Which best describes the general massage approach to both bacterial and viral active skin infections?",
+    "options": [
+      "There is no meaningful difference — treat all skin findings identically",
+      "Only bacterial infections require caution",
+      "Both remain locally or systemically contraindicated until resolved, despite requiring different medical treatments",
+      "Viral infections are never contagious"
+    ],
+    "answer": 2,
+    "explanation": "While medical treatment differs, both bacterial and viral active skin infections are contraindicated for massage until resolved."
+  },
+  {
+    "q": "Athlete's foot (tinea pedis) is:",
+    "options": [
+      "A bacterial infection",
+      "A fungal infection",
+      "A viral infection",
+      "An autoimmune condition"
+    ],
+    "answer": 1,
+    "explanation": "Like ringworm, athlete's foot is a fungal (tinea) infection — the affected area should be avoided."
+  },
+  {
+    "q": "Which of the following would be classified as an absolute (systemic) contraindication for massage?",
+    "options": [
+      "A healing bruise on the forearm",
+      "A client with a mild cold and no fever",
+      "Active, untreated tuberculosis",
+      "Controlled hypertension"
+    ],
+    "answer": 2,
+    "explanation": "Active untreated TB is a systemic infectious contraindication requiring medical clearance before any massage."
+  },
+  {
+    "q": "Which of the following is a local contraindication rather than a systemic one?",
+    "options": [
+      "Fever",
+      "Sepsis",
+      "A varicose vein",
+      "Active tuberculosis"
+    ],
+    "answer": 2,
+    "explanation": "A varicose vein is a local concern — the specific area is avoided or modified, but the rest of the session can proceed."
+  },
+  {
+    "q": "A client had a myocardial infarction (heart attack) two weeks ago and requests a full-body massage. The appropriate response is:",
+    "options": [
+      "Proceed with a full, deep-pressure massage immediately",
+      "Refuse to see the client permanently",
+      "Postpone until the client's physician provides clearance",
+      "Only massage the legs to avoid any cardiac risk"
+    ],
+    "answer": 2,
+    "explanation": "A recent MI is an absolute contraindication until the client's physician clears them for massage."
+  },
+  {
+    "q": "Which of the following best explains why deep vein thrombosis (DVT) is an absolute contraindication?",
+    "options": [
+      "It causes permanent nerve damage",
+      "Massage pressure could dislodge the clot, risking a life-threatening pulmonary embolism",
+      "It is a highly contagious condition",
+      "It always requires immediate surgery"
+    ],
+    "answer": 1,
+    "explanation": "Mechanical pressure over or near a DVT risks dislodging the clot, which can travel to the lungs and cause a pulmonary embolism."
+  },
+  {
+    "q": "A client mentions unexplained, sudden swelling and pain in one calf, with no history of injury. What should the therapist do?",
+    "options": [
+      "Proceed with a gentle massage on the affected leg",
+      "Refer the client to a physician immediately before providing any massage to that leg",
+      "Apply ice and continue the session as planned",
+      "Use deep tissue work to reduce the swelling"
+    ],
+    "answer": 1,
+    "explanation": "Unexplained unilateral calf swelling and pain are classic red-flag signs of a possible DVT and require medical evaluation before massage."
+  },
+  {
+    "q": "Sepsis is best described as:",
+    "options": [
+      "A localized skin infection",
+      "A life-threatening systemic response to infection",
+      "A chronic autoimmune condition",
+      "A type of blood clot"
+    ],
+    "answer": 1,
+    "explanation": "Sepsis is the body's extreme, whole-body inflammatory response to infection — an absolute contraindication requiring emergency medical care."
+  },
+  {
+    "q": "Which of the following pregnancy-related considerations is most important for a massage therapist to observe?",
+    "options": [
+      "Always place the client prone for the entire session",
+      "Avoid deep abdominal pressure and use side-lying positioning, especially in later trimesters",
+      "Use the deepest pressure possible to relieve pregnancy discomfort",
+      "No modifications are needed during pregnancy"
+    ],
+    "answer": 1,
+    "explanation": "Deep abdominal work is avoided, and side-lying positioning is generally safest, particularly as pregnancy progresses."
+  },
+  {
+    "q": "Why is caution advised when massaging a client taking blood-thinning (anticoagulant) medication?",
+    "options": [
+      "The medication has no effect on massage safety",
+      "The client is at increased risk of bruising and bleeding, so lighter pressure is advised",
+      "The medication makes the client immune to bruising",
+      "Anticoagulants require the therapist to avoid all limbs"
+    ],
+    "answer": 1,
+    "explanation": "Anticoagulants impair normal clotting, increasing bruising and bleeding risk — pressure should be reduced accordingly."
+  },
+  {
+    "q": "A client taking a strong NSAID (nonsteroidal anti-inflammatory) pain reliever before their appointment presents a concern because:",
+    "options": [
+      "NSAIDs increase muscle tone, making massage more effective",
+      "The medication may mask pain, reducing the client's ability to give accurate feedback on pressure",
+      "NSAIDs are contraindicated for all massage clients",
+      "NSAIDs cause skin discoloration"
+    ],
+    "answer": 1,
+    "explanation": "Pain-masking medications can prevent the client from reliably signaling if pressure is too deep, increasing risk of injury."
+  },
+  {
+    "q": "Why might a client on corticosteroid medication long-term need extra caution during massage?",
+    "options": [
+      "Corticosteroids have no effect on connective tissue",
+      "Long-term use can thin skin and weaken connective tissue, increasing injury risk from pressure",
+      "Corticosteroids make muscles more resistant to injury",
+      "Corticosteroids eliminate the need for client feedback"
+    ],
+    "answer": 1,
+    "explanation": "Long-term corticosteroid use can thin the skin and weaken underlying tissue, so lighter pressure and caution are warranted."
+  },
+  {
+    "q": "A client who has taken a sedative or antihistamine before their appointment may present which concern?",
+    "options": [
+      "Increased pain tolerance and improved feedback accuracy",
+      "Reduced alertness and altered ability to communicate discomfort accurately",
+      "No change in massage safety",
+      "Increased risk of contagious infection"
+    ],
+    "answer": 1,
+    "explanation": "Sedating medications can dull sensation and alertness, making it harder for the client to give reliable feedback during the session."
+  },
+  {
+    "q": "Which of these is considered an \"endangerment site\" that requires extra caution due to superficial nerves, vessels, or organs?",
+    "options": [
+      "The mid-back (thoracic paraspinals)",
+      "The anterior triangle of the neck",
+      "The palm of the hand",
+      "The top of the foot"
+    ],
+    "answer": 1,
+    "explanation": "The anterior triangle of the neck houses the carotid artery, jugular vein, and vagus nerve close to the surface — deep pressure here is avoided."
+  },
+  {
+    "q": "Which of the following is also considered an endangerment site?",
+    "options": [
+      "The popliteal fossa (back of the knee)",
+      "The forearm's extensor surface",
+      "The lateral thigh",
+      "The upper trapezius"
+    ],
+    "answer": 0,
+    "explanation": "The popliteal fossa contains the popliteal artery, vein, and nerves close to the surface — deep pressure is avoided here."
+  },
+  {
+    "q": "The axilla (armpit) is considered an endangerment site primarily because it contains:",
+    "options": [
+      "Only skin and fat, with no real risk",
+      "Major blood vessels, nerves, and lymph nodes",
+      "The largest muscle group in the body",
+      "No sensitive structures at all"
+    ],
+    "answer": 1,
+    "explanation": "The axilla contains the brachial plexus, axillary artery/vein, and lymph nodes — all requiring caution."
+  },
+  {
+    "q": "Which of the following is true of the abdominal area near the umbilicus in relation to endangerment sites?",
+    "options": [
+      "It requires no special caution",
+      "Deep pressure should be used cautiously due to the proximity of the abdominal aorta and major organs",
+      "It is the safest area on the body for deep pressure",
+      "Only the skin is present, with no risk of injury"
+    ],
+    "answer": 1,
+    "explanation": "The abdominal aorta and major organs lie beneath the surface — deep, sustained pressure in this region is used cautiously."
+  },
+  {
+    "q": "Why is the kidney region (posterior flank, below the ribs) considered an area of caution?",
+    "options": [
+      "Because it has no clinical significance",
+      "Because deep, forceful pressure could stress the kidneys, especially in clients with kidney disease",
+      "Because it is the most muscular part of the back",
+      "Because the skin is unusually sensitive to touch there"
+    ],
+    "answer": 1,
+    "explanation": "Vigorous percussion or deep pressure directly over the kidneys can be uncomfortable or risky, especially with underlying kidney conditions."
+  },
+  {
+    "q": "What is a bruise (contusion) most accurately classified as?",
+    "options": [
+      "A sign that always indicates abuse",
+      "A local contraindication caused by bleeding under the skin from trauma",
+      "A systemic contraindication requiring physician clearance",
+      "A type of contagious skin condition"
+    ],
+    "answer": 1,
+    "explanation": "A bruise is a local area of trauma requiring caution or avoidance at the site, but it doesn't necessarily contraindicate the whole session."
+  },
+  {
+    "q": "Which is the best definition of a \"red flag\" in a massage therapy intake?",
+    "options": [
+      "A minor, unremarkable finding",
+      "A finding that suggests a condition may require medical referral before proceeding",
+      "A term for describing skin color",
+      "A term with no clinical relevance"
+    ],
+    "answer": 1,
+    "explanation": "A red flag is a symptom or sign serious enough to warrant referring the client to a physician before treatment."
+  },
+  {
+    "q": "Unexplained, rapid weight loss reported by a client during intake should be treated as:",
+    "options": [
+      "An irrelevant detail",
+      "A possible red flag warranting further medical evaluation",
+      "A sign of excellent health",
+      "A reason to increase massage pressure"
+    ],
+    "answer": 1,
+    "explanation": "Unexplained weight loss can be a sign of underlying illness and should prompt caution and possible referral."
+  },
+  {
+    "q": "Which best describes how a massage therapist should generally approach massaging a client currently undergoing cancer treatment?",
+    "options": [
+      "Refuse to work with any cancer client under any circumstances",
+      "Use standard deep-tissue technique with no modifications",
+      "Consult with the client's oncologist and modify technique/pressure as needed, especially near affected or treated areas",
+      "Only work superficially on the face and hands"
+    ],
+    "answer": 2,
+    "explanation": "Oncology massage requires modified techniques and medical team coordination, not blanket refusal or unmodified standard technique."
+  },
+  {
+    "q": "Why is caution generally advised when performing lymphatic-style techniques on a client with a history of cancer?",
+    "options": [
+      "Lymphatic techniques are always completely safe regardless of history",
+      "There is a theoretical concern about stimulating lymphatic flow near cancer cells; oncologist guidance is recommended",
+      "Cancer cells cannot travel through the lymphatic system",
+      "It has no bearing on treatment planning"
+    ],
+    "answer": 1,
+    "explanation": "Because cancer can spread via the lymphatic system, many practitioners seek oncologist guidance before lymphatic-focused work in affected clients."
+  },
+  {
+    "q": "Which of the following is generally true regarding massage and a healing, closed surgical incision?",
+    "options": [
+      "Deep pressure should be applied directly on the incision immediately after surgery",
+      "The area should be avoided until fully healed and cleared by the surgeon",
+      "Surgical incisions have no bearing on massage decisions",
+      "Massage should begin the day of surgery"
+    ],
+    "answer": 1,
+    "explanation": "Surgical sites need to fully heal, with physician clearance, before massage is performed directly over them."
+  },
+  {
+    "q": "Which special population requires the therapist to use notably lighter pressure and shorter sessions due to fragile skin and reduced tissue resilience?",
+    "options": [
+      "Healthy young adults",
+      "Elderly clients",
+      "Athletes in training",
+      "Pregnant clients in the first trimester"
+    ],
+    "answer": 1,
+    "explanation": "Aging skin and tissue are more fragile, bruise more easily, and typically require gentler pressure and shorter sessions."
+  },
+  {
+    "q": "When working with infants or very young children, the massage therapist should primarily:",
+    "options": [
+      "Use identical adult techniques and pressure",
+      "Use significantly lighter pressure, shorter duration, and always involve a caregiver's consent and presence",
+      "Avoid touching infants under any circumstances",
+      "Apply the same draping rules as with adult clients"
+    ],
+    "answer": 1,
+    "explanation": "Infant massage requires much lighter pressure, shorter sessions, and caregiver involvement and consent throughout."
+  },
+  {
+    "q": "A client with a known seizure disorder (epilepsy) presents for massage. Which is the most appropriate approach?",
+    "options": [
+      "Refuse service entirely",
+      "Proceed with standard care, being aware of the condition and prepared to respond safely if a seizure occurs during the session",
+      "Avoid all touch to the head and neck permanently",
+      "Require a physician's note before every single visit regardless of stability"
+    ],
+    "answer": 1,
+    "explanation": "With a well-managed seizure disorder, massage can typically proceed with general awareness and a safety plan, not blanket refusal."
+  },
+  {
+    "q": "Peripheral neuropathy (reduced sensation, often in the feet) is an important consideration during massage because:",
+    "options": [
+      "It has no effect on massage safety",
+      "The client may not reliably feel excessive pressure, increasing the risk of tissue damage",
+      "It always contraindicates any massage",
+      "It only affects the face"
+    ],
+    "answer": 1,
+    "explanation": "Reduced sensation means the client can't reliably signal if pressure is too much, so the therapist relies more on visual/tissue cues and uses lighter pressure."
+  },
+  {
+    "q": "Diabetic clients with poor circulation and neuropathy in the feet should generally receive:",
+    "options": [
+      "The deepest possible pressure to stimulate circulation",
+      "Lighter, more cautious pressure, with attention to skin integrity",
+      "No massage of the lower extremities under any circumstances",
+      "Aggressive stretching of the toes"
+    ],
+    "answer": 1,
+    "explanation": "Reduced sensation and slower healing in diabetic neuropathy call for gentler technique and careful skin inspection."
+  },
+  {
+    "q": "Which best describes a herniated (slipped) disc?",
+    "options": [
+      "A bacterial infection of the spine",
+      "Displacement of intervertebral disc material that may compress a nearby nerve root",
+      "A fracture of a vertebral body",
+      "An autoimmune reaction affecting spinal joints"
+    ],
+    "answer": 1,
+    "explanation": "A herniated disc involves the inner disc material bulging or rupturing outward, which can press on spinal nerves and cause radiating pain."
+  },
+  {
+    "q": "Sciatica refers to:",
+    "options": [
+      "A type of fungal skin infection",
+      "Pain radiating along the sciatic nerve's path, often from lower back to leg",
+      "Inflammation of the sciatic bursa only",
+      "A joint condition of the hip"
+    ],
+    "answer": 1,
+    "explanation": "Sciatica describes nerve pain along the sciatic nerve distribution, often from nerve root irritation or piriformis compression."
+  },
+  {
+    "q": "Bursitis is best described as:",
+    "options": [
+      "Degeneration of a tendon over time",
+      "Inflammation of a bursa, the fluid-filled sac that reduces friction near a joint",
+      "A viral infection of a joint",
+      "A type of bone fracture"
+    ],
+    "answer": 1,
+    "explanation": "Bursitis is inflammation of a bursa, commonly from repetitive friction or trauma, causing localized pain and swelling."
+  },
+  {
+    "q": "Tendinitis (tendonitis) refers to:",
+    "options": [
+      "Chronic degeneration of tendon tissue without inflammation",
+      "Acute inflammation of a tendon, often from overuse",
+      "A bacterial infection of a joint",
+      "A ligament tear"
+    ],
+    "answer": 1,
+    "explanation": "Tendinitis is acute inflammation of a tendon; tendinosis, by contrast, refers to chronic degeneration without significant inflammation."
+  },
+  {
+    "q": "Carpal tunnel syndrome results from compression of which nerve?",
+    "options": [
+      "Radial nerve",
+      "Median nerve",
+      "Ulnar nerve",
+      "Musculocutaneous nerve"
+    ],
+    "answer": 1,
+    "explanation": "Carpal tunnel syndrome is caused by compression of the median nerve as it passes through the carpal tunnel of the wrist."
+  },
+  {
+    "q": "Plantar fasciitis is best described as:",
+    "options": [
+      "Inflammation of the plantar fascia on the sole of the foot, often causing heel pain",
+      "A fungal infection of the foot",
+      "A fracture of the calcaneus",
+      "Inflammation of the Achilles tendon"
+    ],
+    "answer": 0,
+    "explanation": "Plantar fasciitis involves irritation and inflammation of the plantar fascia, classically causing heel pain worst with the first steps in the morning."
+  },
+  {
+    "q": "Gout is best classified as:",
+    "options": [
+      "A type of bacterial arthritis",
+      "A form of arthritis caused by uric acid crystal deposits in a joint",
+      "A viral joint infection",
+      "An autoimmune connective tissue disease"
+    ],
+    "answer": 1,
+    "explanation": "Gout results from excess uric acid forming sharp crystals in a joint, most classically the big toe, causing sudden, intense pain."
+  },
+  {
+    "q": "Which best distinguishes rheumatoid arthritis from osteoarthritis?",
+    "options": [
+      "RA is an autoimmune condition causing joint inflammation; OA is degenerative wear-and-tear of cartilage",
+      "RA only affects the spine; OA only affects the hands",
+      "OA is autoimmune; RA is degenerative",
+      "There is no meaningful difference between the two"
+    ],
+    "answer": 0,
+    "explanation": "RA is a systemic autoimmune disease attacking joint linings; OA is localized cartilage breakdown from wear and aging."
+  },
+  {
+    "q": "A client with an active rheumatoid arthritis flare in one wrist should generally receive:",
+    "options": [
+      "Deep, vigorous massage directly on the inflamed joint",
+      "A full-body massage, avoiding the acutely inflamed joint locally",
+      "No massage anywhere on the body under any circumstances",
+      "Ice and forceful mobilization of the joint"
+    ],
+    "answer": 1,
+    "explanation": "The inflamed joint is a local contraindication during a flare, while the rest of the body can typically still be worked."
+  },
+  {
+    "q": "Whiplash is best described as:",
+    "options": [
+      "A fracture of the cervical vertebrae",
+      "A soft tissue injury to the neck from rapid back-and-forth motion, often from a car accident",
+      "A chronic autoimmune neck condition",
+      "A contagious viral infection of the neck muscles"
+    ],
+    "answer": 1,
+    "explanation": "Whiplash is a soft tissue (muscle/ligament) strain or sprain injury from sudden acceleration-deceleration forces on the neck."
+  },
+  {
+    "q": "Which of the following best describes a \"special population\" consideration in massage practice?",
+    "options": [
+      "A category referring only to professional athletes",
+      "A group of clients (e.g., pregnant clients, infants, elderly, oncology clients) who require modified technique or additional precautions",
+      "A term with no practical application",
+      "A group of clients who should never receive massage"
+    ],
+    "answer": 1,
+    "explanation": "Special populations require adapted technique, positioning, or precautions rather than standard protocols."
+  },
+  {
+    "q": "Which best describes appropriate caution when working with a client who has a pacemaker?",
+    "options": [
+      "No precautions are needed",
+      "Avoid strong electrical modalities near the device and use standard caution around the chest area",
+      "Refuse service entirely",
+      "Only use extremely deep pressure over the device"
+    ],
+    "answer": 1,
+    "explanation": "While manual massage itself is typically fine, caution is used near the device, and electrical modalities may need to be avoided."
+  },
+  {
+    "q": "A client discloses they are currently undergoing chemotherapy. Which consideration is most appropriate?",
+    "options": [
+      "Standard massage with no modification is always appropriate",
+      "Reduced pressure, shorter sessions, and awareness of fatigue, low blood counts, and skin sensitivity, ideally with medical team input",
+      "Massage is always completely contraindicated during chemotherapy",
+      "Only the face may be massaged during chemotherapy"
+    ],
+    "answer": 1,
+    "explanation": "Chemotherapy affects blood counts, skin, and energy levels — gentler, modified sessions with medical coordination are appropriate."
+  },
+  {
+    "q": "Which of the following is generally an indication (not a contraindication) for massage?",
+    "options": [
+      "Fever with chills",
+      "Chronic, stable low back tension without red flags",
+      "Active untreated cellulitis",
+      "Suspected deep vein thrombosis"
+    ],
+    "answer": 1,
+    "explanation": "Ordinary chronic muscular tension without red-flag signs is a classic, appropriate indication for massage."
+  },
+  {
+    "q": "What does the term \"indicated\" mean in the context of massage and pathology?",
+    "options": [
+      "The condition is a reason to avoid massage entirely",
+      "The condition is generally appropriate for massage and may benefit from it",
+      "The condition requires emergency medical care",
+      "The condition is always fatal"
+    ],
+    "answer": 1,
+    "explanation": "\"Indicated\" means massage is generally appropriate and potentially beneficial for that condition."
+  },
+  {
+    "q": "What does the term \"contraindicated\" mean in the context of massage and pathology?",
+    "options": [
+      "The condition is a reason massage should be modified or avoided, locally or systemically",
+      "The condition is a reason to schedule more frequent sessions",
+      "The condition guarantees a full recovery from massage",
+      "The condition has no bearing on treatment decisions"
+    ],
+    "answer": 0,
+    "explanation": "\"Contraindicated\" signals that massage, locally or entirely, should be avoided due to risk."
+  },
+  {
+    "q": "A client with well-controlled asthma who has their inhaler present is generally:",
+    "options": [
+      "Not a candidate for massage under any circumstances",
+      "An appropriate candidate for massage, with standard positioning considerations for breathing comfort",
+      "Only allowed massage while lying flat on their back",
+      "Required to avoid all sessions for a full year after diagnosis"
+    ],
+    "answer": 1,
+    "explanation": "Controlled asthma is generally compatible with massage; positioning may need slight adjustment for breathing comfort."
+  },
+  {
+    "q": "Chronic obstructive pulmonary disease (COPD) clients receiving massage should generally be approached with:",
+    "options": [
+      "No special consideration whatsoever",
+      "Caution and positioning that supports easier breathing, often with a slightly elevated upper body",
+      "Aggressive percussion directly over the lungs regardless of comfort",
+      "Complete avoidance of any massage indefinitely"
+    ],
+    "answer": 1,
+    "explanation": "COPD clients often breathe easier in a semi-reclined position; chest percussion may need to be modified based on comfort and physician guidance."
+  },
+  {
+    "q": "Which of the following best distinguishes acute inflammation from chronic inflammation for massage decision-making?",
+    "options": [
+      "Acute inflammation is always safe to massage directly; chronic never is",
+      "Acute inflammation (heat, redness, swelling, recent onset) generally calls for avoiding the area; chronic, stable inflammation may tolerate gentle work",
+      "There is no difference between the two for massage purposes",
+      "Chronic inflammation always requires ice, never massage"
+    ],
+    "answer": 1,
+    "explanation": "Acute, actively inflamed tissue is typically avoided locally, while chronic, stable conditions may be gently worked with appropriate modification."
+  },
+  {
+    "q": "A client reports a fever of 101°F (38.3°C) the day of their appointment. The appropriate action is to:",
+    "options": [
+      "Proceed with a lighter-pressure massage",
+      "Reschedule the appointment, since fever is a systemic contraindication",
+      "Only massage the feet",
+      "Give the client medication before proceeding"
+    ],
+    "answer": 1,
+    "explanation": "Fever signals the body may be fighting a systemic infection or illness — massage should be postponed."
+  },
+  {
+    "q": "Which best describes the primary risk of massaging a client with an active systemic (whole-body) infection?",
+    "options": [
+      "The therapist can catch the pathogen, and massage may accelerate its spread through the client's body",
+      "There is no risk at all",
+      "Only aesthetic or cosmetic concerns exist",
+      "It only affects the affected area, never the whole body"
+    ],
+    "answer": 0,
+    "explanation": "Systemic infection means the pathogen is circulating; massage's effect on circulation could worsen spread, and there is also cross-contamination risk to the therapist."
+  },
+  {
+    "q": "Varicose veins are best described as:",
+    "options": [
+      "Arteries that have become blocked with plaque",
+      "Veins that have become enlarged and twisted due to valve dysfunction, causing blood to pool",
+      "A type of blood clot in an artery",
+      "A contagious skin condition"
+    ],
+    "answer": 1,
+    "explanation": "Varicose veins occur when venous valves fail, allowing blood to pool and the vein to stretch and twist — direct deep pressure over them is avoided."
+  },
+  {
+    "q": "Direct, deep pressure is generally avoided over varicose veins primarily because of the risk of:",
+    "options": [
+      "Spreading a contagious infection",
+      "Dislodging a clot or damaging the fragile, weakened vein wall",
+      "Increasing the client's blood pressure permanently",
+      "Triggering an allergic reaction"
+    ],
+    "answer": 1,
+    "explanation": "Weakened, distended vein walls near varicosities are more vulnerable to injury or clot disruption under deep pressure."
+  },
+  {
+    "q": "An aneurysm is best described as:",
+    "options": [
+      "A localized, abnormal bulging or ballooning of a blood vessel wall",
+      "A type of skin rash",
+      "An inflamed lymph node",
+      "A fungal infection of the blood"
+    ],
+    "answer": 0,
+    "explanation": "An aneurysm is a weakened, ballooning section of a vessel wall — deep pressure near a known aneurysm is contraindicated due to rupture risk."
+  },
+  {
+    "q": "Atherosclerosis is best defined as:",
+    "options": [
+      "Loss of bone density over time",
+      "The buildup of fatty plaque within artery walls, narrowing the vessel",
+      "A viral infection of the heart",
+      "An autoimmune attack on cartilage"
+    ],
+    "answer": 1,
+    "explanation": "Atherosclerosis is plaque buildup in arteries, which can restrict blood flow and increase cardiovascular risk."
+  },
+  {
+    "q": "Which of the following is generally true regarding massage and a client with well-controlled hypertension?",
+    "options": [
+      "Massage is always contraindicated",
+      "Massage is generally appropriate and may even help lower blood pressure temporarily",
+      "Only the legs may be massaged",
+      "The client must stop all blood pressure medication before the session"
+    ],
+    "answer": 1,
+    "explanation": "Controlled hypertension is generally compatible with massage, which may have mild, temporary blood-pressure-lowering effects."
+  },
+  {
+    "q": "Uncontrolled, severe hypertension (dangerously high blood pressure) should be treated as:",
+    "options": [
+      "No concern at all",
+      "A caution requiring gentler technique and possibly physician input, given cardiovascular risk",
+      "An automatic reason to perform only deep tissue work",
+      "A purely cosmetic issue"
+    ],
+    "answer": 1,
+    "explanation": "Severe or uncontrolled hypertension raises cardiovascular risk, so caution, gentler technique, and medical coordination are appropriate."
+  },
+  {
+    "q": "Which best describes edema as it relates to massage decision-making?",
+    "options": [
+      "It is always contraindicated regardless of cause",
+      "Its cause must be considered — cardiac, renal, or hepatic-related edema needs medical clearance, while simple local edema may be managed with light technique",
+      "It is never a concern for massage therapists",
+      "It is exclusively a cosmetic issue"
+    ],
+    "answer": 1,
+    "explanation": "The underlying cause of edema determines whether massage is safe or requires medical clearance."
+  },
+  {
+    "q": "Non-pitting edema, which does not leave an indentation when pressed, is most associated with which condition?",
+    "options": [
+      "Simple bruising",
+      "Lymphedema",
+      "A common cold",
+      "Osteoarthritis"
+    ],
+    "answer": 1,
+    "explanation": "Lymphedema classically produces non-pitting edema due to protein-rich fluid accumulation from impaired lymphatic drainage."
+  },
+  {
+    "q": "Which best explains why lymphedema requires specialized technique rather than general massage?",
+    "options": [
+      "Lymphedema has no relationship to the lymphatic system",
+      "Standard techniques can worsen swelling; specialized manual lymphatic drainage technique and physician involvement are required",
+      "Lymphedema is contagious",
+      "Lymphedema always requires amputation"
+    ],
+    "answer": 1,
+    "explanation": "Lymphedema involves impaired lymphatic drainage — only specially trained technique, and often physician oversight, is appropriate."
+  },
+  {
+    "q": "A client mentions they were recently in a car accident and have an unhealed, undiagnosed injury. The appropriate response is:",
+    "options": [
+      "Proceed with a full massage using standard pressure",
+      "Refer the client to a physician for evaluation before providing massage",
+      "Apply ice directly to the injury and continue the session",
+      "Ignore the statement and proceed as usual"
+    ],
+    "answer": 1,
+    "explanation": "An undiagnosed, potentially unhealed injury should be medically evaluated before massage to rule out fracture or other serious injury."
+  },
+  {
+    "q": "Which best describes an appropriate response to a client presenting with an unhealed fracture?",
+    "options": [
+      "Massage the area directly with light pressure",
+      "Avoid the area entirely until the fracture is healed and cleared by a physician",
+      "Apply deep pressure to stimulate healing",
+      "There is no concern, since bones cannot be damaged further by massage"
+    ],
+    "answer": 1,
+    "explanation": "Unhealed fractures are a contraindication at the site until medically cleared."
+  },
+  {
+    "q": "Which is the most appropriate way to identify potential contraindications before a massage session begins?",
+    "options": [
+      "Skip intake and begin the session immediately",
+      "Conduct a thorough health history intake and verbal consultation with the client",
+      "Rely solely on visual assessment",
+      "Only ask about contraindications if the client mentions a problem first"
+    ],
+    "answer": 1,
+    "explanation": "A thorough intake (health history plus verbal consultation) is the primary tool for identifying contraindications before treatment."
+  },
+  {
+    "q": "If a therapist is uncertain whether a client's condition is safe for massage, the best course of action is to:",
+    "options": [
+      "Proceed anyway and hope for the best",
+      "Contact or refer the client to their physician for clearance before proceeding",
+      "Cancel all future appointments with that client",
+      "Ask a family member for medical advice"
+    ],
+    "answer": 1,
+    "explanation": "When in doubt, seeking physician clearance is the safe, professional standard of practice."
+  },
+  {
+    "q": "Which best summarizes the overall approach to pathology and contraindications in professional massage practice?",
+    "options": [
+      "Always avoid any client with any medical history",
+      "Assess whether a condition is local or systemic, understand its risk (infection, clotting, fragile tissue), and modify or refer accordingly",
+      "Never ask about medical history to avoid liability",
+      "Treat every condition identically regardless of type"
+    ],
+    "answer": 1,
+    "explanation": "Careful, condition-specific assessment — not blanket avoidance or blanket treatment — is the professional standard."
   }
 ]

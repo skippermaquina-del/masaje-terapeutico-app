@@ -1,122 +1,1102 @@
 [
   {
     "q": "Joints can be classified by structure and by:",
-    "options": ["Color", "Function (amount of movement)", "Size only", "Age of the client"],
+    "options": [
+      "Color",
+      "Function (amount of movement)",
+      "Size only",
+      "Age of the client"
+    ],
     "answer": 1,
     "explanation": "Joints are classified both structurally (connecting material) and functionally (amount of movement)."
   },
   {
     "q": "Sutures between the bones of the skull are an example of which structural joint type?",
-    "options": ["Cartilaginous", "Synovial", "Fibrous", "Diarthrotic"],
+    "options": [
+      "Cartilaginous",
+      "Synovial",
+      "Fibrous",
+      "Diarthrotic"
+    ],
     "answer": 2,
     "explanation": "Skull sutures are fibrous joints, connected by dense connective tissue."
   },
   {
     "q": "Most fibrous joints are functionally classified as:",
-    "options": ["Diarthrosis", "Amphiarthrosis", "Synarthrosis", "Synovial"],
+    "options": [
+      "Diarthrosis",
+      "Amphiarthrosis",
+      "Synarthrosis",
+      "Synovial"
+    ],
     "answer": 2,
     "explanation": "Most fibrous joints are immovable (synarthrosis)."
   },
   {
     "q": "The radioulnar and tibiofibular joints are structurally fibrous but functionally classified as:",
-    "options": ["Synarthrosis", "Amphiarthrosis", "Diarthrosis", "Synovial"],
+    "options": [
+      "Synarthrosis",
+      "Amphiarthrosis",
+      "Diarthrosis",
+      "Synovial"
+    ],
     "answer": 1,
     "explanation": "These are a notable exception — fibrous structure but slightly movable (amphiarthrosis) function."
   },
   {
     "q": "Intervertebral discs and the pubic symphysis are examples of which structural joint type?",
-    "options": ["Fibrous", "Cartilaginous", "Synovial", "Gliding"],
+    "options": [
+      "Fibrous",
+      "Cartilaginous",
+      "Synovial",
+      "Gliding"
+    ],
     "answer": 1,
     "explanation": "These joints are connected by cartilage, making them cartilaginous joints."
   },
   {
     "q": "Cartilaginous joints are typically functionally classified as:",
-    "options": ["Synarthrosis", "Amphiarthrosis", "Diarthrosis", "Fibrous"],
+    "options": [
+      "Synarthrosis",
+      "Amphiarthrosis",
+      "Diarthrosis",
+      "Fibrous"
+    ],
     "answer": 1,
     "explanation": "Cartilaginous joints generally allow slight movement (amphiarthrosis)."
   },
   {
     "q": "All synovial joints are functionally classified as:",
-    "options": ["Synarthrosis", "Amphiarthrosis", "Diarthrosis", "None of the above"],
+    "options": [
+      "Synarthrosis",
+      "Amphiarthrosis",
+      "Diarthrosis",
+      "None of the above"
+    ],
     "answer": 2,
     "explanation": "Synovial joints are freely movable, making them diarthrosis."
   },
   {
     "q": "Which synovial joint type is exemplified by the shoulder and hip?",
-    "options": ["Hinge", "Pivot", "Ball-and-socket", "Gliding"],
+    "options": [
+      "Hinge",
+      "Pivot",
+      "Ball-and-socket",
+      "Gliding"
+    ],
     "answer": 2,
     "explanation": "Ball-and-socket joints, like the shoulder and hip, allow movement in all planes."
   },
   {
     "q": "Which synovial joint type allows only flexion and extension?",
-    "options": ["Ball-and-socket", "Saddle", "Hinge", "Condyloid"],
+    "options": [
+      "Ball-and-socket",
+      "Saddle",
+      "Hinge",
+      "Condyloid"
+    ],
     "answer": 2,
     "explanation": "Hinge joints, like the elbow and knee, allow only flexion/extension."
   },
   {
     "q": "The wrist (radiocarpal joint) is an example of which synovial joint type?",
-    "options": ["Ball-and-socket", "Condyloid (ellipsoidal)", "Pivot", "Saddle"],
+    "options": [
+      "Ball-and-socket",
+      "Condyloid (ellipsoidal)",
+      "Pivot",
+      "Saddle"
+    ],
     "answer": 1,
     "explanation": "The radiocarpal joint is condyloid, allowing flexion/extension and abduction/adduction but not rotation."
   },
   {
     "q": "The base of the thumb (carpometacarpal joint) is a classic example of which joint type?",
-    "options": ["Hinge", "Pivot", "Saddle", "Gliding"],
+    "options": [
+      "Hinge",
+      "Pivot",
+      "Saddle",
+      "Gliding"
+    ],
     "answer": 2,
     "explanation": "The thumb's CMC joint is a saddle joint, allowing multiple planes of movement."
   },
   {
     "q": "The joint between the atlas (C1) and axis (C2), allowing head rotation, is an example of a:",
-    "options": ["Hinge joint", "Pivot joint", "Ball-and-socket joint", "Condyloid joint"],
+    "options": [
+      "Hinge joint",
+      "Pivot joint",
+      "Ball-and-socket joint",
+      "Condyloid joint"
+    ],
     "answer": 1,
     "explanation": "The atlantoaxial joint is a pivot joint, allowing rotation around a single axis."
   },
   {
     "q": "Which synovial joint type allows short sliding or twisting movements, as seen between carpal bones?",
-    "options": ["Hinge", "Saddle", "Gliding (plane)", "Ball-and-socket"],
+    "options": [
+      "Hinge",
+      "Saddle",
+      "Gliding (plane)",
+      "Ball-and-socket"
+    ],
     "answer": 2,
     "explanation": "Gliding (plane) joints allow small sliding/twisting movements, as seen between carpal bones."
   },
   {
     "q": "Which joint in the body has the greatest range of motion?",
-    "options": ["The knee", "The elbow", "The shoulder", "The wrist"],
+    "options": [
+      "The knee",
+      "The elbow",
+      "The shoulder",
+      "The wrist"
+    ],
     "answer": 2,
     "explanation": "The shoulder, a ball-and-socket joint, has the greatest range of motion of any joint."
   },
   {
     "q": "Why is the shoulder also the most frequently dislocated major joint?",
-    "options": ["It has the least range of motion", "Its high mobility comes with reduced inherent stability", "It's a hinge joint with limited movement", "It's not a synovial joint"],
+    "options": [
+      "It has the least range of motion",
+      "Its high mobility comes with reduced inherent stability",
+      "It's a hinge joint with limited movement",
+      "It's not a synovial joint"
+    ],
     "answer": 1,
     "explanation": "The shoulder's extensive range of motion trades off against joint stability, increasing dislocation risk."
   },
   {
     "q": "When assessing range of motion at a hinge joint like the elbow, what should be evaluated?",
-    "options": ["Full rotation and all planes", "Only flexion and extension", "Only abduction/adduction", "Circumduction primarily"],
+    "options": [
+      "Full rotation and all planes",
+      "Only flexion and extension",
+      "Only abduction/adduction",
+      "Circumduction primarily"
+    ],
     "answer": 1,
     "explanation": "Since hinge joints only allow flexion/extension, that's the appropriate scope of ROM assessment there."
   },
   {
     "q": "A synovial joint is structurally defined by having:",
-    "options": ["Direct bone-to-bone fibrous connection", "A fluid-filled joint cavity with capsule and synovial membrane", "Only cartilage connecting the bones", "No cartilage anywhere in the joint"],
+    "options": [
+      "Direct bone-to-bone fibrous connection",
+      "A fluid-filled joint cavity with capsule and synovial membrane",
+      "Only cartilage connecting the bones",
+      "No cartilage anywhere in the joint"
+    ],
     "answer": 1,
     "explanation": "Synovial joints have a fluid-filled cavity surrounded by a joint capsule and synovial membrane."
   },
   {
     "q": "Metacarpophalangeal (knuckle) joints are best classified as:",
-    "options": ["Hinge joints", "Condyloid joints", "Pivot joints", "Saddle joints"],
+    "options": [
+      "Hinge joints",
+      "Condyloid joints",
+      "Pivot joints",
+      "Saddle joints"
+    ],
     "answer": 1,
     "explanation": "MCP joints are condyloid, allowing flexion/extension and abduction/adduction but not rotation."
   },
   {
     "q": "The proximal radioulnar joint, allowing forearm rotation, is classified as a:",
-    "options": ["Hinge joint", "Ball-and-socket joint", "Pivot joint", "Gliding joint"],
+    "options": [
+      "Hinge joint",
+      "Ball-and-socket joint",
+      "Pivot joint",
+      "Gliding joint"
+    ],
     "answer": 2,
     "explanation": "The proximal radioulnar joint is a pivot joint, allowing rotational movement (pronation/supination)."
   },
   {
     "q": "Which best summarizes the relationship between structural and functional joint classification?",
-    "options": ["They are unrelated and never overlap", "They generally correlate, but there are notable exceptions like the radioulnar joint", "Functional classification only applies to synovial joints", "Structural classification is the only one used clinically"],
+    "options": [
+      "They are unrelated and never overlap",
+      "They generally correlate, but there are notable exceptions like the radioulnar joint",
+      "Functional classification only applies to synovial joints",
+      "Structural classification is the only one used clinically"
+    ],
     "answer": 1,
     "explanation": "Structure generally predicts function, but exceptions (like the fibrous-yet-amphiarthrotic radioulnar joint) exist and are commonly tested."
+  },
+  {
+    "q": "Which structural joint type is a tooth held in its socket (gomphosis) classified as?",
+    "options": [
+      "Synovial",
+      "Cartilaginous",
+      "Fibrous",
+      "Symphysis"
+    ],
+    "answer": 2,
+    "explanation": "A gomphosis (tooth-in-socket, held by the periodontal ligament) is a specialized fibrous joint."
+  },
+  {
+    "q": "Functionally, a gomphosis (tooth in its socket) is classified as a:",
+    "options": [
+      "Diarthrosis",
+      "Amphiarthrosis",
+      "Synarthrosis",
+      "Symphysis"
+    ],
+    "answer": 2,
+    "explanation": "Gomphoses are immovable — synarthrosis."
+  },
+  {
+    "q": "The distal tibiofibular joint, connected by an interosseous ligament, is structurally classified as a:",
+    "options": [
+      "Synovial gliding joint",
+      "Fibrous syndesmosis",
+      "Cartilaginous symphysis",
+      "Fibrous suture"
+    ],
+    "answer": 1,
+    "explanation": "The distal tibiofibular joint is a fibrous syndesmosis, functionally amphiarthrotic."
+  },
+  {
+    "q": "Which joint type describes the connection formed by the interosseous membrane between the radius and ulna?",
+    "options": [
+      "Synchondrosis",
+      "Symphysis",
+      "Syndesmosis",
+      "Suture"
+    ],
+    "answer": 2,
+    "explanation": "The interosseous membrane forms a syndesmosis, a fibrous joint bound by connective tissue allowing slight movement."
+  },
+  {
+    "q": "The epiphyseal (growth) plate of a growing long bone is an example of which structural joint type?",
+    "options": [
+      "Symphysis",
+      "Synchondrosis",
+      "Syndesmosis",
+      "Diarthrosis"
+    ],
+    "answer": 1,
+    "explanation": "The epiphyseal plate is hyaline cartilage connecting bone segments — a synchondrosis, functionally synarthrotic until it ossifies."
+  },
+  {
+    "q": "Functionally, the epiphyseal plate is classified as a:",
+    "options": [
+      "Synarthrosis",
+      "Amphiarthrosis",
+      "Diarthrosis",
+      "Symphysis"
+    ],
+    "answer": 0,
+    "explanation": "Though cartilaginous, the growth plate is functionally immovable — synarthrosis."
+  },
+  {
+    "q": "The joint between the first rib and the sternum (first sternocostal joint) is structurally a:",
+    "options": [
+      "Symphysis",
+      "Synchondrosis",
+      "Syndesmosis",
+      "Gliding synovial joint"
+    ],
+    "answer": 1,
+    "explanation": "The first sternocostal joint is a synchondrosis (hyaline cartilage), typically immovable."
+  },
+  {
+    "q": "The manubriosternal joint (sternal angle) is structurally classified as a:",
+    "options": [
+      "Synchondrosis",
+      "Symphysis",
+      "Gomphosis",
+      "Syndesmosis"
+    ],
+    "answer": 1,
+    "explanation": "The manubriosternal joint is a symphysis, a fibrocartilaginous joint allowing slight movement during breathing."
+  },
+  {
+    "q": "Which of the following is a symphysis?",
+    "options": [
+      "Skull suture",
+      "Pubic symphysis",
+      "Epiphyseal plate",
+      "Distal tibiofibular joint"
+    ],
+    "answer": 1,
+    "explanation": "The pubic symphysis is the classic example of a symphysis joint (fibrocartilage)."
+  },
+  {
+    "q": "Which structural joint category includes both synchondroses and symphyses?",
+    "options": [
+      "Fibrous",
+      "Cartilaginous",
+      "Synovial",
+      "Syndesmotic"
+    ],
+    "answer": 1,
+    "explanation": "Cartilaginous joints include synchondroses (hyaline cartilage) and symphyses (fibrocartilage)."
+  },
+  {
+    "q": "Which of the following joints is classified as a synovial gliding (plane) joint, NOT a fibrous joint?",
+    "options": [
+      "Distal tibiofibular joint",
+      "Proximal (superior) tibiofibular joint",
+      "Skull suture",
+      "Pubic symphysis"
+    ],
+    "answer": 1,
+    "explanation": "Unlike the distal tibiofibular joint (a fibrous syndesmosis), the proximal tibiofibular joint is a synovial plane joint."
+  },
+  {
+    "q": "All synovial joints share which structural feature?",
+    "options": [
+      "A joint cavity filled with synovial fluid",
+      "Direct bone-to-bone fusion",
+      "A layer of fibrocartilage between bones",
+      "No surrounding capsule"
+    ],
+    "answer": 0,
+    "explanation": "A fluid-filled joint cavity enclosed by a joint capsule is the defining feature of synovial joints."
+  },
+  {
+    "q": "The joint capsule of a synovial joint is composed of an outer fibrous layer and an inner:",
+    "options": [
+      "Periosteum",
+      "Synovial membrane",
+      "Hyaline cartilage layer",
+      "Bursa"
+    ],
+    "answer": 1,
+    "explanation": "The inner layer of the joint capsule is the synovial membrane, which secretes synovial fluid."
+  },
+  {
+    "q": "What is the primary function of synovial fluid?",
+    "options": [
+      "Deliver oxygen to bone",
+      "Lubricate the joint and nourish articular cartilage",
+      "Anchor tendons to bone",
+      "Generate new bone tissue"
+    ],
+    "answer": 1,
+    "explanation": "Synovial fluid reduces friction between articulating surfaces and nourishes the avascular articular cartilage."
+  },
+  {
+    "q": "The bone surfaces inside a synovial joint are covered by:",
+    "options": [
+      "Periosteum",
+      "Fibrocartilage",
+      "Hyaline (articular) cartilage",
+      "Elastic cartilage"
+    ],
+    "answer": 2,
+    "explanation": "Hyaline cartilage caps the articulating bone ends in a synovial joint, cushioning and reducing friction."
+  },
+  {
+    "q": "A fibrocartilage pad found inside certain synovial joints (e.g., the knee) that improves fit and shock absorption is called a:",
+    "options": [
+      "Bursa",
+      "Labrum",
+      "Meniscus",
+      "Ligament"
+    ],
+    "answer": 2,
+    "explanation": "Menisci are fibrocartilage discs found in the knee that deepen the joint fit and absorb shock."
+  },
+  {
+    "q": "A ring of fibrocartilage that deepens a ball-and-socket socket, found in the shoulder and hip, is called a:",
+    "options": [
+      "Meniscus",
+      "Labrum",
+      "Bursa",
+      "Synovial fold"
+    ],
+    "answer": 1,
+    "explanation": "The labrum (glenoid labrum in the shoulder, acetabular labrum in the hip) deepens the socket for greater stability."
+  },
+  {
+    "q": "A small fluid-filled sac that reduces friction between a tendon and bone near a joint is called a:",
+    "options": [
+      "Bursa",
+      "Labrum",
+      "Meniscus",
+      "Synovial villus"
+    ],
+    "answer": 0,
+    "explanation": "Bursae cushion and reduce friction between tendons, muscles, skin, and bone near joints."
+  },
+  {
+    "q": "Which synovial joint contains an articular disc that divides the joint cavity, allowing both hinge and gliding movements?",
+    "options": [
+      "Elbow",
+      "Temporomandibular joint (TMJ)",
+      "Hip",
+      "Wrist"
+    ],
+    "answer": 1,
+    "explanation": "The TMJ has a fibrocartilage articular disc, allowing it to combine hinge (opening/closing) and gliding (protrusion/retrusion) movement."
+  },
+  {
+    "q": "Besides the TMJ, which other joint contains an articular disc?",
+    "options": [
+      "Elbow",
+      "Sternoclavicular joint",
+      "Hip",
+      "Ankle"
+    ],
+    "answer": 1,
+    "explanation": "The sternoclavicular joint contains an articular disc that helps stabilize and cushion the joint."
+  },
+  {
+    "q": "Which synovial joint type allows movement in all planes plus rotation, making it the most mobile joint type?",
+    "options": [
+      "Hinge",
+      "Pivot",
+      "Ball-and-socket",
+      "Saddle"
+    ],
+    "answer": 2,
+    "explanation": "Ball-and-socket joints (shoulder, hip) allow flexion/extension, abduction/adduction, and rotation."
+  },
+  {
+    "q": "Which synovial joint type allows movement primarily in one plane only?",
+    "options": [
+      "Ball-and-socket",
+      "Hinge",
+      "Saddle",
+      "Condyloid"
+    ],
+    "answer": 1,
+    "explanation": "Hinge joints move in a single plane — flexion and extension only."
+  },
+  {
+    "q": "Which of the following is an example of a hinge joint?",
+    "options": [
+      "Shoulder",
+      "Interphalangeal joint",
+      "Wrist",
+      "Thumb carpometacarpal joint"
+    ],
+    "answer": 1,
+    "explanation": "The interphalangeal joints of the fingers and toes are hinge joints allowing only flexion/extension."
+  },
+  {
+    "q": "The knee joint is best classified functionally as which type of synovial joint (for exam purposes)?",
+    "options": [
+      "Ball-and-socket",
+      "Pivot",
+      "Hinge",
+      "Gliding"
+    ],
+    "answer": 2,
+    "explanation": "Although it has some rotational component, the knee is taught as a hinge joint, primarily allowing flexion/extension."
+  },
+  {
+    "q": "Which synovial joint type is limited to rotational movement around a single axis?",
+    "options": [
+      "Condyloid",
+      "Pivot",
+      "Saddle",
+      "Gliding"
+    ],
+    "answer": 1,
+    "explanation": "Pivot joints allow only rotation around a central axis."
+  },
+  {
+    "q": "Which of the following is a pivot joint?",
+    "options": [
+      "Elbow (humeroulnar)",
+      "Proximal radioulnar joint",
+      "Wrist (radiocarpal)",
+      "Knee"
+    ],
+    "answer": 1,
+    "explanation": "The proximal radioulnar joint is a pivot joint, allowing the radius to rotate around the ulna during pronation/supination."
+  },
+  {
+    "q": "The atlantoaxial joint (C1-C2) is classified as which synovial joint type?",
+    "options": [
+      "Hinge",
+      "Pivot",
+      "Saddle",
+      "Ball-and-socket"
+    ],
+    "answer": 1,
+    "explanation": "The atlantoaxial joint allows rotation of the head around the dens of the axis — a pivot joint."
+  },
+  {
+    "q": "Which synovial joint type allows movement in two planes (e.g., flexion/extension and abduction/adduction) but not rotation?",
+    "options": [
+      "Hinge",
+      "Condyloid",
+      "Pivot",
+      "Ball-and-socket"
+    ],
+    "answer": 1,
+    "explanation": "Condyloid (ellipsoid) joints allow biaxial movement without rotation."
+  },
+  {
+    "q": "The metacarpophalangeal (knuckle) joints are classified as which synovial joint type?",
+    "options": [
+      "Hinge",
+      "Condyloid",
+      "Saddle",
+      "Pivot"
+    ],
+    "answer": 1,
+    "explanation": "MCP joints are condyloid joints, allowing flexion/extension and abduction/adduction of the fingers."
+  },
+  {
+    "q": "Which synovial joint type has two saddle-shaped (concave-convex) surfaces fitting together?",
+    "options": [
+      "Saddle",
+      "Gliding",
+      "Hinge",
+      "Pivot"
+    ],
+    "answer": 0,
+    "explanation": "Saddle joints have reciprocally curved surfaces, like a rider sitting in a saddle."
+  },
+  {
+    "q": "The carpometacarpal joint of the thumb is what type of synovial joint?",
+    "options": [
+      "Hinge",
+      "Pivot",
+      "Saddle",
+      "Condyloid"
+    ],
+    "answer": 2,
+    "explanation": "This saddle joint gives the thumb its wide range of motion, including opposition."
+  },
+  {
+    "q": "Which synovial joint type allows only short gliding or twisting movements between relatively flat bone surfaces?",
+    "options": [
+      "Ball-and-socket",
+      "Gliding (plane)",
+      "Hinge",
+      "Pivot"
+    ],
+    "answer": 1,
+    "explanation": "Gliding (plane) joints have nearly flat surfaces that slide slightly against each other."
+  },
+  {
+    "q": "Which of the following is an example of a gliding (plane) joint?",
+    "options": [
+      "Hip",
+      "Intercarpal joints",
+      "Elbow",
+      "Shoulder"
+    ],
+    "answer": 1,
+    "explanation": "The joints between the carpal bones are gliding joints, allowing small sliding movements."
+  },
+  {
+    "q": "The acromioclavicular (AC) joint is classified as which synovial joint type?",
+    "options": [
+      "Saddle",
+      "Ball-and-socket",
+      "Gliding (plane)",
+      "Hinge"
+    ],
+    "answer": 2,
+    "explanation": "The AC joint is a small gliding joint between the acromion and the clavicle."
+  },
+  {
+    "q": "The facet (zygapophyseal) joints between vertebrae are classified as which synovial joint type?",
+    "options": [
+      "Pivot",
+      "Gliding (plane)",
+      "Hinge",
+      "Ball-and-socket"
+    ],
+    "answer": 1,
+    "explanation": "Facet joints are gliding joints, allowing small sliding movements between adjacent vertebrae."
+  },
+  {
+    "q": "Which of the following joint types is NOT capable of any rotation?",
+    "options": [
+      "Ball-and-socket",
+      "Saddle",
+      "Hinge",
+      "Pivot"
+    ],
+    "answer": 2,
+    "explanation": "Hinge joints move in a single plane (flexion/extension) only — no rotation."
+  },
+  {
+    "q": "Which synovial joint type is best described as triaxial (movement around three axes)?",
+    "options": [
+      "Hinge",
+      "Pivot",
+      "Ball-and-socket",
+      "Gliding"
+    ],
+    "answer": 2,
+    "explanation": "Ball-and-socket joints move around all three axes, making them triaxial."
+  },
+  {
+    "q": "A joint that moves around only one axis is described as:",
+    "options": [
+      "Nonaxial",
+      "Uniaxial",
+      "Biaxial",
+      "Triaxial"
+    ],
+    "answer": 1,
+    "explanation": "Hinge and pivot joints are uniaxial — movement occurs around a single axis."
+  },
+  {
+    "q": "Gliding (plane) joints are best described as:",
+    "options": [
+      "Uniaxial",
+      "Biaxial",
+      "Triaxial",
+      "Nonaxial"
+    ],
+    "answer": 3,
+    "explanation": "Gliding joints allow only small linear slides, not true rotation around an axis — they are considered nonaxial."
+  },
+  {
+    "q": "A biaxial joint allows movement around how many axes?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Zero"
+    ],
+    "answer": 1,
+    "explanation": "Biaxial joints (condyloid, saddle) move around two axes — e.g., flexion/extension plus abduction/adduction."
+  },
+  {
+    "q": "Why does a ball-and-socket joint sacrifice stability for mobility?",
+    "options": [
+      "It has the thickest joint capsule of any joint",
+      "Its shallow socket allows a wide range of motion but less bony support",
+      "It has no articular cartilage",
+      "It lacks a joint capsule"
+    ],
+    "answer": 1,
+    "explanation": "The shallow fit of a ball-and-socket joint (especially the shoulder) allows great mobility but relies more on soft tissue for stability."
+  },
+  {
+    "q": "Which is more stable but less mobile — the hip or the shoulder — and why?",
+    "options": [
+      "The shoulder, because of its deep socket",
+      "The hip, because its socket (acetabulum) is deeper and more enclosing",
+      "The hip, because it has no ligaments",
+      "The shoulder, because it has no cartilage"
+    ],
+    "answer": 1,
+    "explanation": "The hip's deeper acetabulum provides more bony stability than the shoulder's shallow glenoid fossa, at some cost to mobility."
+  },
+  {
+    "q": "When assessing active range of motion, the therapist is evaluating movement produced by:",
+    "options": [
+      "The therapist moving the client's joint",
+      "The client's own muscle contraction",
+      "Gravity alone",
+      "External resistance only"
+    ],
+    "answer": 1,
+    "explanation": "Active ROM is movement the client performs using their own muscles, with no assistance."
+  },
+  {
+    "q": "When assessing passive range of motion, the therapist is evaluating movement produced by:",
+    "options": [
+      "The client's own effort only",
+      "The therapist moving the joint while the client remains relaxed",
+      "Resistance applied against the client's movement",
+      "Gravity resisting the client's movement"
+    ],
+    "answer": 1,
+    "explanation": "Passive ROM is movement produced by an outside force (the therapist) while the client stays relaxed."
+  },
+  {
+    "q": "Resisted range of motion testing primarily assesses the integrity of:",
+    "options": [
+      "Ligaments",
+      "Joint capsule",
+      "Muscles and tendons",
+      "Bursae"
+    ],
+    "answer": 2,
+    "explanation": "Resisted ROM has the client contract a muscle against therapist resistance, testing muscle/tendon strength and pain response."
+  },
+  {
+    "q": "Why is it clinically useful to know a joint's structural and functional classification before a massage session?",
+    "options": [
+      "It has no practical use in massage therapy",
+      "It helps predict normal versus abnormal range of motion at that joint",
+      "It determines which lubricant to use",
+      "It is only relevant for physicians"
+    ],
+    "answer": 1,
+    "explanation": "Knowing a joint's type sets expectations for normal movement, helping the therapist recognize restriction or hypermobility."
+  },
+  {
+    "q": "Which of the following joints would you expect to have the LEAST range of motion during a massage assessment?",
+    "options": [
+      "Shoulder (ball-and-socket)",
+      "Skull suture (fibrous)",
+      "Hip (ball-and-socket)",
+      "Wrist (condyloid)"
+    ],
+    "answer": 1,
+    "explanation": "Skull sutures are synarthrotic (immovable) fibrous joints — no meaningful range of motion is expected."
+  },
+  {
+    "q": "Which factor does NOT typically limit range of motion at a synovial joint?",
+    "options": [
+      "Shape of the articulating bone surfaces",
+      "Ligament and joint capsule tightness",
+      "Muscle bulk or tightness",
+      "The color of the surrounding skin"
+    ],
+    "answer": 3,
+    "explanation": "Skin color has no bearing on joint mobility — bone shape, connective tissue, and muscle bulk are the real limiting factors."
+  },
+  {
+    "q": "Which joint classification system describes what material connects the bones?",
+    "options": [
+      "Functional",
+      "Structural",
+      "Kinematic",
+      "Physiological"
+    ],
+    "answer": 1,
+    "explanation": "Structural classification (fibrous, cartilaginous, synovial) is based on the connecting material."
+  },
+  {
+    "q": "Which joint classification system describes how much movement is allowed?",
+    "options": [
+      "Structural",
+      "Functional",
+      "Anatomical",
+      "Regional"
+    ],
+    "answer": 1,
+    "explanation": "Functional classification (synarthrosis, amphiarthrosis, diarthrosis) is based on the degree of movement."
+  },
+  {
+    "q": "Which of the following pairs correctly matches a structural joint type with its typical functional classification?",
+    "options": [
+      "Fibrous — diarthrosis",
+      "Cartilaginous — synarthrosis only",
+      "Synovial — diarthrosis",
+      "Synovial — synarthrosis"
+    ],
+    "answer": 2,
+    "explanation": "All synovial joints are functionally diarthrotic (freely movable)."
+  },
+  {
+    "q": "Which of these is the odd one out based on structural classification?",
+    "options": [
+      "Skull suture",
+      "Gomphosis (tooth socket)",
+      "Pubic symphysis",
+      "Distal tibiofibular joint"
+    ],
+    "answer": 2,
+    "explanation": "The pubic symphysis is cartilaginous; the others (suture, gomphosis, distal tibiofibular) are all fibrous joints."
+  },
+  {
+    "q": "Which of the following does NOT belong with the other three, based on structural classification?",
+    "options": [
+      "Pubic symphysis",
+      "Intervertebral disc",
+      "Manubriosternal joint",
+      "Elbow"
+    ],
+    "answer": 3,
+    "explanation": "The elbow is synovial; the other three are all cartilaginous (symphysis) joints."
+  },
+  {
+    "q": "All of the following are synovial joints EXCEPT:",
+    "options": [
+      "Knee",
+      "Hip",
+      "Pubic symphysis",
+      "Elbow"
+    ],
+    "answer": 2,
+    "explanation": "The pubic symphysis is a cartilaginous joint, not synovial."
+  },
+  {
+    "q": "All of the following are examples of hinge joints EXCEPT:",
+    "options": [
+      "Elbow",
+      "Knee",
+      "Interphalangeal joints",
+      "Wrist (radiocarpal)"
+    ],
+    "answer": 3,
+    "explanation": "The wrist (radiocarpal joint) is a condyloid joint, not a hinge joint."
+  },
+  {
+    "q": "All of the following are examples of gliding (plane) joints EXCEPT:",
+    "options": [
+      "Intercarpal joints",
+      "Facet joints of the spine",
+      "Acromioclavicular joint",
+      "Hip joint"
+    ],
+    "answer": 3,
+    "explanation": "The hip is a ball-and-socket joint, not a gliding joint."
+  },
+  {
+    "q": "Which joint allows flexion and extension of the head (nodding \"yes\")?",
+    "options": [
+      "Atlantoaxial joint",
+      "Atlantooccipital joint",
+      "Facet joints of C3-C7",
+      "Temporomandibular joint"
+    ],
+    "answer": 1,
+    "explanation": "The atlantooccipital joint (between the skull and C1) allows nodding flexion/extension."
+  },
+  {
+    "q": "Which joint allows rotation of the head (shaking \"no\")?",
+    "options": [
+      "Atlantooccipital joint",
+      "Atlantoaxial joint",
+      "Sternoclavicular joint",
+      "Facet joints of C3-C7"
+    ],
+    "answer": 1,
+    "explanation": "The atlantoaxial joint (C1-C2) allows the head to rotate around the dens of the axis."
+  },
+  {
+    "q": "The sacroiliac joint is best classified structurally as a:",
+    "options": [
+      "Fibrous joint only",
+      "Synovial joint with substantial ligamentous reinforcement",
+      "Pure cartilaginous joint",
+      "Pivot joint"
+    ],
+    "answer": 1,
+    "explanation": "The sacroiliac joint has synovial characteristics but is heavily reinforced by strong ligaments, limiting movement."
+  },
+  {
+    "q": "Functionally, the sacroiliac joint is best classified as a(n):",
+    "options": [
+      "Diarthrosis with wide range of motion",
+      "Amphiarthrosis with limited movement",
+      "Synarthrosis with no movement",
+      "Ball-and-socket joint"
+    ],
+    "answer": 1,
+    "explanation": "The sacroiliac joint allows only minimal gliding/rocking movement — functionally closer to amphiarthrotic despite synovial features."
+  },
+  {
+    "q": "Which joint type would most likely be involved in a case of \"frozen shoulder\" (adhesive capsulitis)?",
+    "options": [
+      "A fibrous joint",
+      "A cartilaginous joint",
+      "A synovial joint",
+      "A gomphosis"
+    ],
+    "answer": 2,
+    "explanation": "Adhesive capsulitis involves thickening and tightening of the synovial joint capsule at the shoulder."
+  },
+  {
+    "q": "The elbow joint (humeroulnar articulation) is classified as which synovial joint type?",
+    "options": [
+      "Pivot",
+      "Hinge",
+      "Saddle",
+      "Condyloid"
+    ],
+    "answer": 1,
+    "explanation": "The humeroulnar joint is a hinge joint, allowing flexion and extension only."
+  },
+  {
+    "q": "Which structure, found in synovial joints, secretes synovial fluid?",
+    "options": [
+      "Periosteum",
+      "Synovial membrane",
+      "Articular cartilage",
+      "Ligament"
+    ],
+    "answer": 1,
+    "explanation": "The synovial membrane lining the joint capsule secretes synovial fluid."
+  },
+  {
+    "q": "Which of the following best describes a ligament's role at a synovial joint?",
+    "options": [
+      "Connects muscle to bone",
+      "Connects bone to bone, providing stability",
+      "Lubricates the joint",
+      "Cushions the joint surfaces"
+    ],
+    "answer": 1,
+    "explanation": "Ligaments connect bone to bone and reinforce joint stability (tendons connect muscle to bone)."
+  },
+  {
+    "q": "Which term describes a joint injury involving overstretching or tearing of a ligament?",
+    "options": [
+      "Strain",
+      "Sprain",
+      "Subluxation",
+      "Dislocation"
+    ],
+    "answer": 1,
+    "explanation": "A sprain involves ligament damage; a strain involves muscle/tendon damage."
+  },
+  {
+    "q": "A joint injury in which the bone ends are partially and temporarily out of alignment is called a:",
+    "options": [
+      "Sprain",
+      "Subluxation",
+      "Strain",
+      "Ankylosis"
+    ],
+    "answer": 1,
+    "explanation": "A subluxation is a partial or temporary dislocation of a joint."
+  },
+  {
+    "q": "Complete and persistent displacement of a joint's bones from their normal position is called a:",
+    "options": [
+      "Subluxation",
+      "Dislocation",
+      "Sprain",
+      "Contracture"
+    ],
+    "answer": 1,
+    "explanation": "A full dislocation (luxation) is a complete separation of the articulating bone surfaces."
+  },
+  {
+    "q": "Stiffening or fixation of a joint, often from disease or surgery, is called:",
+    "options": [
+      "Ankylosis",
+      "Subluxation",
+      "Diarthrosis",
+      "Synarthrosis"
+    ],
+    "answer": 0,
+    "explanation": "Ankylosis is the abnormal stiffening/fusion of a joint that is normally mobile."
+  },
+  {
+    "q": "Which joint type would be expected to have extensive ligamentous and muscular reinforcement to compensate for a shallow bony fit?",
+    "options": [
+      "Hip",
+      "Shoulder",
+      "Knee (via ligaments, though it is not ball-and-socket)",
+      "Elbow"
+    ],
+    "answer": 1,
+    "explanation": "The shoulder's shallow glenoid fossa relies heavily on surrounding ligaments and muscles (rotator cuff) for stability."
+  },
+  {
+    "q": "Which of the following is true of fibrous joints in general?",
+    "options": [
+      "They always contain a joint cavity",
+      "They are connected by dense connective tissue with no joint cavity",
+      "They are the most mobile joint category",
+      "They always contain synovial fluid"
+    ],
+    "answer": 1,
+    "explanation": "Fibrous joints connect bones directly with dense connective tissue and lack a joint cavity."
+  },
+  {
+    "q": "Which of the following is true of cartilaginous joints in general?",
+    "options": [
+      "They are always freely movable",
+      "They are connected by cartilage and allow limited or no movement",
+      "They always contain synovial fluid",
+      "They are structurally identical to fibrous joints"
+    ],
+    "answer": 1,
+    "explanation": "Cartilaginous joints connect bones with hyaline cartilage or fibrocartilage and are generally synarthrotic or amphiarthrotic."
+  },
+  {
+    "q": "Which term best describes the two pubic bones' point of connection?",
+    "options": [
+      "Symphysis pubis",
+      "Acetabulum",
+      "Ischial tuberosity",
+      "Sacroiliac joint"
+    ],
+    "answer": 0,
+    "explanation": "The symphysis pubis (pubic symphysis) is the fibrocartilaginous joint connecting the two pubic bones."
+  },
+  {
+    "q": "During childbirth, hormonal changes can temporarily increase mobility at the:",
+    "options": [
+      "Elbow",
+      "Pubic symphysis and sacroiliac joints",
+      "Skull sutures",
+      "Wrist"
+    ],
+    "answer": 1,
+    "explanation": "The hormone relaxin loosens the pubic symphysis and sacroiliac ligaments to help widen the pelvis for delivery."
+  },
+  {
+    "q": "Which structural joint classification best describes the sutures found only in the skull?",
+    "options": [
+      "Synchondrosis",
+      "Suture (a type of fibrous joint)",
+      "Symphysis",
+      "Syndesmosis"
+    ],
+    "answer": 1,
+    "explanation": "Sutures are a fibrous joint subtype unique to the skull, becoming increasingly rigid (synarthrotic) with age."
+  },
+  {
+    "q": "In infants, the \"soft spots\" (fontanelles) on the skull are unfused areas of which joint type?",
+    "options": [
+      "Synovial",
+      "Sutures (fibrous)",
+      "Symphysis",
+      "Gomphosis"
+    ],
+    "answer": 1,
+    "explanation": "Fontanelles are membranous gaps between not-yet-fused cranial sutures, allowing the skull to flex during birth and brain growth."
+  },
+  {
+    "q": "Which of the following joints allows the greatest amount of multi-directional movement at the base of a digit?",
+    "options": [
+      "Interphalangeal joint of the thumb",
+      "Carpometacarpal joint of the thumb",
+      "Distal interphalangeal joint of a finger",
+      "Proximal interphalangeal joint of a finger"
+    ],
+    "answer": 1,
+    "explanation": "The saddle-shaped thumb CMC joint allows flexion/extension, abduction/adduction, and opposition — far more mobility than the finger's hinge joints."
+  },
+  {
+    "q": "Which best explains why interphalangeal joints of the fingers cannot rotate?",
+    "options": [
+      "They are pivot joints",
+      "They are hinge joints, uniaxial by structure",
+      "They are fused (ankylosed)",
+      "They lack synovial fluid"
+    ],
+    "answer": 1,
+    "explanation": "As hinge joints, interphalangeal joints are built to move in only one plane — flexion and extension."
+  },
+  {
+    "q": "Which synovial joint feature allows the radius to rotate around the ulna during pronation and supination?",
+    "options": [
+      "The saddle shape of the wrist joint",
+      "The pivot joints at the proximal and distal radioulnar joints",
+      "The hinge structure of the elbow",
+      "The ball-and-socket shape of the shoulder"
+    ],
+    "answer": 1,
+    "explanation": "Both the proximal and distal radioulnar joints are pivot joints, working together to rotate the radius around the ulna."
+  },
+  {
+    "q": "The distal radioulnar joint, like the proximal radioulnar joint, is classified as a:",
+    "options": [
+      "Hinge joint",
+      "Pivot joint",
+      "Saddle joint",
+      "Gliding joint"
+    ],
+    "answer": 1,
+    "explanation": "The distal radioulnar joint is also a pivot joint, completing forearm pronation/supination together with the proximal joint."
+  },
+  {
+    "q": "Overall, which statement best summarizes the six synovial joint subtypes?",
+    "options": [
+      "They all allow the exact same range of motion",
+      "They differ in shape, which determines the specific movements each allows",
+      "Only three of the six are found in the human body",
+      "They are classified by location, not by shape"
+    ],
+    "answer": 1,
+    "explanation": "Each synovial subtype (ball-and-socket, hinge, pivot, condyloid, saddle, gliding) has a distinct articulating-surface shape, which dictates its available movement."
   }
 ]
