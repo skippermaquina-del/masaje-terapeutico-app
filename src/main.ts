@@ -15,6 +15,7 @@ import {
 import { renderMarkdown } from "./lib/markdown";
 import type { TopicMeta } from "./lib/types";
 import { renderMindmap } from "./mindmap";
+import { renderProgressDashboard } from "./progressDashboard";
 import { renderQuiz } from "./quiz";
 
 const app = document.querySelector<HTMLDivElement>("#app")!;
@@ -38,19 +39,33 @@ const TABS: { id: Tab; label: string }[] = [
   { id: "chat", label: "Ask AI" },
 ];
 
-function parseHash(): { slug: string | null; tab: Tab } {
+function parseHash(): { slug: string | null; tab: Tab; progress: boolean } {
   const hash = location.hash.replace(/^#\/?/, "");
   const parts = hash.split("/").filter(Boolean);
+  if (parts[0] === "progress") {
+    return { slug: null, tab: "notes", progress: true };
+  }
   if (parts[0] === "topic" && parts[1]) {
     const tab = (parts[2] as Tab) || "notes";
-    return { slug: parts[1], tab: TABS.some((t) => t.id === tab) ? tab : "notes" };
+    return { slug: parts[1], tab: TABS.some((t) => t.id === tab) ? tab : "notes", progress: false };
   }
-  return { slug: null, tab: "notes" };
+  return { slug: null, tab: "notes", progress: false };
 }
 
 async function render(): Promise<void> {
-  const { slug, tab } = parseHash();
-  if (slug) {
+  const { slug, tab, progress } = parseHash();
+  if (progress) {
+    app.innerHTML = `
+      <header class="topbar">
+        <div>
+          <a class="muted" href="#/">&larr; Topics</a>
+          <h1>Progress Dashboard</h1>
+        </div>
+      </header>
+      <div id="progress-content"></div>
+    `;
+    await renderProgressDashboard(app.querySelector<HTMLElement>("#progress-content")!);
+  } else if (slug) {
     await renderTopicView(slug, tab);
   } else {
     await renderDashboard();
@@ -62,7 +77,7 @@ async function renderDashboard(): Promise<void> {
     <header class="topbar">
       <h1>Therapeutic Massage</h1>
     </header>
-    <p class="muted">Exam prep — one topic a day.</p>
+    <p class="muted">Exam prep — one topic a day. <a href="#/progress">View progress dashboard</a></p>
     <div class="topic-list" id="topic-list"></div>
   `;
 

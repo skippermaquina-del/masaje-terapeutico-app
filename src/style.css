@@ -333,3 +333,27 @@ audio {
   outline: 2px solid var(--accent);
   outline-offset: -1px;
 }
+
+.progress-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 0.75rem;
+  font-size: 0.9rem;
+}
+
+.progress-table th {
+  text-align: left;
+  color: var(--text-dim);
+  font-weight: 500;
+  padding: 0.4rem 0.5rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.progress-table td {
+  padding: 0.4rem 0.5rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.progress-table tr:last-child td {
+  border-bottom: none;
+}

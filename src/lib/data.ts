@@ -160,3 +160,31 @@ export async function getBestQuizResult(slug: string): Promise<QuizResult | null
   if (results.length === 0) return null;
   return results.reduce((best, r) => (r.score > best.score ? r : best));
 }
+
+export interface AllProgressRow {
+  userName: string;
+  topicSlug: string;
+  completed: boolean;
+  quizScore: number | null;
+  quizTotal: number | null;
+  updatedAt: string;
+}
+
+// Unlike the rest of this file, this pulls every user's rows — used only by
+// the progress dashboard, never by per-user views.
+export async function getAllProgress(): Promise<AllProgressRow[]> {
+  if (!supabase) return [];
+  const { data, error } = await supabase
+    .from("progress")
+    .select("user_name, topic_slug, completed, quiz_score, quiz_total, updated_at")
+    .order("user_name", { ascending: true });
+  if (error || !data) return [];
+  return data.map((r) => ({
+    userName: r.user_name as string,
+    topicSlug: r.topic_slug as string,
+    completed: r.completed as boolean,
+    quizScore: r.quiz_score as number | null,
+    quizTotal: r.quiz_total as number | null,
+    updatedAt: r.updated_at as string,
+  }));
+}
