@@ -369,3 +369,9 @@ audio {
 .coffee-btn:hover {
   border-color: #ffd166;
 }
+
+.tagline {
+  font-size: 1.05rem;
+  color: var(--text);
+  margin-bottom: 0.4rem;
+}
