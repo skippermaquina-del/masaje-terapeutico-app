@@ -161,6 +161,21 @@ export async function getBestQuizResult(slug: string): Promise<QuizResult | null
   return results.reduce((best, r) => (r.score > best.score ? r : best));
 }
 
+export async function submitFeedback(message: string, pageContext: string): Promise<boolean> {
+  if (!supabase) return false;
+  const userName = getUserName();
+  try {
+    const { error } = await supabase.from("feedback").insert({
+      user_name: userName,
+      message,
+      page_context: pageContext,
+    });
+    return !error;
+  } catch {
+    return false;
+  }
+}
+
 export interface AllProgressRow {
   userName: string;
   topicSlug: string;

@@ -521,3 +521,49 @@ audio {
     animation: none;
   }
 }
+
+.app-footer {
+  position: relative;
+  z-index: 1;
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border);
+}
+
+.feedback-widget summary {
+  cursor: pointer;
+  color: var(--text-dim);
+  font-size: 0.9rem;
+  user-select: none;
+}
+
+.feedback-widget[open] summary {
+  margin-bottom: 0.6rem;
+}
+
+.feedback-widget form {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  max-width: 480px;
+}
+
+.feedback-widget textarea {
+  background: var(--surface-hi);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 0.6rem 0.8rem;
+  color: var(--text);
+  font-family: inherit;
+  font-size: 0.9rem;
+  resize: vertical;
+}
+
+.feedback-widget textarea:focus {
+  outline: 2px solid var(--accent);
+  outline-offset: -1px;
+}
+
+.feedback-widget form .btn {
+  align-self: flex-start;
+}

@@ -1,6 +1,7 @@
 import "./style.css";
 import { renderAudio } from "./audio";
 import { renderChat } from "./chat";
+import { renderFeedbackWidget } from "./feedback";
 import { renderFlashcards } from "./flashcards";
 import { renderImages } from "./images";
 import {
@@ -70,6 +71,11 @@ async function render(): Promise<void> {
   } else {
     await renderDashboard();
   }
+
+  const footer = document.createElement("div");
+  footer.className = "app-footer";
+  app.appendChild(footer);
+  renderFeedbackWidget(footer, progress ? "progress" : slug ? `topic/${slug}/${tab}` : "dashboard");
 }
 
 async function renderDashboard(): Promise<void> {
