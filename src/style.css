@@ -375,3 +375,149 @@ audio {
   color: var(--text);
   margin-bottom: 0.4rem;
 }
+
+/* Animated gradient-mesh background (dashboard only) — pure CSS, no JS.
+   Blobs use mix-blend-mode: screen against the dark --bg, so they read as
+   soft glows rather than flat colored circles. */
+.mesh-bg {
+  position: fixed;
+  inset: 0;
+  overflow: hidden;
+  z-index: 0;
+  background: var(--bg);
+}
+
+.mesh-spin {
+  position: absolute;
+  inset: -25%;
+  animation: mesh-spin 40s linear infinite;
+}
+
+@keyframes mesh-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.mesh-blob {
+  position: absolute;
+  border-radius: 50%;
+  filter: blur(40px);
+  mix-blend-mode: screen;
+}
+
+.mesh-blob-1 {
+  width: 42vw;
+  height: 42vw;
+  top: 6%;
+  left: 10%;
+  background: radial-gradient(circle, #5fb0ff, transparent 70%);
+  animation: mesh-float-1 17s ease-in-out infinite;
+}
+
+.mesh-blob-2 {
+  width: 36vw;
+  height: 36vw;
+  top: 40%;
+  left: 55%;
+  background: radial-gradient(circle, #7bd88f, transparent 70%);
+  animation: mesh-float-2 21s ease-in-out infinite;
+}
+
+.mesh-blob-3 {
+  width: 30vw;
+  height: 30vw;
+  top: 60%;
+  left: 5%;
+  background: radial-gradient(circle, #4fa8a0, transparent 70%);
+  animation: mesh-float-3 19s ease-in-out infinite;
+}
+
+.mesh-blob-4 {
+  width: 34vw;
+  height: 34vw;
+  top: 5%;
+  left: 60%;
+  background: radial-gradient(circle, #3d7ab0, transparent 70%);
+  animation: mesh-float-4 23s ease-in-out infinite;
+}
+
+.mesh-blob-5 {
+  width: 26vw;
+  height: 26vw;
+  top: 65%;
+  left: 65%;
+  background: radial-gradient(circle, #6ee7b7, transparent 70%);
+  animation: mesh-float-5 16s ease-in-out infinite;
+}
+
+@keyframes mesh-float-1 {
+  0%,
+  100% {
+    transform: translate(0, 0) scale(1);
+  }
+  50% {
+    transform: translate(6%, 8%) scale(1.15);
+  }
+}
+
+@keyframes mesh-float-2 {
+  0%,
+  100% {
+    transform: translate(0, 0) scale(1);
+  }
+  50% {
+    transform: translate(-8%, 5%) scale(0.9);
+  }
+}
+
+@keyframes mesh-float-3 {
+  0%,
+  100% {
+    transform: translate(0, 0) scale(1);
+  }
+  50% {
+    transform: translate(5%, -7%) scale(1.1);
+  }
+}
+
+@keyframes mesh-float-4 {
+  0%,
+  100% {
+    transform: translate(0, 0) scale(1);
+  }
+  50% {
+    transform: translate(-6%, -6%) scale(1.2);
+  }
+}
+
+@keyframes mesh-float-5 {
+  0%,
+  100% {
+    transform: translate(0, 0) scale(1);
+  }
+  50% {
+    transform: translate(-9%, 4%) scale(0.85);
+  }
+}
+
+.mesh-veil {
+  position: absolute;
+  inset: 0;
+  background: rgba(18, 21, 26, 0.25);
+}
+
+.page-content {
+  position: relative;
+  z-index: 1;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .mesh-spin,
+  .mesh-blob {
+    animation: none;
+  }
+}

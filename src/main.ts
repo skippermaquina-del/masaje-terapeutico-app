@@ -74,13 +74,25 @@ async function render(): Promise<void> {
 
 async function renderDashboard(): Promise<void> {
   app.innerHTML = `
-    <header class="topbar">
-      <h1>Therapeutic Massage</h1>
-      <a class="btn coffee-btn" href="https://buymeacoffee.com/myomblex" target="_blank" rel="noopener">☕ Support this project</a>
-    </header>
-    <p class="tagline">Free MBLEx study tool — notes, flashcards, quizzes, and AI-powered help for every topic. Pick a topic below and start studying.</p>
-    <p class="muted">Exam prep — one topic a day. <a href="#/progress">View progress dashboard</a></p>
-    <div class="topic-list" id="topic-list"></div>
+    <div class="mesh-bg" aria-hidden="true">
+      <div class="mesh-spin">
+        <div class="mesh-blob mesh-blob-1"></div>
+        <div class="mesh-blob mesh-blob-2"></div>
+        <div class="mesh-blob mesh-blob-3"></div>
+        <div class="mesh-blob mesh-blob-4"></div>
+        <div class="mesh-blob mesh-blob-5"></div>
+      </div>
+      <div class="mesh-veil"></div>
+    </div>
+    <div class="page-content">
+      <header class="topbar">
+        <h1>Therapeutic Massage</h1>
+        <a class="btn coffee-btn" href="https://buymeacoffee.com/myomblex" target="_blank" rel="noopener">☕ Support this project</a>
+      </header>
+      <p class="tagline">Free MBLEx study tool — notes, flashcards, quizzes, and AI-powered help for every topic. Pick a topic below and start studying.</p>
+      <p class="muted">Exam prep — one topic a day. <a href="#/progress">View progress dashboard</a></p>
+      <div class="topic-list" id="topic-list"></div>
+    </div>
   `;
 
   const topics = await getTopics();
