@@ -357,3 +357,15 @@ audio {
 .progress-table tr:last-child td {
   border-bottom: none;
 }
+
+.coffee-btn {
+  background: #2d2517;
+  border-color: #5a4a24;
+  color: #ffd166;
+  font-size: 0.85rem;
+  text-decoration: none;
+}
+
+.coffee-btn:hover {
+  border-color: #ffd166;
+}

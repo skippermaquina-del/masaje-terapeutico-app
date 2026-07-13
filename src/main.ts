@@ -76,6 +76,7 @@ async function renderDashboard(): Promise<void> {
   app.innerHTML = `
     <header class="topbar">
       <h1>Therapeutic Massage</h1>
+      <a class="btn coffee-btn" href="https://buymeacoffee.com/myomblex" target="_blank" rel="noopener">☕ Support this project</a>
     </header>
     <p class="muted">Exam prep — one topic a day. <a href="#/progress">View progress dashboard</a></p>
     <div class="topic-list" id="topic-list"></div>
