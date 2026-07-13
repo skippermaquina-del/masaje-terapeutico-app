@@ -10,16 +10,33 @@ function shuffle<T>(arr: T[]): T[] {
   return copy;
 }
 
+interface InProgressQuiz {
+  order: number[];
+  pos: number;
+  correctCount: number;
+}
+
+// Switching tabs (e.g. to Ask AI and back) re-renders this view from
+// scratch, so in-progress position/score must live outside the function
+// closure or every tab switch would silently restart the quiz.
+const inProgress = new Map<string, InProgressQuiz>();
+
 export function renderQuiz(container: HTMLElement, slug: string, questions: Question[]): void {
   if (questions.length === 0) {
     container.innerHTML = `<p class="muted">No questions yet for this topic.</p>`;
     return;
   }
 
-  const order = shuffle(questions.map((_, i) => i));
-  let pos = 0;
-  let correctCount = 0;
+  const saved = inProgress.get(slug);
+  const resumable = saved && saved.order.length === questions.length;
+  const order = resumable ? saved!.order : shuffle(questions.map((_, i) => i));
+  let pos = resumable ? saved!.pos : 0;
+  let correctCount = resumable ? saved!.correctCount : 0;
   let answered = false;
+
+  function saveProgress(): void {
+    inProgress.set(slug, { order, pos, correctCount });
+  }
 
   function drawQuestion(): void {
     const q = questions[order[pos]];
@@ -58,6 +75,7 @@ export function renderQuiz(container: HTMLElement, slug: string, questions: Ques
       else if (idx === i) b.classList.add("incorrect");
     });
     if (i === q.answer) correctCount++;
+    saveProgress();
 
     const explEl = container.querySelector<HTMLElement>("#quiz-explanation")!;
     explEl.style.display = "block";
@@ -69,6 +87,7 @@ export function renderQuiz(container: HTMLElement, slug: string, questions: Ques
   function next(): void {
     pos++;
     answered = false;
+    saveProgress();
     if (pos >= order.length) {
       finish();
     } else {
@@ -77,6 +96,7 @@ export function renderQuiz(container: HTMLElement, slug: string, questions: Ques
   }
 
   function finish(): void {
+    inProgress.delete(slug);
     saveQuizResult({
       slug,
       date: new Date().toISOString(),
