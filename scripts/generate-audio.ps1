@@ -34,12 +34,66 @@ if (-not (Test-Path $audioDir)) {
     New-Item -ItemType Directory -Path $audioDir -Force | Out-Null
 }
 
-# Markdown -> texto plano simple: saca encabezados (#), listas (-, *) y
-# marcado (**bold**), para que la voz no lea simbolos.
-$raw = Get-Content -Path $mdPath -Raw
+# Markdown -> texto plano simple. Ademas de sacar encabezados (#), listas
+# (-, *) y marcado (**bold**/*italic*/`code`), convierte tablas en frases
+# habladas ("Columna: valor. Columna: valor.") en vez de leer los "|" y las
+# filas separadoras "|---|---|" literalmente (sonaba a "dash dash dash").
+$lines = Get-Content -Path $mdPath
+$converted = New-Object System.Collections.Generic.List[string]
+$tableHeader = $null
+$inTable = $false
+
+foreach ($line in $lines) {
+    $trimmed = $line.Trim()
+    $isSeparatorRow = $trimmed -match '^\|?[\s:|-]+\|?$' -and $trimmed -match '-'
+    $isTableRow = $trimmed.StartsWith('|')
+
+    if ($isTableRow -and $isSeparatorRow) {
+        continue
+    }
+
+    if ($isTableRow) {
+        $cells = $trimmed -replace '^\|', '' -replace '\|$', '' -split '\|' |
+            ForEach-Object { $_.Trim() }
+
+        if (-not $inTable) {
+            $tableHeader = $cells
+            $inTable = $true
+            continue
+        }
+
+        $parts = New-Object System.Collections.Generic.List[string]
+        for ($i = 0; $i -lt $cells.Count; $i++) {
+            $cell = $cells[$i]
+            if ([string]::IsNullOrWhiteSpace($cell) -or $cell -eq '-' -or $cell -eq '—') {
+                continue
+            }
+            $label = if ($i -lt $tableHeader.Count) { $tableHeader[$i] } else { $null }
+            if ($label) {
+                $parts.Add("$label`: $cell")
+            } else {
+                $parts.Add($cell)
+            }
+        }
+        if ($parts.Count -gt 0) {
+            $sentence = $parts -join '. '
+            if ($sentence -notmatch '[.!?]$') {
+                $sentence += '.'
+            }
+            $converted.Add($sentence)
+        }
+    } else {
+        $inTable = $false
+        $tableHeader = $null
+        $converted.Add($line)
+    }
+}
+
+$raw = $converted -join "`n"
 $text = $raw -replace '(?m)^#+\s*', '' `
              -replace '(?m)^[-*]\s*', '' `
              -replace '\*\*([^*]+)\*\*', '$1' `
+             -replace '\*([^*]+)\*', '$1' `
              -replace '`([^`]+)`', '$1'
 
 Add-Type -AssemblyName System.Speech

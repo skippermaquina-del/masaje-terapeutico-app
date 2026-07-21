@@ -1,5 +1,5 @@
 import "./style.css";
-import { renderAudio } from "./audio";
+import { renderAudioPlayer } from "./audio";
 import { renderChat } from "./chat";
 import { renderFeedbackWidget } from "./feedback";
 import { renderFlashcards } from "./flashcards";
@@ -29,14 +29,13 @@ if (!localStorage.getItem(USER_NAME_KEY)) {
   }
 }
 
-type Tab = "notes" | "flashcards" | "quiz" | "mindmap" | "images" | "audio" | "chat";
+type Tab = "notes" | "flashcards" | "quiz" | "mindmap" | "images" | "chat";
 const TABS: { id: Tab; label: string }[] = [
   { id: "notes", label: "Notes" },
   { id: "flashcards", label: "Flashcards" },
   { id: "quiz", label: "Quiz" },
   { id: "mindmap", label: "Mind Map" },
   { id: "images", label: "Images" },
-  { id: "audio", label: "Audio" },
   { id: "chat", label: "Ask AI" },
 ];
 
@@ -179,7 +178,8 @@ async function renderTopicView(slug: string, tab: Tab): Promise<void> {
     const loadNotes = async () => {
       contentEl.innerHTML = `<p class="muted">Loading...</p>`;
       const md = await getTopicNotes(slug, lang);
-      contentEl.innerHTML = `<div class="card notes">${renderMarkdown(md)}</div>
+      contentEl.innerHTML = `${renderAudioPlayer(slug, topic.hasAudio)}
+        <div class="card notes">${renderMarkdown(md)}</div>
         <button class="btn primary" id="mark-done">Mark topic as completed</button>`;
       contentEl.querySelector<HTMLButtonElement>("#mark-done")?.addEventListener("click", () => {
         markTopicCompleted(slug);
@@ -201,8 +201,6 @@ async function renderTopicView(slug: string, tab: Tab): Promise<void> {
       renderMindmap(contentEl, md);
     } else if (tab === "images") {
       await renderImages(contentEl, slug, topic.hasImages);
-    } else if (tab === "audio") {
-      renderAudio(contentEl, slug, topic.hasAudio);
     } else if (tab === "chat") {
       renderChat(contentEl, slug, topic.title);
     }
